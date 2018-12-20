@@ -2363,8 +2363,18 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.backdraft {
+                  background: url(/wp-content/uploads/2018/12/backdraft-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.battle-stars {
                   background: url(/wp-content/uploads/2018/12/battle-stars-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.beyond-poseidon {
+                  background: url(/wp-content/uploads/2018/12/beyond-poseidon-thumb.jpg);
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center center; }
@@ -2408,6 +2418,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.keep {
+                  background: url(/wp-content/uploads/2018/12/keep-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.king-kong-lives {
                   background: url(/wp-content/uploads/2018/12/king-kong-lives-thumb.jpg);
                   background-repeat: no-repeat;
@@ -2443,6 +2458,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.strike-commando {
+                  background: url(/wp-content/uploads/2018/12/strike-commando-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.they-live {
                   background: url(/wp-content/uploads/2018/12/they-live-thumb.jpg);
                   background-repeat: no-repeat;

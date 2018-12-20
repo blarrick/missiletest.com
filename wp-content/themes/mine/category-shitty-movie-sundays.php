@@ -54,10 +54,10 @@ get_header(); ?>
 			 	<li class="has-image battle-stars" onclick="location.href='/2017/07/16/battle-beyond-the-stars/';"><a href="/2017/07/16/battle-beyond-the-stars/">Battle Beyond the Stars</a></li>
 			 	<li class="has-image trancers" onclick="location.href='/2011/03/07/trancers/';"><a href="/2011/03/07/trancers/">Trancers</a></li>
 			 	<li class="has-image critters" onclick="location.href='/2013/10/23/critters/';"><a href="/2013/10/23/critters/">Critters</a></li>
-			 	<li><a href="/2014/10/04/keep/">The Keep</a></li>
-			 	<li><a href="/2017/07/02/beyond-the-poseidon-adventure/">Beyond the Poseidon Adventure</a></li>
-			 	<li><a href="/2018/01/21/strike-commando/">Strike Commando</a></li>
-			 	<li><a href="/2012/09/10/backdraft/">Backdraft</a></li>
+			 	<li class="has-image keep" onclick="location.href='/2014/10/04/keep/';"><a href="/2014/10/04/keep/">The Keep</a></li>
+			 	<li class="has-image beyond-poseidon" onclick="location.href='/2017/07/02/beyond-the-poseidon-adventure/';"><a href="/2017/07/02/beyond-the-poseidon-adventure/">Beyond the Poseidon Adventure</a></li>
+			 	<li class="has-image strike-commando" onclick="location.href='/2018/01/21/strike-commando/';"><a href="/2018/01/21/strike-commando/">Strike Commando</a></li>
+			 	<li class="has-image backdraft" onclick="location.href='/2012/09/10/backdraft/';"><a href="/2012/09/10/backdraft/">Backdraft</a></li>
 			 	<li><a href="/2014/01/15/white-house-down/">White House Down</a></li>
 			 	<li><a href="/2009/10/15/friday-13th-4/">Friday the 13th: The Final Chapter</a></li>
 			 	<li><a href="/2015/08/26/substitute/">The Substitute</a></li>

@@ -1,2 +1,5 @@
 
 .DS_Store
+*.scssc
+wp-content/themes/.DS_Store
+wp-content/themes/.DS_Store
