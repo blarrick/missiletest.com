@@ -58,10 +58,10 @@ get_header(); ?>
 			 	<li class="has-image beyond-poseidon" onclick="location.href='/2017/07/02/beyond-the-poseidon-adventure/';"><a href="/2017/07/02/beyond-the-poseidon-adventure/">Beyond the Poseidon Adventure</a></li>
 			 	<li class="has-image strike-commando" onclick="location.href='/2018/01/21/strike-commando/';"><a href="/2018/01/21/strike-commando/">Strike Commando</a></li>
 			 	<li class="has-image backdraft" onclick="location.href='/2012/09/10/backdraft/';"><a href="/2012/09/10/backdraft/">Backdraft</a></li>
-			 	<li><a href="/2014/01/15/white-house-down/">White House Down</a></li>
-			 	<li><a href="/2009/10/15/friday-13th-4/">Friday the 13th: The Final Chapter</a></li>
-			 	<li><a href="/2015/08/26/substitute/">The Substitute</a></li>
-			 	<li><a href="/2013/10/06/graveyard-shift/">Graveyard Shift</a></li>
+			 	<li class="has-image white-house-down" onclick="location.href='/2014/01/15/white-house-down/';"><a href="/2014/01/15/white-house-down/">White House Down</a></li>
+			 	<li class="has-image friday-13th-4" onclick="location.href='/2009/10/15/friday-13th-4/';"><a href="/2009/10/15/friday-13th-4/">Friday the 13th: The Final Chapter</a></li>
+			 	<li class="has-image substitute" onclick="location.href='/2015/08/26/substitute/';"><a href="/2015/08/26/substitute/">The Substitute</a></li>
+			 	<li class="has-image graveyard-shift" onclick="location.href='/2013/10/06/graveyard-shift/';"><a href="/2013/10/06/graveyard-shift/">Graveyard Shift</a></li>
 			 	<li><a href="/2016/09/15/bronx-warriors/">1990: The Bronx Warriors</a></li>
 			 	<li><a href="/2014/05/20/batman-robin/">Batman and Robin</a></li>
 			 	<li><a href="/2009/10/07/friday-13th-2/">Friday the 13th Part 2</a></li>
