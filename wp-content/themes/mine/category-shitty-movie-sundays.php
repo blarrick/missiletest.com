@@ -62,10 +62,10 @@ get_header(); ?>
 			 	<li class="has-image friday-13th-4" onclick="location.href='/2009/10/15/friday-13th-4/';"><a href="/2009/10/15/friday-13th-4/">Friday the 13th: The Final Chapter</a></li>
 			 	<li class="has-image substitute" onclick="location.href='/2015/08/26/substitute/';"><a href="/2015/08/26/substitute/">The Substitute</a></li>
 			 	<li class="has-image graveyard-shift" onclick="location.href='/2013/10/06/graveyard-shift/';"><a href="/2013/10/06/graveyard-shift/">Graveyard Shift</a></li>
-			 	<li><a href="/2016/09/15/bronx-warriors/">1990: The Bronx Warriors</a></li>
-			 	<li><a href="/2014/05/20/batman-robin/">Batman and Robin</a></li>
-			 	<li><a href="/2009/10/07/friday-13th-2/">Friday the 13th Part 2</a></li>
-			 	<li><a href="/2018/10/28/q-the-winged-serpent/">Q — The Winged Serpent</a></li>
+			 	<li class="has-image bronx-warriors" onclick="location.href='/2016/09/15/bronx-warriors/';"><a href="/2016/09/15/bronx-warriors/">1990: The Bronx Warriors</a></li>
+			 	<li class="has-image batman-robin" onclick="location.href='/2014/05/20/batman-robin/';"><a href="/2014/05/20/batman-robin/">Batman and Robin</a></li>
+			 	<li class="has-image friday-13th-2" onclick="location.href='/2009/10/07/friday-13th-2/';"><a href="/2009/10/07/friday-13th-2/">Friday the 13th Part 2</a></li>
+			 	<li class="has-image winged-serpent" onclick="location.href='/2018/10/28/q-the-winged-serpent/';"><a href="/2018/10/28/q-the-winged-serpent/">Q — The Winged Serpent</a></li>
 			 	<li><a href="/2017/04/09/steel-dawn/">Steel Dawn</a></li>
 			 	<li><a href="/2011/10/18/basket-case/">Basket Case</a></li>
 			 	<li><a href="/2017/10/09/contamination/">Contamination</a></li>
