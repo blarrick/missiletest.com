@@ -160,6 +160,7 @@ get_header(); ?>
 				<li><a href="/2017/10/18/blood-from-the-mummys-tomb/">Blood from the Mummy’s Tomb</a></li>
 				<li><a href="/2014/10/30/blood-glacier/">Blood Glacier</a></li>
 				<li class="shitty"><a href="/2018/03/18/the-killers-edge-aka-blood-money/">Blood Money, aka The Killers Edge</a></li>
+				<li class="shitty"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
 				<li><a href="/2013/11/26/boondock-saints/">Boondock Saints, The</a></li>
 				<li><a href="/2014/10/16/dracula/">Bram Stoker’s Dracula</a></li>
 				<li><a href="/2017/10/06/the-brides-of-dracula/">Brides of Dracula, The</a></li>

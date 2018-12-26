@@ -116,6 +116,7 @@ get_header(); ?>
 			 	<li><a href="/2010/10/04/dance-dead/">Dance of the Dead</a></li>
 			 	<li><a href="/2014/10/21/incredible-melting-man/">The Incredible Melting Man</a></li>
 			 	<li><a href="/2010/10/12/maniac-cop-2/">Maniac Cop 2</a></li>
+			 	<li class="has-image bone-dry" onclick="location.href='/2018/12/23/bone-dry/';"><a href="/2013/10/06/graveyard-shift/"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
 			 	<li><a href="/2018/10/20/attack-of-the-giant-leeches/">Attack of the Giant Leeches</a></li>
 			 	<li><a href="/2018/04/01/death-machines/">Death Machines</a></li>
 			 	<li><a href="/2018/10/18/giant-gila-monster/">The Giant Gila Monster</a></li>
