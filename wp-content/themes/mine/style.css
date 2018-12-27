@@ -2363,6 +2363,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.basket-case {
+                  background: url(/wp-content/uploads/2018/12/basket-case-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.backdraft {
                   background: url(/wp-content/uploads/2018/12/backdraft-thumb.jpg);
                   background-repeat: no-repeat;
@@ -2408,6 +2413,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.contamination {
+                  background: url(/wp-content/uploads/2018/12/contamination-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.critters {
                   background: url(/wp-content/uploads/2018/12/critters-thumb.jpg);
                   background-repeat: no-repeat;
@@ -2488,6 +2498,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.steel-dawn {
+                  background: url(/wp-content/uploads/2018/12/steel-dawn-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.strike-commando {
                   background: url(/wp-content/uploads/2018/12/strike-commando-thumb.jpg);
                   background-repeat: no-repeat;
@@ -2515,6 +2530,11 @@ blockquote:after,
                   background-position: center center; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.winged-serpent {
                   background: url(/wp-content/uploads/2018/12/winged-serpent-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.zombi-2 {
+                  background: url(/wp-content/uploads/2018/12/zombi-2-thumb.jpg);
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center center; }

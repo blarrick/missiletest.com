@@ -66,10 +66,10 @@ get_header(); ?>
 			 	<li class="has-image batman-robin" onclick="location.href='/2014/05/20/batman-robin/';"><a href="/2014/05/20/batman-robin/">Batman and Robin</a></li>
 			 	<li class="has-image friday-13th-2" onclick="location.href='/2009/10/07/friday-13th-2/';"><a href="/2009/10/07/friday-13th-2/">Friday the 13th Part 2</a></li>
 			 	<li class="has-image winged-serpent" onclick="location.href='/2018/10/28/q-the-winged-serpent/';"><a href="/2018/10/28/q-the-winged-serpent/">Q — The Winged Serpent</a></li>
-			 	<li><a href="/2017/04/09/steel-dawn/">Steel Dawn</a></li>
-			 	<li><a href="/2011/10/18/basket-case/">Basket Case</a></li>
-			 	<li><a href="/2017/10/09/contamination/">Contamination</a></li>
-			 	<li><a href="/2011/10/07/zombi-2/">Zombi 2</a></li>
+			 	<li class="has-image steel-dawn" onclick="location.href='/2017/04/09/steel-dawn/';"><a href="/2017/04/09/steel-dawn/">Steel Dawn</a></li>
+			 	<li class="has-image basket-case" onclick="location.href='/2011/10/18/basket-case/';"><a href="/2011/10/18/basket-case/">Basket Case</a></li>
+			 	<li class="has-image contamination" onclick="location.href='/2017/10/09/contamination/';"><a href="/2017/10/09/contamination/">Contamination</a></li>
+			 	<li class="has-image zombi-2" onclick="location.href='/2011/10/07/zombi-2/';"><a href="/2011/10/07/zombi-2/">Zombi 2</a></li>
 			 	<li><a href="/2013/07/31/orca/">Orca</a></li>
 			 	<li><a href="/2012/10/17/leviathan/">Leviathan</a></li>
 			 	<li><a href="/2012/10/02/dead-heat-1988/">Dead Heat (1988)</a></li>
