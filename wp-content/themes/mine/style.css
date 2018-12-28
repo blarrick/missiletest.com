@@ -2428,6 +2428,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.dead-heat {
+                  background: url(/wp-content/uploads/2018/12/dead-heat-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.death-wish-4 {
                   background: url(/wp-content/uploads/2018/12/death-wish-4-thumb.jpg);
                   background-repeat: no-repeat;
@@ -2453,6 +2458,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.ghosts-mars {
+                  background: url(/wp-content/uploads/2018/12/ghosts-mars-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.graveyard-shift {
                   background: url(/wp-content/uploads/2018/12/graveyard-shift-thumb.jpg);
                   background-repeat: no-repeat;
@@ -2473,11 +2483,21 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.leviathan {
+                  background: url(/wp-content/uploads/2018/12/leviathan-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.maximum-overdrive {
                   background: url(/wp-content/uploads/2018/12/maximum-overdrive-thumb.jpg);
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.orca {
+                  background: url(/wp-content/uploads/2018/12/orca-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.rambo-2 {
                   background: url(/wp-content/uploads/2018/12/rambo-2-thumb.jpg);
                   background-repeat: no-repeat;

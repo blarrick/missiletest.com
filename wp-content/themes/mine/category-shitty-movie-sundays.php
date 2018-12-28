@@ -70,10 +70,10 @@ get_header(); ?>
 			 	<li class="has-image basket-case" onclick="location.href='/2011/10/18/basket-case/';"><a href="/2011/10/18/basket-case/">Basket Case</a></li>
 			 	<li class="has-image contamination" onclick="location.href='/2017/10/09/contamination/';"><a href="/2017/10/09/contamination/">Contamination</a></li>
 			 	<li class="has-image zombi-2" onclick="location.href='/2011/10/07/zombi-2/';"><a href="/2011/10/07/zombi-2/">Zombi 2</a></li>
-			 	<li><a href="/2013/07/31/orca/">Orca</a></li>
-			 	<li><a href="/2012/10/17/leviathan/">Leviathan</a></li>
-			 	<li><a href="/2012/10/02/dead-heat-1988/">Dead Heat (1988)</a></li>
-			 	<li><a href="/2017/10/03/ghosts-of-mars/">Ghosts of Mars</a></li>
+			 	<li class="has-image orca" onclick="location.href='/2013/07/31/orca/';"><a href="/2013/07/31/orca/">Orca</a></li>
+			 	<li class="has-image leviathan" onclick="location.href='/2012/10/17/leviathan/';"><a href="/2012/10/17/leviathan/">Leviathan</a></li>
+			 	<li class="has-image dead-heat" onclick="location.href='/2012/10/02/dead-heat-1988/';"><a href="/2012/10/02/dead-heat-1988/">Dead Heat (1988)</a></li>
+			 	<li class="has-image ghosts-mars" onclick="location.href='/2017/10/03/ghosts-of-mars/';"><a href="/2017/10/03/ghosts-of-mars/">Ghosts of Mars</a></li>
 			 	<li><a href="/2018/11/04/perfect-weapon/">The Perfect Weapon</a></li>
 			 	<li><a href="/2017/10/13/jason-x/">Jason X</a></li>
 			 	<li><a href="/2018/12/02/caged-heat/">Caged Heat</a></li>
