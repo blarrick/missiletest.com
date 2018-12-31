@@ -74,10 +74,10 @@ get_header(); ?>
 			 	<li class="has-image leviathan" onclick="location.href='/2012/10/17/leviathan/';"><a href="/2012/10/17/leviathan/">Leviathan</a></li>
 			 	<li class="has-image dead-heat" onclick="location.href='/2012/10/02/dead-heat-1988/';"><a href="/2012/10/02/dead-heat-1988/">Dead Heat (1988)</a></li>
 			 	<li class="has-image ghosts-mars" onclick="location.href='/2017/10/03/ghosts-of-mars/';"><a href="/2017/10/03/ghosts-of-mars/">Ghosts of Mars</a></li>
-			 	<li><a href="/2018/11/04/perfect-weapon/">The Perfect Weapon</a></li>
-			 	<li><a href="/2017/10/13/jason-x/">Jason X</a></li>
-			 	<li><a href="/2018/12/02/caged-heat/">Caged Heat</a></li>
-			 	<li><a href="/2017/10/21/maniac-cop/">Maniac Cop</a></li>
+			 	<li class="has-image perfect-weapon" onclick="location.href='/2018/11/04/perfect-weapon/';"><a href="/2018/11/04/perfect-weapon/">The Perfect Weapon</a></li>
+			 	<li class="has-image jason-x" onclick="location.href='/2017/10/13/jason-x/';"><a href="/2017/10/13/jason-x/">Jason X</a></li>
+			 	<li class="has-image caged-heat" onclick="location.href='/2018/12/02/caged-heat/';"><a href="/2018/12/02/caged-heat/">Caged Heat</a></li>
+			 	<li class="has-image maniac-cop" onclick="location.href='/2017/10/21/maniac-cop/';"><a href="/2017/10/21/maniac-cop/">Maniac Cop</a></li>
 			 	<li><a href="/2017/09/03/timecop/">Timecop</a></li>
 			 	<li><a href="/2016/10/24/jaws-3-d/">Jaws 3-D</a></li>
 			 	<li><a href="/2017/08/14/tango-cash/">Tango &amp; Cash</a></li>
