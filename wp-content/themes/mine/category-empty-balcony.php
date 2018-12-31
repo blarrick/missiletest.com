@@ -720,6 +720,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2013/10/29/tremors/">Tremors</a></li>
 				<li><a href="/2015/10/27/trick-r-treat/">Trick ‘r Treat</a></li>
 				<li><a href="/2013/10/13/trollhunter/">Trollhunter</a></li>
+				<li class="reco"><a href="/2018/12/30/true-grit-1969/">True Grit <span>(1969)</span></a></li>
 				<li class="reco"><a href="/2014/05/16/true-lies/">True Lies</a></li>
 				<li><a href="/2016/10/28/tucker-dale/">Tucker & Dale vs. Evil</a></li>
 				<li><a href="/2013/10/11/tunnel/">Tunnel, The</a></li>
