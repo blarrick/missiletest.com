@@ -78,10 +78,10 @@ get_header(); ?>
 			 	<li class="has-image jason-x" onclick="location.href='/2017/10/13/jason-x/';"><a href="/2017/10/13/jason-x/">Jason X</a></li>
 			 	<li class="has-image caged-heat" onclick="location.href='/2018/12/02/caged-heat/';"><a href="/2018/12/02/caged-heat/">Caged Heat</a></li>
 			 	<li class="has-image maniac-cop" onclick="location.href='/2017/10/21/maniac-cop/';"><a href="/2017/10/21/maniac-cop/">Maniac Cop</a></li>
-			 	<li><a href="/2017/09/03/timecop/">Timecop</a></li>
-			 	<li><a href="/2016/10/24/jaws-3-d/">Jaws 3-D</a></li>
-			 	<li><a href="/2017/08/14/tango-cash/">Tango &amp; Cash</a></li>
-			 	<li><a href="/2009/10/25/vampires/">John Carpenter’s Vampires</a></li>
+			 	<li class="has-image timecop" onclick="location.href='/2017/09/03/timecop/';"><a href="/2017/09/03/timecop/">Timecop</a></li>
+			 	<li class="has-image jaws-3" onclick="location.href='/2016/10/24/jaws-3-d/';"><a href="/2016/10/24/jaws-3-d/">Jaws 3-D</a></li>
+			 	<li class="has-image tango-cash" onclick="location.href='/2017/08/14/tango-cash/';"><a href="/2017/08/14/tango-cash/">Tango &amp; Cash</a></li>
+			 	<li class="has-image vampires" onclick="location.href='/2009/10/25/vampires/';"><a href="/2009/10/25/vampires/">John Carpenter’s Vampires</a></li>
 			 	<li><a href="/2010/10/31/halloween-2/">Halloween II (1981)</a></li>
 			 	<li><a href="/2017/12/10/beastmaster/">The Beastmaster</a></li>
 			 	<li><a href="/2018/03/18/the-killers-edge-aka-blood-money/">The Killers Edge</a></li>

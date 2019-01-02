@@ -2478,6 +2478,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.jaws-3 {
+                  background: url(/wp-content/uploads/2019/01/jaws-3-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.keep {
                   background: url(/wp-content/uploads/2018/12/keep-thumb.jpg);
                   background-repeat: no-repeat;
@@ -2553,8 +2558,18 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.tango-cash {
+                  background: url(/wp-content/uploads/2019/01/tango-cash-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.they-live {
                   background: url(/wp-content/uploads/2018/12/they-live-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.timecop {
+                  background: url(/wp-content/uploads/2019/01/timecop-thumb.jpg);
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center center; }
@@ -2563,6 +2578,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.vampires {
+                  background: url(/wp-content/uploads/2019/01/vampires-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.white-house-down {
                   background: url(/wp-content/uploads/2018/12/white-house-down-thumb.jpg);
                   background-repeat: no-repeat;
