@@ -2383,6 +2383,16 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.beastmaster {
+                  background: url(/wp-content/uploads/2019/01/beastmaster-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.beginning-end {
+                  background: url(/wp-content/uploads/2019/01/beginning-end-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.beyond-poseidon {
                   background: url(/wp-content/uploads/2018/12/beyond-poseidon-thumb.jpg);
                   background-repeat: no-repeat;
@@ -2473,6 +2483,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.halloween-2-1981 {
+                  background: url(/wp-content/uploads/2019/01/halloween-2-1981-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.jason-x {
                   background: url(/wp-content/uploads/2018/12/jason-x-thumb.jpg);
                   background-repeat: no-repeat;
@@ -2488,6 +2503,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.killers-edge {
+                  background: url(/wp-content/uploads/2019/01/killers-edge-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.king-kong-lives {
                   background: url(/wp-content/uploads/2018/12/king-kong-lives-thumb.jpg);
                   background-repeat: no-repeat;

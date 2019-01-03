@@ -82,10 +82,10 @@ get_header(); ?>
 			 	<li class="has-image jaws-3" onclick="location.href='/2016/10/24/jaws-3-d/';"><a href="/2016/10/24/jaws-3-d/">Jaws 3-D</a></li>
 			 	<li class="has-image tango-cash" onclick="location.href='/2017/08/14/tango-cash/';"><a href="/2017/08/14/tango-cash/">Tango &amp; Cash</a></li>
 			 	<li class="has-image vampires" onclick="location.href='/2009/10/25/vampires/';"><a href="/2009/10/25/vampires/">John Carpenter’s Vampires</a></li>
-			 	<li><a href="/2010/10/31/halloween-2/">Halloween II (1981)</a></li>
-			 	<li><a href="/2017/12/10/beastmaster/">The Beastmaster</a></li>
-			 	<li><a href="/2018/03/18/the-killers-edge-aka-blood-money/">The Killers Edge</a></li>
-			 	<li><a href="/2018/10/10/beginning-of-the-end/">Beginning of the End</a></li>
+			 	<li class="has-image halloween-2-1981" onclick="location.href='/2010/10/31/halloween-2/';"><a href="/2010/10/31/halloween-2/">Halloween II (1981)</a></li>
+			 	<li class="has-image beastmaster" onclick="location.href='/2017/12/10/beastmaster/';"><a href="/2017/12/10/beastmaster/">The Beastmaster</a></li>
+			 	<li class="has-image killers-edge" onclick="location.href='/2018/03/18/the-killers-edge-aka-blood-money/';"><a href="/2018/03/18/the-killers-edge-aka-blood-money/">The Killers Edge</a></li>
+			 	<li class="has-image beginning-end" onclick="location.href='/2018/10/10/beginning-of-the-end/';"><a href="/2018/10/10/beginning-of-the-end/">Beginning of the End</a></li>
 			 	<li><a href="/2017/05/21/psychomania/">Psychomania</a></li>
 			 	<li><a href="/2017/10/31/satanic-rites-of-dracula/">The Satanic Rites of Dracula</a></li>
 			 	<li><a href="/2018/10/19/humanoids-from-the-deep/">Humanoids from the Deep</a></li>
