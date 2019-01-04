@@ -86,10 +86,10 @@ get_header(); ?>
 			 	<li class="has-image beastmaster" onclick="location.href='/2017/12/10/beastmaster/';"><a href="/2017/12/10/beastmaster/">The Beastmaster</a></li>
 			 	<li class="has-image killers-edge" onclick="location.href='/2018/03/18/the-killers-edge-aka-blood-money/';"><a href="/2018/03/18/the-killers-edge-aka-blood-money/">The Killers Edge</a></li>
 			 	<li class="has-image beginning-end" onclick="location.href='/2018/10/10/beginning-of-the-end/';"><a href="/2018/10/10/beginning-of-the-end/">Beginning of the End</a></li>
-			 	<li><a href="/2017/05/21/psychomania/">Psychomania</a></li>
-			 	<li><a href="/2017/10/31/satanic-rites-of-dracula/">The Satanic Rites of Dracula</a></li>
-			 	<li><a href="/2018/10/19/humanoids-from-the-deep/">Humanoids from the Deep</a></li>
-			 	<li><a href="/2009/10/12/friday-13th-3/">Friday the 13th Part 3</a></li>
+			 	<li class="has-image psychomania" onclick="location.href='/2017/05/21/psychomania/';"><a href="/2017/05/21/psychomania/">Psychomania</a></li>
+			 	<li class="has-image satanic-dracula" onclick="location.href='/2017/10/31/satanic-rites-of-dracula/';"><a href="/2017/10/31/satanic-rites-of-dracula/">The Satanic Rites of Dracula</a></li>
+			 	<li class="has-image humanoids-deep" onclick="location.href='/2018/10/19/humanoids-from-the-deep/';"><a href="/2018/10/19/humanoids-from-the-deep/">Humanoids from the Deep</a></li>
+			 	<li class="has-image friday-13th-3" onclick="location.href='/2009/10/12/friday-13th-3/';"><a href="/2009/10/12/friday-13th-3/">Friday the 13th Part 3</a></li>
 			 	<li><a href="/2018/04/24/cyber-tracker/">Cyber Tracker</a></li>
 			 	<li><a href="/2013/10/22/my-bloody-valentine/">My Bloody Valentine</a></li>
 			 	<li><a href="/2017/10/05/chopping-mall/">Chopping Mall</a></li>
