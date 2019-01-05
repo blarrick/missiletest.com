@@ -499,7 +499,7 @@ get_header(); ?>
 				<li><a href="/2017/10/01/the-mummy/">Mummy, The</a> <span>(1959)</span></li>
 				<li><a href="/2017/10/13/mummys-shroud/">Mummy's Shroud, The</a></li>
 				<li><a href="/2014/10/07/mutants/">Mutants</a></li>
-				<li class="shitty"><a href="/2013/10/22/my-bloody-valentine/">My Bloody Valentine</a></li>
+				<li class="shitty"><a href="/2013/10/22/my-bloody-valentine/">My Bloody Valentine</a> <span>(1981)</span></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
 			<h5 id="nn">N</h5>

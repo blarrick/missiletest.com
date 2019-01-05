@@ -90,10 +90,10 @@ get_header(); ?>
 			 	<li class="has-image satanic-dracula" onclick="location.href='/2017/10/31/satanic-rites-of-dracula/';"><a href="/2017/10/31/satanic-rites-of-dracula/">The Satanic Rites of Dracula</a></li>
 			 	<li class="has-image humanoids-deep" onclick="location.href='/2018/10/19/humanoids-from-the-deep/';"><a href="/2018/10/19/humanoids-from-the-deep/">Humanoids from the Deep</a></li>
 			 	<li class="has-image friday-13th-3" onclick="location.href='/2009/10/12/friday-13th-3/';"><a href="/2009/10/12/friday-13th-3/">Friday the 13th Part 3</a></li>
-			 	<li><a href="/2018/04/24/cyber-tracker/">Cyber Tracker</a></li>
-			 	<li><a href="/2013/10/22/my-bloody-valentine/">My Bloody Valentine</a></li>
-			 	<li><a href="/2017/10/05/chopping-mall/">Chopping Mall</a></li>
-			 	<li><a href="/2016/11/20/escape-from-the-bronx/">Escape from the Bronx</a></li>
+			 	<li class="has-image cyber-tracker" onclick="location.href='/2018/04/24/cyber-tracker/';"><a href="/2018/04/24/cyber-tracker/">Cyber Tracker</a></li>
+			 	<li class="has-image my-bloody-valentine" onclick="location.href='/2013/10/22/my-bloody-valentine/';"><a href="/2013/10/22/my-bloody-valentine/">My Bloody Valentine (1981)</a></li>
+			 	<li class="has-image chopping-mall" onclick="location.href='/2017/10/05/chopping-mall/';"><a href="/2017/10/05/chopping-mall/">Chopping Mall</a></li>
+			 	<li class="has-image escape-bronx" onclick="location.href='/2016/11/20/escape-from-the-bronx/';"><a href="/2016/11/20/escape-from-the-bronx/">Escape from the Bronx</a></li>
 			 	<li><a href="/2018/05/06/silent-rage/">Silent Rage</a></li>
 			 	<li><a href="/2014/05/08/raw-deal/">Raw Deal</a></li>
 			 	<li><a href="/2013/03/24/olympus-has-fallen/">Olympus Has Fallen</a></li>
