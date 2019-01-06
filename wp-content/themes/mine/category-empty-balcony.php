@@ -273,6 +273,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2014/05/21/end-of-days/">End of Days</a></li>
 				<li><a href="/2013/01/26/end-of-watch/">End of Watch</a></li>
 				<li><a href="/2017/10/09/quatermass-2/">Enemy From Space, aka Quatermass 2</a></li>
+				<li class="shitty"><a href="/2019/01/06/enter-the-ninja/">Enter the Ninja</a></li>
 				<li><a href="/2015/01/27/equalizer/">Equalizer, The</a></li>
 				<li><a href="/2014/05/18/eraser/">Eraser</a></li>
 				<li class="shitty"><a href="/2011/11/06/escape-from-la/">Escape from L.A.</a></li>

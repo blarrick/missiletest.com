@@ -52,6 +52,7 @@ get_header(); ?>
 			 	<li class="has-image death-wish-4" onclick="location.href='/2017/07/23/death-wish-4/';"><a href="/2017/07/23/death-wish-4/">Death Wish 4: The Crackdown</a></li>
 			 	<li class="has-image they-live" onclick="location.href='/2008/09/23/they-live/';"><a href="/2008/09/23/they-live/">They Live</a></li>
 			 	<li class="has-image battle-stars" onclick="location.href='/2017/07/16/battle-beyond-the-stars/';"><a href="/2017/07/16/battle-beyond-the-stars/">Battle Beyond the Stars</a></li>
+			 	<li class="has-image enter-ninja" onclick="location.href='/2019/01/06/enter-the-ninja/';"><a href="/2019/01/06/enter-the-ninja/">Enter the Ninja</a></li>
 			 	<li class="has-image trancers" onclick="location.href='/2011/03/07/trancers/';"><a href="/2011/03/07/trancers/">Trancers</a></li>
 			 	<li class="has-image critters" onclick="location.href='/2013/10/23/critters/';"><a href="/2013/10/23/critters/">Critters</a></li>
 			 	<li class="has-image keep" onclick="location.href='/2014/10/04/keep/';"><a href="/2014/10/04/keep/">The Keep</a></li>
@@ -94,10 +95,10 @@ get_header(); ?>
 			 	<li class="has-image my-bloody-valentine" onclick="location.href='/2013/10/22/my-bloody-valentine/';"><a href="/2013/10/22/my-bloody-valentine/">My Bloody Valentine (1981)</a></li>
 			 	<li class="has-image chopping-mall" onclick="location.href='/2017/10/05/chopping-mall/';"><a href="/2017/10/05/chopping-mall/">Chopping Mall</a></li>
 			 	<li class="has-image escape-bronx" onclick="location.href='/2016/11/20/escape-from-the-bronx/';"><a href="/2016/11/20/escape-from-the-bronx/">Escape from the Bronx</a></li>
-			 	<li><a href="/2018/05/06/silent-rage/">Silent Rage</a></li>
-			 	<li><a href="/2014/05/08/raw-deal/">Raw Deal</a></li>
-			 	<li><a href="/2013/03/24/olympus-has-fallen/">Olympus Has Fallen</a></li>
-			 	<li><a href="/2013/10/21/deepstar-six/">DeepStar Six</a></li>
+			 	<li class="has-image silent-rage" onclick="location.href='/2018/05/06/silent-rage/';"><a href="/2018/05/06/silent-rage/">Silent Rage</a></li>
+			 	<li class="has-image raw-deal" onclick="location.href='/2014/05/08/raw-deal/';"><a href="/2014/05/08/raw-deal/">Raw Deal</a></li>
+			 	<li class="has-image olympus-fallen" onclick="location.href='/2013/03/24/olympus-has-fallen/';"><a href="/2013/03/24/olympus-has-fallen/">Olympus Has Fallen</a></li>
+			 	<li class="has-image deepstar-six" onclick="location.href='/2013/10/21/deepstar-six/';"><a href="/2013/10/21/deepstar-six/">DeepStar Six</a></li>
 			 	<li><a href="/2018/07/29/shape-of-things-to-come/">The Shape of Things to Come</a></li>
 			 	<li><a href="/2018/08/05/city-on-fire/">City on Fire</a></li>
 			 	<li><a href="/2009/10/29/freddy-vs-jason/">Freddy vs. Jason</a></li>
