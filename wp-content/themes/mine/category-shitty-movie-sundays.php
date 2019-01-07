@@ -99,22 +99,22 @@ get_header(); ?>
 			 	<li class="has-image raw-deal" onclick="location.href='/2014/05/08/raw-deal/';"><a href="/2014/05/08/raw-deal/">Raw Deal</a></li>
 			 	<li class="has-image olympus-fallen" onclick="location.href='/2013/03/24/olympus-has-fallen/';"><a href="/2013/03/24/olympus-has-fallen/">Olympus Has Fallen</a></li>
 			 	<li class="has-image deepstar-six" onclick="location.href='/2013/10/21/deepstar-six/';"><a href="/2013/10/21/deepstar-six/">DeepStar Six</a></li>
-			 	<li><a href="/2018/07/29/shape-of-things-to-come/">The Shape of Things to Come</a></li>
-			 	<li><a href="/2018/08/05/city-on-fire/">City on Fire</a></li>
-			 	<li><a href="/2009/10/29/freddy-vs-jason/">Freddy vs. Jason</a></li>
-			 	<li><a href="/2010/05/17/nuke-em-high/">Class of Nuke ’Em High</a></li>
-			 	<li><a href="/2016/10/31/halloween-resurrection/">Halloween: Resurrection</a></li>
-			 	<li><a href="/2018/10/15/earth-vs-the-spider/">Earth vs. The Spider</a></li>
-			 	<li><a href="/2009/10/01/friday-13th/">Friday the 13th</a></li>
-			 	<li><a href="/2017/11/05/freejack/">Freejack</a></li>
-			 	<li><a href="/2009/01/09/i-am-legend/">I Am Legend</a></li>
-			 	<li><a href="/2013/06/23/last-stand/">The Last Stand</a></li>
-			 	<li><a href="/2013/10/16/colony/">The Colony</a></li>
-			 	<li><a href="/2009/08/11/deep-rising/">Deep Rising</a></li>
-			 	<li><a href="/2011/11/06/escape-from-la/">Escape from L.A.</a></li>
-			 	<li><a href="/2011/01/24/raise-the-titanic/">Raise the Titanic</a></li>
-			 	<li><a href="/2015/10/15/san-andreas/">San Andreas</a></li>
-			 	<li><a href="/2010/10/04/dance-dead/">Dance of the Dead</a></li>
+			 	<li class="has-image shape-things" onclick="location.href='/2018/07/29/shape-of-things-to-come/';"><a href="/2018/07/29/shape-of-things-to-come/">The Shape of Things to Come</a></li>
+			 	<li class="has-image city-on-fire" onclick="location.href='/2018/08/05/city-on-fire/';"><a href="/2018/08/05/city-on-fire/">City on Fire</a></li>
+			 	<li class="has-image freddy-jason" onclick="location.href='/2009/10/29/freddy-vs-jason/';"><a href="/2009/10/29/freddy-vs-jason/">Freddy vs. Jason</a></li>
+			 	<li class="has-image nuke-high" onclick="location.href='/2010/05/17/nuke-em-high/';"><a href="/2010/05/17/nuke-em-high/">Class of Nuke ’Em High</a></li>
+			 	<li class="has-image halloween-resurrection" onclick="location.href='/2016/10/31/halloween-resurrection/';"><a href="/2016/10/31/halloween-resurrection/">Halloween: Resurrection</a></li>
+			 	<li class="has-image earth-spider" onclick="location.href='/2018/10/15/earth-vs-the-spider/';"><a href="/2018/10/15/earth-vs-the-spider/">Earth vs. The Spider</a></li>
+			 	<li class="has-image friday-13th" onclick="location.href='/2009/10/01/friday-13th/';"><a href="/2009/10/01/friday-13th/">Friday the 13th</a></li>
+			 	<li class="has-image freejack" onclick="location.href='/2017/11/05/freejack/';"><a href="/2017/11/05/freejack/">Freejack</a></li>
+			 	<li class="has-image i-am-legend" onclick="location.href='/2009/01/09/i-am-legend/';"><a href="/2009/01/09/i-am-legend/">I Am Legend</a></li>
+			 	<li class="has-image last-stand" onclick="location.href='/2013/06/23/last-stand/';"><a href="/2013/06/23/last-stand/">The Last Stand</a></li>
+			 	<li class="has-image colony" onclick="location.href='/2013/10/16/colony/';"><a href="/2013/10/16/colony/">The Colony</a></li>
+			 	<li class="has-image deep-rising" onclick="location.href='/2009/08/11/deep-rising/';"><a href="/2009/08/11/deep-rising/">Deep Rising</a></li>
+			 	<li class="has-image escape-la" onclick="location.href='/2011/11/06/escape-from-la/';"><a href="/2011/11/06/escape-from-la/">Escape from L.A.</a></li>
+			 	<li class="has-image raise-titanic" onclick="location.href='/2011/01/24/raise-the-titanic/';"><a href="/2011/01/24/raise-the-titanic/">Raise the Titanic</a></li>
+			 	<li class="has-image san-andreas" onclick="location.href='/2015/10/15/san-andreas/';"><a href="/2015/10/15/san-andreas/">San Andreas</a></li>
+			 	<li class="has-image dance-dead" onclick="location.href='/2010/10/04/dance-dead/';"><a href="/2010/10/04/dance-dead/">Dance of the Dead</a></li>
 			 	<li><a href="/2014/10/21/incredible-melting-man/">The Incredible Melting Man</a></li>
 			 	<li><a href="/2010/10/12/maniac-cop-2/">Maniac Cop 2</a></li>
 			 	<li class="has-image bone-dry" onclick="location.href='/2018/12/23/bone-dry/';"><a href="/2013/10/06/graveyard-shift/"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
