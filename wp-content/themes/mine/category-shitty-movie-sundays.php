@@ -115,11 +115,11 @@ get_header(); ?>
 			 	<li class="has-image raise-titanic" onclick="location.href='/2011/01/24/raise-the-titanic/';"><a href="/2011/01/24/raise-the-titanic/">Raise the Titanic</a></li>
 			 	<li class="has-image san-andreas" onclick="location.href='/2015/10/15/san-andreas/';"><a href="/2015/10/15/san-andreas/">San Andreas</a></li>
 			 	<li class="has-image dance-dead" onclick="location.href='/2010/10/04/dance-dead/';"><a href="/2010/10/04/dance-dead/">Dance of the Dead</a></li>
-			 	<li><a href="/2014/10/21/incredible-melting-man/">The Incredible Melting Man</a></li>
-			 	<li><a href="/2010/10/12/maniac-cop-2/">Maniac Cop 2</a></li>
+			 	<li class="has-image melting-man" onclick="location.href='/2014/10/21/incredible-melting-man/';"><a href="/2014/10/21/incredible-melting-man/">The Incredible Melting Man</a></li>
+			 	<li class="has-image maniac-cop-2" onclick="location.href='/2010/10/12/maniac-cop-2/';"><a href="/2010/10/12/maniac-cop-2/">Maniac Cop 2</a></li>
 			 	<li class="has-image bone-dry" onclick="location.href='/2018/12/23/bone-dry/';"><a href="/2013/10/06/graveyard-shift/"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
-			 	<li><a href="/2018/10/20/attack-of-the-giant-leeches/">Attack of the Giant Leeches</a></li>
-			 	<li><a href="/2018/04/01/death-machines/">Death Machines</a></li>
+			 	<li class="has-image giant-leeches" onclick="location.href='/2018/10/20/attack-of-the-giant-leeches/';"><a href="/2018/10/20/attack-of-the-giant-leeches/">Attack of the Giant Leeches</a></li>
+			 	<li class="has-image death-machines" onclick="location.href='/2018/04/01/death-machines/';"><a href="/2018/04/01/death-machines/">Death Machines</a></li>
 			 	<li><a href="/2018/10/18/giant-gila-monster/">The Giant Gila Monster</a></li>
 			 	<li><a href="/2009/08/30/soldier/">Soldier</a></li>
 			 	<li><a href="/2009/01/19/horror-express/">Horror Express</a></li>
