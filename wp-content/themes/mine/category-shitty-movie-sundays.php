@@ -120,16 +120,16 @@ get_header(); ?>
 			 	<li class="has-image bone-dry" onclick="location.href='/2018/12/23/bone-dry/';"><a href="/2013/10/06/graveyard-shift/"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
 			 	<li class="has-image giant-leeches" onclick="location.href='/2018/10/20/attack-of-the-giant-leeches/';"><a href="/2018/10/20/attack-of-the-giant-leeches/">Attack of the Giant Leeches</a></li>
 			 	<li class="has-image death-machines" onclick="location.href='/2018/04/01/death-machines/';"><a href="/2018/04/01/death-machines/">Death Machines</a></li>
-			 	<li><a href="/2018/10/18/giant-gila-monster/">The Giant Gila Monster</a></li>
-			 	<li><a href="/2009/08/30/soldier/">Soldier</a></li>
-			 	<li><a href="/2009/01/19/horror-express/">Horror Express</a></li>
-			 	<li><a href="/2014/05/06/red-sonja/">Red Sonja</a></li>
-			 	<li><a href="/2016/11/06/id4-resurgence/">Independence Day: Resurgence</a></li>
-			 	<li><a href="/2018/10/25/food-of-the-gods/">The Food of the Gods</a></li>
-			 	<li><a href="/2017/10/06/burial-ground/">Burial Ground</a></li>
-			 	<li><a href="/2018/08/13/humanity-bureau/">The Humanity Bureau</a></li>
-			 	<li><a href="/2017/01/15/the-chilling/">The Chilling</a></li>
-			 	<li><a href="/2014/10/03/dracula-3000/">Dracula 3000</a></li>
+			 	<li class="has-image gila-monster" onclick="location.href='/2018/10/18/giant-gila-monster/';"><a href="/2018/10/18/giant-gila-monster/">The Giant Gila Monster</a></li>
+			 	<li class="has-image soldier" onclick="location.href='/2009/08/30/soldier/';"><a href="/2009/08/30/soldier/">Soldier</a></li>
+			 	<li class="has-image horror-express" onclick="location.href='/2009/01/19/horror-express/';"><a href="/2009/01/19/horror-express/">Horror Express</a></li>
+			 	<li class="has-image red-sonja" onclick="location.href='/2014/05/06/red-sonja/';"><a href="/2014/05/06/red-sonja/">Red Sonja</a></li>
+			 	<li class="has-image id4-resurgence" onclick="location.href='/2016/11/06/id4-resurgence/';"><a href="/2016/11/06/id4-resurgence/">Independence Day: Resurgence</a></li>
+			 	<li class="has-image food-gods" onclick="location.href='/2018/10/25/food-of-the-gods/';"><a href="/2018/10/25/food-of-the-gods/">The Food of the Gods</a></li>
+			 	<li class="has-image burial-ground" onclick="location.href='/2017/10/06/burial-ground/';"><a href="/2017/10/06/burial-ground/">Burial Ground</a></li>
+			 	<li class="has-image humanity-bureau" onclick="location.href='/2018/08/13/humanity-bureau/';"><a href="/2018/08/13/humanity-bureau/">The Humanity Bureau</a></li>
+			 	<li class="has-image chilling" onclick="location.href='/2017/01/15/the-chilling/';"><a href="/2017/01/15/the-chilling/">The Chilling</a></li>
+			 	<li class="has-image dracula-3000" onclick="location.href='/2014/10/03/dracula-3000/';"><a href="/2014/10/03/dracula-3000/">Dracula 3000</a></li>
 			 	<li><a href="/2018/10/27/empire-of-the-ants/">Empire of the Ants</a></li>
 			 	<li><a href="/2018/10/13/god-told-me-to/">God Told Me To</a></li>
 			 	<li><a href="/2014/05/21/end-of-days/">End of Days</a></li>

@@ -2563,6 +2563,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.gila-monster {
+                  background: url(/wp-content/uploads/2019/01/gila-monster-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.graveyard-shift {
                   background: url(/wp-content/uploads/2018/12/graveyard-shift-thumb.jpg);
                   background-repeat: no-repeat;
@@ -2723,6 +2728,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.soldier {
+                  background: url(/wp-content/uploads/2019/01/soldier-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.spacehunter {
                   background: url(/wp-content/uploads/2018/12/spacehunter-thumb.jpg);
                   background-repeat: no-repeat;
@@ -2783,6 +2793,46 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.horror-express {
+                  background: url(/wp-content/uploads/2019/01/horror-express-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.red-sonja {
+                  background: url(/wp-content/uploads/2019/01/red-sonja-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.id4-resurgence {
+                  background: url(/wp-content/uploads/2019/01/id4-resurgence-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.food-gods {
+                  background: url(/wp-content/uploads/2019/01/food-gods-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.burial-ground {
+                  background: url(/wp-content/uploads/2019/01/burial-ground-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.humanity-bureau {
+                  background: url(/wp-content/uploads/2019/01/humanity-bureau-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.chilling {
+                  background: url(/wp-content/uploads/2019/01/chilling-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.dracula-3000 {
+                  background: url(/wp-content/uploads/2019/01/dracula-3000-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
               .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li a {
                 border: none;
                 border-width: 0;
