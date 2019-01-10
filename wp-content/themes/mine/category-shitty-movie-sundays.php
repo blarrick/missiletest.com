@@ -130,22 +130,22 @@ get_header(); ?>
 			 	<li class="has-image humanity-bureau" onclick="location.href='/2018/08/13/humanity-bureau/';"><a href="/2018/08/13/humanity-bureau/">The Humanity Bureau</a></li>
 			 	<li class="has-image chilling" onclick="location.href='/2017/01/15/the-chilling/';"><a href="/2017/01/15/the-chilling/">The Chilling</a></li>
 			 	<li class="has-image dracula-3000" onclick="location.href='/2014/10/03/dracula-3000/';"><a href="/2014/10/03/dracula-3000/">Dracula 3000</a></li>
-			 	<li><a href="/2018/10/27/empire-of-the-ants/">Empire of the Ants</a></li>
-			 	<li><a href="/2018/10/13/god-told-me-to/">God Told Me To</a></li>
-			 	<li><a href="/2014/05/21/end-of-days/">End of Days</a></li>
-			 	<li><a href="/2014/12/22/disaster-on-the-coastliner/">Disaster on the Coastliner</a></li>
-			 	<li><a href="/2018/10/14/matango/">Matango</a></li>
-			 	<li><a href="/2014/10/25/prom-night-ii/">Hello Mary Lou: Prom Night II</a></li>
-			 	<li><a href="/2018/10/28/the-prowler/">The Prowler</a></li>
-			 	<li><a href="/2017/09/17/womens-prison-massacre/">Women’s Prison Massacre</a></li>
-			 	<li><a href="/2018/04/29/meteor/">Meteor</a></li>
-			 	<li><a href="/2018/10/07/beast-of-hollow-mountain/">The Beast of Hollow Mountain</a></li>
-			 	<li><a href="/2016/10/12/alien-vs-predator/">Alien vs. Predator</a></li>
-			 	<li><a href="/2018/10/09/giant-claw/">The Giant Claw</a></li>
-			 	<li><a href="/2013/10/16/skeptic/">The Skeptic</a></li>
-			 	<li><a href="/2018/10/08/deadly-mantis/">The Deadly Mantis</a></li>
-			 	<li><a href="/2018/10/02/city-of-the-living-dead/">City of the Living Dead</a></li>
-			 	<li><a href="/2016/10/17/bug-1975/">Bug (1975)</a></li>
+			 	<li class="has-image empire-ants" onclick="location.href='/2018/10/27/empire-of-the-ants/';"><a href="/2018/10/27/empire-of-the-ants/">Empire of the Ants</a></li>
+			 	<li class="has-image god-told" onclick="location.href='/2018/10/13/god-told-me-to/';"><a href="/2018/10/13/god-told-me-to/">God Told Me To</a></li>
+			 	<li class="has-image end-days" onclick="location.href='/2014/05/21/end-of-days/';"><a href="/2014/05/21/end-of-days/">End of Days</a></li>
+			 	<li class="has-image coastliner" onclick="location.href='/2014/12/22/disaster-on-the-coastliner/';"><a href="/2014/12/22/disaster-on-the-coastliner/">Disaster on the Coastliner</a></li>
+			 	<li class="has-image matango" onclick="location.href='/2018/10/14/matango/';"><a href="/2018/10/14/matango/">Matango</a></li>
+			 	<li class="has-image mary-lou" onclick="location.href='/2014/10/25/prom-night-ii/';"><a href="/2014/10/25/prom-night-ii/">Hello Mary Lou: Prom Night II</a></li>
+			 	<li class="has-image prowler" onclick="location.href='/2018/10/28/the-prowler/';"><a href="/2018/10/28/the-prowler/">The Prowler</a></li>
+			 	<li class="has-image womens-massacre" onclick="location.href='/2017/09/17/womens-prison-massacre/';"><a href="/2017/09/17/womens-prison-massacre/">Women’s Prison Massacre</a></li>
+			 	<li class="has-image meteor" onclick="location.href='/2018/04/29/meteor/';"><a href="/2018/04/29/meteor/">Meteor</a></li>
+			 	<li class="has-image hollow-mountain" onclick="location.href='/2018/10/07/beast-of-hollow-mountain/';"><a href="/2018/10/07/beast-of-hollow-mountain/">The Beast of Hollow Mountain</a></li>
+			 	<li class="has-image alien-predator" onclick="location.href='/2016/10/12/alien-vs-predator/';"><a href="/2016/10/12/alien-vs-predator/">Alien vs. Predator</a></li>
+			 	<li class="has-image giant-claw" onclick="location.href='/2018/10/09/giant-claw/';"><a href="/2018/10/09/giant-claw/">The Giant Claw</a></li>
+			 	<li class="has-image skeptic" onclick="location.href='/2013/10/16/skeptic/';"><a href="/2013/10/16/skeptic/">The Skeptic</a></li>
+			 	<li class="has-image deadly-mantis" onclick="location.href='/2018/10/08/deadly-mantis/';"><a href="/2018/10/08/deadly-mantis/">The Deadly Mantis</a></li>
+			 	<li class="has-image city-dead" onclick="location.href='/2018/10/02/city-of-the-living-dead/';"><a href="/2018/10/02/city-of-the-living-dead/">City of the Living Dead</a></li>
+			 	<li class="has-image bug" onclick="location.href='/2016/10/17/bug-1975/';"><a href="/2016/10/17/bug-1975/">Bug (1975)</a></li>
 			 	<li><a href="/2012/10/08/resident-evil/">Resident Evil</a></li>
 			 	<li><a href="/2017/05/07/when-time-ran-out/">When Time Ran Out</a></li>
 			 	<li><a href="/2014/10/17/galaxy-of-terror/">Galaxy of Terror</a></li>
