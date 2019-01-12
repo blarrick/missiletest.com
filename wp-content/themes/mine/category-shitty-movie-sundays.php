@@ -146,10 +146,10 @@ get_header(); ?>
 			 	<li class="has-image deadly-mantis" onclick="location.href='/2018/10/08/deadly-mantis/';"><a href="/2018/10/08/deadly-mantis/">The Deadly Mantis</a></li>
 			 	<li class="has-image city-dead" onclick="location.href='/2018/10/02/city-of-the-living-dead/';"><a href="/2018/10/02/city-of-the-living-dead/">City of the Living Dead</a></li>
 			 	<li class="has-image bug" onclick="location.href='/2016/10/17/bug-1975/';"><a href="/2016/10/17/bug-1975/">Bug (1975)</a></li>
-			 	<li><a href="/2012/10/08/resident-evil/">Resident Evil</a></li>
-			 	<li><a href="/2017/05/07/when-time-ran-out/">When Time Ran Out</a></li>
-			 	<li><a href="/2014/10/17/galaxy-of-terror/">Galaxy of Terror</a></li>
-			 	<li><a href="/2014/10/06/apocalypse/">Resident Evil: Apocalypse</a></li>
+			 	<li class="has-image resident-evil" onclick="location.href='/2012/10/08/resident-evil/';"><a href="/2012/10/08/resident-evil/">Resident Evil</a></li>
+			 	<li class="has-image when-time" onclick="location.href='/2017/05/07/when-time-ran-out/';"><a href="/2017/05/07/when-time-ran-out/">When Time Ran Out</a></li>
+			 	<li class="has-image galaxy-terror" onclick="location.href='/2014/10/17/galaxy-of-terror/';"><a href="/2014/10/17/galaxy-of-terror/">Galaxy of Terror</a></li>
+			 	<li class="has-image resident-apocalypse" onclick="location.href='/2014/10/06/apocalypse/';"><a href="/2014/10/06/apocalypse/">Resident Evil: Apocalypse</a></li>
 			 	<li><a href="/2016/10/08/return-dead-ii/">Return of the Living Dead Part II</a></li>
 			 	<li><a href="/2018/02/18/cosmos/">Cosmos: War of the Planets</a></li>
 			 	<li><a href="/2018/10/21/the-being/">The Being</a></li>
