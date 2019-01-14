@@ -2938,6 +2938,31 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.cyborg-x {
+                  background: url(/wp-content/uploads/2019/01/cyborg-x-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.cosmos-war {
+                  background: url(/wp-content/uploads/2019/01/cosmos-war-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.being {
+                  background: url(/wp-content/uploads/2019/01/being-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.last-shark {
+                  background: url(/wp-content/uploads/2019/01/last-shark-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.colossal-beast {
+                  background: url(/wp-content/uploads/2019/01/colossal-beast-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
               .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li a {
                 border: none;
                 border-width: 0;

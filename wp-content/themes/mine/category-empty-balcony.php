@@ -217,6 +217,7 @@ get_header(); ?>
 				<li><a href="/2017/10/24/curse-of-the-werewolf/">Curse of the Werewolf, The</a></li>
 				<li class="shitty"><a href="/2018/04/24/cyber-tracker/">Cyber Tracker</a></li>
 				<li class="shitty"><a href="/2018/05/13/cyber-tracker-2/">Cyber Tracker 2</a></li>
+				<li class="shitty"><a href="/2019/01/13/cyborg-x/">Cyborg X</a></li>
 				<li class="shitty"><a href="/2018/10/11/cyclops/">Cyclops, The</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>

@@ -150,11 +150,12 @@ get_header(); ?>
 			 	<li class="has-image when-time" onclick="location.href='/2017/05/07/when-time-ran-out/';"><a href="/2017/05/07/when-time-ran-out/">When Time Ran Out</a></li>
 			 	<li class="has-image galaxy-terror" onclick="location.href='/2014/10/17/galaxy-of-terror/';"><a href="/2014/10/17/galaxy-of-terror/">Galaxy of Terror</a></li>
 			 	<li class="has-image resident-apocalypse" onclick="location.href='/2014/10/06/apocalypse/';"><a href="/2014/10/06/apocalypse/">Resident Evil: Apocalypse</a></li>
+			 	<li class="has-image cyborg-x" onclick="location.href='/2019/01/13/cyborg-x/';"><a href="/2019/01/13/cyborg-x/">Cyborg X</a></li>
 			 	<li class="has-image return-dead-2" onclick="location.href='/2016/10/08/return-dead-ii/';"><a href="/2016/10/08/return-dead-ii/">Return of the Living Dead Part II</a></li>
-			 	<li><a href="/2018/02/18/cosmos/">Cosmos: War of the Planets</a></li>
-			 	<li><a href="/2018/10/21/the-being/">The Being</a></li>
-			 	<li><a href="/2017/02/19/last-shark/">The Last Shark</a></li>
-			 	<li><a href="/2018/10/14/war-of-the-colossal-beast/">War of the Colossal Beast</a></li>
+			 	<li class="has-image cosmos-war" onclick="location.href='/2018/02/18/cosmos/';"><a href="/2018/02/18/cosmos/">Cosmos: War of the Planets</a></li>
+			 	<li class="has-image being" onclick="location.href='/2018/10/21/the-being/';"><a href="/2018/10/21/the-being/">The Being</a></li>
+			 	<li class="has-image last-shark" onclick="location.href='/2017/02/19/last-shark/';"><a href="/2017/02/19/last-shark/">The Last Shark</a></li>
+			 	<li class="has-image colossal-beast" onclick="location.href='/2018/10/14/war-of-the-colossal-beast/';"><a href="/2018/10/14/war-of-the-colossal-beast/">War of the Colossal Beast</a></li>
 			 	<li><a href="/2008/06/09/resident-evil-extinction/">Resident Evil: Extinction</a></li>
 			 	<li><a href="/2018/11/18/detour/">Detour</a></li>
 			 	<li><a href="/2010/10/03/growth/">Growth</a></li>
