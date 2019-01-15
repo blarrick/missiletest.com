@@ -171,10 +171,10 @@ get_header(); ?>
 			 	<li class="has-image prince-darkness" onclick="location.href='/2008/12/29/prince-of-darkness/';"><a href="/2008/12/29/prince-of-darkness/">Prince of Darkness</a></li>
 			 	<li class="has-image chernobyl-diaries" onclick="location.href='/2012/10/30/chernobyl-diaries/';"><a href="/2012/10/30/chernobyl-diaries/">Chernobyl Diaries</a></li>
 			 	<li class="has-image fog-2005" onclick="location.href='/2014/10/14/fog-2005/';"><a href="/2014/10/14/fog-2005/">The Fog (2005)</a></li>
-			 	<li><a href="/2016/11/27/no-escape/">No Escape</a></li>
-			 	<li><a href="/2015/10/21/creature/">Creature</a></li>
-			 	<li><a href="/2009/04/17/transporter/">The Transporter</a></li>
-			 	<li><a href="/2008/12/16/starship-troopers-3/">Starship Troopers 3: Marauder</a></li>
+			 	<li class="has-image no-escape" onclick="location.href='/2016/11/27/no-escape/';"><a href="/2016/11/27/no-escape/">No Escape</a></li>
+			 	<li class="has-image creature" onclick="location.href='/2015/10/21/creature/';"><a href="/2015/10/21/creature/">Creature</a></li>
+			 	<li class="has-image transporter" onclick="location.href='/2009/04/17/transporter/';"><a href="/2009/04/17/transporter/">The Transporter</a></li>
+			 	<li class="has-image starship-3" onclick="location.href='/2008/12/16/starship-troopers-3/';"><a href="/2008/12/16/starship-troopers-3/">Starship Troopers 3: Marauder</a></li>
 			 	<li><a href="/2018/02/04/geostorm/">Geostorm</a></li>
 			 	<li><a href="/2013/10/24/stuff/">The Stuff</a></li>
 			 	<li><a href="/2011/03/26/trancers-ii/">Trancers II</a></li>
