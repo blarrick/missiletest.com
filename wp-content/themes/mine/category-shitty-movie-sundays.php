@@ -156,21 +156,21 @@ get_header(); ?>
 			 	<li class="has-image being" onclick="location.href='/2018/10/21/the-being/';"><a href="/2018/10/21/the-being/">The Being</a></li>
 			 	<li class="has-image last-shark" onclick="location.href='/2017/02/19/last-shark/';"><a href="/2017/02/19/last-shark/">The Last Shark</a></li>
 			 	<li class="has-image colossal-beast" onclick="location.href='/2018/10/14/war-of-the-colossal-beast/';"><a href="/2018/10/14/war-of-the-colossal-beast/">War of the Colossal Beast</a></li>
-			 	<li><a href="/2008/06/09/resident-evil-extinction/">Resident Evil: Extinction</a></li>
-			 	<li><a href="/2018/11/18/detour/">Detour</a></li>
-			 	<li><a href="/2010/10/03/growth/">Growth</a></li>
-			 	<li><a href="/2013/10/01/resident-evil-retribution/">Resident Evil: Retribution</a></li>
-			 	<li><a href="/2010/10/15/elm-street-2010/">A Nightmare on Elm Street (2010)</a></li>
-			 	<li><a href="/2011/10/05/piranha-3d/">Piranha 3D</a></li>
-			 	<li><a href="/2016/12/11/the-new-barbarians/">The New Barbarians</a></li>
-			 	<li><a href="/2008/06/06/doom/">Doom</a></li>
-			 	<li><a href="/2018/10/13/amazing-colossal-man/">The Amazing Colossal Man</a></li>
-			 	<li><a href="/2013/10/10/ghosts-of-georgia/">The Haunting in Connecticut 2: Ghosts of Georgia</a></li>
-			 	<li><a href="/2014/10/15/crab-monsters/">Attack of the Crab Monsters</a></li>
-			 	<li><a href="/2017/07/09/raiders-of-atlantis/">The Raiders of Atlantis</a></li>
-			 	<li><a href="/2008/12/29/prince-of-darkness/">Prince of Darkness</a></li>
-			 	<li><a href="/2012/10/30/chernobyl-diaries/">Chernobyl Diaries</a></li>
-			 	<li><a href="/2014/10/14/fog-2005/">The Fog (2005)</a></li>
+			 	<li class="has-image resident-extinction" onclick="location.href='/2008/06/09/resident-evil-extinction/';"><a href="/2008/06/09/resident-evil-extinction/">Resident Evil: Extinction</a></li>
+			 	<li class="has-image detour" onclick="location.href='/2018/11/18/detour/';"><a href="/2018/11/18/detour/">Detour</a></li>
+			 	<li class="has-image growth" onclick="location.href='/2010/10/03/growth/';"><a href="/2010/10/03/growth/">Growth</a></li>
+			 	<li class="has-image resident-retribution" onclick="location.href='/2013/10/01/resident-evil-retribution/';"><a href="/2013/10/01/resident-evil-retribution/">Resident Evil: Retribution</a></li>
+			 	<li class="has-image nightmare-2010" onclick="location.href='/2010/10/15/elm-street-2010/';"><a href="/2010/10/15/elm-street-2010/">A Nightmare on Elm Street (2010)</a></li>
+			 	<li class="has-image piranha-3d" onclick="location.href='/2011/10/05/piranha-3d/';"><a href="/2011/10/05/piranha-3d/">Piranha 3D</a></li>
+			 	<li class="has-image new-barbarians" onclick="location.href='/2016/12/11/the-new-barbarians/';"><a href="/2016/12/11/the-new-barbarians/">The New Barbarians</a></li>
+			 	<li class="has-image doom" onclick="location.href='/2008/06/06/doom/';"><a href="/2008/06/06/doom/">Doom</a></li>
+			 	<li class="has-image colossal-man" onclick="location.href='/2018/10/13/amazing-colossal-man/';"><a href="/2018/10/13/amazing-colossal-man/">The Amazing Colossal Man</a></li>
+			 	<li class="has-image ghosts-georgia" onclick="location.href='/2013/10/10/ghosts-of-georgia/';"><a href="/2013/10/10/ghosts-of-georgia/">The Haunting in Connecticut 2: Ghosts of Georgia</a></li>
+			 	<li class="has-image crab-monsters" onclick="location.href='/2014/10/15/crab-monsters/';"><a href="/2014/10/15/crab-monsters/">Attack of the Crab Monsters</a></li>
+			 	<li class="has-image raiders-atlantis" onclick="location.href='/2017/07/09/raiders-of-atlantis/';"><a href="/2017/07/09/raiders-of-atlantis/">The Raiders of Atlantis</a></li>
+			 	<li class="has-image prince-darkness" onclick="location.href='/2008/12/29/prince-of-darkness/';"><a href="/2008/12/29/prince-of-darkness/">Prince of Darkness</a></li>
+			 	<li class="has-image chernobyl-diaries" onclick="location.href='/2012/10/30/chernobyl-diaries/';"><a href="/2012/10/30/chernobyl-diaries/">Chernobyl Diaries</a></li>
+			 	<li class="has-image fog-2005" onclick="location.href='/2014/10/14/fog-2005/';"><a href="/2014/10/14/fog-2005/">The Fog (2005)</a></li>
 			 	<li><a href="/2016/11/27/no-escape/">No Escape</a></li>
 			 	<li><a href="/2015/10/21/creature/">Creature</a></li>
 			 	<li><a href="/2009/04/17/transporter/">The Transporter</a></li>
