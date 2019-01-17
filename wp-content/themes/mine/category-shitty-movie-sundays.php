@@ -175,14 +175,14 @@ get_header(); ?>
 			 	<li class="has-image creature" onclick="location.href='/2015/10/21/creature/';"><a href="/2015/10/21/creature/">Creature</a></li>
 			 	<li class="has-image transporter" onclick="location.href='/2009/04/17/transporter/';"><a href="/2009/04/17/transporter/">The Transporter</a></li>
 			 	<li class="has-image starship-3" onclick="location.href='/2008/12/16/starship-troopers-3/';"><a href="/2008/12/16/starship-troopers-3/">Starship Troopers 3: Marauder</a></li>
-			 	<li><a href="/2018/02/04/geostorm/">Geostorm</a></li>
-			 	<li><a href="/2013/10/24/stuff/">The Stuff</a></li>
-			 	<li><a href="/2011/03/26/trancers-ii/">Trancers II</a></li>
-			 	<li><a href="/2017/05/28/bad-ass/">Bad Ass</a></li>
-			 	<li><a href="/2015/10/10/zombeavers/">Zombeavers</a></li>
-			 	<li><a href="/2013/11/04/riddick/">Riddick</a></li>
-			 	<li><a href="/2015/10/19/toolbox-murders/">The Toolbox Murders</a></li>
-			 	<li><a href="/2014/02/10/escape-plan/">Escape Plan</a></li>
+			 	<li class="has-image geostorm" onclick="location.href='/2018/02/04/geostorm/';"><a href="/2018/02/04/geostorm/">Geostorm</a></li>
+			 	<li class="has-image the-stuff" onclick="location.href='/2013/10/24/stuff/';"><a href="/2013/10/24/stuff/">The Stuff</a></li>
+			 	<li class="has-image trancers-ii" onclick="location.href='/2011/03/26/trancers-ii/';"><a href="/2011/03/26/trancers-ii/">Trancers II</a></li>
+			 	<li class="has-image bad-ass" onclick="location.href='/2017/05/28/bad-ass/';"><a href="/2017/05/28/bad-ass/">Bad Ass</a></li>
+			 	<li class="has-image zombeavers" onclick="location.href='/2015/10/10/zombeavers/';"><a href="/2015/10/10/zombeavers/">Zombeavers</a></li>
+			 	<li class="has-image riddick" onclick="location.href='/2013/11/04/riddick/';"><a href="/2013/11/04/riddick/">Riddick</a></li>
+			 	<li class="has-image toolbox-murders" onclick="location.href='/2015/10/19/toolbox-murders/';"><a href="/2015/10/19/toolbox-murders/">The Toolbox Murders</a></li>
+			 	<li class="has-image escape-plan" onclick="location.href='/2014/02/10/escape-plan/';"><a href="/2014/02/10/escape-plan/">Escape Plan</a></li>
 			 	<li><a href="/2017/06/18/new-gladiators/">The New Gladiators</a></li>
 			 	<li><a href="/2018/10/17/steel-and-lace/">Steel and Lace</a></li>
 			 	<li><a href="/2018/10/26/blood-feast/">Blood Feast</a></li>
