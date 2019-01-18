@@ -183,10 +183,10 @@ get_header(); ?>
 			 	<li class="has-image riddick" onclick="location.href='/2013/11/04/riddick/';"><a href="/2013/11/04/riddick/">Riddick</a></li>
 			 	<li class="has-image toolbox-murders" onclick="location.href='/2015/10/19/toolbox-murders/';"><a href="/2015/10/19/toolbox-murders/">The Toolbox Murders</a></li>
 			 	<li class="has-image escape-plan" onclick="location.href='/2014/02/10/escape-plan/';"><a href="/2014/02/10/escape-plan/">Escape Plan</a></li>
-			 	<li><a href="/2017/06/18/new-gladiators/">The New Gladiators</a></li>
-			 	<li><a href="/2018/10/17/steel-and-lace/">Steel and Lace</a></li>
-			 	<li><a href="/2018/10/26/blood-feast/">Blood Feast</a></li>
-			 	<li><a href="/2010/06/29/halloween-2007/">Halloween (2007)</a></li>
+			 	<li class="has-image new-gladiators" onclick="location.href='/2017/06/18/new-gladiators/';"><a href="/2017/06/18/new-gladiators/">The New Gladiators</a></li>
+			 	<li class="has-image steel-lace" onclick="location.href='/2018/10/17/steel-and-lace/';"><a href="/2018/10/17/steel-and-lace/">Steel and Lace</a></li>
+			 	<li class="has-image blood-feast" onclick="location.href='/2018/10/26/blood-feast/';"><a href="/2018/10/26/blood-feast/">Blood Feast</a></li>
+			 	<li class="has-image halloween-2007" onclick="location.href='/2010/06/29/halloween-2007/';"><a href="/2010/06/29/halloween-2007/">Halloween (2007)</a></li>
 			 	<li><a href="/2014/10/04/friday-13th-7/">Friday the 13th Part VII: The New Blood</a></li>
 			 	<li><a href="/2014/10/29/sleepaway-camp/">Sleepaway Camp</a></li>
 			 	<li><a href="/2017/08/24/eye-see-you/">Eye See You</a></li>

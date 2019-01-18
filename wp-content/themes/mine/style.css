@@ -3098,6 +3098,26 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.new-gladiators {
+                  background: url(/wp-content/uploads/2019/01/new-gladiators-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center center; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.steel-lace {
+                  background: url(/wp-content/uploads/2019/01/steel-lace-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.blood-feast {
+                  background: url(/wp-content/uploads/2019/01/blood-feast-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.halloween-2007 {
+                  background: url(/wp-content/uploads/2019/01/halloween-2007-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
               .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li a {
                 border: none;
                 border-width: 0;
