@@ -55,6 +55,7 @@ get_header(); ?>
 			 	<li class="has-image enter-ninja" onclick="location.href='/2019/01/06/enter-the-ninja/';"><a href="/2019/01/06/enter-the-ninja/">Enter the Ninja</a></li>
 			 	<li class="has-image trancers" onclick="location.href='/2011/03/07/trancers/';"><a href="/2011/03/07/trancers/">Trancers</a></li>
 			 	<li class="has-image critters" onclick="location.href='/2013/10/23/critters/';"><a href="/2013/10/23/critters/">Critters</a></li>
+			 	<li class="has-image ten-midnight" onclick="location.href='/2019/01/20/10-to-midnight/';"><a href="/2019/01/20/10-to-midnight/">10 to Midnight</a></li>
 			 	<li class="has-image keep" onclick="location.href='/2014/10/04/keep/';"><a href="/2014/10/04/keep/">The Keep</a></li>
 			 	<li class="has-image beyond-poseidon" onclick="location.href='/2017/07/02/beyond-the-poseidon-adventure/';"><a href="/2017/07/02/beyond-the-poseidon-adventure/">Beyond the Poseidon Adventure</a></li>
 			 	<li class="has-image strike-commando" onclick="location.href='/2018/01/21/strike-commando/';"><a href="/2018/01/21/strike-commando/">Strike Commando</a></li>
@@ -187,13 +188,13 @@ get_header(); ?>
 			 	<li class="has-image steel-lace" onclick="location.href='/2018/10/17/steel-and-lace/';"><a href="/2018/10/17/steel-and-lace/">Steel and Lace</a></li>
 			 	<li class="has-image blood-feast" onclick="location.href='/2018/10/26/blood-feast/';"><a href="/2018/10/26/blood-feast/">Blood Feast</a></li>
 			 	<li class="has-image halloween-2007" onclick="location.href='/2010/06/29/halloween-2007/';"><a href="/2010/06/29/halloween-2007/">Halloween (2007)</a></li>
-			 	<li><a href="/2014/10/04/friday-13th-7/">Friday the 13th Part VII: The New Blood</a></li>
-			 	<li><a href="/2014/10/29/sleepaway-camp/">Sleepaway Camp</a></li>
-			 	<li><a href="/2017/08/24/eye-see-you/">Eye See You</a></li>
-			 	<li><a href="/2018/07/22/best-friends/">Best Friends</a></li>
-			 	<li><a href="/2012/10/31/halloween-4/">Halloween 4: The Return of Michael Myers</a></li>
-			 	<li><a href="/2017/08/11/over-the-top/">Over the Top</a></li>
-			 	<li><a href="/2010/10/27/village-damned-1995/">Village of the Damned (1995)</a></li>
+			 	<li class="has-image friday-13th-7" onclick="location.href='/2014/10/04/friday-13th-7/';"><a href="/2014/10/04/friday-13th-7/">Friday the 13th Part VII: The New Blood</a></li>
+			 	<li class="has-image sleepaway-camp" onclick="location.href='/2014/10/29/sleepaway-camp/';"><a href="/2014/10/29/sleepaway-camp/">Sleepaway Camp</a></li>
+			 	<li class="has-image d-tox" onclick="location.href='/2017/08/24/eye-see-you/';"><a href="/2017/08/24/eye-see-you/">Eye See You</a></li>
+			 	<li class="has-image best-friends" onclick="location.href='/2018/07/22/best-friends/';"><a href="/2018/07/22/best-friends/">Best Friends</a></li>
+			 	<li class="has-image halloween-4" onclick="location.href='/2012/10/31/halloween-4/';"><a href="/2012/10/31/halloween-4/">Halloween 4: The Return of Michael Myers</a></li>
+			 	<li class="has-image over-top" onclick="location.href='/2017/08/11/over-the-top/';"><a href="/2017/08/11/over-the-top/">Over the Top</a></li>
+			 	<li class="has-image village-damned" onclick="location.href='/2010/10/27/village-damned-1995/';"><a href="/2010/10/27/village-damned-1995/">Village of the Damned (1995)</a></li>
 			 	<li><a href="/2018/06/25/la-crackdown/">LA Crackdown</a></li>
 			 	<li><a href="/2017/08/30/the-expendables-3/">The Expendables 3</a></li>
 			 	<li><a href="/2011/07/11/gojira/">Godzilla, King of the Monsters!</a></li>
