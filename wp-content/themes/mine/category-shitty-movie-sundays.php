@@ -195,30 +195,30 @@ get_header(); ?>
 			 	<li class="has-image halloween-4" onclick="location.href='/2012/10/31/halloween-4/';"><a href="/2012/10/31/halloween-4/">Halloween 4: The Return of Michael Myers</a></li>
 			 	<li class="has-image over-top" onclick="location.href='/2017/08/11/over-the-top/';"><a href="/2017/08/11/over-the-top/">Over the Top</a></li>
 			 	<li class="has-image village-damned" onclick="location.href='/2010/10/27/village-damned-1995/';"><a href="/2010/10/27/village-damned-1995/">Village of the Damned (1995)</a></li>
-			 	<li><a href="/2018/06/25/la-crackdown/">LA Crackdown</a></li>
-			 	<li><a href="/2017/08/30/the-expendables-3/">The Expendables 3</a></li>
-			 	<li><a href="/2011/07/11/gojira/">Godzilla, King of the Monsters!</a></li>
-			 	<li><a href="/2013/10/18/navy-night-monsters/">The Navy vs. the Night Monsters</a></li>
-			 	<li><a href="/2017/08/20/daylight/">Daylight</a></li>
-			 	<li><a href="/2018/10/11/cyclops/">The Cyclops</a></li>
-			 	<li><a href="/2017/10/20/bad-ben/">Bad Ben</a></li>
-			 	<li><a href="/2014/01/08/act-of-valor/">Act of Valor</a></li>
-			 	<li><a href="/2018/10/19/killer-shrews/">The Killer Shrews</a></li>
-			 	<li><a href="/2012/10/13/spit-grave/">I Spit on Your Grave</a></li>
-			 	<li><a href="/2014/01/06/killing-season/">Killing Season</a></li>
-			 	<li><a href="/2013/03/06/red-dawn-2012/">Red Dawn (2012)</a></li>
-			 	<li><a href="/2017/08/02/paradise-alley/">Paradise Alley</a></li>
-			 	<li><a href="/2011/10/04/dusk-till-dawn-2/">From Dusk Till Dawn 2: Texas Blood Money</a></li>
-			 	<li><a href="/2018/10/21/reptilicus/">Reptilicus</a></li>
-			 	<li><a href="/2012/10/16/alone-dark/">Alone in the Dark (1982)</a></li>
-			 	<li><a href="/2012/09/02/battleship/">Battleship</a></li>
-			 	<li><a href="/2018/01/07/summer-city/">Summer City</a></li>
-			 	<li><a href="/2013/10/31/halloween-5/">Halloween 5</a></li>
-			 	<li><a href="/2016/10/09/children-dead-things/">Children Shouldn’t Play with Dead Things</a></li>
-			 	<li><a href="/2008/10/27/theodore-rex/">Theodore Rex</a></li>
-			 	<li><a href="/2014/06/10/pompeii/">Pompeii</a></li>
-			 	<li><a href="/2018/10/06/king-dinosaur/">King Dinosaur</a></li>
-			 	<li><a href="/2016/11/13/rollerball/">Rollerball (2002)</a></li>
+			 	<li class="has-image la-crackdown" onclick="location.href='/2018/06/25/la-crackdown/';"><a href="/2018/06/25/la-crackdown/">LA Crackdown</a></li>
+			 	<li class="has-image expendables-3" onclick="location.href='/2017/08/30/the-expendables-3/';"><a href="/2017/08/30/the-expendables-3/">The Expendables 3</a></li>
+			 	<li class="has-image godzilla" onclick="location.href='/2011/07/11/gojira/';"><a href="/2011/07/11/gojira/">Godzilla, King of the Monsters!</a></li>
+			 	<li class="has-image night-monsters" onclick="location.href='/2013/10/18/navy-night-monsters/';"><a href="/2013/10/18/navy-night-monsters/">The Navy vs. the Night Monsters</a></li>
+			 	<li class="has-image daylight" onclick="location.href='/2017/08/20/daylight/';"><a href="/2017/08/20/daylight/">Daylight</a></li>
+			 	<li class="has-image cyclops" onclick="location.href='/2018/10/11/cyclops/';"><a href="/2018/10/11/cyclops/">The Cyclops</a></li>
+			 	<li class="has-image bad-ben" onclick="location.href='/2017/10/20/bad-ben/';"><a href="/2017/10/20/bad-ben/">Bad Ben</a></li>
+			 	<li class="has-image act-valor" onclick="location.href='/2014/01/08/act-of-valor/';"><a href="/2014/01/08/act-of-valor/">Act of Valor</a></li>
+			 	<li class="has-image killer-shrews" onclick="location.href='/2018/10/19/killer-shrews/';"><a href="/2018/10/19/killer-shrews/">The Killer Shrews</a></li>
+			 	<li class="has-image spit-grave" onclick="location.href='/2012/10/13/spit-grave/';"><a href="/2012/10/13/spit-grave/">I Spit on Your Grave</a></li>
+			 	<li class="has-image killing-season" onclick="location.href='/2014/01/06/killing-season/';"><a href="/2014/01/06/killing-season/">Killing Season</a></li>
+			 	<li class="has-image red-dawn-2012" onclick="location.href='/2013/03/06/red-dawn-2012/';"><a href="/2013/03/06/red-dawn-2012/">Red Dawn (2012)</a></li>
+			 	<li class="has-image paradise-alley" onclick="location.href='/2017/08/02/paradise-alley/';"><a href="/2017/08/02/paradise-alley/">Paradise Alley</a></li>
+			 	<li class="has-image texas-blood" onclick="location.href='/2011/10/04/dusk-till-dawn-2/';"><a href="/2011/10/04/dusk-till-dawn-2/">From Dusk Till Dawn 2: Texas Blood Money</a></li>
+			 	<li class="has-image reptilicus" onclick="location.href='/2018/10/21/reptilicus/';"><a href="/2018/10/21/reptilicus/">Reptilicus</a></li>
+			 	<li class="has-image alone-dark" onclick="location.href='/2012/10/16/alone-dark/';"><a href="/2012/10/16/alone-dark/">Alone in the Dark (1982)</a></li>
+			 	<li class="has-image battleship" onclick="location.href='/2012/09/02/battleship/';"><a href="/2012/09/02/battleship/">Battleship</a></li>
+			 	<li class="has-image summer-city" onclick="location.href='/2018/01/07/summer-city/';"><a href="/2018/01/07/summer-city/">Summer City</a></li>
+			 	<li class="has-image halloween-5" onclick="location.href='/2013/10/31/halloween-5/';"><a href="/2013/10/31/halloween-5/">Halloween 5</a></li>
+			 	<li class="has-image children-dead" onclick="location.href='/2016/10/09/children-dead-things/';"><a href="/2016/10/09/children-dead-things/">Children Shouldn’t Play with Dead Things</a></li>
+			 	<li class="has-image theodore-rex" onclick="location.href='/2008/10/27/theodore-rex/';"><a href="/2008/10/27/theodore-rex/">Theodore Rex</a></li>
+			 	<li class="has-image pompeii" onclick="location.href='/2014/06/10/pompeii/';"><a href="/2014/06/10/pompeii/">Pompeii</a></li>
+			 	<li class="has-image king-dinosaur" onclick="location.href='/2018/10/06/king-dinosaur/';"><a href="/2018/10/06/king-dinosaur/">King Dinosaur</a></li>
+			 	<li class="has-image rollerball-2002" onclick="location.href='/2016/11/13/rollerball/';"><a href="/2016/11/13/rollerball/">Rollerball (2002)</a></li>
 			 	<li><a href="/2014/10/31/halloween-6/">Halloween: The Curse of Michael Myers</a></li>
 			 	<li><a href="/2015/10/22/exeter/">Exeter</a></li>
 			 	<li><a href="/2013/10/07/rig/">The Rig</a></li>
