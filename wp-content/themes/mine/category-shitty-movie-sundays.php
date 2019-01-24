@@ -219,27 +219,27 @@ get_header(); ?>
 			 	<li class="has-image pompeii" onclick="location.href='/2014/06/10/pompeii/';"><a href="/2014/06/10/pompeii/">Pompeii</a></li>
 			 	<li class="has-image king-dinosaur" onclick="location.href='/2018/10/06/king-dinosaur/';"><a href="/2018/10/06/king-dinosaur/">King Dinosaur</a></li>
 			 	<li class="has-image rollerball-2002" onclick="location.href='/2016/11/13/rollerball/';"><a href="/2016/11/13/rollerball/">Rollerball (2002)</a></li>
-			 	<li><a href="/2014/10/31/halloween-6/">Halloween: The Curse of Michael Myers</a></li>
-			 	<li><a href="/2015/10/22/exeter/">Exeter</a></li>
-			 	<li><a href="/2013/10/07/rig/">The Rig</a></li>
-			 	<li><a href="/2010/06/29/halloween-2007/">Halloween II (2009)</a></li>
-			 	<li><a href="/2018/10/30/suckling/">The Suckling</a></li>
-			 	<li><a href="/2014/05/01/hercules-in-new-york/">Hercules in New York</a></li>
-			 	<li><a href="/2011/10/07/asylum-1972/">Asylum (1972)</a></li>
-			 	<li><a href="/2018/04/15/hot-rod-girl/">Hot Rod Girl</a></li>
-			 	<li><a href="/2018/10/24/the-giant-spider-invasion/">The Giant Spider Invasion</a></li>
-			 	<li><a href="/2013/10/08/last-exorcism-ii/">The Last Exorcism part II</a></li>
-			 	<li><a href="/2017/04/16/xxx/">xXx</a></li>
-			 	<li><a href="/2017/08/16/stop-or-my-mom-will-shoot/">Stop! Or My Mom Will Shoot</a></li>
-			 	<li><a href="/2017/08/23/driven/">Driven</a></li>
-			 	<li><a href="/2011/10/01/human-centipede/">The Human Centipede</a></li>
-			 	<li><a href="/2017/03/26/mazes-and-monsters/">Mazes and Monsters</a></li>
-			 	<li><a href="/2017/01/29/the-bronx-executioner-or-frankensteins-movie/">The Bronx Executioner</a></li>
-			 	<li><a href="/2011/03/26/trancers-ii/">Spice World</a></li>
-			 	<li><a href="/2010/10/02/house-dead/">House of the Dead</a></li>
-			 	<li><a href="/2013/10/14/rave-grave/">Return of the Living Dead: Rave to the Grave</a></li>
-			 	<li><a href="/2014/03/16/doggie-b/">Doggie B</a></li>
-			 	<li><a href="/2017/10/23/birdemic/">Birdemic: Shock and Terror</a></li>
+			 	<li class="has-image halloween-curse" onclick="location.href='/2014/10/31/halloween-6/';"><a href="/2014/10/31/halloween-6/">Halloween: The Curse of Michael Myers</a></li>
+			 	<li class="has-image exeter" onclick="location.href='/2015/10/22/exeter/';"><a href="/2015/10/22/exeter/">Exeter</a></li>
+			 	<li class="has-image rig" onclick="location.href='/2013/10/07/rig/';"><a href="/2013/10/07/rig/">The Rig</a></li>
+			 	<li class="has-image halloween-2-zombie" onclick="location.href='/2010/06/29/halloween-2007/';"><a href="/2010/06/29/halloween-2007/">Halloween II (2009)</a></li>
+			 	<li class="has-image suckling" onclick="location.href='/2018/10/30/suckling/';"><a href="/2018/10/30/suckling/">The Suckling</a></li>
+			 	<li class="has-image hercules-nyc" onclick="location.href='/2014/05/01/hercules-in-new-york/';"><a href="/2014/05/01/hercules-in-new-york/">Hercules in New York</a></li>
+			 	<li class="has-image asylum-1972" onclick="location.href='/2011/10/07/asylum-1972/';"><a href="/2011/10/07/asylum-1972/">Asylum (1972)</a></li>
+			 	<li class="has-image hot-rod-girl" onclick="location.href='/2018/04/15/hot-rod-girl/';"><a href="/2018/04/15/hot-rod-girl/">Hot Rod Girl</a></li>
+			 	<li class="has-image giant-spider" onclick="location.href='/2018/10/24/the-giant-spider-invasion/';"><a href="/2018/10/24/the-giant-spider-invasion/">The Giant Spider Invasion</a></li>
+			 	<li class="has-image last-exorcism-2" onclick="location.href='/2013/10/08/last-exorcism-ii/';"><a href="/2013/10/08/last-exorcism-ii/">The Last Exorcism part II</a></li>
+			 	<li class="has-image triple-diesel" onclick="location.href='/2017/04/16/xxx/';"><a href="/2017/04/16/xxx/">xXx</a></li>
+			 	<li class="has-image mom-shoot" onclick="location.href='/2017/08/16/stop-or-my-mom-will-shoot/';"><a href="/2017/08/16/stop-or-my-mom-will-shoot/">Stop! Or My Mom Will Shoot</a></li>
+			 	<li class="has-image driven" onclick="location.href='/2017/08/23/driven/';"><a href="/2017/08/23/driven/">Driven</a></li>
+			 	<li class="has-image human-centipede" onclick="location.href='/2011/10/01/human-centipede/';"><a href="/2011/10/01/human-centipede/">The Human Centipede</a></li>
+			 	<li class="has-image mazes-monsters" onclick="location.href='/2017/03/26/mazes-and-monsters/';"><a href="/2017/03/26/mazes-and-monsters/">Mazes and Monsters</a></li>
+			 	<li class="has-image bronx-exec" onclick="location.href='/2017/01/29/the-bronx-executioner-or-frankensteins-movie/';"><a href="/2017/01/29/the-bronx-executioner-or-frankensteins-movie/">The Bronx Executioner</a></li>
+			 	<li class="has-image spice-world" onclick="location.href='/2011/03/26/trancers-ii/';"><a href="/2011/03/26/trancers-ii/">Spice World</a></li>
+			 	<li class="has-image house-dead" onclick="location.href='/2010/10/02/house-dead/';"><a href="/2010/10/02/house-dead/">House of the Dead</a></li>
+			 	<li class="has-image rave-grave" onclick="location.href='/2013/10/14/rave-grave/';"><a href="/2013/10/14/rave-grave/">Return of the Living Dead: Rave to the Grave</a></li>
+			 	<li class="has-image doggie-b" onclick="location.href='/2014/03/16/doggie-b/';"><a href="/2014/03/16/doggie-b/">Doggie B</a></li>
+			 	<li class="has-image birdemic" onclick="location.href='/2017/10/23/birdemic/';"><a href="/2017/10/23/birdemic/">Birdemic: Shock and Terror</a></li>
 			</ol>
 		</div>
 
