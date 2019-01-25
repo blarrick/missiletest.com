@@ -414,8 +414,8 @@ get_header(); ?>
 				<li><a href="/2016/10/01/indigenous/">Indigenous</a></li>
 				<li><a href="/2018/10/24/inferno/">Inferno</a> <span>(1980)</span></li>
 				<li><a href="/2015/10/26/the-innocents/">Innocents, The</a></li>
-				<li><a href="/2014/10/08/insidious-2/">Insidious</a></li>
-				<li><a href="/2013/10/17/insidious/">Insidious: Chapter 2</a></li>
+				<li><a href="/2014/10/08/insidious/">Insidious</a></li>
+				<li><a href="/2013/10/17/insidious-2/">Insidious: Chapter 2</a></li>
 				<li><a href="/2017/01/02/into-the-forest/">Into the Forest</a></li>
 				<li><a href="/2016/10/02/intruders/">Intruders</a></li>
 				<li><a href="/2008/05/16/iron-man/">Iron Man</a></li>
