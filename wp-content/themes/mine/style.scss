@@ -931,6 +931,19 @@ blockquote {
 	&.aligncenter {
 		margin-bottom: 1.473684211em;
 	}
+	
+	.entry-content & {
+		
+		&:before, &:after {
+			display: none;
+		}
+	}
+	
+	div.video-container + & {
+		border-left-width: 0;
+		border-right-width: 4px;
+		padding: 0 1.263157895em 0 0;
+	}
 }
 
 blockquote,
