@@ -862,6 +862,13 @@ h6 {
 	text-rendering: optimizeLegibility;
 }
 
+h6 {
+	
+	blockquote + & {
+		margin-top: 0 !important;
+	}
+}
+
 p {
 	margin: 0 0 1.75em;
 }
