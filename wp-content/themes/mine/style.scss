@@ -2828,7 +2828,7 @@ blockquote,
 							padding-top: 30px;
 							height: 0;
 							overflow: hidden;
-							margin-bottom: 1.75em;
+							margin-bottom: 1em;
 							border: 1px solid $mt-grey;
 							float: none;
 							
@@ -2868,6 +2868,18 @@ blockquote,
 						
 						.video-container {
 							text-indent: 0;
+							
+							& + h6 {
+								margin-top: 0;								
+								color: $black-grey;
+								
+								@include breakpoint(tablet) {
+									margin: .7em 1em 1em 0;
+									display: block;
+									float: left;
+									width: 60%;
+								}
+							}
 						}
 						
 						p {

@@ -1802,7 +1802,7 @@ blockquote:after,
               padding-top: 30px;
               height: 0;
               overflow: hidden;
-              margin-bottom: 1.75em;
+              margin-bottom: 1em;
               border: 1px solid #5c565a;
               float: none; }
               .halloween .site .site-inner .site-content .site-main > article .entry-content .video-container,
@@ -1838,6 +1838,17 @@ blockquote:after,
             .site .site-inner .site-content .site-main > article .entry-content .video-container,
             .site .site-inner .site-content .site-main > article .entry-summary .video-container {
               text-indent: 0; }
+              .site .site-inner .site-content .site-main > article .entry-content .video-container + h6,
+              .site .site-inner .site-content .site-main > article .entry-summary .video-container + h6 {
+                margin-top: 0;
+                color: #1a1a1a; }
+                @media (min-width: 56.875em) {
+                  .site .site-inner .site-content .site-main > article .entry-content .video-container + h6,
+                  .site .site-inner .site-content .site-main > article .entry-summary .video-container + h6 {
+                    margin: .7em 1em 1em 0;
+                    display: block;
+                    float: left;
+                    width: 60%; } }
             .site .site-inner .site-content .site-main > article .entry-content p.no-indent,
             .site .site-inner .site-content .site-main > article .entry-summary p.no-indent {
               text-indent: 0; }
