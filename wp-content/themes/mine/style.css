@@ -2379,7 +2379,7 @@ blockquote:after,
                   .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image:hover a, .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image:focus a {
                     color: #f4797c; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.anaconda {
-                  background: url(/wp-content/uploads/2018/12/anaconda-banner-1.jpg);
+                  background: url(/wp-content/uploads/2019/02/anaconda-thumb.jpg);
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
@@ -3400,6 +3400,11 @@ blockquote:after,
                   background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.birdemic {
                   background: url(/wp-content/uploads/2019/01/birdemic-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.revenge-ninja {
+                  background: url(/wp-content/uploads/2019/02/revenge-of-the-ninja-thumb.jpg);
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }

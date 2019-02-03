@@ -36,6 +36,7 @@ get_header(); ?>
 		<div class="shitty-index">
 			<ol class="shitty-list">
 			 	<li class="has-image road-house" onclick="location.href='/2015/07/09/road-house/';"><a href="/2015/07/09/road-house/">Road House</a></li>
+			 	<li class="has-image revenge-ninja" onclick="location.href='/2019/02/03/revenge-of-the-ninja/';"><a href="/2019/02/03/revenge-of-the-ninja/">Revenge of the Ninja</a></li>
 			 	<li class="has-image commando" onclick="location.href='/2014/05/07/commando/';"><a href="/2014/05/07/commando/">Commando</a></li>
 			 	<li class="has-image anaconda" onclick="location.href='/2014/10/01/anaconda/';"><a href="/2014/10/01/anaconda/">Anaconda</a></li>
 			 	<li class="has-image deep-blue-sea" onclick="location.href='/2013/10/12/deep-blue-sea/';"><a href="/2013/10/12/deep-blue-sea/">Deep Blue Sea</a></li>

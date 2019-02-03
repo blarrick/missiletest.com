@@ -611,6 +611,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2016/10/08/return-dead-ii/">Return of the Living Dead Part II</a></li>
 				<li class="shitty"><a href="/2013/10/14/rave-grave/">Return of the Living Dead: Rave to the Grave</a></li>
 				<li><a href="/2017/10/07/revenge-of-frankenstein/">Revenge of Frankenstein, The</a></li>
+				<li class="shitty"><a href="/2019/02/03/revenge-of-the-ninja/">Revenge of the Ninja</a></li>
 				<li class="shitty"><a href="/2013/11/04/riddick/">Riddick</a></li>
 				<li class="shitty"><a href="/2013/10/07/rig/">Rig, The</a></li>
 				<li><a href="/2014/10/01/ring/">Ring, The</a></li>
