@@ -100,13 +100,7 @@ function twentysixteen_entry_taxonomies() {
 		);
 	}
 
-	$tags_list = get_the_tag_list( '', _x( ', ', 'Used between list items, there is a space after the comma.', 'twentysixteen' ) );
-	if ( $tags_list ) {
-		printf( '<span class="tags-links"><span class="screen-reader-text">%1$s </span>%2$s</span>',
-			_x( 'Tags', 'Used before tag names.', 'twentysixteen' ),
-			$tags_list
-		);
-	}
+	
 }
 endif;
 

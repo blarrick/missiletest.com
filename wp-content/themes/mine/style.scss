@@ -517,8 +517,7 @@ body {
 		}
 	
 		&.entry-format,
-		&.cat-links,
-		&.tags-links {
+		&.cat-links {
 			@include byline-link;
 			
 			.halloween & {
@@ -2929,6 +2928,23 @@ blockquote,
 									td {
 										font-weight: bold;
 									}
+								}
+							}
+						}
+						
+						span {
+							
+							&.tags-links {
+								display: block;
+								margin-top: 1.75em;
+								line-height: normal;
+			
+								a {
+									border: none;
+									background: transparent;
+									font-family: $sans-condensed;
+									text-transform: lowercase;
+									font-weight: 700;
 								}
 							}
 						}

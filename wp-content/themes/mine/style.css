@@ -252,13 +252,13 @@ body {
       body:not(.search-results).group-blog .byline {
         display: block;
         margin-bottom: 0.5384615385em; } }
-  body:not(.search-results).entry-format, body:not(.search-results).cat-links, body:not(.search-results).tags-links {
+  body:not(.search-results).entry-format, body:not(.search-results).cat-links {
     display: none; }
     @media (min-width: 61.5625em) {
-      body:not(.search-results).entry-format, body:not(.search-results).cat-links, body:not(.search-results).tags-links {
+      body:not(.search-results).entry-format, body:not(.search-results).cat-links {
         display: block;
         margin-bottom: 0.5384615385em; } }
-    .halloween body:not(.search-results).entry-format, .halloween body:not(.search-results).cat-links, .halloween body:not(.search-results).tags-links {
+    .halloween body:not(.search-results).entry-format, .halloween body:not(.search-results).cat-links {
       color: #f79621; }
   @media (min-width: 61.5625em) {
     body.no-sidebar:not(.search-results) article:not(.type-page) .entry-content {
@@ -1873,6 +1873,18 @@ blockquote:after,
             .site .site-inner .site-content .site-main > article .entry-content table.reapp tfoot td,
             .site .site-inner .site-content .site-main > article .entry-summary table.reapp tfoot td {
               font-weight: bold; }
+            .site .site-inner .site-content .site-main > article .entry-content span.tags-links,
+            .site .site-inner .site-content .site-main > article .entry-summary span.tags-links {
+              display: block;
+              margin-top: 1.75em;
+              line-height: normal; }
+              .site .site-inner .site-content .site-main > article .entry-content span.tags-links a,
+              .site .site-inner .site-content .site-main > article .entry-summary span.tags-links a {
+                border: none;
+                background: transparent;
+                font-family: "Roboto Condensed", sans-serif;
+                text-transform: lowercase;
+                font-weight: 700; }
             .site .site-inner .site-content .site-main > article .entry-content .movie-poster,
             .site .site-inner .site-content .site-main > article .entry-summary .movie-poster {
               border: 1px solid #5c565a; }
