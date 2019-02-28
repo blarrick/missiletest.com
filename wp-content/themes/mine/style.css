@@ -3336,7 +3336,7 @@ blockquote:after,
                   background-size: cover;
                   background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.hercules-nyc {
-                  background: url(/wp-content/uploads/2019/01/hercules-nyc-thumb.jpg);
+                  background: url(/wp-content/uploads/2019/02/hercules-2-thumb.jpg);
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
@@ -3422,6 +3422,11 @@ blockquote:after,
                   background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.black-water {
                   background: url(/wp-content/uploads/2019/02/black-water-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.project-moonbase {
+                  background: url(/wp-content/uploads/2019/02/project-moonbase-thumb.jpg);
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }

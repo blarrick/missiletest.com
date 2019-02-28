@@ -58,6 +58,7 @@ get_header(); ?>
 			 	<li class="has-image critters" onclick="location.href='/2013/10/23/critters/';"><a href="/2013/10/23/critters/">Critters</a></li>
 			 	<li class="has-image ten-midnight" onclick="location.href='/2019/01/20/10-to-midnight/';"><a href="/2019/01/20/10-to-midnight/">10 to Midnight</a></li>
 			 	<li class="has-image keep" onclick="location.href='/2014/10/04/keep/';"><a href="/2014/10/04/keep/">The Keep</a></li>
+			 	<li class="has-image hercules-nyc" onclick="location.href='/2014/05/01/hercules-in-new-york/';"><a href="/2014/05/01/hercules-in-new-york/">Hercules in New York</a></li>
 			 	<li class="has-image beyond-poseidon" onclick="location.href='/2017/07/02/beyond-the-poseidon-adventure/';"><a href="/2017/07/02/beyond-the-poseidon-adventure/">Beyond the Poseidon Adventure</a></li>
 			 	<li class="has-image strike-commando" onclick="location.href='/2018/01/21/strike-commando/';"><a href="/2018/01/21/strike-commando/">Strike Commando</a></li>
 			 	<li class="has-image backdraft" onclick="location.href='/2012/09/10/backdraft/';"><a href="/2012/09/10/backdraft/">Backdraft</a></li>
@@ -68,7 +69,6 @@ get_header(); ?>
 			 	<li class="has-image bronx-warriors" onclick="location.href='/2016/09/15/bronx-warriors/';"><a href="/2016/09/15/bronx-warriors/">1990: The Bronx Warriors</a></li>
 			 	<li class="has-image batman-robin" onclick="location.href='/2014/05/20/batman-robin/';"><a href="/2014/05/20/batman-robin/">Batman and Robin</a></li>
 			 	<li class="has-image friday-13th-2" onclick="location.href='/2009/10/07/friday-13th-2/';"><a href="/2009/10/07/friday-13th-2/">Friday the 13th Part 2</a></li>
-			 	<li class="has-image winged-serpent" onclick="location.href='/2018/10/28/q-the-winged-serpent/';"><a href="/2018/10/28/q-the-winged-serpent/">Q — The Winged Serpent</a></li>
 			 	<li class="has-image steel-dawn" onclick="location.href='/2017/04/09/steel-dawn/';"><a href="/2017/04/09/steel-dawn/">Steel Dawn</a></li>
 			 	<li class="has-image basket-case" onclick="location.href='/2011/10/18/basket-case/';"><a href="/2011/10/18/basket-case/">Basket Case</a></li>
 			 	<li class="has-image contamination" onclick="location.href='/2017/10/09/contamination/';"><a href="/2017/10/09/contamination/">Contamination</a></li>
@@ -101,6 +101,7 @@ get_header(); ?>
 			 	<li class="has-image raw-deal" onclick="location.href='/2014/05/08/raw-deal/';"><a href="/2014/05/08/raw-deal/">Raw Deal</a></li>
 			 	<li class="has-image olympus-fallen" onclick="location.href='/2013/03/24/olympus-has-fallen/';"><a href="/2013/03/24/olympus-has-fallen/">Olympus Has Fallen</a></li>
 			 	<li class="has-image deepstar-six" onclick="location.href='/2013/10/21/deepstar-six/';"><a href="/2013/10/21/deepstar-six/">DeepStar Six</a></li>
+			 	<li class="has-image winged-serpent" onclick="location.href='/2018/10/28/q-the-winged-serpent/';"><a href="/2018/10/28/q-the-winged-serpent/">Q — The Winged Serpent</a></li>
 			 	<li class="has-image shape-things" onclick="location.href='/2018/07/29/shape-of-things-to-come/';"><a href="/2018/07/29/shape-of-things-to-come/">The Shape of Things to Come</a></li>
 			 	<li class="has-image city-on-fire" onclick="location.href='/2018/08/05/city-on-fire/';"><a href="/2018/08/05/city-on-fire/">City on Fire</a></li>
 			 	<li class="has-image freddy-jason" onclick="location.href='/2009/10/29/freddy-vs-jason/';"><a href="/2009/10/29/freddy-vs-jason/">Freddy vs. Jason</a></li>
@@ -221,12 +222,12 @@ get_header(); ?>
 			 	<li class="has-image pompeii" onclick="location.href='/2014/06/10/pompeii/';"><a href="/2014/06/10/pompeii/">Pompeii</a></li>
 			 	<li class="has-image king-dinosaur" onclick="location.href='/2018/10/06/king-dinosaur/';"><a href="/2018/10/06/king-dinosaur/">King Dinosaur</a></li>
 			 	<li class="has-image rollerball-2002" onclick="location.href='/2016/11/13/rollerball/';"><a href="/2016/11/13/rollerball/">Rollerball (2002)</a></li>
+			 	<li class="has-image project-moonbase" onclick="location.href='/2019/02/17/project-moonbase/';"><a href="/2019/02/17/project-moonbase/">Project Moonbase</a></li>
 			 	<li class="has-image halloween-curse" onclick="location.href='/2014/10/31/halloween-6/';"><a href="/2014/10/31/halloween-6/">Halloween: The Curse of Michael Myers</a></li>
 			 	<li class="has-image exeter" onclick="location.href='/2015/10/22/exeter/';"><a href="/2015/10/22/exeter/">Exeter</a></li>
 			 	<li class="has-image rig" onclick="location.href='/2013/10/07/rig/';"><a href="/2013/10/07/rig/">The Rig</a></li>
 			 	<li class="has-image halloween-2-zombie" onclick="location.href='/2010/06/29/halloween-2007/';"><a href="/2010/06/29/halloween-2007/">Halloween II (2009)</a></li>
 			 	<li class="has-image suckling" onclick="location.href='/2018/10/30/suckling/';"><a href="/2018/10/30/suckling/">The Suckling</a></li>
-			 	<li class="has-image hercules-nyc" onclick="location.href='/2014/05/01/hercules-in-new-york/';"><a href="/2014/05/01/hercules-in-new-york/">Hercules in New York</a></li>
 			 	<li class="has-image asylum-1972" onclick="location.href='/2011/10/07/asylum-1972/';"><a href="/2011/10/07/asylum-1972/">Asylum (1972)</a></li>
 			 	<li class="has-image hot-rod-girl" onclick="location.href='/2018/04/15/hot-rod-girl/';"><a href="/2018/04/15/hot-rod-girl/">Hot Rod Girl</a></li>
 			 	<li class="has-image giant-spider" onclick="location.href='/2018/10/24/the-giant-spider-invasion/';"><a href="/2018/10/24/the-giant-spider-invasion/">The Giant Spider Invasion</a></li>
