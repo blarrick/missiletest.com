@@ -1892,7 +1892,8 @@ blockquote:after,
                 .site .site-inner .site-content .site-main > article .entry-content .movie-poster,
                 .site .site-inner .site-content .site-main > article .entry-summary .movie-poster {
                   width: 40%;
-                  margin: 20px 0 20px 30px; } }
+                  margin: 20px 0 20px 30px;
+                  float: right; } }
           .site .site-inner .site-content .site-main > article .entry-title {
             font-family: "Roboto Condensed", sans-serif;
             font-size: 1.75rem;
@@ -3427,6 +3428,16 @@ blockquote:after,
                   background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.project-moonbase {
                   background: url(/wp-content/uploads/2019/02/project-moonbase-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.invasion-usa {
+                  background: url(/wp-content/uploads/2019/03/invasion-usa-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.damnation-alley {
+                  background: url(/wp-content/uploads/2019/03/damnation-alley-thumb.jpg);
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }

@@ -154,6 +154,7 @@ get_header(); ?>
 				<li><a href="/2018/10/08/black-christmas/">Black Christmas</a></li>
 				<li><a href="/2011/02/22/black-hawk-down/">Black Hawk Down</a></li>
 				<li><a href="/2018/10/12/black-scorpion/">Black Scorpion, The</a></li>
+				<li><a href="/2019/03/03/black-sea/">Black Sea</a></li>
 				<li class="shitty"><a href="/2019/02/10/black-water/">Black Water</a></li>
 				<li><a href="/2014/10/11/blair-witch/">Blair Witch Project, The</a></li>	
 				<li><a href="/2018/10/16/the-blob/">Blob, The</a> <span>(1958)</span></li>
@@ -227,6 +228,7 @@ get_header(); ?>
 			<h5 id="dd">D</h5>
 			<ul>
 				<li class="shitty"><a href="/2017/08/24/eye-see-you/">D-Tox, aka Eye See You</a></li>
+				<li class="shitty"><a href="/2019/03/17/damnation-alley/">Damnation Alley</a></li>
 				<li class="shitty"><a href="/2010/10/04/dance-dead/">Dance of the Dead</a></li>
 				<li><a href="/2012/08/09/foam-rubber-wholesalers/">Dark Knight Rises, The</a></li>
 				<li><a href="/2013/10/18/dark-skies/">Dark Skies</a></li>
@@ -391,7 +393,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2009/01/19/horror-express/">Horror Express</a></li>
 				<li><a href="/2017/10/03/dracula-1958/">Horror of Dracula, aka Dracula</a></li>
 				<li><a href="/2017/10/25/horror-of-frankenstein/">Horror of Frankenstein, The</a></li>
-				<li><a href="/2018/10/30/the-host/">Host, The</a></li>
+				<li><a href="/2018/10/30/the-host/">Host, The</a> <span>(2006)</span></li>
 				<li class="shitty"><a href="/2018/04/15/hot-rod-girl/">Hot Rod Girl</a></li>
 				<li><a href="/2017/10/10/the-hound-of-the-baskervilles-1959/">Hound of the Baskervilles, The</a> <span>(1959)</span></li>
 				<li><a href="/2014/10/10/street/">House at the End of the Street</a></li>
@@ -420,6 +422,7 @@ get_header(); ?>
 				<li><a href="/2014/10/08/insidious-2/">Insidious: Chapter 2</a></li>				
 				<li><a href="/2017/01/02/into-the-forest/">Into the Forest</a></li>
 				<li><a href="/2016/10/02/intruders/">Intruders</a></li>
+				<li class="shitty"><a href="/2019/03/10/invasion-usa/">Invasion U.S.A.</a></li>
 				<li><a href="/2008/05/16/iron-man/">Iron Man</a></li>
 				<li><a href="/2018/10/01/it-2017/">It</a> <span>(2017)</span></li>
 				<li><a href="/2018/10/04/beneath-the-sea/">It Came from Beneath the Sea</a></li>
