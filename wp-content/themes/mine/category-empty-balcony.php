@@ -304,6 +304,7 @@ get_header(); ?>
 				<li><a href="/2010/10/13/fido/">Fido</a></li>
 				<li><a href="/2017/03/06/5th-empty-balcony-awards/">Fifth Annual Empty Balcony Awards for Movies I Saw From Last Year, The</a></li>
 				<li><a href="/2012/09/01/final-countdown/">Final Countdown, The</a></li>
+				<li class="shitty"><a href="/2019/03/31/final-score/">Final Score</a></li>
 				<li class="reco"><a href="/2017/08/07/first-blood/">First Blood</a></li>
 				<li class="reco"><a href="/2017/02/26/fistful-of-dollars/">Fistful of Dollars, A</a></li>
 				<li><a href="/2017/10/14/quatermass-3/">Five Million Years to Earth, aka Quatermass and the Pit</a></li>
@@ -729,6 +730,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2009/04/17/transporter/">Transporter, The</a></li>
 				<li class="reco"><a href="/2013/10/29/tremors/">Tremors</a></li>
 				<li><a href="/2015/10/27/trick-r-treat/">Trick ‘r Treat</a></li>
+				<li><a href="/2019/03/24/triple-frontier/">Triple Frontier</a></li>
 				<li><a href="/2013/10/13/trollhunter/">Trollhunter</a></li>
 				<li class="reco"><a href="/2018/12/30/true-grit-1969/">True Grit <span>(1969)</span></a></li>
 				<li class="reco"><a href="/2014/05/16/true-lies/">True Lies</a></li>
