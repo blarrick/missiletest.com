@@ -189,6 +189,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/01/15/the-chilling/">Chilling, The</a></li>
 				<li class="shitty"><a href="/2017/10/05/chopping-mall/">Chopping Mall</a></li>
 				<li><a href="/2013/10/04/christine/">Christine</a></li>
+				<li class="shitty"><a href="/2019/04/07/chrome-and-hot-leather/">Chrome and Hot Leather</a></li>
 				<li><a href="/2013/10/05/citadel/">Citadel</a></li>
 				<li class="shitty"><a href="/2018/10/02/city-of-the-living-dead/">City of the Living Dead</a></li>
 				<li class="shitty"><a href="/2018/08/05/city-on-fire/">City on Fire</a></li>

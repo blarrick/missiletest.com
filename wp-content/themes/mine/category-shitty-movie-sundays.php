@@ -112,6 +112,7 @@ get_header(); ?>
 			 	<li class="has-image earth-spider" onclick="location.href='/2018/10/15/earth-vs-the-spider/';"><a href="/2018/10/15/earth-vs-the-spider/">Earth vs. The Spider</a></li>
 			 	<li class="has-image friday-13th" onclick="location.href='/2009/10/01/friday-13th/';"><a href="/2009/10/01/friday-13th/">Friday the 13th</a></li>
 			 	<li class="has-image freejack" onclick="location.href='/2017/11/05/freejack/';"><a href="/2017/11/05/freejack/">Freejack</a></li>
+			 	<li class="has-image chrome-leather" onclick="location.href='/2019/04/07/chrome-and-hot-leather/';"><a href="/2019/04/07/chrome-and-hot-leather/">Chrome and Hot Leather</a></li>
 			 	<li class="has-image i-am-legend" onclick="location.href='/2009/01/09/i-am-legend/';"><a href="/2009/01/09/i-am-legend/">I Am Legend</a></li>
 			 	<li class="has-image last-stand" onclick="location.href='/2013/06/23/last-stand/';"><a href="/2013/06/23/last-stand/">The Last Stand</a></li>
 			 	<li class="has-image colony" onclick="location.href='/2013/10/16/colony/';"><a href="/2013/10/16/colony/">The Colony</a></li>
