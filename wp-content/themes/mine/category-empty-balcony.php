@@ -104,6 +104,7 @@ get_header(); ?>
 				<li><a href="/2018/12/16/alien-uprising/">Alien Uprising</a></li>
 				<li class="shitty"><a href="/2016/10/12/alien-vs-predator/">Alien vs. Predator</a></li>
 				<li><a href="/2016/10/15/alien-vs-predator-requiem/">Alien vs. Predator: Requiem</a></li>
+				<li class="shitty"><a href="/2019/04/14/alien-warfare/">Alien Warfare</a></li>
 				<li class="reco"><a href="/2008/05/21/aliens/">Aliens</a></li>
 				<li class="shitty"><a href="/2012/10/16/alone-dark/">Alone in the Dark</a> <span>(1982)</span></li>
 				<li class="shitty"><a href="/2018/10/13/amazing-colossal-man/">Amazing Colossal Man, The</a></li>
@@ -733,6 +734,7 @@ get_header(); ?>
 				<li><a href="/2015/10/27/trick-r-treat/">Trick ‘r Treat</a></li>
 				<li><a href="/2019/03/24/triple-frontier/">Triple Frontier</a></li>
 				<li><a href="/2013/10/13/trollhunter/">Trollhunter</a></li>
+				<li class="shitty"><a href="/2019/04/21/truck-stop-women/">Truck Stop Women</a></li>
 				<li class="reco"><a href="/2018/12/30/true-grit-1969/">True Grit <span>(1969)</span></a></li>
 				<li class="reco"><a href="/2014/05/16/true-lies/">True Lies</a></li>
 				<li><a href="/2016/10/28/tucker-dale/">Tucker & Dale vs. Evil</a></li>

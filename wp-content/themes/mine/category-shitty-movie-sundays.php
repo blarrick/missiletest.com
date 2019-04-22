@@ -122,6 +122,7 @@ get_header(); ?>
 			 	<li class="has-image san-andreas" onclick="location.href='/2015/10/15/san-andreas/';"><a href="/2015/10/15/san-andreas/">San Andreas</a></li>
 			 	<li class="has-image dance-dead" onclick="location.href='/2010/10/04/dance-dead/';"><a href="/2010/10/04/dance-dead/">Dance of the Dead</a></li>
 			 	<li class="has-image melting-man" onclick="location.href='/2014/10/21/incredible-melting-man/';"><a href="/2014/10/21/incredible-melting-man/">The Incredible Melting Man</a></li>
+			 	<li class="has-image truck-stop" onclick="location.href='/2019/04/21/truck-stop-women/';"><a href="/2019/04/21/truck-stop-women/">Truck Stop Women</a></li>
 			 	<li class="has-image maniac-cop-2" onclick="location.href='/2010/10/12/maniac-cop-2/';"><a href="/2010/10/12/maniac-cop-2/">Maniac Cop 2</a></li>
 			 	<li class="has-image bone-dry" onclick="location.href='/2018/12/23/bone-dry/';"><a href="/2013/10/06/graveyard-shift/"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
 			 	<li class="has-image giant-leeches" onclick="location.href='/2018/10/20/attack-of-the-giant-leeches/';"><a href="/2018/10/20/attack-of-the-giant-leeches/">Attack of the Giant Leeches</a></li>
@@ -181,6 +182,7 @@ get_header(); ?>
 			 	<li class="has-image no-escape" onclick="location.href='/2016/11/27/no-escape/';"><a href="/2016/11/27/no-escape/">No Escape</a></li>
 			 	<li class="has-image creature" onclick="location.href='/2015/10/21/creature/';"><a href="/2015/10/21/creature/">Creature</a></li>
 			 	<li class="has-image transporter" onclick="location.href='/2009/04/17/transporter/';"><a href="/2009/04/17/transporter/">The Transporter</a></li>
+			 	<li class="has-image alien-warfare" onclick="location.href='/2019/04/14/alien-warfare/';"><a href="/2019/04/14/alien-warfare/">Alien Warfare</a></li>
 			 	<li class="has-image starship-3" onclick="location.href='/2008/12/16/starship-troopers-3/';"><a href="/2008/12/16/starship-troopers-3/">Starship Troopers 3: Marauder</a></li>
 			 	<li class="has-image black-water" onclick="location.href='/2019/02/10/black-water/';"><a href="/2019/02/10/black-water/">Black Water</a></li>
 			 	<li class="has-image geostorm" onclick="location.href='/2018/02/04/geostorm/';"><a href="/2018/02/04/geostorm/">Geostorm</a></li>
