@@ -172,6 +172,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/01/29/the-bronx-executioner-or-frankensteins-movie/">Bronx Executioner, The</a></li>
 				<li class="shitty"><a href="/2016/10/17/bug-1975/">Bug</a> <span>(1975)</span></li>
 				<li><a href="/2017/08/29/bullet-to-the-head/">Bullet to the Head</a></li>
+				<li class="shitty"><a href="/2019/05/12/bunker-project-12/">Bunker: Project 12</a></li>
 				<li class="shitty"><a href="/2017/10/06/burial-ground/">Burial Ground</a></li>
 				<li><a href="/2009/03/23/burn-after-reading/">Burn After Reading</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
@@ -533,6 +534,7 @@ get_header(); ?>
 			</ul>
 			<h5 id="oo">O</h5>
 			<ul>
+				<li class="shitty"><a href="/2019/05/05/octagon/">Octagon, The</a></li>
 				<li><a href="/2014/10/14/oculus/">Oculus</a></li>
 				<li><a href="/2014/10/26/odd-thomas/">Odd Thomas</a></li>
 				<li><a href="/2012/10/21/of-unknown-origin/">Of Unknown Origin</a></li>
@@ -568,6 +570,7 @@ get_header(); ?>
 				<li><a href="/2016/10/07/predator-2/">Predator 2</a></li>
 				<li><a href="/2016/10/13/predators/">Predators</a></li>
 				<li class="shitty"><a href="/2008/12/29/prince-of-darkness/">Prince of Darkness</a></li>
+				<li class="shitty"><a href="/2019/05/12/bunker-project-12/">Project 12: The Bunker, aka Bunker: Project 12</a></li>
 				<li class="shitty"><a href="/2019/02/17/project-moonbase/">Project Moonbase</a></li>
 				<li><a href="/2014/10/24/prom-night/">Prom Night</a></li>
 				<li><a href="/2014/10/03/prophecy/">Prophecy, The</a></li>

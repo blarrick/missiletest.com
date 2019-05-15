@@ -134,6 +134,7 @@ get_header(); ?>
 			 	<li class="has-image id4-resurgence" onclick="location.href='/2016/11/06/id4-resurgence/';"><a href="/2016/11/06/id4-resurgence/">Independence Day: Resurgence</a></li>
 			 	<li class="has-image food-gods" onclick="location.href='/2018/10/25/food-of-the-gods/';"><a href="/2018/10/25/food-of-the-gods/">The Food of the Gods</a></li>
 			 	<li class="has-image burial-ground" onclick="location.href='/2017/10/06/burial-ground/';"><a href="/2017/10/06/burial-ground/">Burial Ground</a></li>
+			 	<li class="has-image octagon" onclick="location.href='/2019/05/05/octagon/';"><a href="/2019/05/05/octagon/">The Octagon</a></li>
 			 	<li class="has-image humanity-bureau" onclick="location.href='/2018/08/13/humanity-bureau/';"><a href="/2018/08/13/humanity-bureau/">The Humanity Bureau</a></li>
 			 	<li class="has-image mach-2" onclick="location.href='/2019/04/28/mach-2/';"><a href="/2019/04/28/mach-2/">Mach 2</a></li>
 			 	<li class="has-image chilling" onclick="location.href='/2017/01/15/the-chilling/';"><a href="/2017/01/15/the-chilling/">The Chilling</a></li>
@@ -179,6 +180,7 @@ get_header(); ?>
 			 	<li class="has-image raiders-atlantis" onclick="location.href='/2017/07/09/raiders-of-atlantis/';"><a href="/2017/07/09/raiders-of-atlantis/">The Raiders of Atlantis</a></li>
 			 	<li class="has-image prince-darkness" onclick="location.href='/2008/12/29/prince-of-darkness/';"><a href="/2008/12/29/prince-of-darkness/">Prince of Darkness</a></li>
 			 	<li class="has-image chernobyl-diaries" onclick="location.href='/2012/10/30/chernobyl-diaries/';"><a href="/2012/10/30/chernobyl-diaries/">Chernobyl Diaries</a></li>
+			 	<li class="has-image project-12" onclick="location.href='/2019/05/12/bunker-project-12/';"><a href="/2019/05/12/bunker-project-12/">Bunker: Project 12</a></li>
 			 	<li class="has-image fog-2005" onclick="location.href='/2014/10/14/fog-2005/';"><a href="/2014/10/14/fog-2005/">The Fog (2005)</a></li>
 			 	<li class="has-image no-escape" onclick="location.href='/2016/11/27/no-escape/';"><a href="/2016/11/27/no-escape/">No Escape</a></li>
 			 	<li class="has-image creature" onclick="location.href='/2015/10/21/creature/';"><a href="/2015/10/21/creature/">Creature</a></li>

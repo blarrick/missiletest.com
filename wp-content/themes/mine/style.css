@@ -3466,6 +3466,16 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.octagon {
+                  background: url(/wp-content/uploads/2019/05/octagon-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.project-12 {
+                  background: url(/wp-content/uploads/2019/05/project-12-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
               .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li a {
                 border: none;
                 border-width: 0;
