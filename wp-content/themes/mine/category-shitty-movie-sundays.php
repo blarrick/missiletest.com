@@ -47,6 +47,7 @@ get_header(); ?>
 			 	<li class="has-image maximum-overdrive" onclick="location.href='/2009/10/24/maximum-overdrive/';"><a href="/2009/10/24/maximum-overdrive/">Maximum Overdrive</a></li>
 			 	<li class="has-image rambo-2" onclick="location.href='/2017/08/08/rambo-2/';"><a href="/2017/08/08/rambo-2/">Rambo: First Blood Part II</a></li>
 			 	<li class="has-image kingdom-spiders" onclick="location.href='/2012/10/03/kingdom-of-spiders/';"><a href="/2012/10/03/kingdom-of-spiders/">Kingdom of the Spiders</a></li>
+			 	<li class="has-image death-wish-2" onclick="location.href='/2019/05/19/death-wish-2/';"><a href="/2019/05/19/death-wish-2/">Death Wish II</a></li>
 			 	<li class="has-image event-horizon" onclick="location.href='/2009/10/19/event-horizon/';"><a href="/2009/10/19/event-horizon/">Event Horizon</a></li>
 			 	<li class="has-image class-1999" onclick="location.href='/2016/10/27/class-of-1999/';"><a href="/2016/10/27/class-of-1999/">Class of 1999</a></li>
 			 	<li class="has-image king-kong-lives" onclick="location.href='/2018/10/29/king-kong-lives/';"><a href="/2018/10/29/king-kong-lives/">King Kong Lives</a></li>

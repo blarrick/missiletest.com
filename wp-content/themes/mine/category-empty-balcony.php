@@ -247,6 +247,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/10/08/deadly-mantis/">Deadly Mantis, The</a></li>
 				<li class="shitty"><a href="/2018/04/01/death-machines/">Death Machines</a></li>
 				<li class="shitty"><a href="/2017/05/21/psychomania/">Death Wheelers, The, aka Psychomania</a></li>
+				<li class="shitty"><a href="/2019/05/19/death-wish-2/">Death Wish II</a></li>
 				<li class="shitty"><a href="/2017/07/23/death-wish-4/">Death Wish 4: The Crackdown</a></li>
 				<li class="shitty"><a href="/2013/10/12/deep-blue-sea/">Deep Blue Sea</a></li>
 				<li class="shitty"><a href="/2009/08/11/deep-rising/">Deep Rising</a></li>
