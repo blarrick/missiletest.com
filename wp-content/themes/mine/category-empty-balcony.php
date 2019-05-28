@@ -109,6 +109,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2012/10/16/alone-dark/">Alone in the Dark</a> <span>(1982)</span></li>
 				<li class="shitty"><a href="/2018/10/13/amazing-colossal-man/">Amazing Colossal Man, The</a></li>
 				<li><a href="/2014/03/24/american-hustle/">American Hustle</a></li>
+				<li><a href="/2019/05/26/renegades/">American Renegades, aka Renegades</a></li>
 				<li><a href="/2016/10/10/amityville-horror-2005/">Amityville Horror, The</a> <span>(2005)</span></li>
 				<li class="shitty"><a href="/2014/10/01/anaconda/">Anaconda</a></li>
 				<li><a href="/2015/10/03/annabelle/">Annabelle</a></li>
@@ -615,6 +616,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2014/05/06/red-sonja/">Red Sonja</a></li>
 				<li class="shitty"><a href="/2011/08/05/reign-of-fire/">Reign of Fire</a></li>
 				<li><a href="/2015/10/28/the-relic/">Relic, The</a></li>
+				<li><a href="/2019/05/26/renegades/">Renegades</a></li>
 				<li class="shitty"><a href="/2018/10/21/reptilicus/">Reptilicus</a></li>
 				<li class="shitty"><a href="/2012/10/08/resident-evil/">Resident Evil</a></li>
 				<li class="shitty"><a href="/2014/10/06/apocalypse/">Resident Evil: Apocalypse</a></li>
