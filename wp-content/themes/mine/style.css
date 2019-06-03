@@ -1776,8 +1776,8 @@ blockquote:after,
             .site .site-inner .site-content .site-main > article .entry-content a, .site .site-inner .site-content .site-main > article .entry-summary a {
               border: 3px solid #fbd2d3;
               border-width: 3px 4px; }
-              .halloween .site .site-inner .site-content .site-main > article .entry-content a, .site .site-inner .site-content .site-main > article .entry-content a.rl-gallery-link,
-              .halloween .site .site-inner .site-content .site-main > article .entry-summary a, .site .site-inner .site-content .site-main > article .entry-summary a.rl-gallery-link {
+              .halloween .site .site-inner .site-content .site-main > article .entry-content a, .site .site-inner .site-content .site-main > article .entry-content a.rl-gallery-link, .site .site-inner .site-content .site-main > article .entry-content a.no-context,
+              .halloween .site .site-inner .site-content .site-main > article .entry-summary a, .site .site-inner .site-content .site-main > article .entry-summary a.rl-gallery-link, .site .site-inner .site-content .site-main > article .entry-summary a.no-context {
                 border: none; }
             .site .site-inner .site-content .site-main > article .entry-content h6,
             .site .site-inner .site-content .site-main > article .entry-summary h6 {
@@ -3478,6 +3478,11 @@ blockquote:after,
                   background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.death-wish-2 {
                   background: url(/wp-content/uploads/2019/05/death-wish-2-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.samurai-cop {
+                  background: url(/wp-content/uploads/2019/06/samurai-cop-thumb.jpg);
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }

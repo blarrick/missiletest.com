@@ -652,6 +652,7 @@ get_header(); ?>
 			</ul>
 			<h5 id="ss">S</h5>
 			<ul>
+				<li class="shitty"><a href="/2019/06/02/samurai-cop/">Samurai Cop</a></li>
 				<li class="shitty"><a href="/2015/10/15/san-andreas/">San Andreas</a></li>
 				<li class="shitty"><a href="/2017/10/31/satanic-rites-of-dracula/">Satanic Rites of Dracula, The</a></li>
 				<li><a href="/2012/12/08/savages/">Savages</a></li>
