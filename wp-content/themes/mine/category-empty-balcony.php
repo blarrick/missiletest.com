@@ -225,6 +225,7 @@ get_header(); ?>
 				<li><a href="/2017/10/24/curse-of-the-werewolf/">Curse of the Werewolf, The</a></li>
 				<li class="shitty"><a href="/2018/04/24/cyber-tracker/">Cyber Tracker</a></li>
 				<li class="shitty"><a href="/2018/05/13/cyber-tracker-2/">Cyber Tracker 2</a></li>
+				<li class="shitty"><a href="/2019/07/28/droid-gunner/">Cyberzone, aka Droid Gunner</a></li>
 				<li class="shitty"><a href="/2019/01/13/cyborg-x/">Cyborg X</a></li>
 				<li class="shitty"><a href="/2018/10/11/cyclops/">Cyclops, The</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
@@ -271,6 +272,7 @@ get_header(); ?>
 				<li><a href="/2017/10/11/dracula-prince-of-darkness/">Dracula: Prince of Darkness</a></li>
 				<li class="reco"><a href="/2013/01/16/dredd/">Dredd</a></li>
 				<li class="shitty"><a href="/2017/08/23/driven/">Driven</a></li>
+				<li class="shitty"><a href="/2019/07/28/droid-gunner/">Droid Gunner</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
 			<h5 id="ee">E</h5>
@@ -287,6 +289,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/01/06/enter-the-ninja/">Enter the Ninja</a></li>
 				<li><a href="/2015/01/27/equalizer/">Equalizer, The</a></li>
 				<li><a href="/2014/05/18/eraser/">Eraser</a></li>
+				<li class="shitty"><a href="/2019/06/30/turkey-shoot/">Escape 2000, aka Turkey Shoot</a></li>
 				<li class="shitty"><a href="/2011/11/06/escape-from-la/">Escape from L.A.</a></li>
 				<li class="reco"><a href="/2008/09/15/escape-from-new-york/">Escape from New York</a></li>
 				<li class="shitty"><a href="/2016/11/20/escape-from-the-bronx/">Escape from the Bronx</a></li>
@@ -747,6 +750,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2014/05/16/true-lies/">True Lies</a></li>
 				<li><a href="/2016/10/28/tucker-dale/">Tucker & Dale vs. Evil</a></li>
 				<li><a href="/2013/10/11/tunnel/">Tunnel, The</a></li>
+				<li class="shitty"><a href="/2019/06/30/turkey-shoot/">Turkey Shoot</a></li>
 				<li><a href="/2014/05/11/twins/">Twins</a></li>
 				<li><a href="/2017/10/19/two-faces-of-dr-jekyll/">Two Faces of Dr. Jekyll, The</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
