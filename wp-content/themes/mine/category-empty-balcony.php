@@ -444,6 +444,7 @@ get_header(); ?>
 			<h5 id="jj">J</h5>
 			<ul>
 				<li class="reco"><a href="/2008/12/10/jarhead/">Jarhead</a></li>
+				<li class="shitty"><a href="/2019/10/01/jason-goes-to-hell/">Jason Goes to Hell: The Final Friday</a></li>
 				<li class="shitty"><a href="/2017/10/13/jason-x/">Jason X</a></li>
 				<li class="reco"><a href="/2016/10/19/jaws/">Jaws</a></li>
 				<li class="shitty"><a href="/2016/10/24/jaws-3-d/">Jaws 3-D</a></li>
@@ -491,12 +492,14 @@ get_header(); ?>
 				<li><a href="/2017/08/13/lock-up/">Lock Up</a></li>
 				<li class="reco"><a href="/2009/03/30/logans-run/">Logan’s Run</a></li>
 				<li><a href="/2018/10/16/lost-boys/">Lost Boys, The</a></li>
+				<li class="shitty"><a href="/2019/10/02/lost-continent/">Lost Continent <span>(1951)</span></a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
 			<h5 id="mm">M</h5>
 			<ul>
 				<li class="shitty"><a href="/2019/04/28/mach-2/">Mach 2</a></li>
 				<li><a href="/2013/10/07/mama/">Mama</a></li>
+				<li class="shitty"><a href="/2019/10/01/the-man-from-planet-x/">Man from Planet X, The</a></li>
 				<li><a href="/2013/11/14/man-of-steel/">Man of Steel</a></li>
 				<li><a href="/2017/10/22/man-who-could-cheat-death/">Man Who Could Cheat Death, The</a></li>
 				<li><a href="/2017/10/18/maniac/">Maniac <span>(1980)</span></a></li>
