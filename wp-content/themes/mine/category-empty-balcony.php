@@ -169,6 +169,7 @@ get_header(); ?>
 				<li><a href="/2013/11/26/boondock-saints/">Boondock Saints, The</a></li>
 				<li><a href="/2014/10/16/dracula/">Bram Stoker’s Dracula</a></li>
 				<li><a href="/2019/01/27/braven/">Braven</a></li>
+				<li class="shitty"><a href="/2019/10/03/bride-gorilla/">Bride of the Gorilla</a></li>
 				<li><a href="/2017/10/06/the-brides-of-dracula/">Brides of Dracula, The</a></li>
 				<li class="shitty"><a href="/2017/01/29/the-bronx-executioner-or-frankensteins-movie/">Bronx Executioner, The</a></li>
 				<li class="shitty"><a href="/2016/10/17/bug-1975/">Bug</a> <span>(1975)</span></li>
@@ -304,6 +305,8 @@ get_header(); ?>
 				<li><a href="/2017/08/28/expendables-2/">Expendables 2, The</a></li>
 				<li class="shitty"><a href="/2017/08/30/the-expendables-3/">Expendables 3, The</a></li>
 				<li><a href="/2015/10/11/extraterrestrial/">Extraterrestrial</a></li>
+				<li><a href="/2019/10/04/the-eye/">Eye, The</a> <span>(2002)</span></li>
+				<li class="shitty"><a href="/2019/10/04/the-eye/">Eye, The</a> <span>(2008)</span></li>
 				<li class="shitty"><a href="/2017/08/24/eye-see-you/">Eye See You</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
@@ -357,6 +360,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2011/07/11/gojira/">Godzilla, King of the Monsters!</a></li>
 				<li><a href="/2008/03/12/tokyo-sos/">Godzilla: Tokyo S.O.S.</a></li>
 				<li class="reco"><a href="/2011/07/11/gojira/">Gojira</a></li>
+				<li><a href="/2019/10/02/gonjiam/">Gonjiam: Haunted Asylum</a></li>
 				<li><a href="/2018/10/22/gorgo/">Gorgo</a></li>
 				<li><a href="/2017/10/08/raw/">Grave, aka Raw</a></li>
 				<li class="reco"><a href="/2012/10/30/grave-encounters/">Grave Encounters</a></li>
@@ -431,6 +435,7 @@ get_header(); ?>
 				<li><a href="/2014/10/08/insidious-2/">Insidious: Chapter 2</a></li>				
 				<li><a href="/2017/01/02/into-the-forest/">Into the Forest</a></li>
 				<li><a href="/2016/10/02/intruders/">Intruders</a></li>
+				<li class="shitty"><a href="/2019/10/04/invaders-mars/">Invaders from Mars</a> <span>(1953)</span></li>
 				<li class="shitty"><a href="/2019/03/10/invasion-usa/">Invasion U.S.A.</a></li>
 				<li><a href="/2008/05/16/iron-man/">Iron Man</a></li>
 				<li><a href="/2018/10/01/it-2017/">It</a> <span>(2017)</span></li>
@@ -565,6 +570,7 @@ get_header(); ?>
 				<li><a href="/2013/10/25/people-under-stairs/">People Under the Stairs, The</a></li>
 				<li class="shitty"><a href="/2018/11/04/perfect-weapon/">Perfect Weapon, The</a></li>
 				<li><a href="/2017/10/02/phantasm/">Phantasm</a></li>
+				<li class="shitty"><a href="/2019/10/05/phantom-from-space/">Phantom from Space</a></li>
 				<li><a href="/2017/10/26/phantom-of-the-opera/">Phantom of the Opera, The</a> <span>(1962)</span></li>
 				<li><a href="/2014/10/18/phantoms/">Phantoms</a></li>
 				<li class="shitty"><a href="/2011/10/05/piranha-3d/">Piranha 3D</a></li>
@@ -734,6 +740,7 @@ get_header(); ?>
 				<li><a href="/2015/03/02/3rd-empty-balcony-awards/">Third Annual Empty Balcony Awards for Movies I Saw From Last Year, The</a></li>
 				<li class="reco"><a href="/2017/01/08/third-man/">Third Man, The</a></li>
 				<li><a href="/2009/06/30/three-kings/">Three Kings</a></li>
+				<li class="shitty"><a href="/2019/10/03/ticks/">Ticks</a></li>
 				<li class="shitty"><a href="/2017/09/03/timecop/">Timecop</a></li>
 				<li><a href="/2018/04/09/the-titan/">Titan, The</a></li>
 				<li class="shitty"><a href="/2015/10/19/toolbox-murders/">Toolbox Murders, The</a></li>
