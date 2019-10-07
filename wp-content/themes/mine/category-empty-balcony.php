@@ -288,6 +288,7 @@ get_header(); ?>
 				<li><a href="/2013/01/26/end-of-watch/">End of Watch</a></li>
 				<li><a href="/2017/10/09/quatermass-2/">Enemy From Space, aka Quatermass 2</a></li>
 				<li class="shitty"><a href="/2019/01/06/enter-the-ninja/">Enter the Ninja</a></li>
+				<li><a href="/2019/10/06/entity/">Entity</a></li>
 				<li><a href="/2015/01/27/equalizer/">Equalizer, The</a></li>
 				<li><a href="/2014/05/18/eraser/">Eraser</a></li>
 				<li class="shitty"><a href="/2019/06/30/turkey-shoot/">Escape 2000, aka Turkey Shoot</a></li>
@@ -440,6 +441,7 @@ get_header(); ?>
 				<li><a href="/2008/05/16/iron-man/">Iron Man</a></li>
 				<li><a href="/2018/10/01/it-2017/">It</a> <span>(2017)</span></li>
 				<li><a href="/2018/10/04/beneath-the-sea/">It Came from Beneath the Sea</a></li>
+				<li><a href="/2019/10/06/it-came-from-outer-space/">It Came from Outer Space</a></li>
 				<li><a href="/2017/10/25/it-comes-at-night/">It Comes at Night</a></li>
 				<li><a href="/2015/10/18/it-follows/">It Follows</a></li>
 				<li><a href="/2018/10/18/it-stains-the-sands-red/">It Stains the Sands Red</a></li>
@@ -646,6 +648,7 @@ get_header(); ?>
 				<li><a href="/2018/10/05/the-ritual/">Ritual, The</a></li>
 				<li class="shitty"><a href="/2015/07/09/road-house/">Road House</a></li>
 				<li class="reco"><a href="/2009/02/06/robocop/">Robocop</a></li>
+				<li class="shitty"><a href="/2019/10/07/robot-monster/">Robot Monster</a></li>
 				<li class="reco"><a href="/2017/08/01/rocky/">Rocky</a></li>
 				<li><a href="/2017/08/03/rocky-ii/">Rocky II</a></li>
 				<li><a href="/2017/08/06/rocky-iii/">Rocky III</a></li>
@@ -691,6 +694,7 @@ get_header(); ?>
 				<li><a href="/2013/02/16/skyfall/">Skyfall</a></li>
 				<li class="shitty"><a href="/2014/10/29/sleepaway-camp/">Sleepaway Camp</a></li>
 				<li><a href="/2010/10/05/slither/">Slither</a></li>
+				<li class="shitty"><a href="/2019/10/05/slumber-party-massacre/">Slumber Party Massacre, The</a></li>
 				<li class="shitty"><a href="/2009/08/30/soldier/">Soldier</a></li>
 				<li><a href="/2011/07/21/source-code/">Source Code</a></li>
 				<li class="reco"><a href="/2009/03/02/soylent-green/">Soylent Green</a></li>
