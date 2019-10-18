@@ -155,12 +155,14 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/10/23/birdemic/">Birdemic: Shock and Terror</a></li>
 				<li><a href="/2018/10/08/black-christmas/">Black Christmas</a></li>
 				<li><a href="/2011/02/22/black-hawk-down/">Black Hawk Down</a></li>
+				<li class="shitty"><a href="/2019/10/14/black-ops/">Black Ops</a></li>
 				<li><a href="/2018/10/12/black-scorpion/">Black Scorpion, The</a></li>
 				<li><a href="/2019/03/03/black-sea/">Black Sea</a></li>
 				<li class="shitty"><a href="/2019/02/10/black-water/">Black Water</a></li>
 				<li><a href="/2014/10/11/blair-witch/">Blair Witch Project, The</a></li>	
 				<li><a href="/2018/10/16/the-blob/">Blob, The</a> <span>(1958)</span></li>
 				<li class="reco"><a href="/2010/10/16/blob-1988/">Blob, The</a> <span>(1988)</span></li>
+				<li><a href="/2019/10/13/blood-beast-terror/">Blood Beast Terror, The</a></li>
 				<li class="shitty"><a href="/2018/10/26/blood-feast/">Blood Feast</a></li>
 				<li><a href="/2017/10/18/blood-from-the-mummys-tomb/">Blood from the Mummy’s Tomb</a></li>
 				<li><a href="/2014/10/30/blood-glacier/">Blood Glacier</a></li>
@@ -215,6 +217,8 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/02/18/cosmos/">Cosmos: War of the Planets</a></li>
 				<li><a href="/2012/10/01/crazies-1973/">Crazies, The</a> <span>(1973)</span></li>
 				<li class="shitty"><a href="/2015/10/21/creature/">Creature</a></li>
+				<li class="reco"><a href="/2019/10/09/creature-from-the-black-lagoon/">Creature from the Black Lagoon</a></li>
+				<li class="shitty"><a href="/2019/10/14/creature-walks-among-us/">Creature Walks Among Us, The</a></li>
 				<li><a href="/2017/08/31/creed/">Creed</a></li>
 				<li><a href="/2017/10/02/quatermass-xperiment/">Creeping Unknown, The, aka The Quatermass Xperiment</a></li>
 				<li class="reco"><a href="/2016/10/22/creepshow/">Creepshow</a></li>
@@ -244,10 +248,13 @@ get_header(); ?>
 				<li><a href="/2010/10/28/day-of-the-dead/">Day of the Dead</a></li>
 				<li class="shitty"><a href="/2017/08/20/daylight/">Daylight</a></li>
 				<li class="reco"><a href="/2010/10/14/dead-alive/">Dead Alive</a></li>
+				<li class="shitty"><a href="/2019/10/12/dead-hate-the-living/">Dead Hate the Living!, The</a></li>
 				<li class="shitty"><a href="/2012/10/02/dead-heat-1988/">Dead Heat</a> <span>(1988)</span></li>
 				<li><a href="/2018/10/11/dead-pit/">Dead Pit, The</a></li>
 				<li><a href="/2016/10/03/dead-silence/">Dead Silence</a></li>
+				<li class="shitty"><a href="/2019/10/16/dead-trigger/">Dead Trigger</a></li>
 				<li class="shitty"><a href="/2018/10/08/deadly-mantis/">Deadly Mantis, The</a></li>
+				<li class="shitty"><a href="/2019/10/14/black-ops/">Deadwater, aka Black Ops</a></li>
 				<li class="shitty"><a href="/2018/04/01/death-machines/">Death Machines</a></li>
 				<li class="shitty"><a href="/2017/05/21/psychomania/">Death Wheelers, The, aka Psychomania</a></li>
 				<li class="shitty"><a href="/2019/05/19/death-wish-2/">Death Wish II</a></li>
@@ -278,6 +285,7 @@ get_header(); ?>
 			</ul>
 			<h5 id="ee">E</h5>
 			<ul>
+				<li><a href="/2019/10/15/earth-vs-the-flying-saucers/">Earth vs. the Flying Saucers</a></li>
 				<li class="shitty"><a href="/2018/10/15/earth-vs-the-spider/">Earth vs. the Spider</a></li>
 				<li><a href="/2017/10/04/eaten-alive">Eaten Alive</a></li>
 				<li><a href="/2016/10/25/eight-legged-freaks/">Eight Legged Freaks</a></li>
@@ -394,6 +402,7 @@ get_header(); ?>
 				<li><a href="/2014/10/23/haunter/">Haunter</a></li>
 				<li><a href="/2013/10/18/haunting-1999/">Haunting, The</a> <span>(1999)</span></li>
 				<li class="shitty"><a href="/2013/10/10/ghosts-of-georgia/">Haunting in Connecticut 2: Ghosts of Georgia, The</a></li>
+				<li class="shitty"><a href="/2019/10/08/haunting-on-fraternity-row/">Haunting on Fraternity Row</a></li>
 				<li><a href="/2017/10/11/hell-house-llc/">Hell House LLC</a></li>
 				<li><a href="/2015/10/06/hellraiser-ii/">Hellbound: Hellraiser II</a></li>
 				<li class="shitty"><a href="/2014/10/25/prom-night-ii/">Hello Mary Lou: Prom Night II</a></li>	
@@ -428,6 +437,7 @@ get_header(); ?>
 				<li><a href="/2013/10/29/sell-the-dead/">I Sell the Dead</a></li>
 				<li class="shitty"><a href="/2012/10/13/spit-grave/">I Spit on Your Grave</a></li>
 				<li class="shitty"><a href="/2014/10/21/incredible-melting-man/">Incredible Melting Man, The</a></li>
+				<li><a href="/2019/10/18/incredible-shrinking-man/">Incredible Shrinking Man, The</a></li>
 				<li class="shitty"><a href="/2016/11/06/id4-resurgence/">Independence Day: Resurgence</a></li>
 				<li><a href="/2016/10/01/indigenous/">Indigenous</a></li>
 				<li><a href="/2018/10/24/inferno/">Inferno</a> <span>(1980)</span></li>
@@ -437,12 +447,14 @@ get_header(); ?>
 				<li><a href="/2017/01/02/into-the-forest/">Into the Forest</a></li>
 				<li><a href="/2016/10/02/intruders/">Intruders</a></li>
 				<li class="shitty"><a href="/2019/10/04/invaders-mars/">Invaders from Mars</a> <span>(1953)</span></li>
+				<li class="reco"><a href="/2019/10/13/body-snatchers-1956/">Invasion of the Body Snatchers</a> <span>(1956)</span></li>
 				<li class="shitty"><a href="/2019/03/10/invasion-usa/">Invasion U.S.A.</a></li>
 				<li><a href="/2008/05/16/iron-man/">Iron Man</a></li>
 				<li><a href="/2018/10/01/it-2017/">It</a> <span>(2017)</span></li>
 				<li><a href="/2018/10/04/beneath-the-sea/">It Came from Beneath the Sea</a></li>
 				<li><a href="/2019/10/06/it-came-from-outer-space/">It Came from Outer Space</a></li>
 				<li><a href="/2017/10/25/it-comes-at-night/">It Comes at Night</a></li>
+				<li class="shitty"><a href="/2019/10/16/it-conquered-the-world/">It Conquered the World</a></li>
 				<li><a href="/2015/10/18/it-follows/">It Follows</a></li>
 				<li><a href="/2018/10/18/it-stains-the-sands-red/">It Stains the Sands Red</a></li>
 				<li><a href="/2008/08/02/italian-spiderman/">Italian Spiderman Movie, The</a></li>
@@ -450,6 +462,7 @@ get_header(); ?>
 			</ul>
 			<h5 id="jj">J</h5>
 			<ul>
+				<li class="shitty"><a href="/2019/10/15/jack-frost-1997/">Jack Frost</a> <span>(1997)</span></li>
 				<li class="reco"><a href="/2008/12/10/jarhead/">Jarhead</a></li>
 				<li class="shitty"><a href="/2019/10/01/jason-goes-to-hell/">Jason Goes to Hell: The Final Friday</a></li>
 				<li class="shitty"><a href="/2017/10/13/jason-x/">Jason X</a></li>
@@ -470,6 +483,7 @@ get_header(); ?>
 				<li><a href="/2016/10/21/killer-klowns-from-outer-space/">Killer Klowns from Outer Space</a></li>
 				<li class="shitty"><a href="/2018/10/19/killer-shrews/">Killer Shrews, The</a></li>
 				<li class="shitty"><a href="/2018/03/18/the-killers-edge-aka-blood-money/">Killers Edge, The</a></li>
+				<li class="shitty"><a href="/2019/10/08/killers-from-space/">Killers from Space</a></li>
 				<li class="shitty"><a href="/2014/01/06/killing-season/">Killing Season</a></li>
 				<li><a href="/2014/05/13/kindergarten-cop/">Kindergarten Cop</a></li>
 				<li class="shitty"><a href="/2018/10/06/king-dinosaur/">King Dinosaur</a></li>
@@ -492,6 +506,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/02/19/last-shark/">Last Shark, The</a></li>
 				<li class="shitty"><a href="/2013/06/23/last-stand/">Last Stand, The</a></li>
 				<li class="reco"><a href="/2008/04/07/lawrence-of-arabia/">Lawrence of Arabia</a></li>
+				<li class="shitty"><a href="/2019/10/11/boggy-creek/">Legend of Boggy Creek, The</a></li>
 				<li><a href="/2009/10/13/hell-house/">Legend of Hell House, The</a></li>
 				<li class="shitty"><a href="/2012/10/17/leviathan/">Leviathan</a></li>
 				<li><a href="/2014/10/23/lifeforce/">Lifeforce</a></li>
@@ -568,13 +583,17 @@ get_header(); ?>
 			<ul>
 				<li class="shitty"><a href="/2017/08/02/paradise-alley/">Paradise Alley</a></li>
 				<li><a href="/2013/10/08/paranormal-activity-3/">Paranormal Activity 3</a></li>
+				<li class="shitty"><a href="/2019/10/10/paranormal-investigation/">Paranormal Investigation</a></li>
 				<li class="reco"><a href="/2008/03/27/patton/">Patton</a></li>
 				<li><a href="/2013/10/25/people-under-stairs/">People Under the Stairs, The</a></li>
 				<li class="shitty"><a href="/2018/11/04/perfect-weapon/">Perfect Weapon, The</a></li>
 				<li><a href="/2017/10/02/phantasm/">Phantasm</a></li>
+				<li class="shitty"><a href="/2019/10/12/phantom-from-10000-leagues/">Phantom from 10,000 Leagues, The</a></li>
 				<li class="shitty"><a href="/2019/10/05/phantom-from-space/">Phantom from Space</a></li>
 				<li><a href="/2017/10/26/phantom-of-the-opera/">Phantom of the Opera, The</a> <span>(1962)</span></li>
 				<li><a href="/2014/10/18/phantoms/">Phantoms</a></li>
+				<li class="shitty"><a href="/2019/10/07/pieces/">Pieces</a></li>
+				<li class="shitty"><a href="/2019/10/09/piranha/">Piranha</a> <span>(1978)</span></li>
 				<li class="shitty"><a href="/2011/10/05/piranha-3d/">Piranha 3D</a></li>
 				<li class="reco"><a href="/2013/10/27/pitch-black/">Pitch Black</a></li>
 				<li><a href="/2017/06/25/point-break/">Point Break</a></li>
@@ -619,6 +638,7 @@ get_header(); ?>
 				<li><a href="/2017/08/26/rambo/">Rambo</a></li>
 				<li class="shitty"><a href="/2017/08/08/rambo-2/">Rambo: First Blood Part II</a></li>
 				<li><a href="/2017/08/12/rambo-iii/">Rambo III</a></li>
+				<li class="shitty"><a href="/2019/10/17/rats-night-of-terror/">Rats: Night of Terror</a></li>
 				<li><a href="/2017/10/08/raw/">Raw</a></li>
 				<li class="shitty"><a href="/2014/05/08/raw-deal/">Raw Deal</a></li>
 				<li><a href="/2010/10/06/re-animator/">Re-Animator</a></li>
@@ -640,6 +660,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2016/10/08/return-dead-ii/">Return of the Living Dead Part II</a></li>
 				<li class="shitty"><a href="/2013/10/14/rave-grave/">Return of the Living Dead: Rave to the Grave</a></li>
 				<li><a href="/2017/10/07/revenge-of-frankenstein/">Revenge of Frankenstein, The</a></li>
+				<li class="shitty"><a href="/2019/10/11/revenge-of-the-creature/">Revenge of the Creature</a></li>
 				<li class="shitty"><a href="/2019/02/03/revenge-of-the-ninja/">Revenge of the Ninja</a></li>
 				<li class="shitty"><a href="/2013/11/04/riddick/">Riddick</a></li>
 				<li class="shitty"><a href="/2013/10/07/rig/">Rig, The</a></li>
@@ -679,6 +700,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2017/02/13/seven-days-in-may/">Seven Days in May</a></li>
 				<li class="shitty"><a href="/2018/10/30/suckling/">Sewage Baby, aka The Suckling</a></li>
 				<li class="shitty"><a href="/2018/07/29/shape-of-things-to-come/">Shape of Things to Come, The</a></li>
+				<li class="shitty"><a href="/2019/10/17/she-creature/">She-Creature, The</a></li>
 				<li class="reco"><a href="/2016/10/16/the-shining/">Shining, The</a></li>
 				<li class="shitty"><a href="/2014/06/09/shitty-batman/">Shitty Batman Idea, A</a></li>
 				<li class="shitty"><a href="/2012/01/23/shitty-idea/">Shitty Idea, A</a></li>
@@ -695,6 +717,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2014/10/29/sleepaway-camp/">Sleepaway Camp</a></li>
 				<li><a href="/2010/10/05/slither/">Slither</a></li>
 				<li class="shitty"><a href="/2019/10/05/slumber-party-massacre/">Slumber Party Massacre, The</a></li>
+				<li class="shitty"><a href="/2019/10/10/snow-creature/">Snow Creature, The</a></li>
 				<li class="shitty"><a href="/2009/08/30/soldier/">Soldier</a></li>
 				<li><a href="/2011/07/21/source-code/">Source Code</a></li>
 				<li class="reco"><a href="/2009/03/02/soylent-green/">Soylent Green</a></li>
