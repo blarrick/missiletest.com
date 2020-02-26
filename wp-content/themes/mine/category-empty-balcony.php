@@ -82,9 +82,6 @@ get_header(); ?>
 				<li><a href="/2009/10/09/1408/">1408</a></li>
 				<li class="shitty"><a href="/2016/09/15/bronx-warriors/">1990: The Bronx Warriors</a></li>
 				<li><a href="/2011/01/18/2010/">2010</a></li>
-				<li class="shitty"><a href="/2015/03/22/2015-shitty-movie-sunday-awards/">2015 Shitty Movie Sunday Awards, The</a></li>
-				<li class="shitty"><a href="/2017/03/12/2017-shitty-awards/">2017 Shitty Movie Sunday Awards, The</a></li>
-				<li class="shitty"><a href="/2018/03/11/2018-shitty-awards/">2018 Shitty Movie Sunday Awards, The</a></li>
 				<li class="reco"><a href="/2009/10/18/28-days-later/">28 Days Later</a></li>
 				<li><a href="/2009/10/18/28-days-later/">28 Weeks Later</a></li>
 				<li><a href="/2008/06/17/30-days/">30 Days of Night</a></li>
@@ -732,9 +729,9 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/07/29/shape-of-things-to-come/">Shape of Things to Come, The</a></li>
 				<li class="shitty"><a href="/2019/10/17/she-creature/">She-Creature, The</a></li>
 				<li class="reco"><a href="/2016/10/16/the-shining/">Shining, The</a></li>
-				<li class="shitty"><a href="/2014/06/09/shitty-batman/">Shitty Batman Idea, A</a></li>
-				<li class="shitty"><a href="/2012/01/23/shitty-idea/">Shitty Idea, A</a></li>
-				<li class="shitty"><a href="/2013/03/07/shitty-idea-2/">Shitty Idea, Part II, A</a></li>
+				<li class="shitty"><a href="/2014/06/09/shitty-batman/">Shitty Movie Ideas: John Waters' Batman</a></li>
+				<li class="shitty"><a href="/2012/01/23/shitty-idea/">Shitty Movie Ideas: Out of This World</a></li>
+				<li class="shitty"><a href="/2013/03/07/shitty-idea-2/">Shitty Movie Ideas: Tossing Pie</a></li>
 				<li class="shitty"><a href="/2014/03/03/shitty-awards/">Shitty Movie Sundays Awards, The</a></li>
 				<li><a href="/2015/10/25/october-horrorshow-shivers/">Shivers</a></li>
 				<li><a href="/2018/10/22/shock/">Shock</a></li>
