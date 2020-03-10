@@ -726,13 +726,13 @@ get_header(); ?>
 				<li><a href="/2014/03/03/empty-balcony-awards/">Second Annual Empty Balcony Awards for Movies I Saw From Last Year, The</a></li>
 				<li class="reco"><a href="/2017/02/13/seven-days-in-may/">Seven Days in May</a></li>
 				<li class="shitty"><a href="/2018/10/30/suckling/">Sewage Baby, aka The Suckling</a></li>
+				<li class="shitty"><a href="/2020/03/01/shanghai-fortress/">Shanghai Fortress</a></li>
 				<li class="shitty"><a href="/2018/07/29/shape-of-things-to-come/">Shape of Things to Come, The</a></li>
 				<li class="shitty"><a href="/2019/10/17/she-creature/">She-Creature, The</a></li>
 				<li class="reco"><a href="/2016/10/16/the-shining/">Shining, The</a></li>
 				<li class="shitty"><a href="/2014/06/09/shitty-batman/">Shitty Movie Ideas: John Waters' Batman</a></li>
 				<li class="shitty"><a href="/2012/01/23/shitty-idea/">Shitty Movie Ideas: Out of This World</a></li>
 				<li class="shitty"><a href="/2013/03/07/shitty-idea-2/">Shitty Movie Ideas: Tossing Pie</a></li>
-				<li class="shitty"><a href="/2014/03/03/shitty-awards/">Shitty Movie Sundays Awards, The</a></li>
 				<li><a href="/2015/10/25/october-horrorshow-shivers/">Shivers</a></li>
 				<li><a href="/2018/10/22/shock/">Shock</a></li>
 				<li><a href="/2017/09/10/shot-caller/">Shot Caller</a></li>
@@ -797,6 +797,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2011/10/29/the-thing-2/">Thing From Another World, The</a></li>
 				<li><a href="/2015/03/02/3rd-empty-balcony-awards/">Third Annual Empty Balcony Awards for Movies I Saw From Last Year, The</a></li>
 				<li class="reco"><a href="/2017/01/08/third-man/">Third Man, The</a></li>
+				<li class="shitty"><a href="/2020/03/08/thirsty-dead/">Thirsty Dead, The</a></li>
 				<li><a href="/2009/06/30/three-kings/">Three Kings</a></li>
 				<li class="shitty"><a href="/2019/10/03/ticks/">Ticks</a></li>
 				<li class="shitty"><a href="/2017/09/03/timecop/">Timecop</a></li>

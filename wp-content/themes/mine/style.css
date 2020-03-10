@@ -4741,6 +4741,18 @@ blockquote:after,
   background-size: cover;
   background-position: center top;
 }
+.site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.shanghai-fortress {
+  background: url(/wp-content/uploads/2020/03/shanghai-fortress-thumb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+}
+.site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.thirsty-dead {
+  background: url(/wp-content/uploads/2020/03/thirsty-dead-thumb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+}
 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li a {
   border: none;
   border-width: 0;

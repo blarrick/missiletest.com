@@ -266,6 +266,7 @@ get_header(); ?>
 			 	<li class="has-image red-dawn-2012" onclick="location.href='/2013/03/06/red-dawn-2012/';"><a href="/2013/03/06/red-dawn-2012/">Red Dawn (2012)</a></li>
 			 	<li class="has-image paradise-alley" onclick="location.href='/2017/08/02/paradise-alley/';"><a href="/2017/08/02/paradise-alley/">Paradise Alley</a></li>
 			 	<li class="has-image texas-blood" onclick="location.href='/2011/10/04/dusk-till-dawn-2/';"><a href="/2011/10/04/dusk-till-dawn-2/">From Dusk Till Dawn 2: Texas Blood Money</a></li>
+			 	<li class="has-image thirsty-dead" onclick="location.href='/2020/03/08/thirsty-dead/';"><a href="/2020/03/08/thirsty-dead/">The Thirsty Dead</a></li>
 			 	<li class="has-image dead-trigger" onclick="location.href='/2019/10/16/dead-trigger/';"><a href="/2019/10/16/dead-trigger/">Dead Trigger</a></li>
 			 	<li class="has-image reptilicus" onclick="location.href='/2018/10/21/reptilicus/';"><a href="/2018/10/21/reptilicus/">Reptilicus</a></li>
 			 	<li class="has-image venomous" onclick="location.href='/2020/02/16/venomous/';"><a href="/2020/02/16/venomous/">Venomous</a></li>
@@ -281,6 +282,7 @@ get_header(); ?>
 			 	<li class="has-image theodore-rex" onclick="location.href='/2008/10/27/theodore-rex/';"><a href="/2008/10/27/theodore-rex/">Theodore Rex</a></li>
 			 	<li class="has-image pompeii" onclick="location.href='/2014/06/10/pompeii/';"><a href="/2014/06/10/pompeii/">Pompeii</a></li>
 			 	<li class="has-image king-dinosaur" onclick="location.href='/2018/10/06/king-dinosaur/';"><a href="/2018/10/06/king-dinosaur/">King Dinosaur</a></li>
+			 	<li class="has-image shanghai-fortress" onclick="location.href='/2020/03/01/shanghai-fortress/';"><a href="/2020/03/01/shanghai-fortress/">Shanghai Fortress</a></li>
 			 	<li class="has-image rollerball-2002" onclick="location.href='/2016/11/13/rollerball/';"><a href="/2016/11/13/rollerball/">Rollerball (2002)</a></li>
 			 	<li class="has-image project-moonbase" onclick="location.href='/2019/02/17/project-moonbase/';"><a href="/2019/02/17/project-moonbase/">Project Moonbase</a></li>
 			 	<li class="has-image snow-creature" onclick="location.href='/2019/10/10/snow-creature/';"><a href="/2019/10/10/snow-creature/">The Snow Creature</a></li>
