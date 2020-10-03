@@ -47,7 +47,7 @@
 					 */
 // 					do_action( 'twentysixteen_credits' );
 				?>
-				<span class="site-title">&copy;2004-2019 Missile Test, All Rights Reserved</span>
+				<span class="site-title">&copy;2004-2020 Missile Test, All Rights Reserved</span>
 				
 			</div><!-- .site-info -->
 		</footer><!-- .site-footer -->
