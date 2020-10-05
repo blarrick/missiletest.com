@@ -113,6 +113,7 @@ get_header(); ?>
 				<li><a href="/2019/05/26/renegades/">American Renegades, aka Renegades</a></li>
 				<li><a href="/2016/10/10/amityville-horror-2005/">Amityville Horror, The</a> <span>(2005)</span></li>
 				<li class="shitty"><a href="/2014/10/01/anaconda/">Anaconda</a></li>
+				<li class="shitty"><a href="/2020/10/03/anacondas/">Anacondas: Hunt for the Blood Orchid</a></li>
 				<li><a href="/2015/10/03/annabelle/">Annabelle</a></li>
 				<li><a href="/2013/10/28/apartment-143/">Apartment 143</a></li>
 				<li class="reco"><a href="/2009/04/22/apocalypse-now/">Apocalypse Now</a></li>
@@ -226,6 +227,7 @@ get_header(); ?>
 				<li><a href="/2016/10/14/constantine/">Constantine</a></li>
 				<li class="shitty"><a href="/2017/10/09/contamination/">Contamination</a></li>
 				<li><a href="/2017/08/21/cop-land/">Cop Land</a></li>
+				<li><a href="/2020/10/05/crucible-of-horror/">Corpse, The, aka Crucible of Horror</a></li>
 				<li class="shitty"><a href="/2018/02/18/cosmos/">Cosmos: War of the Planets</a></li>
 				<li><a href="/2019/10/24/crawl/">Crawl</li>
 				<li><a href="/2012/10/01/crazies-1973/">Crazies, The</a> <span>(1973)</span></li>
@@ -238,6 +240,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2016/10/22/creepshow/">Creepshow</a></li>
 				<li class="shitty"><a href="/2013/10/23/critters/">Critters</a></li>
 				<li><a href="/2010/09/16/cross-of-iron/">Cross of Iron</a></li>
+				<li><a href="/2020/10/05/crucible-of-horror/">Crucible of Horror</a></li>
 				<li><a href="/2018/10/27/the-cured/">Cured, The</a></li>
 				<li><a href="/2017/10/04/curse-of-frankenstein/">Curse of Frankenstein, The</a></li>
 				<li><a href="/2017/10/08/curse-of-the-mummys-tomb/">Curse of the Mummy’s Tomb, The</a></li>
@@ -450,6 +453,7 @@ get_header(); ?>
 				<li><a href="/2017/10/03/dracula-1958/">Horror of Dracula, aka Dracula</a></li>
 				<li><a href="/2017/10/25/horror-of-frankenstein/">Horror of Frankenstein, The</a></li>
 				<li><a href="/2018/10/30/the-host/">Host, The</a> <span>(2006)</span></li>
+				<li><a href="/2020/10/04/host-2020/">Host</a> <span>(2020)</span></li>
 				<li class="shitty"><a href="/2018/04/15/hot-rod-girl/">Hot Rod Girl</a></li>
 				<li><a href="/2017/10/10/the-hound-of-the-baskervilles-1959/">Hound of the Baskervilles, The</a> <span>(1959)</span></li>
 				<li><a href="/2014/10/10/street/">House at the End of the Street</a></li>
@@ -564,7 +568,8 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/10/01/the-man-from-planet-x/">Man from Planet X, The</a></li>
 				<li><a href="/2013/11/14/man-of-steel/">Man of Steel</a></li>
 				<li><a href="/2017/10/22/man-who-could-cheat-death/">Man Who Could Cheat Death, The</a></li>
-				<li><a href="/2017/10/18/maniac/">Maniac <span>(1980)</span></a></li>
+				<li><a href="/2020/10/04/mandy/">Mandy</a></li>
+				<li><a href="/2017/10/18/maniac/">Maniac</a> <span>(1980)</span></li>
 				<li class="shitty"><a href="/2017/10/21/maniac-cop/">Maniac Cop</a></li>
 				<li class="shitty"><a href="/2010/10/12/maniac-cop-2/">Maniac Cop 2</a></li>
 				<li class="shitty"><a href="/2019/10/28/manster/">Manster, The</a></li>
