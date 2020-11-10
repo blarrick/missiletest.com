@@ -277,6 +277,7 @@ get_header(); ?>
 			 	<li class="has-image over-top" onclick="location.href='/2017/08/11/over-the-top/';"><a href="/2017/08/11/over-the-top/">Over the Top</a></li>
 			 	<li class="has-image village-damned" onclick="location.href='/2010/10/27/village-damned-1995/';"><a href="/2010/10/27/village-damned-1995/">Village of the Damned (1995)</a></li>
 			 	<li class="has-image derelict" onclick="location.href='/2019/10/18/derelict/';"><a href="/2019/10/18/derelict/">Derelict</a></li>
+			 	<li class="has-image las-vegas-lady" onclick="location.href='/2020/11/08/las-vegas-lady/';"><a href="/2020/11/08/las-vegas-lady/">Las Vegas Lady</a></li>
 			 	<li class="has-image la-crackdown" onclick="location.href='/2018/06/25/la-crackdown/';"><a href="/2018/06/25/la-crackdown/">LA Crackdown</a></li>
 			 	<li class="has-image expendables-3" onclick="location.href='/2017/08/30/the-expendables-3/';"><a href="/2017/08/30/the-expendables-3/">The Expendables 3</a></li>
 			 	<li class="has-image godzilla" onclick="location.href='/2011/07/11/gojira/';"><a href="/2011/07/11/gojira/">Godzilla, King of the Monsters!</a></li>

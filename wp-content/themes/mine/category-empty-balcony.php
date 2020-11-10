@@ -562,6 +562,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/06/25/la-crackdown/">LA Crackdown</a></li>
 				<li><a href="/2009/10/27/land-dead/">Land of the Dead</a></li>
 				<li><a href="/2016/10/18/lake-placid/">Lake Placid</a></li>
+				<li class="shitty"><a href="/2020/11/08/las-vegas-lady/">Las Vegas Lady</a></li>
 				<li><a href="/2014/05/15/last-action-hero/">Last Action Hero</a></li>
 				<li class="shitty"><a href="/2013/10/08/last-exorcism-ii/">Last Exorcism Part II, The</a></li>
 				<li><a href="/2009/01/09/i-am-legend/">Last Man on Earth, The</a></li>
