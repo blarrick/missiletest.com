@@ -46,9 +46,8 @@
 					 * @since Twenty Sixteen 1.0
 					 */
 // 					do_action( 'twentysixteen_credits' );
-				?>
-				<span class="site-title">&copy;2004-2020 Missile Test, All Rights Reserved</span>
-				
+				echo "<span class='site-title'>&copy;2004-" . date('Y') . " Missile Test, All Rights Reserved</span>";
+				?>				
 			</div><!-- .site-info -->
 		</footer><!-- .site-footer -->
 	</div><!-- .site-inner -->
