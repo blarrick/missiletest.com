@@ -82,6 +82,7 @@ get_header(); ?>
 				<li><a href="/2009/10/09/1408/">1408</a></li>
 				<li class="shitty"><a href="/2016/09/15/bronx-warriors/">1990: The Bronx Warriors</a></li>
 				<li><a href="/2011/01/18/2010/">2010</a></li>
+				<li class="shitty"><a href="/2020/11/15/2307-winters-dream/">2307: Winter’s Dream</a></li>
 				<li class="reco"><a href="/2009/10/18/28-days-later/">28 Days Later</a></li>
 				<li><a href="/2009/10/18/28-days-later/">28 Weeks Later</a></li>
 				<li><a href="/2008/06/17/30-days/">30 Days of Night</a></li>
@@ -669,6 +670,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/10/05/phantom-from-space/">Phantom from Space</a></li>
 				<li><a href="/2017/10/26/phantom-of-the-opera/">Phantom of the Opera, The</a> <span>(1962)</span></li>
 				<li><a href="/2014/10/18/phantoms/">Phantoms</a></li>
+				<li class="shitty"><a href="/2020/12/13/pick-up/">Pick-up</a></li>
 				<li class="shitty"><a href="/2019/10/07/pieces/">Pieces</a></li>
 				<li class="shitty"><a href="/2019/10/09/piranha/">Piranha</a> <span>(1978)</span></li>
 				<li class="shitty"><a href="/2011/10/05/piranha-3d/">Piranha 3D</a></li>
@@ -888,6 +890,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/04/21/truck-stop-women/">Truck Stop Women</a></li>
 				<li class="reco"><a href="/2018/12/30/true-grit-1969/">True Grit <span>(1969)</span></a></li>
 				<li class="reco"><a href="/2014/05/16/true-lies/">True Lies</a></li>
+				<li class="shitty"><a href="/2020/11/29/tuareg/">Tuareg: The Desert Warrior</a></li>
 				<li><a href="/2016/10/28/tucker-dale/">Tucker & Dale vs. Evil</a></li>
 				<li><a href="/2013/10/11/tunnel/">Tunnel, The</a></li>
 				<li class="shitty"><a href="/2019/06/30/turkey-shoot/">Turkey Shoot</a></li>
