@@ -2209,7 +2209,7 @@ blockquote:after,
               .site .site-inner .site-content .site-main > article .entry-summary ol,
               .site .site-inner .site-content .site-main > article .comment-content ul,
               .site .site-inner .site-content .site-main > article .comment-content ol {
-                margin-left: 0; } }
+                margin-left: 2.2em; } }
           @media (min-width: 44.375em) {
             .site .site-inner .site-content .site-main > article .entry-content li > ul, .site .site-inner .site-content .site-main > article .entry-content blockquote > ul,
             .site .site-inner .site-content .site-main > article .entry-summary li > ul,
@@ -4011,6 +4011,106 @@ blockquote:after,
                   background-position: center top; }
                 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.origin-unknown-2036 {
                   background: url(/wp-content/uploads/2021/02/2036-origin-unknown-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.angel-town {
+                  background: url(/wp-content/uploads/2021/02/angel-town-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.sci-fighter {
+                  background: url(/wp-content/uploads/2021/02/sci-fighter-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.malone {
+                  background: url(/wp-content/uploads/2021/02/malone-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.beyond-trek {
+                  background: url(/wp-content/uploads/2021/03/beyond-trek-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.virtuosity {
+                  background: url(/wp-content/uploads/2021/03/virtuosity-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.road-wars {
+                  background: url(/wp-content/uploads/2021/03/road-wars-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.kidnapping-president {
+                  background: url(/wp-content/uploads/2021/03/kidnapping-president-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.speed-kills {
+                  background: url(/wp-content/uploads/2021/03/speed-kills-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.naked-angels {
+                  background: url(/wp-content/uploads/2021/04/naked-angels-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.blackout {
+                  background: url(/wp-content/uploads/2021/05/blackout-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.death-race-2000 {
+                  background: url(/wp-content/uploads/2021/06/death-race-2000-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.job-2003 {
+                  background: url(/wp-content/uploads/2021/06/job-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.executioner-2 {
+                  background: url(/wp-content/uploads/2021/06/executioner-2-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.amusement-park {
+                  background: url(/wp-content/uploads/2021/06/amusement-park-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.petrified-world {
+                  background: url(/wp-content/uploads/2021/07/petrified-world-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.indian-paint {
+                  background: url(/wp-content/uploads/2021/07/indian-paint-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.end-world-1977 {
+                  background: url(/wp-content/uploads/2021/07/end-world-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.attack-force {
+                  background: url(/wp-content/uploads/2021/07/attack-force-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.specialist-1975 {
+                  background: url(/wp-content/uploads/2021/08/specialist-1975-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.doom-annihilation {
+                  background: url(/wp-content/uploads/2021/08/doom-annihilation-thumb.jpg);
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
