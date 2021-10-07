@@ -114,6 +114,11 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/03/15/amazing-transparent-man/">Amazing Transparent Man, The</a></li>
 				<li><a href="/2014/03/24/american-hustle/">American Hustle</a></li>
 				<li><a href="/2019/05/26/renegades/">American Renegades, aka Renegades</a></li>
+				<li class="shitty"><a href="/2021/10/01/amityville-ii/">Amityville II: The Possession</a></li>
+				<li class="shitty"><a href="/2021/10/02/amityville-3d/">Amityville 3-D</a></li>
+				<li class="shitty"><a href="/2021/10/03/amityville-4/">Amityville 4: The Evil Escapes</a></li>
+				<li class="shitty"><a href="/2021/10/04/amityville-curse/">Amityville Curse, The</a></li>
+				<li><a href="/2021/10/01/amityville-horror-1979/">Amityville Horror, The</a> <span>(1979)</span></li>
 				<li><a href="/2016/10/10/amityville-horror-2005/">Amityville Horror, The</a> <span>(2005)</span></li>
 				<li class="shitty"><a href="/2021/06/27/the-amusement-park/">Amusement Park, The</a></li>
 				<li class="shitty"><a href="/2014/10/01/anaconda/">Anaconda</a></li>
@@ -210,6 +215,7 @@ get_header(); ?>
 			<ul>
 				<li class="shitty"><a href="/2018/12/02/caged-heat/">Caged Heat</a></li>
 				<li><a href="/2015/10/15/canal/">Canal, The</a></li>
+				<li class="shitty"><a href="/2021/10/07/nightmare-inn/">Candle for the Devil, A, aka It Happened at Nightmare Inn</a></li>
 				<li><a href="/2017/10/28/night-creatures/">Captain Clegg, aka Night Creatures</a></li>
 				<li class="reco"><a href="/2016/10/06/carnival-of-souls/">Carnival of Souls</a></li>
 				<li><a href="/2013/10/03/carrie/">Carrie</a></li>
@@ -370,6 +376,8 @@ get_header(); ?>
 			</ul>
 			<h5 id="ff">F</h5>
 			<ul>
+				<li class="shitty"><a href="/2021/10/04/rizen-possession/">Facility, The, aka The Rizen: Possession</a></li>
+				<li class="shitty"><a href="/2021/10/03/fangs-of-the-living-dead/">Fangs of the Living Dead</a></li>
 				<li><a href="/2010/10/13/fido/">Fido</a></li>
 				<li class="shitty"><a href="/2019/10/24/fiend-without-a-face/">Fiend Without a Face</a></li>
 				<li><a href="/2017/03/06/5th-empty-balcony-awards/">Fifth Annual Empty Balcony Awards for Movies I Saw From Last Year, The</a></li>
@@ -491,6 +499,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2010/10/02/house-dead/">House of the Dead</a></li>
 				<li><a href="/2012/10/29/house-of-the-devil/">House of the Devil, The</a></li>
 				<li><a href="/2018/10/10/house-on-sorority-row/">House on Sorority Row, The</a></li>
+				<li><a href="/2021/10/02/howl-2015/">Howl</a> <span>(2015)</span></li>
 				<li class="shitty"><a href="/2011/10/01/human-centipede/">Human Centipede, The</a></li>
 				<li class="shitty"><a href="/2018/08/13/humanity-bureau/">Humanity Bureau, The</a></li>
 				<li class="shitty"><a href="/2018/10/19/humanoids-from-the-deep/">Humanoids from the Deep</a></li>
@@ -530,6 +539,7 @@ get_header(); ?>
 				<li><a href="/2017/10/25/it-comes-at-night/">It Comes at Night</a></li>
 				<li class="shitty"><a href="/2019/10/16/it-conquered-the-world/">It Conquered the World</a></li>
 				<li><a href="/2015/10/18/it-follows/">It Follows</a></li>
+				<li class="shitty"><a href="/2021/10/07/nightmare-inn/">It Happened at Nightmare Inn</a></li>
 				<li><a href="/2018/10/18/it-stains-the-sands-red/">It Stains the Sands Red</a></li>
 				<li><a href="/2019/10/31/it-the-terror-from-beyond-space/">It! The Terror from Beyond Space</a></li>
 				<li><a href="/2008/08/02/italian-spiderman/">Italian Spiderman Movie, The</a></li>
@@ -601,16 +611,18 @@ get_header(); ?>
 			<ul>
 				<li class="shitty"><a href="/2019/04/28/mach-2/">Mach 2</a></li>
 				<li class="shitty"><a href="/2020/02/23/hitlers-brain/">Madmen of Mandoras, aka They Saved Hitler’s Brain</a></li>
+				<li class="shitty"><a href="/2021/10/03/fangs-of-the-living-dead/">Malenka, aka Fangs of the Living Dead</a></li>
 				<li class="shitty"><a href="/2021/02/21/malone/">Malone</a></li>
 				<li><a href="/2013/10/07/mama/">Mama</a></li>
 				<li class="shitty"><a href="/2019/10/01/the-man-from-planet-x/">Man from Planet X, The</a></li>
 				<li><a href="/2013/11/14/man-of-steel/">Man of Steel</a></li>
 				<li><a href="/2017/10/22/man-who-could-cheat-death/">Man Who Could Cheat Death, The</a></li>
-				<li><a href="/2020/10/04/mandy/">Mandy</a></li>
+				<li class="reco"><a href="/2020/10/04/mandy/">Mandy</a></li>
 				<li><a href="/2017/10/18/maniac/">Maniac</a> <span>(1980)</span></li>
 				<li class="shitty"><a href="/2017/10/21/maniac-cop/">Maniac Cop</a></li>
 				<li class="shitty"><a href="/2010/10/12/maniac-cop-2/">Maniac Cop 2</a></li>
 				<li class="shitty"><a href="/2019/10/28/manster/">Manster, The</a></li>
+				<li><a href="/2021/10/06/mara/">Mara</a></li>
 				<li><a href="/2020/10/02/marshes/">Marshes, The</a></li>
 				<li class="reco"><a href="/2008/08/05/master-and-commander/">Master and Commander: The Far Side of the World</a></li>
 				<li class="shitty"><a href="/2018/10/14/matango/">Matango</a></li>
@@ -647,8 +659,11 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/10/27/nightbeast/">Nightbeast</a></li>
 				<li><a href="/2015/02/13/nightcrawler/">Nightcrawler</a></li>
 				<li><a href="/2017/08/04/nighthawks/">Nighthawks</a></li>
+				<li><a href="/2021/10/05/nightmare-on-elm-street-1984/">Nightmare on Elm Street, A</a> <span>(1984)</span></li>
 				<li class="shitty"><a href="/2010/10/15/elm-street-2010/">Nightmare on Elm Street, A</a> <span>(2010)</span></li>
 				<li><a href="/2014/10/28/freddys-revenge/">Nightmare on Elm Street 2: Freddy’s Revenge, A</a></li>
+				<li class="shitty"><a href="/2021/10/05/elm-street-3/">Nightmare on Elm Street 3: Dream Warriors, A</a></li>
+				<li class="shitty"><a href="/2021/10/06/elm-street-4/">Nightmare on Elm Street 4: The Dream Master, A</a></li>
 				<li class="shitty"><a href="/2017/10/06/burial-ground/">Nights of Terror, The, aka Burial Ground</a></li>
 				<li class="shitty"><a href="/2016/11/27/no-escape/">No Escape</a></li>
 				<li class="shitty"><a href="/2020/08/02/no-escape-no-return/">No Escape No Return</a></li>
@@ -769,6 +784,7 @@ get_header(); ?>
 				<li><a href="/2014/10/01/ring/">Ringu</a></li>
 				<li><a href="/2020/05/13/risky-business/">Risky Business</a></li>
 				<li><a href="/2018/10/05/the-ritual/">Ritual, The</a></li>
+				<li class="shitty"><a href="/2021/10/04/rizen-possession/">Rizen: Possession, The</a></li>
 				<li class="shitty"><a href="/2015/07/09/road-house/">Road House</a></li>
 				<li class="shitty"><a href="/2021/03/14/road-wars/">Road Wars</a></li>
 				<li class="reco"><a href="/2009/02/06/robocop/">Robocop</a></li>
