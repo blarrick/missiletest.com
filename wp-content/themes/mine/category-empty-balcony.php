@@ -128,6 +128,7 @@ get_header(); ?>
 				<li><a href="/2013/10/28/apartment-143/">Apartment 143</a></li>
 				<li class="reco"><a href="/2009/04/22/apocalypse-now/">Apocalypse Now</a></li>
 				<li class="shitty"><a href="/2020/04/05/armed-response-2017/">Armed Response</a> <span>(2017)</span></li>
+				<li class="shitty"><a href="/2021/10/11/army-of-the-dead/">Army of the Dead</a></li>
 				<li><a href="/2012/08/20/arrival/">Arrival, The</a></li>
 				<li><a href="/2015/10/01/as-above-so-below/">As Above, So Below</a></li>
 				<li class="shitty"><a href="/2011/10/07/asylum-1972/">Asylum</a> <span>(1972)</span></li>
@@ -223,6 +224,8 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/08/30/chain-gang-women/">Chain Gang Women</a></li>
 				<li><a href="/2013/10/30/changeling/">Changeling, The</a></li>
 				<li class="shitty"><a href="/2012/10/30/chernobyl-diaries/">Chernobyl Diaries</a></li>
+				<li class="shitty"><a href="/2021/10/10/children-corn-1984/">Children of the Corn</a> <span>(1984)</span></li>
+				<li class="shitty"><a href="/2021/10/10/children-corn-2/">Children of the Corn II: The Final Sacrifice</a></li>
 				<li class="shitty"><a href="/2016/10/09/children-dead-things/">Children Shouldn’t Play with Dead Things</a></li>
 				<li class="shitty"><a href="/2017/01/15/the-chilling/">Chilling, The</a></li>
 				<li class="shitty"><a href="/2017/10/05/chopping-mall/">Chopping Mall</a></li>
@@ -397,6 +400,7 @@ get_header(); ?>
 				<li><a href="/2017/10/17/frankenstein-created-woman/">Frankenstein Created Woman</a></li>
 				<li><a href="/2017/10/21/frankenstein-must-be-destroyed/">Frankenstein Must Be Destroyed</a></li>
 				<li class="shitty"><a href="/2009/10/29/freddy-vs-jason/">Freddy vs. Jason</a></li>
+				<li class="shitty"><a href="/2021/10/08/freddys-dead/">Freddy’s Dead: The Final Nightmare</a></li>
 				<li class="shitty"><a href="/2017/11/05/freejack/">Freejack</a></li>
 				<li class="shitty"><a href="/2009/10/01/friday-13th/">Friday the 13th</a></li>
 				<li class="shitty"><a href="/2009/10/07/friday-13th-2/">Friday the 13th Part 2</a></li>
@@ -410,6 +414,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2011/10/04/dusk-till-dawn-2/">From Dusk Till Dawn 2: Texas Blood Money</a></li>
 				<li class="shitty"><a href="/2019/10/20/from-hell-it-came/">From Hell It Came</a></li>
 				<li class="reco"><a href="/2008/02/04/full-metal-jacket/">Full Metal Jacket</a></li>
+				<li><a href="/2021/10/08/funeral-home/">Funeral Home, The</a></li>
 				<li><a href="/2020/10/20/furies-2019/">Furies, The</a> <span>(2019)</span></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
@@ -585,6 +590,7 @@ get_header(); ?>
 			<h5 id="ll">L</h5>
 			<ul>
 				<li class="shitty"><a href="/2018/06/25/la-crackdown/">LA Crackdown</a></li>
+				<li><a href="/2021/10/08/funeral-home/">La Funeria, aka The Funeral Home</a></li>
 				<li><a href="/2009/10/27/land-dead/">Land of the Dead</a></li>
 				<li><a href="/2016/10/18/lake-placid/">Lake Placid</a></li>
 				<li class="shitty"><a href="/2020/11/08/las-vegas-lady/">Las Vegas Lady</a></li>
@@ -664,6 +670,7 @@ get_header(); ?>
 				<li><a href="/2014/10/28/freddys-revenge/">Nightmare on Elm Street 2: Freddy’s Revenge, A</a></li>
 				<li class="shitty"><a href="/2021/10/05/elm-street-3/">Nightmare on Elm Street 3: Dream Warriors, A</a></li>
 				<li class="shitty"><a href="/2021/10/06/elm-street-4/">Nightmare on Elm Street 4: The Dream Master, A</a></li>
+				<li class="shitty"><a href="/2021/10/07/elm-street-5/">Nightmare on Elm Street 5: The Dream Child, A</a></li>
 				<li class="shitty"><a href="/2017/10/06/burial-ground/">Nights of Terror, The, aka Burial Ground</a></li>
 				<li class="shitty"><a href="/2016/11/27/no-escape/">No Escape</a></li>
 				<li class="shitty"><a href="/2020/08/02/no-escape-no-return/">No Escape No Return</a></li>
@@ -756,6 +763,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/10/17/rats-night-of-terror/">Rats: Night of Terror</a></li>
 				<li><a href="/2017/10/08/raw/">Raw</a></li>
 				<li class="shitty"><a href="/2014/05/08/raw-deal/">Raw Deal</a></li>
+				<li class="shitty"><a href="/2021/10/09/rawhead-rex/">Rawhead Rex</a></li>
 				<li><a href="/2010/10/06/re-animator/">Re-Animator</a></li>
 				<li><a href="/2011/10/03/rec/">[•REC]</a></li>
 				<li><a href="/2012/10/11/quarantine-2/">[•REC] 2</a></li>
@@ -969,6 +977,7 @@ get_header(); ?>
 				<li><a href="/2020/10/03/waxwork/">Waxwork</a></li>
 				<li><a href="/2015/10/29/we-are-still-here/">We Are Still Here</a></li>
 				<li class="shitty"><a href="/2020/10/11/werewolf-of-washington/">Werewolf of Washington, The</a></li>
+				<li><a href="/2021/10/09/new-nightmare/">Wes Craven’s New Nightmare</a></li>
 				<li><a href="/2017/10/01/what-we-become/">What We Become</a></li>
 				<li class="shitty"><a href="/2017/05/07/when-time-ran-out/">When Time Ran Out</a></li>
 				<li><a href="/2012/08/15/where-eagles-dare/">Where Eagles Dare</a></li>

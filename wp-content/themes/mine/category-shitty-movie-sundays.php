@@ -107,6 +107,7 @@ get_header(); ?>
 				<li class="has-image policewomen" onclick="location.href='/2020/08/16/policewomen/';"><a href="/2020/08/16/policewomen/">Policewomen</a></li>
 				<li class="has-image damnation-alley" onclick="location.href='/2019/03/17/damnation-alley/';"><a href="/2019/03/17/damnation-alley/">Damnation Alley</a></li>
 				<li class="has-image primal-2019" onclick="location.href='/2019/12/08/primal-2019/';"><a href="/2019/12/08/primal-2019/">Primal (2019)</a></li>
+				<li class="has-image children-corn-2" onclick="location.href='/2021/10/10/children-corn-2/';"><a href="/2021/10/10/children-corn-2/">Children of the Corn II: The Final Sacrifice</a></li>
 				<li class="has-image hell-living-dead" onclick="location.href='/2020/10/30/hell-of-the-living-dead/';"><a href="/2020/10/30/hell-of-the-living-dead/">Hell of the Living Dead</a></li>
 				<li class="has-image frogs" onclick="location.href='/2019/10/21/frogs/';"><a href="/2019/10/21/frogs/">Frogs</a></li>
 				<li class="has-image beginning-end" onclick="location.href='/2018/10/10/beginning-of-the-end/';"><a href="/2018/10/10/beginning-of-the-end/">Beginning of the End</a></li>
@@ -133,6 +134,7 @@ get_header(); ?>
 				<li class="has-image impulse-1974" onclick="location.href='/2019/10/23/impulse-1974/';"><a href="/2019/10/23/impulse-1974/">Impulse (1974)</a></li>
 				<li class="has-image final-score" onclick="location.href='/2019/03/31/final-score/';"><a href="/2019/03/31/final-score/">Final Score</a></li>
 				<li class="has-image winged-serpent" onclick="location.href='/2018/10/28/q-the-winged-serpent/';"><a href="/2018/10/28/q-the-winged-serpent/">Q — The Winged Serpent</a></li>
+				<li class="has-image rawhead-rex" onclick="location.href='/2021/10/09/rawhead-rex/';"><a href="/2021/10/09/rawhead-rex/">Rawhead Rex</a></li>
 				<li class="has-image shape-things" onclick="location.href='/2018/07/29/shape-of-things-to-come/';"><a href="/2018/07/29/shape-of-things-to-come/">The Shape of Things to Come</a></li>
 				<li class="has-image city-on-fire" onclick="location.href='/2018/08/05/city-on-fire/';"><a href="/2018/08/05/city-on-fire/">City on Fire</a></li>
 				<li class="has-image freddy-jason" onclick="location.href='/2009/10/29/freddy-vs-jason/';"><a href="/2009/10/29/freddy-vs-jason/">Freddy vs. Jason</a></li>
@@ -142,6 +144,7 @@ get_header(); ?>
 				<li class="has-image friday-13th" onclick="location.href='/2009/10/01/friday-13th/';"><a href="/2009/10/01/friday-13th/">Friday the 13th</a></li>
 				<li class="has-image freejack" onclick="location.href='/2017/11/05/freejack/';"><a href="/2017/11/05/freejack/">Freejack</a></li>
 				<li class="has-image slumber-party-massacre" onclick="location.href='/2019/10/05/slumber-party-massacre/';"><a href="/2019/10/05/slumber-party-massacre/">The Slumber Party Massacre</a></li>
+				<li class="has-image elm-street-5" onclick="location.href='/2021/10/07/elm-street-5/';"><a href="/2021/10/07/elm-street-5/">A Nightmare on Elm Street 5: The Dream Child</a></li>
 				<li class="has-image chrome-leather" onclick="location.href='/2019/04/07/chrome-and-hot-leather/';"><a href="/2019/04/07/chrome-and-hot-leather/">Chrome and Hot Leather</a></li>
 				<li class="has-image chud" onclick="location.href='/2019/10/29/chud/';"><a href="/2019/10/29/chud/">C.H.U.D.</a></li>
 				<li class="has-image squirm" onclick="location.href='/2020/10/02/squirm/';"><a href="/2020/10/02/squirm/">Squirm</a></li>
@@ -282,6 +285,7 @@ get_header(); ?>
 				<li class="has-image toolbox-murders" onclick="location.href='/2015/10/19/toolbox-murders/';"><a href="/2015/10/19/toolbox-murders/">The Toolbox Murders</a></li>
 				<li class="has-image escape-plan" onclick="location.href='/2014/02/10/escape-plan/';"><a href="/2014/02/10/escape-plan/">Escape Plan</a></li>
 				<li class="has-image new-gladiators" onclick="location.href='/2017/06/18/new-gladiators/';"><a href="/2017/06/18/new-gladiators/">The New Gladiators</a></li>
+				<li class="has-image children-corn" onclick="location.href='/2021/10/10/children-corn-1984/';"><a href="/2021/10/10/children-corn-1984/">Children of the Corn (1984)</a></li>
 				<li class="has-image steel-lace" onclick="location.href='/2018/10/17/steel-and-lace/';"><a href="/2018/10/17/steel-and-lace/">Steel and Lace</a></li>
 				<li class="has-image blood-feast" onclick="location.href='/2018/10/26/blood-feast/';"><a href="/2018/10/26/blood-feast/">Blood Feast</a></li>
 				<li class="has-image deadwater" onclick="location.href='/2019/10/14/black-ops/';"><a href="/2019/10/14/black-ops/">Black Ops</a></li>
@@ -326,6 +330,7 @@ get_header(); ?>
 				<li class="has-image reptilicus" onclick="location.href='/2018/10/21/reptilicus/';"><a href="/2018/10/21/reptilicus/">Reptilicus</a></li>
 				<li class="has-image venomous" onclick="location.href='/2020/02/16/venomous/';"><a href="/2020/02/16/venomous/">Venomous</a></li>
 				<li class="has-image lost-continent" onclick="location.href='/2019/10/02/lost-continent/';"><a href="/2019/10/02/lost-continent/">Lost Continent (1951)</a></li>
+				<li class="has-image army-dead" onclick="location.href='/2021/10/11/army-of-the-dead/';"><a href="/2021/10/11/army-of-the-dead/">Army of the Dead</a></li>
 				<li class="has-image road-wars" onclick="location.href='/2021/03/14/road-wars/';"><a href="/2021/03/14/road-wars/">Road Wars</a></li>
 				<li class="has-image alone-dark" onclick="location.href='/2012/10/16/alone-dark/';"><a href="/2012/10/16/alone-dark/">Alone in the Dark (1982)</a></li>
 				<li class="has-image battleship" onclick="location.href='/2012/09/02/battleship/';"><a href="/2012/09/02/battleship/">Battleship</a></li>
@@ -365,6 +370,7 @@ get_header(); ?>
 				<li class="has-image mom-shoot" onclick="location.href='/2017/08/16/stop-or-my-mom-will-shoot/';"><a href="/2017/08/16/stop-or-my-mom-will-shoot/">Stop! Or My Mom Will Shoot</a></li>				
 				<li class="has-image driven" onclick="location.href='/2017/08/23/driven/';"><a href="/2017/08/23/driven/">Driven</a></li>
 				<li class="has-image petrified-world" onclick="location.href='/2021/07/04/incredible-petrified-world/';"><a href="/2021/07/04/incredible-petrified-world/">The Incredible Petrified World</a></li>
+				<li class="has-image freddys-dead" onclick="location.href='/2021/10/08/freddys-dead/';"><a href="/2021/10/08/freddys-dead/">Freddy’s Dead: The Final Nightmare</a></li>
 				<li class="has-image human-centipede" onclick="location.href='/2011/10/01/human-centipede/';"><a href="/2011/10/01/human-centipede/">The Human Centipede</a></li>
 				<li class="has-image hitlers-brain" onclick="location.href='/2020/02/23/hitlers-brain/';"><a href="/2020/02/23/hitlers-brain/">They Saved Hitler’s Brain</a></li>
 				<li class="has-image phantom-leagues" onclick="location.href='/2019/10/12/phantom-from-10000-leagues/';"><a href="/2019/10/12/phantom-from-10000-leagues/">The Phantom from 10,000 Leagues</a></li>
