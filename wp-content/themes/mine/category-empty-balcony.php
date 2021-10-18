@@ -196,11 +196,13 @@ get_header(); ?>
 				<li><a href="/2020/10/16/boar/">Boar</a></li>
 				<li class="shitty"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
 				<li><a href="/2013/11/26/boondock-saints/">Boondock Saints, The</a></li>
+				<li><a href="/2021/10/15/bornless-ones/">Bornless Ones</a></li>
 				<li class="shitty"><a href="/2020/10/31/brain-damage/">Brain Damage</a></li>
 				<li class="shitty"><a href="/2020/10/25/brain-twisters/">Brain Twisters</a></li>
 				<li class="reco"><a href="/2010/10/14/dead-alive/">Braindead, aka Dead Alive</a></li>
 				<li><a href="/2014/10/16/dracula/">Bram Stoker’s Dracula</a></li>
 				<li><a href="/2019/01/27/braven/">Braven</a></li>
+				<li><a href="/2021/10/16/bride-of-chucky/">Bride of Chucky</a></li>
 				<li class="shitty"><a href="/2019/10/03/bride-gorilla/">Bride of the Gorilla</a></li>
 				<li><a href="/2017/10/06/the-brides-of-dracula/">Brides of Dracula, The</a></li>
 				<li class="shitty"><a href="/2017/01/29/the-bronx-executioner-or-frankensteins-movie/">Bronx Executioner, The</a></li>
@@ -226,7 +228,13 @@ get_header(); ?>
 				<li class="shitty"><a href="/2012/10/30/chernobyl-diaries/">Chernobyl Diaries</a></li>
 				<li class="shitty"><a href="/2021/10/10/children-corn-1984/">Children of the Corn</a> <span>(1984)</span></li>
 				<li class="shitty"><a href="/2021/10/10/children-corn-2/">Children of the Corn II: The Final Sacrifice</a></li>
+				<li class="shitty"><a href="/2021/10/11/children-corn-3/">Children of the Corn III: Urban Harvest</a></li>
+				<li class="shitty"><a href="/2021/10/12/children-corn-4/">Children of the Corn IV: The Gathering</a></li>
+				<li class="shitty"><a href="/2021/10/13/children-corn-5/">Children of the Corn V: Fields of Terror</a></li>
 				<li class="shitty"><a href="/2016/10/09/children-dead-things/">Children Shouldn’t Play with Dead Things</a></li>
+				<li><a href="/2021/10/14/childs-play-1988/">Child’s Play</a> <span>(1988)</span></li>
+				<li><a href="/2021/10/14/childs-play-2/">Child’s Play 2</a></li>
+				<li class="shitty"><a href="/2021/10/15/childs-play-3/">Child’s Play 3</a></li>
 				<li class="shitty"><a href="/2017/01/15/the-chilling/">Chilling, The</a></li>
 				<li class="shitty"><a href="/2017/10/05/chopping-mall/">Chopping Mall</a></li>
 				<li><a href="/2013/10/04/christine/">Christine</a></li>
@@ -311,6 +319,7 @@ get_header(); ?>
 				<li><a href="/2017/08/17/demolition-man/">Demolition Man</a></li>
 				<li class="shitty"><a href="/2019/10/18/derelict/">Derelict</a></li>
 				<li class="shitty"><a href="/2018/11/18/detour/">Detour</a></li>
+				<li class="shitty"><a href="/2021/10/13/devil-below/">Devil Below, The</a></li>
 				<li class="shitty"><a href="/2019/12/01/devils-express/">Devil’s Express</a></li>
 				<li class="shitty"><a href="/2020/10/21/devils-hand/">Devil’s Hand, The</a></li>
 				<li><a href="/2020/10/15/devils-nightmare/">Devil’s Nightmare, The</a></li>
@@ -604,11 +613,13 @@ get_header(); ?>
 				<li><a href="/2020/05/27/legend-1985/">Legend</a> <span>(1985)</span></li>
 				<li class="shitty"><a href="/2019/10/11/boggy-creek/">Legend of Boggy Creek, The</a></li>
 				<li><a href="/2009/10/13/hell-house/">Legend of Hell House, The</a></li>
+				<li class="shitty"><a href="/2021/10/18/leprechaun/">Leprechaun</a></li>
 				<li class="shitty"><a href="/2012/10/17/leviathan/">Leviathan</a></li>
 				<li><a href="/2014/10/23/lifeforce/">Lifeforce</a></li>
 				<li class="reco"><a href="/2013/02/28/becket/">Lion in Winter, The</a></li>
 				<li><a href="/2017/08/13/lock-up/">Lock Up</a></li>
 				<li class="reco"><a href="/2009/03/30/logans-run/">Logan’s Run</a></li>
+				<li><a href="/2021/10/17/similars/">Los Parecidos, aka The Similars</a></li>
 				<li><a href="/2018/10/16/lost-boys/">Lost Boys, The</a></li>
 				<li class="shitty"><a href="/2019/10/02/lost-continent/">Lost Continent <span>(1951)</span></a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
@@ -823,10 +834,12 @@ get_header(); ?>
 				<li><a href="/2015/10/12/saw/">Saw</a></li>
 				<li><a href="/2015/10/13/saw-ii/">Saw II</a></li>
 				<li><a href="/2015/10/14/saw-iii/">Saw III</a></li>
+				<li class="shitty"><a href="/2021/10/12/scared-to-death-1947/">Scared to Death</a> <span>(1947)</span></li>
 				<li><a href="/2017/10/23/scars-of-dracula/">Scars of Dracula</a></li>
 				<li class="shitty"><a href="/2021/02/14/sci-fighter-aka-x-treme-fighter/">Sci-Fighter</a></li>
 				<li class="shitty"><a href="/2019/10/22/screaming-skull/">Screaming Skull, The</a></li>
 				<li><a href="/2014/03/03/empty-balcony-awards/">Second Annual Empty Balcony Awards for Movies I Saw From Last Year, The</a></li>
+				<li class="shitty"><a href="/2021/10/17/seed-of-chucky/">Seed of Chucky</a></li>
 				<li class="reco"><a href="/2017/02/13/seven-days-in-may/">Seven Days in May</a></li>
 				<li class="shitty"><a href="/2018/10/30/suckling/">Sewage Baby, aka The Suckling</a></li>
 				<li class="shitty"><a href="/2020/03/01/shanghai-fortress/">Shanghai Fortress</a></li>
@@ -842,6 +855,7 @@ get_header(); ?>
 				<li><a href="/2017/09/10/shot-caller/">Shot Caller</a></li>
 				<li><a href="/2013/10/29/shutter/">Shutter</a> <span>(2004)</span></li>
 				<li class="shitty"><a href="/2018/05/06/silent-rage/">Silent Rage</a></li>
+				<li><a href="/2021/10/17/similars/">Similars, The</a></li>
 				<li><a href="/2018/03/04/2018-empty-balcony-awards/">Sixth Annual Empty Balcony Awards for Movies I Saw from Last Year, The</a></li>
 				<li class="shitty"><a href="/2013/10/16/skeptic/">Skeptic, The</a></li>
 				<li><a href="/2013/02/16/skyfall/">Skyfall</a></li>
@@ -886,6 +900,7 @@ get_header(); ?>
 			<h5 id="tt">T</h5>
 			<ul>
 				<li><a href="/2015/10/04/taking-of-deborah-logan/">Taking of Deborah Logan, The</a></li>
+				<li class="shitty"><a href="/2021/10/16/tammy-t-rex/">Tammy and the T-Rex</a></li>
 				<li class="shitty"><a href="/2017/08/14/tango-cash/">Tango & Cash</a></li>
 				<li><a href="/2020/05/06/taps/">Taps</a></li>
 				<li><a href="/2018/10/05/tarantula/">Tarantula</a></li>
