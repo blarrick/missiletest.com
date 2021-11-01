@@ -199,6 +199,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
 				<li><a href="/2013/11/26/boondock-saints/">Boondock Saints, The</a></li>
 				<li><a href="/2021/10/15/bornless-ones/">Bornless Ones</a></li>
+				<li class="shitty"><a href="/2021/10/31/the-brain-1988/">Brain, The</a> <span>(1988)</span></li>
 				<li class="shitty"><a href="/2020/10/31/brain-damage/">Brain Damage</a></li>
 				<li class="shitty"><a href="/2020/10/25/brain-twisters/">Brain Twisters</a></li>
 				<li class="reco"><a href="/2010/10/14/dead-alive/">Braindead, aka Dead Alive</a></li>
@@ -253,6 +254,7 @@ get_header(); ?>
 				<li><a href="/2017/10/16/cold-prey/">Cold Prey</a></li>
 				<li><a href="/2014/05/23/collateral-damage/">Collateral Damage</a></li>
 				<li class="shitty"><a href="/2013/10/16/colony/">Colony, The</a></li>
+				<li><a href="/2021/10/27/color-out-of-space/">Color Out of Space</a></li>
 				<li class="shitty"><a href="/2014/05/07/commando/">Commando</a></li>
 				<li class="reco"><a href="/2014/05/03/conan-the-barbarian/">Conan the Barbarian</a></li>
 				<li><a href="/2014/05/04/conan-the-destroyer/">Conan the Destroyer</a></li>
@@ -477,6 +479,7 @@ get_header(); ?>
 				<li><a href="/2016/10/05/hallow/">Hallow, The</a></li>
 				<li class="reco"><a href="/2009/10/31/halloween/">Halloween</a> <span>(1978)</span></li>
 				<li class="shitty"><a href="/2010/06/29/halloween-2007/">Halloween</a> <span>(2007)</span></li>
+				<li><a href="/2021/10/31/halloween-2018/">Halloween</a> <span>(2018)</span></li>
 				<li class="shitty"><a href="/2010/10/31/halloween-2/">Halloween II</a> <span>(1981)</span></li>
 				<li class="shitty"><a href="/2010/06/29/halloween-2007/">Halloween II</a> <span>(2009)</span></li>
 				<li><a href="/2011/10/31/halloween-3/">Halloween III: Season Of The Witch</a></li>
@@ -497,6 +500,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/10/08/haunting-on-fraternity-row/">Haunting on Fraternity Row</a></li>
 				<li class="shitty"><a href="/2020/10/01/invasion-from-inner-earth/">Hell Fire, aka Invasion from Inner Earth</a></li>
 				<li><a href="/2017/10/11/hell-house-llc/">Hell House LLC</a></li>
+				<li><a href="/2021/10/26/hell-night/">Hell Night</a></li>
 				<li class="shitty"><a href="/2020/10/30/hell-of-the-living-dead/">Hell of the Living Dead</a></li>
 				<li class="shitty"><a href="/2020/05/17/hell-on-wheels/">Hell on Wheels</a></li>
 				<li><a href="/2015/10/06/hellraiser-ii/">Hellbound: Hellraiser II</a></li>
@@ -504,6 +508,12 @@ get_header(); ?>
 				<li class="reco"><a href="/2014/10/30/hellraiser/">Hellraiser</a></li>
 				<li><a href="/2015/10/07/hellraiser-iii/">Hellraiser III: Hell on Earth</a></li>
 				<li class="shitty"><a href="/2021/10/24/hellraiser-bloodline/">Hellraiser IV: Bloodline</a></li>
+				<li class="shitty"><a href="/2021/10/25/hellraiser-inferno/">Hellraiser V: Inferno</a></li>
+				<li class="shitty"><a href="/2021/10/26/hellraiser-hellseeker/">Hellraiser VI: Hellseeker</a></li>
+				<li class="shitty"><a href="/2021/10/27/hellraiser-deader/">Hellraiser VII: Deader</a></li>
+				<li class="shitty"><a href="/2021/10/28/hellraiser-hellworld/">Hellraiser VIII: Hellworld</a></li>
+				<li class="shitty"><a href="/2021/10/30/hellraiser-judgement/">Hellraiser: Judgement</a></li>
+				<li class="shitty"><a href="/2021/10/29/hellraiser-revelations/">Hellraiser: Revelations</a></li>
 				<li><a href="/2008/10/23/herbivore/">Herbivore, The</a></li>
 				<li class="shitty"><a href="/2014/05/01/hercules-in-new-york/">Hercules in New York</a></li>
 				<li><a href="/2018/10/31/hereditary/">Hereditary</a></li>
@@ -674,6 +684,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/10/19/monster-that-challenged-the-world/">Monster That Challenged the World, The</a></li>
 				<li><a href="/2018/10/31/monsters/">Monsters</a></li>
 				<li class="reco"><a href="/2009/07/27/holy-grail/">Monty Python and the Holy Grail</a></li>
+				<li class="shitty"><a href="/2021/10/28/motel-hell/">Motel Hell</a></li>
 				<li><a href="/2018/03/25/mr-majestyk/">Mr. Majestyk</a></li>
 				<li><a href="/2017/10/01/the-mummy/">Mummy, The</a> <span>(1959)</span></li>
 				<li><a href="/2017/10/13/mummys-shroud/">Mummy's Shroud, The</a></li>
@@ -941,6 +952,7 @@ get_header(); ?>
 				<li><a href="/2017/10/14/them-2006/">Them</a> <span>(2006)</span></li>
 				<li><a href="/2018/10/03/them/">Them!</a></li>
 				<li class="shitty"><a href="/2008/10/27/theodore-rex/">Theodore Rex</a></li>
+				<li><a href="/2021/10/29/theres-someone-inside-your-house/">There’s Someone Inside Your House</a></li>
 				<li class="shitty"><a href="/2020/10/01/invasion-from-inner-earth/">They, aka Invasion from Inner Earth</a></li>
 				<li class="shitty"><a href="/2008/09/23/they-live/">They Live</a></li>
 				<li class="shitty"><a href="/2020/02/23/hitlers-brain/">They Saved Hitler’s Brain</a></li>
@@ -1001,6 +1013,7 @@ get_header(); ?>
 				<li><a href="/2018/10/06/villmark-2/">Villmark 2</a></li>
 				<li class="reco"><a href="/2012/08/08/virgin-spring/">Virgin Spring, The</a></li>
 				<li class="shitty"><a href="/2021/03/07/virtuosity/">Virtuosity</a></li>
+				<li><a href="/2021/10/30/virus/">Virus</a> <span>(1999)</span></li>
 				<li class="reco"><a href="/2017/10/15/the-void/">Void, The</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>

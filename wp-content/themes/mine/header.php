@@ -22,14 +22,14 @@
 	<?php wp_head(); ?>
 </head>
 
-<body <?php body_class('halloween'); ?>>
+<body <?php body_class(/*'halloween'*/); ?>>
 <div id="page" class="site">
 	<div class="site-inner">
 		<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentysixteen' ); ?></a>
 
 		<header id="masthead" class="site-header" role="banner">
 			<div class="overwrite-header">
-				<a href="https://missiletest.com"><img src="https://missiletest.com/images/mtheader_halloween.png" /></a>
+				<a href="https://missiletest.com"><img src="https://missiletest.com/images/mtheader.png" /></a>
 			</div>
 			<div class="triple-border"></div>
 			<div class="triple-border"></div>
