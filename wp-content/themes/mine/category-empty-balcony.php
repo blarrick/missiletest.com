@@ -97,6 +97,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2014/01/08/act-of-valor/">Act of Valor</a></li>
 				<li><a href="/2011/07/08/adjustment-bureau/">Adjustment Bureau, The</a></li>
 				<li class="shitty"><a href="/2020/07/26/the-aftermath-1982/">Aftermath, The <span>(1982)</span></a></li>
+				<li class="shitty"><a href="/2022/01/23/alcatraz/">Alcatraz <span>(2018)</span></a></li>
 				<li class="reco"><a href="/2008/04/23/alien/">Alien</a></li>
 				<li><a href="/2016/10/11/alien-3/">Alien 3</a></li>
 				<li><a href="/2017/10/17/alien-covenant/">Alien: Covenant</a></li>
@@ -131,6 +132,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/10/11/army-of-the-dead/">Army of the Dead</a></li>
 				<li><a href="/2012/08/20/arrival/">Arrival, The</a></li>
 				<li><a href="/2015/10/01/as-above-so-below/">As Above, So Below</a></li>
+				<li class="shitty"><a href="/2022/02/13/assignment-outer-space/">Assignment: Outer Space</a></li>
 				<li class="shitty"><a href="/2011/10/07/asylum-1972/">Asylum</a> <span>(1972)</span></li>
 				<li class="shitty"><a href="/2017/07/09/raiders-of-atlantis/">Atlantis Interceptors, The, aka The Raiders of Atlantis</a></li>
 				<li><a href="/2018/01/14/atomic-blonde/">Atomic Blonde</a></li>
@@ -139,6 +141,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/10/20/attack-of-the-giant-leeches/">Attack of the Giant Leeches</a></li>
 				<li class="shitty"><a href="/2018/10/14/matango/">Attack of the Mushroom People, aka Matango</a></li>
 				<li><a href="/2019/10/23/attack-of-the-puppet-people/">Attack of the Puppet People</a></li>
+				<li class="shitty"><a href="/2021/12/19/attack-unknown/">Attack of the Unknown</a></li>
 				<li><a href="/2018/10/12/attack-the-block/">Attack the Block</a></li>
 				<li><a href="/2020/10/18/autopsy-of-jane-doe/">Autopsy of Jane Doe, The</a></li>
 				<li><a href="/2012/06/11/avengers/">Avengers, The</a></li>
@@ -262,9 +265,11 @@ get_header(); ?>
 				<li><a href="/2016/10/26/the-conjuring-2/">Conjuring 2, The</a></li>
 				<li><a href="/2016/10/14/constantine/">Constantine</a></li>
 				<li class="shitty"><a href="/2017/10/09/contamination/">Contamination</a></li>
+				<li class="shitty"><a href="/2022/04/24/cop-1988/">Cop</a> <span>(1988)</span></li>
 				<li><a href="/2017/08/21/cop-land/">Cop Land</a></li>
 				<li><a href="/2020/10/05/crucible-of-horror/">Corpse, The, aka Crucible of Horror</a></li>
 				<li class="shitty"><a href="/2021/10/25/sniper-corpse/">Corpse Sniper, aka Sniper Corpse</a></li>
+				<li class="shitty"><a href="/2022/02/20/cosmic-sin/">Cosmic Sin</a></li>
 				<li class="shitty"><a href="/2018/02/18/cosmos/">Cosmos: War of the Planets</a></li>
 				<li><a href="/2019/10/24/crawl/">Crawl</li>
 				<li><a href="/2012/10/01/crazies-1973/">Crazies, The</a> <span>(1973)</span></li>
@@ -303,6 +308,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2010/10/07/dawn-dead/">Dawn of the Dead</a> <span>(1978)</span></li>
 				<li><a href="/2009/10/21/dawn-dead-2004/">Dawn of the Dead</a> <span>(2004)</span></li>
 				<li><a href="/2010/10/28/day-of-the-dead/">Day of the Dead</a></li>
+				<li class="shitty"><a href="/2021/12/05/day-world-ended/">Day the World Ended</a></li>
 				<li class="shitty"><a href="/2017/08/20/daylight/">Daylight</a></li>
 				<li class="reco"><a href="/2010/10/14/dead-alive/">Dead Alive, aka Braindead</a></li>
 				<li class="shitty"><a href="/2019/10/12/dead-hate-the-living/">Dead Hate the Living!, The</a></li>
@@ -314,6 +320,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/07/05/deadly-prey/">Deadly Prey</a></li>
 				<li><a href="/2020/10/06/deadtectives/">Deadtectives</a></li>
 				<li class="shitty"><a href="/2019/10/14/black-ops/">Deadwater, aka Black Ops</a></li>
+				<li class="shitty"><a href="/2021/11/07/death-flight/">Death Flight, aka SST: Death Flight</a></li>
 				<li class="shitty"><a href="/2018/04/01/death-machines/">Death Machines</a></li>
 				<li class="shitty"><a href="/2021/05/30/death-race-2000/">Death Race 2000</a></li>
 				<li><a href="/2020/10/28/death-warmed-up/">Death Warmed Up</a></li>
@@ -325,6 +332,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2009/08/11/deep-rising/">Deep Rising</a></li>
 				<li class="shitty"><a href="/2013/10/21/deepstar-six/">DeepStar Six</a></li>
 				<li><a href="/2017/08/17/demolition-man/">Demolition Man</a></li>
+				<li class="shitty"><a href="/2021/12/26/demolitionist/">Demolitionist, The</a></li>
 				<li class="shitty"><a href="/2019/10/18/derelict/">Derelict</a></li>
 				<li class="shitty"><a href="/2018/11/18/detour/">Detour</a></li>
 				<li class="shitty"><a href="/2021/10/13/devil-below/">Devil Below, The</a></li>
@@ -341,6 +349,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2008/06/06/doom/">Doom</a></li>
 				<li class="shitty"><a href="/2021/08/22/doom-annihilation/">Doom: Annihilation</a></li>
 				<li class="shitty"><a href="/2020/02/09/double-exposure/">Double Exposure</a></li>
+				<li class="shitty"><a href="/2022/01/09/down-n-dirty/">Down ’n Dirty</a></li>
 				<li><a href="/2017/10/03/dracula-1958/">Dracula</a> <span>(1958)</span></li>
 				<li><a href="/2013/10/19/dracula-2/">Dracula</a> <span>(1979)</span></li>
 				<li class="shitty"><a href="/2014/10/03/dracula-3000/">Dracula 3000</a></li>
@@ -408,10 +417,12 @@ get_header(); ?>
 				<li><a href="/2017/10/14/quatermass-3/">Five Million Years to Earth, aka Quatermass and the Pit</a></li>
 				<li><a href="/2019/10/25/the-fly-1958/">Fly, The</a> <span>(1958)</span></li>
 				<li class="reco"><a href="/2012/10/15/fly-1986/">Fly, The</a> <span>(1986)</span></li>
+				<li class="shitty"><a href="/2022/03/06/flying-saucer/">Flying Saucer, The</a></li>
 				<li><a href="/2014/10/13/fog/">Fog, The</a> <span>(1980)</span></li>
 				<li class="shitty"><a href="/2014/10/14/fog-2005/">Fog, The</a> <span>(2005)</span></li>
 				<li class="shitty"><a href="/2018/10/25/food-of-the-gods/">Food of the Gods, The</a></li>
 				<li class="reco"><a href="/2011/02/19/forbidden-planet/">Forbidden Planet</a></li>
+				<li class="shitty"><a href="/2022/04/17/fortress-2021/">Fortress</a> <span>(2021)</span></li>
 				<li><a href="/2016/03/16/4th-empty-balcony-awards/">Fourth Annual Empty Balcony Awards for Movies I Saw From Last Year, The</a></li>
 				<li><a href="/2017/10/29/frankenstein-monster-from-hell/">Frankenstein and the Monster from Hell</a></li>
 				<li><a href="/2017/10/17/frankenstein-created-woman/">Frankenstein Created Woman</a></li>
@@ -498,6 +509,7 @@ get_header(); ?>
 				<li><a href="/2013/10/18/haunting-1999/">Haunting, The</a> <span>(1999)</span></li>
 				<li class="shitty"><a href="/2013/10/10/ghosts-of-georgia/">Haunting in Connecticut 2: Ghosts of Georgia, The</a></li>
 				<li class="shitty"><a href="/2019/10/08/haunting-on-fraternity-row/">Haunting on Fraternity Row</a></li>
+				<li class="shitty"><a href="/2022/01/30/helga/">Helga, She-Wolf of Stilberg</a></li>
 				<li class="shitty"><a href="/2020/10/01/invasion-from-inner-earth/">Hell Fire, aka Invasion from Inner Earth</a></li>
 				<li><a href="/2017/10/11/hell-house-llc/">Hell House LLC</a></li>
 				<li><a href="/2021/10/26/hell-night/">Hell Night</a></li>
@@ -546,9 +558,11 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/07/09/raiders-of-atlantis/">I predatori di Atlantide, aka The Raiders of Atlantis</a></li>
 				<li><a href="/2013/10/29/sell-the-dead/">I Sell the Dead</a></li>
 				<li class="shitty"><a href="/2012/10/13/spit-grave/">I Spit on Your Grave</a></li>
+				<li class="shitty"><a href="/2022/02/06/ice-twisters/">Ice Twisters</a></li>
 				<li class="shitty"><a href="/2021/10/20/bloody-pit-of-horror/">Il boia scarlatto, aka Bloody Pit of Horror</a></li>
 				<li class="shitty"><a href="/2017/01/29/the-bronx-executioner-or-frankensteins-movie/">Il giustiziere del Bronx, aka The Bronx Executioner</a></li>
 				<li class="shitty"><a href="/2019/10/23/impulse-1974/">Impulse</a> <span>(1974)</span></li>
+				<li class="shitty"><a href="/2021/12/05/day-world-ended/">In the Year 2889</a></li>
 				<li class="shitty"><a href="/2014/10/21/incredible-melting-man/">Incredible Melting Man, The</a></li>
 				<li class="shitty"><a href="/2021/07/04/incredible-petrified-world/">Incredible Petrified World, The</a></li>
 				<li><a href="/2019/10/18/incredible-shrinking-man/">Incredible Shrinking Man, The</a></li>
@@ -630,6 +644,7 @@ get_header(); ?>
 				<li><a href="/2016/10/18/lake-placid/">Lake Placid</a></li>
 				<li class="shitty"><a href="/2020/11/08/las-vegas-lady/">Las Vegas Lady</a></li>
 				<li><a href="/2014/05/15/last-action-hero/">Last Action Hero</a></li>
+				<li><a href="/2022/06/05/last-boy-scout/">Last Boy Scout, The</a></li>
 				<li class="shitty"><a href="/2013/10/08/last-exorcism-ii/">Last Exorcism Part II, The</a></li>
 				<li><a href="/2009/01/09/i-am-legend/">Last Man on Earth, The</a></li>
 				<li class="shitty"><a href="/2020/09/27/empire-of-ash-iii/">Last of the Warriors, aka Empire of Ash III</a></li>
@@ -671,6 +686,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/10/28/manster/">Manster, The</a></li>
 				<li><a href="/2021/10/06/mara/">Mara</a></li>
 				<li><a href="/2020/10/02/marshes/">Marshes, The</a></li>
+				<li class="shitty"><a href="/2022/03/20/martial-law/">Martial Law</a> <span>(1990)</span></li>
 				<li class="reco"><a href="/2008/08/05/master-and-commander/">Master and Commander: The Far Side of the World</a></li>
 				<li class="shitty"><a href="/2018/10/14/matango/">Matango</a></li>
 				<li><a href="/2008/04/18/matrix/">Matrix, The</a></li>
@@ -730,6 +746,7 @@ get_header(); ?>
 				<li><a href="/2018/11/25/officer-downe/">Officer Downe</a></li>
 				<li class="shitty"><a href="/2013/03/24/olympus-has-fallen/">Olympus Has Fallen</a></li>
 				<li><a href="/2009/01/09/i-am-legend/">Omega Man, The</a></li>
+				<li class="shitty"><a href="/2022/03/13/on-the-edge/">On the Edge</a> <span>(2002)</span></li>
 				<li><a href="/2014/12/09/one-i-love/">One I Love, The</a></li>
 				<li class="shitty"><a href="/2013/07/31/orca/">Orca</a></li>
 				<li><a href="/2012/10/06/orphanage/">Orphanage, The</a></li>
@@ -765,6 +782,7 @@ get_header(); ?>
 				<li><a href="/2015/10/25/poltergeist-2015/">Poltergeist</a> <span>(2015)</span></li>
 				<li class="shitty"><a href="/2014/06/10/pompeii/">Pompeii</a></li>
 				<li><a href="/2013/10/28/pontypool/">Pontypool</a></li>
+				<li class="shitty"><a href="/2021/11/28/post-impact/">Post Impact</a></li>
 				<li class="reco"><a href="/2011/12/20/predator/">Predator</a></li>
 				<li><a href="/2016/10/07/predator-2/">Predator 2</a></li>
 				<li><a href="/2016/10/13/predators/">Predators</a></li>
@@ -902,6 +920,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2009/08/30/soldier/">Soldier</a></li>
 				<li><a href="/2011/07/21/source-code/">Source Code</a></li>
 				<li class="reco"><a href="/2009/03/02/soylent-green/">Soylent Green</a></li>
+				<li class="shitty"><a href="/2022/02/13/assignment-outer-space/">Space Men, aka Assignment: Outer Space</a></li>
 				<li class="shitty"><a href="/2009/09/08/spacehunter/">Spacehunter: Adventures in the Forbidden Zone</a></li>
 				<li class="shitty"><a href="/2020/10/29/spawn-of-the-slithis/">Spawn of the Slithis</a></li>
 				<li class="shitty"><a href="/2021/08/01/specialist-1975/">Specialist, The</a> <span>(1975)</span></li>
@@ -912,6 +931,7 @@ get_header(); ?>
 				<li><a href="/2013/10/26/splinter/">Splinter</a></li>
 				<li class="shitty"><a href="/2019/10/19/split-second/">Split Second</a></li>
 				<li class="shitty"><a href="/2020/10/02/squirm/">Squirm</a></li>
+				<li class="shitty"><a href="/2021/11/07/death-flight/">SST: Death Flight</a></li>
 				<li><a href="/2014/10/05/stake-land/">Stake Land</a></li>
 				<li class="shitty"><a href="/2020/03/29/stanley/">Stanley</a></li>
 				<li class="shitty"><a href="/2008/12/16/starship-troopers-3/">Starship Troopers 3: Marauder</a></li>
@@ -947,6 +967,7 @@ get_header(); ?>
 				<li><a href="/2016/05/12/terminator-genisys/">Terminator Genisys</a></li>
 				<li class="shitty"><a href="/2020/10/19/terrified/">Terrified</a></li>
 				<li><a href="/2020/10/24/terror-1978/">Terror</a> <span>(1978)</span></li>
+				<li class="shitty"><a href="/2022/01/16/terror-in-beverly-hills/">Terror in Beverly Hills</a></li>
 				<li><a href="/2014/10/22/terror-train/">Terror Train</a></li>
 				<li><a href="/2020/10/26/terror-creatures-from-the-grave/">Terror-Creatures from the Grave</a></li>
 				<li><a href="/2017/10/14/them-2006/">Them</a> <span>(2006)</span></li>
@@ -1041,6 +1062,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2016/10/20/witch/">Witch, The</a></li>
 				<li class="shitty"><a href="/2017/09/17/womens-prison-massacre/">Women's Prison Massacre</a></li>
 				<li><a href="/2013/10/20/world-war-z/">World War Z</a></li>
+				<li class="shitty"><a href="/2022/07/03/wraith/">Wraith, The</a></li>
 				<li><a href="/2020/10/22/wretched/">Wretched, The</a></li>
 				<li><a href="/2016/10/04/wyrmwood/">Wyrmwood: Road of the Dead</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
