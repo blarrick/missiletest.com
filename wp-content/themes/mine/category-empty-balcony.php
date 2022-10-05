@@ -194,10 +194,12 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/03/22/blood-mania/">Blood Mania</a></li>
 				<li class="shitty"><a href="/2018/03/18/the-killers-edge-aka-blood-money/">Blood Money, aka The Killers Edge</a></li>
 				<li class="shitty"><a href="/2020/10/17/blood-of-draculas-castle/">Blood of Dracula’s Castle</a></li>
+				<li class="shitty"><a href="/2022/10/02/blood-rage/">Blood Rage</a></li>
 				<li class="shitty"><a href="/2020/10/13/blood-sabbath/">Blood Sabbath</a></li>
 				<li class="shitty"><a href="/2020/10/05/blood-vessel/">Blood Vessel</a></li>
 				<li class="shitty"><a href="/2021/10/20/bloody-pit-of-horror/">Bloody Pit of Horror</a></li>
 				<li><a href="/2014/10/30/blood-glacier/">Blutgletscher, aka Blood Glacier</a></li>
+				<li class="shitty"><a href="/2022/10/04/boa/">Boa</a></li>
 				<li><a href="/2020/10/16/boar/">Boar</a></li>
 				<li class="shitty"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
 				<li><a href="/2013/11/26/boondock-saints/">Boondock Saints, The</a></li>
@@ -499,6 +501,7 @@ get_header(); ?>
 				<li><a href="/2015/10/31/halloween-h20/">Halloween H20: 20 Years Later</a></li>
 				<li class="shitty"><a href="/2016/10/31/halloween-resurrection/">Halloween: Resurrection</a></li>
 				<li class="shitty"><a href="/2014/10/31/halloween-6/">Halloween: The Curse of Michael Myers</a></li>
+				<li class="shitty"><a href="/2022/10/05/hallucinations/">Hallucinations</a></li>
 				<li class="shitty"><a href="/2020/04/19/hands-of-steel/">Hands of Steel</a></li>
 				<li><a href="/2013/10/15/hannibal-rising/">Hannibal Rising</a></li>
 				<li><a href="/2015/10/20/harbinger-down/">Harbinger Down</a></li>
@@ -623,6 +626,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/03/18/the-killers-edge-aka-blood-money/">Killers Edge, The</a></li>
 				<li class="shitty"><a href="/2019/10/08/killers-from-space/">Killers from Space</a></li>
 				<li class="shitty"><a href="/2014/01/06/killing-season/">Killing Season</a></li>
+				<li class="shitty"><a href="/2022/10/01/killing-spree/">Killing Spree</a></li>
 				<li><a href="/2014/05/13/kindergarten-cop/">Kindergarten Cop</a></li>
 				<li class="shitty"><a href="/2018/10/06/king-dinosaur/">King Dinosaur</a></li>
 				<li><a href="/2013/11/21/king-of-new-york/">King of New York</a></li>
@@ -659,6 +663,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/10/18/leprechaun-2/">Leprechaun 2</a></li>
 				<li class="shitty"><a href="/2021/10/19/leprechaun-3/">Leprechaun 3</a></li>
 				<li class="shitty"><a href="/2021/10/20/leprechaun-4/">Leprechaun 4: In Space</a></li>
+				<li class="shitty"><a href="/2022/10/05/hallucinations/">Lethal Nightmare</a></li>
 				<li class="shitty"><a href="/2012/10/17/leviathan/">Leviathan</a></li>
 				<li><a href="/2014/10/23/lifeforce/">Lifeforce</a></li>
 				<li class="reco"><a href="/2013/02/28/becket/">Lion in Winter, The</a></li>
@@ -712,6 +717,7 @@ get_header(); ?>
 			<ul>
 				<li class="shitty"><a href="/2021/04/04/naked-angels/">Naked Angels</a></li>
 				<li class="shitty"><a href="/2013/10/18/navy-night-monsters/">Navy vs. The Night Monsters, The</a></li>
+				<li class="shitty"><a href="/2022/10/04/boa/">New Alcatraz, aka Boa</a></li>
 				<li class="shitty"><a href="/2016/12/11/the-new-barbarians/">New Barbarians, The</a></li>
 				<li class="shitty"><a href="/2017/06/18/new-gladiators/">New Gladiators, The</a></li>
 				<li class="shitty"><a href="/2019/11/24/next-2/">Next</a></li>
@@ -732,6 +738,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/10/06/elm-street-4/">Nightmare on Elm Street 4: The Dream Master, A</a></li>
 				<li class="shitty"><a href="/2021/10/07/elm-street-5/">Nightmare on Elm Street 5: The Dream Child, A</a></li>
 				<li class="shitty"><a href="/2017/10/06/burial-ground/">Nights of Terror, The, aka Burial Ground</a></li>
+				<li class="shitty"><a href="/2022/07/31/nine-deaths-of-the-ninja/">Nine Deaths of the Ninja</a></li>
 				<li class="shitty"><a href="/2016/11/27/no-escape/">No Escape</a></li>
 				<li class="shitty"><a href="/2020/08/02/no-escape-no-return/">No Escape No Return</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
@@ -928,6 +935,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/03/28/speed-kills/">Speed Kills</a></li>
 				<li class="shitty"><a href="/2011/03/26/trancers-ii/">Spice World</a></li>
 				<li class="shitty"><a href="/2018/10/15/earth-vs-the-spider/">Spider, The, aka Earth vs. the Spider</a></li>
+				<li class="shitty"><a href="/2022/10/03/splatter-farm/">Splatter Farm</a></li>
 				<li><a href="/2013/10/26/splinter/">Splinter</a></li>
 				<li class="shitty"><a href="/2019/10/19/split-second/">Split Second</a></li>
 				<li class="shitty"><a href="/2020/10/02/squirm/">Squirm</a></li>
