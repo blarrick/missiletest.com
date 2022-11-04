@@ -63,6 +63,7 @@ get_header(); ?>
 				<li class="has-image enter-ninja" onclick="location.href='/2019/01/06/enter-the-ninja/';"><a href="/2019/01/06/enter-the-ninja/">Enter the Ninja</a></li>
 				<li class="has-image trancers" onclick="location.href='/2011/03/07/trancers/';"><a href="/2011/03/07/trancers/">Trancers</a></li>
 				<li class="has-image deadly-prey" onclick="location.href='/2020/07/05/deadly-prey/';"><a href="/2020/07/05/deadly-prey/">Deadly Prey</a></li>
+				<li class="has-image creeping-terror" onclick="location.href='/2022/10/24/creeping-terror/';"><a href="/2022/10/24/creeping-terror/">The Creeping Terror</a></li>
 				<li class="has-image deathsport" onclick="location.href='/2020/01/12/deathsport/';"><a href="/2020/01/12/deathsport/">Deathsport</a></li>
 				<li class="has-image critters" onclick="location.href='/2013/10/23/critters/';"><a href="/2013/10/23/critters/">Critters</a></li>
 				<li class="has-image ten-midnight" onclick="location.href='/2019/01/20/10-to-midnight/';"><a href="/2019/01/20/10-to-midnight/">10 to Midnight</a></li>
@@ -84,6 +85,7 @@ get_header(); ?>
 				<li class="has-image steel-dawn" onclick="location.href='/2017/04/09/steel-dawn/';"><a href="/2017/04/09/steel-dawn/">Steel Dawn</a></li>
 				<li class="has-image basket-case" onclick="location.href='/2011/10/18/basket-case/';"><a href="/2011/10/18/basket-case/">Basket Case</a></li>
 				<li class="has-image brain-1988" onclick="location.href='/2021/10/31/the-brain-1988/';"><a href="/2021/10/31/the-brain-1988/">The Brain (1988)</a></li>
+				<li class="has-image deadly-spawn" onclick="location.href='/2022/10/06/deadly-spawn/';"><a href="/2022/10/06/deadly-spawn/">The Deadly Spawn</a></li>
 				<li class="has-image contamination" onclick="location.href='/2017/10/09/contamination/';"><a href="/2017/10/09/contamination/">Contamination</a></li>
 				<li class="has-image zombi-2" onclick="location.href='/2011/10/07/zombi-2/';"><a href="/2011/10/07/zombi-2/">Zombi 2</a></li>
 				<li class="has-image orca" onclick="location.href='/2013/07/31/orca/';"><a href="/2013/07/31/orca/">Orca</a></li>
@@ -98,6 +100,7 @@ get_header(); ?>
 				<li class="has-image perfect-weapon" onclick="location.href='/2018/11/04/perfect-weapon/';"><a href="/2018/11/04/perfect-weapon/">The Perfect Weapon</a></li>
 				<li class="has-image jason-x" onclick="location.href='/2017/10/13/jason-x/';"><a href="/2017/10/13/jason-x/">Jason X</a></li>
 				<li class="has-image caged-heat" onclick="location.href='/2018/12/02/caged-heat/';"><a href="/2018/12/02/caged-heat/">Caged Heat</a></li>
+				<li class="has-image zombi-3" onclick="location.href='/2022/10/20/zombi-3/';"><a href="/2022/10/20/zombi-3/">Zombi 3</a></li>
 				<li class="has-image maniac-cop" onclick="location.href='/2017/10/21/maniac-cop/';"><a href="/2017/10/21/maniac-cop/">Maniac Cop</a></li>
 				<li class="has-image timecop" onclick="location.href='/2017/09/03/timecop/';"><a href="/2017/09/03/timecop/">Timecop</a></li>
 				<li class="has-image jaws-3" onclick="location.href='/2016/10/24/jaws-3-d/';"><a href="/2016/10/24/jaws-3-d/">Jaws 3-D</a></li>
@@ -162,6 +165,7 @@ get_header(); ?>
 				<li class="has-image childs-play-3" onclick="location.href='/2021/10/15/childs-play-3/';"><a href="/2021/10/15/childs-play-3/">Child’s Play 3</a></li>
 				<li class="has-image nine-deaths" onclick="location.href='/2022/07/31/nine-deaths-of-the-ninja/';"><a href="/2022/07/31/nine-deaths-of-the-ninja/">Nine Deaths of the Ninja</a></li>
 				<li class="has-image squirm" onclick="location.href='/2020/10/02/squirm/';"><a href="/2020/10/02/squirm/">Squirm</a></li>
+				<li class="has-image things" onclick="location.href='/2022/10/14/things/';"><a href="/2022/10/14/things/">Things</a></li>
 				<li class="has-image i-am-legend" onclick="location.href='/2009/01/09/i-am-legend/';"><a href="/2009/01/09/i-am-legend/">I Am Legend</a></li>
 				<li class="has-image last-stand" onclick="location.href='/2013/06/23/last-stand/';"><a href="/2013/06/23/last-stand/">The Last Stand</a></li>
 				<li class="has-image droid-gunner" onclick="location.href='/2019/07/28/droid-gunner/';"><a href="/2019/07/28/droid-gunner/">Droid Gunner</a></li>
@@ -213,6 +217,7 @@ get_header(); ?>
 				<li class="has-image manster" onclick="location.href='/2019/10/28/manster/';"><a href="/2019/10/28/manster/">The Manster</a></li>
 				<li class="has-image mary-lou" onclick="location.href='/2014/10/25/prom-night-ii/';"><a href="/2014/10/25/prom-night-ii/">Hello Mary Lou: Prom Night II</a></li>
 				<li class="has-image prowler" onclick="location.href='/2018/10/28/the-prowler/';"><a href="/2018/10/28/the-prowler/">The Prowler</a></li>
+				<li class="has-image truth-dare" onclick="location.href='/2022/10/10/truth-or-dare/';"><a href="/2022/10/10/truth-or-dare/">Truth or Dare?</a></li>
 				<li class="has-image point-terror" onclick="location.href='/2020/05/10/point-of-terror/';"><a href="/2020/05/10/point-of-terror/">Point of Terror</a></li>
 				<li class="has-image womens-massacre" onclick="location.href='/2017/09/17/womens-prison-massacre/';"><a href="/2017/09/17/womens-prison-massacre/">Women’s Prison Massacre</a></li>
 				<li class="has-image meteor" onclick="location.href='/2018/04/29/meteor/';"><a href="/2018/04/29/meteor/">Meteor</a></li>
@@ -221,8 +226,10 @@ get_header(); ?>
 				<li class="has-image invasion-usa" onclick="location.href='/2019/03/10/invasion-usa/';"><a href="/2019/03/10/invasion-usa/">Invasion U.S.A.</a></li>
 				<li class="has-image hell-wheels" onclick="location.href='/2020/05/17/hell-on-wheels/';"><a href="/2020/05/17/hell-on-wheels/">Hell on Wheels</a></li>
 				<li class="has-image alien-predator" onclick="location.href='/2016/10/12/alien-vs-predator/';"><a href="/2016/10/12/alien-vs-predator/">Alien vs. Predator</a></li>
+				<li class="has-image cards-death" onclick="location.href='/2022/10/17/cards-death/';"><a href="/2022/10/17/cards-death/">Cards of Death</a></li>
 				<li class="has-image tuareg" onclick="location.href='/2020/11/29/tuareg/';"><a href="/2020/11/29/tuareg/">Tuareg: The Desert Warrior</a></li>
 				<li class="has-image giant-claw" onclick="location.href='/2018/10/09/giant-claw/';"><a href="/2018/10/09/giant-claw/">The Giant Claw</a></li>
+				<li class="has-image horror-high" onclick="location.href='/2022/10/16/horror-high/';"><a href="/2022/10/16/horror-high/">Horror High</a></li>
 				<li class="has-image demolitionist" onclick="location.href='/2021/12/26/demolitionist/';"><a href="/2021/12/26/demolitionist/">The Demolitionist</a></li>
 				<li class="has-image martial-law" onclick="location.href='/2022/03/20/martial-law/';"><a href="/2022/03/20/martial-law/">Martial Law (1990)</a></li>
 				<li class="has-image hellraiser-hellworld" onclick="location.href='/2021/10/28/hellraiser-hellworld/';"><a href="/2021/10/28/hellraiser-hellworld/">Hellraiser VIII: Hellworld</a></li>
@@ -273,6 +280,7 @@ get_header(); ?>
 				<li class="has-image colossal-man" onclick="location.href='/2018/10/13/amazing-colossal-man/';"><a href="/2018/10/13/amazing-colossal-man/">The Amazing Colossal Man</a></li>
 				<li class="has-image samurai-cop" onclick="location.href='/2019/06/02/samurai-cop/';"><a href="/2019/06/02/samurai-cop/">Samurai Cop</a></li>
 				<li class="has-image splatter-farm" onclick="location.href='/2022/10/03/splatter-farm/';"><a href="/2022/10/03/splatter-farm/">Splatter Farm</a></li>
+				<li class="has-image sledgehammer" onclick="location.href='/2022/10/15/sledgehammer/';"><a href="/2022/10/15/sledgehammer/">Sledgehammer</a></li>
 				<li class="has-image bride-gorilla" onclick="location.href='/2019/10/03/bride-gorilla/';"><a href="/2019/10/03/bride-gorilla/">Bride of the Gorilla</a></li>
 				<li class="has-image terrified" onclick="location.href='/2020/10/19/terrified/';"><a href="/2020/10/19/terrified/">Terrified</a></li>
 				<li class="has-image ghosts-georgia" onclick="location.href='/2013/10/10/ghosts-of-georgia/';"><a href="/2013/10/10/ghosts-of-georgia/">The Haunting in Connecticut 2: Ghosts of Georgia</a></li>
@@ -282,9 +290,11 @@ get_header(); ?>
 				<li class="has-image prince-darkness" onclick="location.href='/2008/12/29/prince-of-darkness/';"><a href="/2008/12/29/prince-of-darkness/">Prince of Darkness</a></li>
 				<li class="has-image assignment" onclick="location.href='/2022/02/13/assignment-outer-space/';"><a href="/2022/02/13/assignment-outer-space/">Assignment: Outer Space</a></li>
 				<li class="has-image boggy-creek" onclick="location.href='/2019/10/11/boggy-creek/';"><a href="/2019/10/11/boggy-creek/">The Legend of Boggy Creek</a></li>
+				<li class="has-image redneck-zombies" onclick="location.href='/2022/10/31/redneck-zombies/';"><a href="/2022/10/31/redneck-zombies/">Redneck Zombies</a></li>
 				<li class="has-image cocktail" onclick="location.href='/2020/07/12/cocktail/';"><a href="/2020/07/12/cocktail/">Cocktail</a></li>
 				<li class="has-image battletruck" onclick="location.href='/2020/05/03/battletruck/';"><a href="/2020/05/03/battletruck/">Battletruck</a></li>
 				<li class="has-image hellraiser-judgement" onclick="location.href='/2021/10/30/hellraiser-judgement/';"><a href="/2021/10/30/hellraiser-judgement/">Hellraiser: Judgement</a></li>
+				<li class="has-image shakma" onclick="location.href='/2022/10/26/shakma/';"><a href="/2022/10/26/shakma/">Shakma</a></li>
 				<li class="has-image indian-paint" onclick="location.href='/2021/07/11/indian-paint/';"><a href="/2021/07/11/indian-paint/">Indian Paint</a></li>
 				<li class="has-image horror-rises-tomb" onclick="location.href='/2020/10/07/horror-rises-from-the-tomb/';"><a href="/2020/10/07/horror-rises-from-the-tomb/">Horror Rises from the Tomb</a></li>
 				<li class="has-image blackout" onclick="location.href='/2021/05/23/blackout/';"><a href="/2021/05/23/blackout/">The Blackout</a></li>
@@ -329,6 +339,8 @@ get_header(); ?>
 				<li class="has-image halloween-2007" onclick="location.href='/2010/06/29/halloween-2007/';"><a href="/2010/06/29/halloween-2007/">Halloween (2007)</a></li>
 				<li class="has-image friday-13th-7" onclick="location.href='/2014/10/04/friday-13th-7/';"><a href="/2014/10/04/friday-13th-7/">Friday the 13th Part VII: The New Blood</a></li>
 				<li class="has-image sleepaway-camp" onclick="location.href='/2014/10/29/sleepaway-camp/';"><a href="/2014/10/29/sleepaway-camp/">Sleepaway Camp</a></li>
+				<li class="has-image psycho-pike" onclick="location.href='/2022/10/13/psycho-pike/';"><a href="/2022/10/13/psycho-pike/">Psycho Pike</a></li>
+				<li class="has-image ozone" onclick="location.href='/2022/10/29/ozone/';"><a href="/2022/10/29/ozone/">Ozone</a></li>
 				<li class="has-image double-exposure" onclick="location.href='/2020/02/09/double-exposure/';"><a href="/2020/02/09/double-exposure/">Double Exposure</a></li>
 				<li class="has-image naked-angels" onclick="location.href='/2021/04/04/naked-angels/';"><a href="/2021/04/04/naked-angels/">Naked Angels</a></li>
 				<li class="has-image down-dirty" onclick="location.href='/2022/01/09/down-n-dirty/';"><a href="/2022/01/09/down-n-dirty/">Down ’n Dirty</a></li>
@@ -351,6 +363,7 @@ get_header(); ?>
 				<li class="has-image cyclops" onclick="location.href='/2018/10/11/cyclops/';"><a href="/2018/10/11/cyclops/">The Cyclops</a></li>
 				<li class="has-image chain-gang-women" onclick="location.href='/2020/08/30/chain-gang-women/';"><a href="/2020/08/30/chain-gang-women/">Chain Gang Women</a></li>
 				<li class="has-image phantom-space" onclick="location.href='/2019/10/05/phantom-from-space/';"><a href="/2019/10/05/phantom-from-space/">Phantom from Space</a></li>
+				<li class="has-image screaming" onclick="location.href='/2022/10/19/screaming/';"><a href="/2022/10/19/screaming/">The Screaming</a></li>
 				<li class="has-image stanley" onclick="location.href='/2020/03/29/stanley/';"><a href="/2020/03/29/stanley/">Stanley</a></li>
 				<li class="has-image she-creature" onclick="location.href='/2019/10/17/she-creature/';"><a href="/2019/10/17/she-creature/">The She-Creature</a></li>
 				<li class="has-image bad-ben" onclick="location.href='/2017/10/20/bad-ben/';"><a href="/2017/10/20/bad-ben/">Bad Ben</a></li>
@@ -370,6 +383,7 @@ get_header(); ?>
 				<li class="has-image dead-trigger" onclick="location.href='/2019/10/16/dead-trigger/';"><a href="/2019/10/16/dead-trigger/">Dead Trigger</a></li>
 				<li class="has-image reptilicus" onclick="location.href='/2018/10/21/reptilicus/';"><a href="/2018/10/21/reptilicus/">Reptilicus</a></li>
 				<li class="has-image leprechaun-2" onclick="location.href='/2021/10/18/leprechaun-2/';"><a href="/2021/10/18/leprechaun-2/">Leprechaun 2</a></li>
+				<li class="has-image slaughterhouse" onclick="location.href='/2022/10/28/slaughterhouse/';"><a href="/2022/10/28/slaughterhouse/">Slaughterhouse</a></li>
 				<li class="has-image venomous" onclick="location.href='/2020/02/16/venomous/';"><a href="/2020/02/16/venomous/">Venomous</a></li>
 				<li class="has-image lost-continent" onclick="location.href='/2019/10/02/lost-continent/';"><a href="/2019/10/02/lost-continent/">Lost Continent (1951)</a></li>
 				<li class="has-image army-dead" onclick="location.href='/2021/10/11/army-of-the-dead/';"><a href="/2021/10/11/army-of-the-dead/">Army of the Dead</a></li>
@@ -382,6 +396,7 @@ get_header(); ?>
 				<li class="has-image haunting-fraternity" onclick="location.href='/2019/10/08/haunting-on-fraternity-row/';"><a href="/2019/10/08/haunting-on-fraternity-row/">Haunting on Fraternity Row</a></li>
 				<li class="has-image hellraiser-deader" onclick="location.href='/2021/10/27/hellraiser-deader/';"><a href="/2021/10/27/hellraiser-deader/">Hellraiser VII: Deader</a></li>
 				<li class="has-image summer-city" onclick="location.href='/2018/01/07/summer-city/';"><a href="/2018/01/07/summer-city/">Summer City</a></li>
+				<li class="has-image video-violence" onclick="location.href='/2022/10/23/video-violence/';"><a href="/2022/10/23/video-violence/">Video Violence</a></li>
 				<li class="has-image alcatraz" onclick="location.href='/2022/01/23/alcatraz/';"><a href="/2022/01/23/alcatraz/">Alcatraz (2018)</a></li>
 				<li class="has-image halloween-5" onclick="location.href='/2013/10/31/halloween-5/';"><a href="/2013/10/31/halloween-5/">Halloween 5</a></li>
 				<li class="has-image children-dead" onclick="location.href='/2016/10/09/children-dead-things/';"><a href="/2016/10/09/children-dead-things/">Children Shouldn’t Play with Dead Things</a></li>
@@ -400,6 +415,7 @@ get_header(); ?>
 				<li class="has-image snow-creature" onclick="location.href='/2019/10/10/snow-creature/';"><a href="/2019/10/10/snow-creature/">The Snow Creature</a></li>
 				<li class="has-image halloween-curse" onclick="location.href='/2014/10/31/halloween-6/';"><a href="/2014/10/31/halloween-6/">Halloween: The Curse of Michael Myers</a></li>
 				<li class="has-image ghosts-war" onclick="location.href='/2020/10/06/ghosts-of-war/';"><a href="/2020/10/06/ghosts-of-war/">Ghosts of War</a></li>
+				<li class="has-image demon-queen" onclick="location.href='/2022/10/27/demon-queen/';"><a href="/2022/10/27/demon-queen/">Demon Queen</a></li>
 				<li class="has-image amityville-4" onclick="location.href='/2021/10/03/amityville-4/';"><a href="/2021/10/03/amityville-4/">Amityville 4: The Evil Escapes</a></li>
 				<li class="has-image exeter" onclick="location.href='/2015/10/22/exeter/';"><a href="/2015/10/22/exeter/">Exeter</a></li>
 				<li class="has-image rig" onclick="location.href='/2013/10/07/rig/';"><a href="/2013/10/07/rig/">The Rig</a></li>
@@ -414,8 +430,11 @@ get_header(); ?>
 				<li class="has-image screaming-skull" onclick="location.href='/2019/10/22/screaming-skull/';"><a href="/2019/10/22/screaming-skull/">The Screaming Skull</a></li>
 				<li class="has-image nightmare-inn" onclick="location.href='/2021/10/07/nightmare-inn/';"><a href="/2021/10/07/nightmare-inn/">It Happened at Nightmare Inn</a></li>
 				<li class="has-image helga" onclick="location.href='/2022/01/30/helga/';"><a href="/2022/01/30/helga/">Helga, She-Wolf of Stilberg</a></li>
+				<li class="has-image night-ripper" onclick="location.href='/2022/10/21/night-ripper/';"><a href="/2022/10/21/night-ripper/">Night Ripper!</a></li>
 				<li class="has-image last-exorcism-2" onclick="location.href='/2013/10/08/last-exorcism-ii/';"><a href="/2013/10/08/last-exorcism-ii/">The Last Exorcism part II</a></li>
+				<li class="has-image blood-lake-1987" onclick="location.href='/2022/10/11/blood-lake-1987/';"><a href="/2022/10/11/blood-lake-1987/">Blood Lake (1987)</a></li>
 				<li class="has-image triple-diesel" onclick="location.href='/2017/04/16/xxx/';"><a href="/2017/04/16/xxx/">xXx</a></li>
+				<li class="has-image violent-shit" onclick="location.href='/2022/10/09/violent-shit/';"><a href="/2022/10/09/violent-shit/">Violent Shit</a></li>
 				<li class="has-image sci-fighter" onclick="location.href='/2021/02/14/sci-fighter-aka-x-treme-fighter/';"><a href="/2021/02/14/sci-fighter-aka-x-treme-fighter/">Sci-Fighter</a></li>
 				<li class="has-image mom-shoot" onclick="location.href='/2017/08/16/stop-or-my-mom-will-shoot/';"><a href="/2017/08/16/stop-or-my-mom-will-shoot/">Stop! Or My Mom Will Shoot</a></li>				
 				<li class="has-image year-2889" onclick="location.href='/2021/12/05/day-world-ended/';"><a href="/2021/12/05/day-world-ended/">In the Year 2889</a></li>
@@ -430,6 +449,8 @@ get_header(); ?>
 				<li class="has-image mazes-monsters" onclick="location.href='/2017/03/26/mazes-and-monsters/';"><a href="/2017/03/26/mazes-and-monsters/">Mazes and Monsters</a></li>
 				<li class="has-image amityville-curse" onclick="location.href='/2021/10/04/amityville-curse/';"><a href="/2021/10/04/amityville-curse/">The Amityville Curse</a></li>
 				<li class="has-image sniper-corpse" onclick="location.href='/2021/10/25/sniper-corpse/';"><a href="/2021/10/25/sniper-corpse/">Sniper Corpse</a></li>
+				<li class="has-image vampires-stereotypes" onclick="location.href='/2022/10/07/vampires-stereotypes/';"><a href="/2022/10/07/vampires-stereotypes/">Vampires and Other Stereotypes</a></li>
+				<li class="has-image night-crawlers-1996" onclick="location.href='/2022/10/25/night-crawlers-1996/';"><a href="/2022/10/25/night-crawlers-1996/">Night Crawlers (1996)</a></li>
 				<li class="has-image alien-rising" onclick="location.href='/2020/05/24/alien-rising/';"><a href="/2020/05/24/alien-rising/">Alien Rising</a></li>
 				<li class="has-image origin-unknown-2036" onclick="location.href='/2020/12/27/2036-origin-unknown/';"><a href="/2020/12/27/2036-origin-unknown/">2036 Origin Unknown</a></li>
 				<li class="has-image paranormal-investigation" onclick="location.href='/2019/10/10/paranormal-investigation/';"><a href="/2019/10/10/paranormal-investigation/">Paranormal Investigation</a></li>
