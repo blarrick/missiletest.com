@@ -96,6 +96,7 @@ get_header(); ?>
 			<ul>
 				<li class="reco"><a href="/2015/10/17/abominable-dr-phibes/">Abominable Dr. Phibes, The</a></li>
 				<li><a href="/2017/10/15/abominable-snowman/">Abominable Snowman, The</a></li>
+				<li class="shitty"><a href="/2023/03/05/abraxas/">Abraxas, Guardian of the Universe</a></li>
 				<li class="shitty"><a href="/2014/01/08/act-of-valor/">Act of Valor</a></li>
 				<li><a href="/2011/07/08/adjustment-bureau/">Adjustment Bureau, The</a></li>
 				<li class="shitty"><a href="/2020/07/26/the-aftermath-1982/">Aftermath, The <span>(1982)</span></a></li>
@@ -163,6 +164,7 @@ get_header(); ?>
 				<li><a href="/2012/08/09/foam-rubber-wholesalers/">Batman</a> <span>(1966)</span></li>
 				<li class="shitty"><a href="/2014/05/20/batman-robin/">Batman & Robin</a></li>
 				<li class="shitty"><a href="/2017/07/16/battle-beyond-the-stars/">Battle Beyond the Stars</a></li>
+				<li class="shitty"><a href="/2022/11/27/battle-lost-planet/">Battle for the Lost Planet</a></li>
 				<li><a href="/2017/09/24/battle-royale/">Battle Royale</a></li>
 				<li class="shitty"><a href="/2012/09/02/battleship/">Battleship</a></li>
 				<li class="shitty"><a href="/2020/05/03/battletruck/">Battletruck</a></li>
@@ -372,6 +374,7 @@ get_header(); ?>
 				<li><a href="/2017/10/16/dracula-has-risen-from-the-grave/">Dracula Has Risen from the Grave</a></li>
 				<li><a href="/2017/10/11/dracula-prince-of-darkness/">Dracula: Prince of Darkness</a></li>
 				<li class="reco"><a href="/2013/01/16/dredd/">Dredd</a></li>
+				<li class="shitty"><a href="/2022/12/04/drive-angry/">Drive Angry</a></li>
 				<li class="shitty"><a href="/2017/08/23/driven/">Driven</a></li>
 				<li class="shitty"><a href="/2019/07/28/droid-gunner/">Droid Gunner</a></li>
 				<li class="shitty"><a href="/2020/10/09/dungeon-of-harrow/">Dungeon of Harrow. The</a></li>
@@ -396,6 +399,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/01/06/enter-the-ninja/">Enter the Ninja</a></li>
 				<li><a href="/2019/10/06/entity/">Entity</a></li>
 				<li><a href="/2015/01/27/equalizer/">Equalizer, The</a></li>
+				<li class="shitty"><a href="/2023/02/06/equalizer-2000/">Equalizer 2000</a></li>
 				<li><a href="/2014/05/18/eraser/">Eraser</a></li>
 				<li class="shitty"><a href="/2019/06/30/turkey-shoot/">Escape 2000, aka Turkey Shoot</a></li>
 				<li class="shitty"><a href="/2011/11/06/escape-from-la/">Escape from L.A.</a></li>
@@ -413,6 +417,7 @@ get_header(); ?>
 				<li><a href="/2017/08/27/expendables/">Expendables, The</a></li>
 				<li><a href="/2017/08/28/expendables-2/">Expendables 2, The</a></li>
 				<li class="shitty"><a href="/2017/08/30/the-expendables-3/">Expendables 3, The</a></li>
+				<li class="shitty"><a href="/2023/02/26/exterminators-year-3000/">Exterminators of the Year 3000, The</a></li>
 				<li><a href="/2015/10/11/extraterrestrial/">Extraterrestrial</a></li>
 				<li><a href="/2019/10/04/the-eye/">Eye, The</a> <span>(2002)</span></li>
 				<li class="shitty"><a href="/2019/10/04/the-eye/">Eye, The</a> <span>(2008)</span></li>
@@ -462,6 +467,7 @@ get_header(); ?>
 				<li><a href="/2021/10/08/funeral-home/">Funeral Home, The</a></li>
 				<li><a href="/2020/10/20/furies-2019/">Furies, The</a> <span>(2019)</span></li>
 				<li class="shitty"><a href="/2021/10/24/fury-of-the-wolfman/">Fury of the Wolfman</a></li>
+				<li class="shitty"><a href="/2023/01/29/future-kick/">Future Kick</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
 			<h5 id="gg">G</h5>
@@ -581,6 +587,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/02/06/ice-twisters/">Ice Twisters</a></li>
 				<li class="shitty"><a href="/2021/10/20/bloody-pit-of-horror/">Il boia scarlatto, aka Bloody Pit of Horror</a></li>
 				<li class="shitty"><a href="/2017/01/29/the-bronx-executioner-or-frankensteins-movie/">Il giustiziere del Bronx, aka The Bronx Executioner</a></li>
+				<li class="shitty"><a href="/2023/02/26/exterminators-year-3000/">Il giustiziere della strada, aka The Exterminators of the Year 3000</a></li>
 				<li class="shitty"><a href="/2019/10/23/impulse-1974/">Impulse</a> <span>(1974)</span></li>
 				<li class="shitty"><a href="/2021/12/05/day-world-ended/">In the Year 2889</a></li>
 				<li class="shitty"><a href="/2014/10/21/incredible-melting-man/">Incredible Melting Man, The</a></li>
@@ -669,6 +676,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2013/10/08/last-exorcism-ii/">Last Exorcism Part II, The</a></li>
 				<li><a href="/2009/01/09/i-am-legend/">Last Man on Earth, The</a></li>
 				<li class="shitty"><a href="/2020/09/27/empire-of-ash-iii/">Last of the Warriors, aka Empire of Ash III</a></li>
+				<li class="shitty"><a href="/2022/12/18/last-sentinel-2007/">Last Sentinel, The</a> <span>(2007)</span></li>
 				<li class="shitty"><a href="/2017/02/19/last-shark/">Last Shark, The</a></li>
 				<li class="shitty"><a href="/2013/06/23/last-stand/">Last Stand, The</a></li>
 				<li class="reco"><a href="/2008/04/07/lawrence-of-arabia/">Lawrence of Arabia</a></li>
@@ -688,7 +696,8 @@ get_header(); ?>
 				<li class="reco"><a href="/2009/03/30/logans-run/">Logan’s Run</a></li>
 				<li><a href="/2021/10/17/similars/">Los Parecidos, aka The Similars</a></li>
 				<li><a href="/2018/10/16/lost-boys/">Lost Boys, The</a></li>
-				<li class="shitty"><a href="/2019/10/02/lost-continent/">Lost Continent <span>(1951)</span></a></li>
+				<li class="shitty"><a href="/2019/10/02/lost-continent/">Lost Continent</a> <span>(1951)</span></li>
+				<li class="shitty"><a href="/2023/02/19/lost-empire/">Lost Empire, The</a></li>
 				<li class="shitty"><a href="/2017/02/19/last-shark/">L'ultimo squalo, aka The Last Shark</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
@@ -735,6 +744,7 @@ get_header(); ?>
 			<ul>
 				<li class="shitty"><a href="/2021/04/04/naked-angels/">Naked Angels</a></li>
 				<li class="shitty"><a href="/2013/10/18/navy-night-monsters/">Navy vs. The Night Monsters, The</a></li>
+				<li class="shitty"><a href="/2023/01/08/nemesis-1992/">Nemesis</a> <span>(1992)</span></li>
 				<li class="shitty"><a href="/2022/10/04/boa/">New Alcatraz, aka Boa</a></li>
 				<li class="shitty"><a href="/2016/12/11/the-new-barbarians/">New Barbarians, The</a></li>
 				<li class="shitty"><a href="/2017/06/18/new-gladiators/">New Gladiators, The</a></li>
@@ -874,6 +884,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2014/10/06/apocalypse/">Resident Evil: Apocalypse</a></li>
 				<li class="shitty"><a href="/2008/06/09/resident-evil-extinction/">Resident Evil: Extinction</a></li>
 				<li class="shitty"><a href="/2013/10/01/resident-evil-retribution/">Resident Evil: Retribution</a></li>
+				<li class="shitty"><a href="/2022/11/13/retrograde/">Retrograde</a></li>
 				<li class="shitty"><a href="/2019/10/30/return-fly/">Return of the Fly</a></li>
 				<li class="reco"><a href="/2010/10/08/return-living-dead/">Return of the Living Dead, The</a></li>
 				<li class="shitty"><a href="/2016/10/08/return-dead-ii/">Return of the Living Dead Part II</a></li>
@@ -941,6 +952,7 @@ get_header(); ?>
 				<li><a href="/2018/10/22/shock/">Shock</a></li>
 				<li><a href="/2017/09/10/shot-caller/">Shot Caller</a></li>
 				<li><a href="/2013/10/29/shutter/">Shutter</a> <span>(2004)</span></li>
+				<li class="shitty"><a href="/2022/11/06/silencer-1992/">Silencer, The</a> <span>(1992)</span></li>
 				<li class="shitty"><a href="/2018/05/06/silent-rage/">Silent Rage</a></li>
 				<li><a href="/2021/10/17/similars/">Similars, The</a></li>
 				<li><a href="/2018/03/04/2018-empty-balcony-awards/">Sixth Annual Empty Balcony Awards for Movies I Saw from Last Year, The</a></li>
@@ -1097,6 +1109,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/10/11/werewolf-of-washington/">Werewolf of Washington, The</a></li>
 				<li><a href="/2021/10/09/new-nightmare/">Wes Craven’s New Nightmare</a></li>
 				<li><a href="/2017/10/01/what-we-become/">What We Become</a></li>
+				<li class="shitty"><a href="/2022/12/11/wheels-of-fire/">Wheels of Fire</a></li>
 				<li class="shitty"><a href="/2017/05/07/when-time-ran-out/">When Time Ran Out</a></li>
 				<li><a href="/2012/08/15/where-eagles-dare/">Where Eagles Dare</a></li>
 				<li class="shitty"><a href="/2014/01/15/white-house-down/">White House Down</a></li>
