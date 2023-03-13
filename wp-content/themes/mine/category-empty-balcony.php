@@ -902,6 +902,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2015/07/09/road-house/">Road House</a></li>
 				<li class="shitty"><a href="/2021/03/14/road-wars/">Road Wars</a></li>
 				<li class="reco"><a href="/2009/02/06/robocop/">Robocop</a></li>
+				<li class="shitty"><a href="/2023/03/12/robowar/">Robowar</a></li>
 				<li class="shitty"><a href="/2019/10/07/robot-monster/">Robot Monster</a></li>
 				<li class="reco"><a href="/2017/08/01/rocky/">Rocky</a></li>
 				<li><a href="/2017/08/03/rocky-ii/">Rocky II</a></li>
