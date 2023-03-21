@@ -684,6 +684,7 @@ get_header(); ?>
 				<li><a href="/2020/05/27/legend-1985/">Legend</a> <span>(1985)</span></li>
 				<li class="shitty"><a href="/2019/10/11/boggy-creek/">Legend of Boggy Creek, The</a></li>
 				<li><a href="/2009/10/13/hell-house/">Legend of Hell House, The</a></li>
+				<li class="shitty"><a href="/2023/03/19/legion-of-iron/">Legion of Iron</a></li>
 				<li class="shitty"><a href="/2021/10/18/leprechaun/">Leprechaun</a></li>
 				<li class="shitty"><a href="/2021/10/18/leprechaun-2/">Leprechaun 2</a></li>
 				<li class="shitty"><a href="/2021/10/19/leprechaun-3/">Leprechaun 3</a></li>

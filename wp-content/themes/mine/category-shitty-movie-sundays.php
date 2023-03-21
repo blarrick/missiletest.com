@@ -316,6 +316,7 @@ get_header(); ?>
 				<li class="has-image devil-below" onclick="location.href='/2021/10/13/devil-below/';"><a href="/2021/10/13/devil-below/">The Devil Below</a></li>
 				<li class="has-image children-corn-5" onclick="location.href='/2021/10/13/children-corn-5/';"><a href="/2021/10/13/children-corn-5/">Children of the Corn V: Fields of Terror</a></li>
 				<li class="has-image pyramid" onclick="location.href='/2019/10/30/the-pyramid/';"><a href="/2019/10/30/the-pyramid/">The Pyramid</a></li>
+				<li class="has-image legion-iron" onclick="location.href='/2023/03/19/legion-of-iron/';"><a href="/2023/03/19/legion-of-iron/">Legion of Iron</a></li>
 				<li class="has-image on-edge" onclick="location.href='/2022/03/13/on-the-edge/';"><a href="/2022/03/13/on-the-edge/">On the Edge (2002)</a></li>
 				<li class="has-image project-12" onclick="location.href='/2019/05/12/bunker-project-12/';"><a href="/2019/05/12/bunker-project-12/">Bunker: Project 12</a></li>
 				<li class="has-image fog-2005" onclick="location.href='/2014/10/14/fog-2005/';"><a href="/2014/10/14/fog-2005/">The Fog (2005)</a></li>
