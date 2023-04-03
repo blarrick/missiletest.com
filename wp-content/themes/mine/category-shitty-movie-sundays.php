@@ -108,6 +108,7 @@ get_header(); ?>
 				<li class="has-image virtuosity" onclick="location.href='/2021/03/07/virtuosity/';"><a href="/2021/03/07/virtuosity/">Virtuosity</a></li>
 				<li class="has-image tango-cash" onclick="location.href='/2017/08/14/tango-cash/';"><a href="/2017/08/14/tango-cash/">Tango &amp; Cash</a></li>
 				<li class="has-image doom-annihilation" onclick="location.href='/2021/08/22/doom-annihilation/';"><a href="/2021/08/22/doom-annihilation/">Doom: Annihilation</a></li>
+				<li class="has-image slipstream" onclick="location.href='/2023/04/02/slipstream/';"><a href="/2023/04/02/slipstream/">Slipstream</a></li>
 				<li class="has-image vampires" onclick="location.href='/2009/10/25/vampires/';"><a href="/2009/10/25/vampires/">Vampires</a></li>
 				<li class="has-image wheels-fire" onclick="location.href='/2022/12/11/wheels-of-fire/';"><a href="/2022/12/11/wheels-of-fire/">Wheels of Fire</a></li>
 				<li class="has-image halloween-2-1981" onclick="location.href='/2010/10/31/halloween-2/';"><a href="/2010/10/31/halloween-2/">Halloween II (1981)</a></li>
