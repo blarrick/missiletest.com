@@ -240,6 +240,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/10/17/cards-death/">Cards of Death</a></li>
 				<li class="reco"><a href="/2016/10/06/carnival-of-souls/">Carnival of Souls</a></li>
 				<li><a href="/2013/10/03/carrie/">Carrie</a></li>
+				<li><a href="/2023/05/21/french-sex-murders/">Casa d’appuntamento, aka The French Sex Murders</a></li>
 				<li class="reco"><a href="/2018/10/04/castle-freak/">Castle Freak</a></li>
 				<li><a href="/2022/10/12/cellar-2022/">Cellar, The</a> <span>(2022)</span></li>
 				<li class="shitty"><a href="/2020/08/30/chain-gang-women/">Chain Gang Women</a></li>
@@ -451,6 +452,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2009/10/29/freddy-vs-jason/">Freddy vs. Jason</a></li>
 				<li class="shitty"><a href="/2021/10/08/freddys-dead/">Freddy’s Dead: The Final Nightmare</a></li>
 				<li class="shitty"><a href="/2017/11/05/freejack/">Freejack</a></li>
+				<li><a href="/2023/05/21/french-sex-murders/">French Sex Murders, The</a></li>
 				<li class="shitty"><a href="/2009/10/01/friday-13th/">Friday the 13th</a></li>
 				<li class="shitty"><a href="/2009/10/07/friday-13th-2/">Friday the 13th Part 2</a></li>
 				<li class="shitty"><a href="/2009/10/12/friday-13th-3/">Friday the 13th Part 3</a></li>
