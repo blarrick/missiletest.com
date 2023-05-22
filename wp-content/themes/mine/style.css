@@ -5611,5 +5611,70 @@ p > video {
   .site-footer,
   .widecolumn {
     padding: 0; } }
+@media (min-width: 56.875em) {
+  .page-sms-index .site .site-inner .site-content .content-area {
+    float: none;
+    margin-right: 0;
+    width: 100%; } }
+.page-sms-index .shitty-index-2023 {
+  margin: 0 7.6923% 3.5em; }
+  @media (min-width: 56.875em) {
+    .page-sms-index .shitty-index-2023 {
+      margin: 0; } }
+  .page-sms-index .shitty-index-2023 ol.shitty-list {
+    display: block;
+    list-style-position: inside;
+    margin: 0 !important; }
+    @media (min-width: 44.375em) {
+      .page-sms-index .shitty-index-2023 ol.shitty-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between; } }
+    .page-sms-index .shitty-index-2023 ol.shitty-list li::marker {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 1; }
+    .page-sms-index .shitty-index-2023 ol.shitty-list li {
+      border: 1px solid #5c565a;
+      text-align: center;
+      padding: 0;
+      line-height: normal;
+      font-family: "Roboto Condensed", sans-serif;
+      font-weight: 700;
+      margin-bottom: 10px; }
+      @media (min-width: 44.375em) {
+        .page-sms-index .shitty-index-2023 ol.shitty-list li {
+          margin-bottom: 300px;
+          width: 24%; } }
+      .page-sms-index .shitty-index-2023 ol.shitty-list li.has-image {
+        cursor: pointer;
+        color: #fff;
+        background-color: #686868;
+        position: relative; }
+        .page-sms-index .shitty-index-2023 ol.shitty-list li.has-image img {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          object-fit: cover; }
+        .page-sms-index .shitty-index-2023 ol.shitty-list li.has-image a {
+          color: #fff;
+          width: 100%;
+          height: 100%;
+          position: relative;
+          z-index: 1; }
+          .page-sms-index .shitty-index-2023 ol.shitty-list li.has-image a:hover, .page-sms-index .shitty-index-2023 ol.shitty-list li.has-image a:focus {
+            color: #f4797c; }
+        .page-sms-index .shitty-index-2023 ol.shitty-list li.has-image:hover, .page-sms-index .shitty-index-2023 ol.shitty-list li.has-image:focus {
+          color: #f4797c; }
+      .page-sms-index .shitty-index-2023 ol.shitty-list li a {
+        border: none !important;
+        border-width: 0 !important;
+        background: transparent; }
+.page-sms-index aside.sidebar {
+  display: none; }
 
 /*# sourceMappingURL=style.css.map */

@@ -455,6 +455,18 @@ function wpsf_orderby( $query ) {
 
 add_action( 'pre_get_posts', 'wpsf_orderby' );*/
 
+/* adds slug to body class */
+add_filter( 'body_class', 'add_page_slug_body_class' );
+function add_page_slug_body_class( $classes ) {
+	global $post;
+	
+	if ( isset( $post ) ) {
+			$classes[] = 'page-' . $post->post_name;
+	}
+	return $classes;
+}
+
+
 /* fixes WP's stupid ellipsis bug */
 function user_content_replace($content) {
 	return str_replace('&#8230;','...',$content);
