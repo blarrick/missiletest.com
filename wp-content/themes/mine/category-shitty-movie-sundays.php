@@ -330,6 +330,7 @@ get_header(); ?>
 				<li class="has-image starship-3" onclick="location.href='/2008/12/16/starship-troopers-3/';"><a href="/2008/12/16/starship-troopers-3/">Starship Troopers 3: Marauder</a></li>
 				<li class="has-image black-water" onclick="location.href='/2019/02/10/black-water/';"><a href="/2019/02/10/black-water/">Black Water</a></li>
 				<li class="has-image geostorm" onclick="location.href='/2018/02/04/geostorm/';"><a href="/2018/02/04/geostorm/">Geostorm</a></li>
+				<li class="has-image agent-red" onclick="location.href='/2023/05/28/agent-red/';"><a href="/2023/05/28/agent-red/">Agent Red</a></li>
 				<li class="has-image hard-night-falling" onclick="location.href='/2020/09/13/hard-night-falling/';"><a href="/2020/09/13/hard-night-falling/">Hard Night Falling</a></li>
 				<li class="has-image last-sentinel-2007" onclick="location.href='/2022/12/18/last-sentinel-2007/';"><a href="/2022/12/18/last-sentinel-2007/">The Last Sentinel (2007)</a></li>
 				<li class="has-image the-stuff" onclick="location.href='/2013/10/24/stuff/';"><a href="/2013/10/24/stuff/">The Stuff</a></li>

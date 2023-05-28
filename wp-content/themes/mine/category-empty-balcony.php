@@ -100,6 +100,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2014/01/08/act-of-valor/">Act of Valor</a></li>
 				<li><a href="/2011/07/08/adjustment-bureau/">Adjustment Bureau, The</a></li>
 				<li class="shitty"><a href="/2020/07/26/the-aftermath-1982/">Aftermath, The <span>(1982)</span></a></li>
+				<li class="shitty"><a href="/2023/05/28/agent-red/">Agent Red</a></li>
 				<li class="shitty"><a href="/2022/01/23/alcatraz/">Alcatraz <span>(2018)</span></a></li>
 				<li class="reco"><a href="/2008/04/23/alien/">Alien</a></li>
 				<li><a href="/2016/10/11/alien-3/">Alien 3</a></li>
