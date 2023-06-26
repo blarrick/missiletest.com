@@ -245,6 +245,7 @@ get_header(); ?>
 				<li class="has-image deadly-mantis" onclick="location.href='/2018/10/08/deadly-mantis/';"><a href="/2018/10/08/deadly-mantis/">The Deadly Mantis</a></li>
 				<li class="has-image man-x" onclick="location.href='/2019/10/01/the-man-from-planet-x/';"><a href="/2019/10/01/the-man-from-planet-x/">The Man from Planet X</a></li>
 				<li class="has-image city-dead" onclick="location.href='/2018/10/02/city-of-the-living-dead/';"><a href="/2018/10/02/city-of-the-living-dead/">City of the Living Dead</a></li>
+				<li class="has-image driving-force" onclick="location.href='/2023/06/25/driving-force/';"><a href="/2023/06/25/driving-force/">Driving Force</a></li>
 				<li class="has-image bug" onclick="location.href='/2016/10/17/bug-1975/';"><a href="/2016/10/17/bug-1975/">Bug (1975)</a></li>
 				<li class="has-image revenge-creature" onclick="location.href='/2019/10/11/revenge-of-the-creature/';"><a href="/2019/10/11/revenge-of-the-creature/">Revenge of the Creature</a></li>
 				<li class="has-image devils-hand" onclick="location.href='/2020/10/21/devils-hand/';"><a href="/2020/10/21/devils-hand/">The Devil’s Hand</a></li>
