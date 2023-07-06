@@ -2894,6 +2894,11 @@ blockquote,
 							margin-top: 1.75em;
 						}
 						
+						p + .video-container {
+							margin-bottom: 1.75em !important;
+							float: none !important;
+						}
+						
 						table {
 							
 							&.baseball {

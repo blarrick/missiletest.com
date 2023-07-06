@@ -1890,6 +1890,10 @@ blockquote:after,
             .site .site-inner .site-content .site-main > article .entry-summary p + .video-container,
             .site .site-inner .site-content .site-main > article .entry-summary blockquote + blockquote {
               margin-top: 1.75em; }
+            .site .site-inner .site-content .site-main > article .entry-content p + .video-container,
+            .site .site-inner .site-content .site-main > article .entry-summary p + .video-container {
+              margin-bottom: 1.75em !important;
+              float: none !important; }
             .site .site-inner .site-content .site-main > article .entry-content table.baseball th:first-of-type,
             .site .site-inner .site-content .site-main > article .entry-summary table.baseball th:first-of-type {
               width: 10%; }
