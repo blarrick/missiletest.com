@@ -977,6 +977,7 @@ get_header(); ?>
 				<li><a href="/2011/07/21/source-code/">Source Code</a></li>
 				<li class="reco"><a href="/2009/03/02/soylent-green/">Soylent Green</a></li>
 				<li class="shitty"><a href="/2022/02/13/assignment-outer-space/">Space Men, aka Assignment: Outer Space</a></li>
+				<li class="shitty"><a href="/2023/07/09/space-mutiny/">Space Mutiny</a></li>
 				<li class="shitty"><a href="/2009/09/08/spacehunter/">Spacehunter: Adventures in the Forbidden Zone</a></li>
 				<li class="shitty"><a href="/2020/10/29/spawn-of-the-slithis/">Spawn of the Slithis</a></li>
 				<li class="shitty"><a href="/2021/08/01/specialist-1975/">Specialist, The</a> <span>(1975)</span></li>

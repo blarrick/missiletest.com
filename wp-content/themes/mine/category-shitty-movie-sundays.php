@@ -44,6 +44,7 @@ get_header(); ?>
 				<li class="has-image spacehunter" onclick="location.href='/2009/09/08/spacehunter/';"><a href="/2009/09/08/spacehunter/">Spacehunter: Adventures in the Forbidden Zone</a></li>
 				<li class="has-image reign-of-fire" onclick="location.href='/2011/08/05/reign-of-fire/';"><a href="/2011/08/05/reign-of-fire/">Reign of Fire</a></li>
 				<li class="has-image cobra" onclick="location.href='/2017/08/10/cobra/';"><a href="/2017/08/10/cobra/">Cobra</a></li>
+				<li class="has-image space-mutiny" onclick="location.href='/2023/07/09/space-mutiny/';"><a href="/2023/07/09/space-mutiny/">Space Mutiny</a></li>
 				<li class="has-image cyber-tracker-2" onclick="location.href='/2018/05/13/cyber-tracker-2/';"><a href="/2018/05/13/cyber-tracker-2/">Cyber Tracker 2</a></li>
 				<li class="has-image maximum-overdrive" onclick="location.href='/2009/10/24/maximum-overdrive/';"><a href="/2009/10/24/maximum-overdrive/">Maximum Overdrive</a></li>
 				<li class="has-image wraith" onclick="location.href='/2022/07/03/wraith/';"><a href="/2022/07/03/wraith/">The Wraith</a></li>
