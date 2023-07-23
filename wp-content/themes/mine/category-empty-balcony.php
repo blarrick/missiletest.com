@@ -1060,6 +1060,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2011/03/26/trancers-ii/">Trancers II</a></li>
 				<li class="shitty"><a href="/2009/04/17/transporter/">Transporter, The</a></li>
 				<li class="reco"><a href="/2013/10/29/tremors/">Tremors</a></li>
+				<li class="shitty"><a href="/2023/07/23/triassic-hunt/">Triassic Hunt</a></li>
 				<li><a href="/2015/10/27/trick-r-treat/">Trick ‘r Treat</a></li>
 				<li class="shitty"><a href="/2020/04/26/trip-with-the-teacher/">Trip with the Teacher</a></li>
 				<li><a href="/2019/03/24/triple-frontier/">Triple Frontier</a></li>
