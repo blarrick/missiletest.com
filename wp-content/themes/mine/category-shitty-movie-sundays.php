@@ -155,6 +155,7 @@ get_header(); ?>
 				<li class="has-image final-score" onclick="location.href='/2019/03/31/final-score/';"><a href="/2019/03/31/final-score/">Final Score</a></li>
 				<li class="has-image winged-serpent" onclick="location.href='/2018/10/28/q-the-winged-serpent/';"><a href="/2018/10/28/q-the-winged-serpent/">Q — The Winged Serpent</a></li>
 				<li class="has-image rawhead-rex" onclick="location.href='/2021/10/09/rawhead-rex/';"><a href="/2021/10/09/rawhead-rex/">Rawhead Rex</a></li>
+				<li class="has-image endgame-1983" onclick="location.href='/2023/07/30/endgame-1983/';"><a href="/2023/07/30/endgame-1983/">Endgame (1983)</a></li>
 				<li class="has-image shape-things" onclick="location.href='/2018/07/29/shape-of-things-to-come/';"><a href="/2018/07/29/shape-of-things-to-come/">The Shape of Things to Come</a></li>
 				<li class="has-image night-demons" onclick="location.href='/2021/10/22/night-of-the-demons/';"><a href="/2021/10/22/night-of-the-demons/">Night of the Demons (1988)</a></li>
 				<li class="has-image city-on-fire" onclick="location.href='/2018/08/05/city-on-fire/';"><a href="/2018/08/05/city-on-fire/">City on Fire</a></li>
