@@ -456,6 +456,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2009/10/29/freddy-vs-jason/">Freddy vs. Jason</a></li>
 				<li class="shitty"><a href="/2021/10/08/freddys-dead/">Freddy’s Dead: The Final Nightmare</a></li>
 				<li class="shitty"><a href="/2017/11/05/freejack/">Freejack</a></li>
+				<li class="shitty"><a href="/2023/08/13/french-quarter/">French Quarter</a></li>
 				<li><a href="/2023/05/21/french-sex-murders/">French Sex Murders, The</a></li>
 				<li class="shitty"><a href="/2009/10/01/friday-13th/">Friday the 13th</a></li>
 				<li class="shitty"><a href="/2009/10/07/friday-13th-2/">Friday the 13th Part 2</a></li>
