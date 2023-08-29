@@ -390,7 +390,7 @@ get_header(); ?>
 				<li><a href="/2022/10/18/the-beyond/">E tu vivrai nel terrore! L’aldilà, aka The Beyond</a></li>
 				<li><a href="/2019/10/15/earth-vs-the-flying-saucers/">Earth vs. the Flying Saucers</a></li>
 				<li class="shitty"><a href="/2018/10/15/earth-vs-the-spider/">Earth vs. the Spider</a></li>
-				<li><a href="/2017/10/04/eaten-alive">Eaten Alive</a></li>
+				<li><a href="/2017/10/04/eaten-alive">Eaten Alive</a> <span>(1976)</span></li>
 				<li><a href="/2016/10/25/eight-legged-freaks/">Eight Legged Freaks</a></li>
 				<li><a href="/2019/10/26/eli/">Eli</a></li>
 				<li class="shitty"><a href="/2017/09/17/womens-prison-massacre/">Emanuelle Escapes From Hell, aka Women's Prison Massacre</a></li>
