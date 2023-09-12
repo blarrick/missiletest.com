@@ -171,6 +171,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/05/03/battletruck/">Battletruck</a></li>
 				<li><a href="/2018/10/02/20000-fathoms/">Beast from 20,000 Fathoms, The</a></li>
 				<li class="shitty"><a href="/2018/10/07/beast-of-hollow-mountain/">Beast of Hollow Mountain, The</a></li>
+				<li class="shitty"><a href="/2023/09/03/yucca-flats/">Beast of Yucca Flats, The</a></li>
 				<li class="shitty"><a href="/2017/12/10/beastmaster/">Beastmaster, The</a></li>					
 				<li><a href="/2013/02/28/becket/">Becket</a></li>
 				<li class="shitty"><a href="/2018/10/10/beginning-of-the-end/">Beginning of the End</a></li>
