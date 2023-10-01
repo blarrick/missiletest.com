@@ -428,6 +428,7 @@ get_header(); ?>
 				<li><a href="/2015/10/11/extraterrestrial/">Extraterrestrial</a></li>
 				<li><a href="/2019/10/04/the-eye/">Eye, The</a> <span>(2002)</span></li>
 				<li class="shitty"><a href="/2019/10/04/the-eye/">Eye, The</a> <span>(2008)</span></li>
+				<li><a href="/2023/10/01/manhattan-baby/">Eye of the Evil Dead, aka Manhattan Baby</a></li>
 				<li class="shitty"><a href="/2017/08/24/eye-see-you/">Eye See You</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
@@ -723,6 +724,7 @@ get_header(); ?>
 				<li><a href="/2017/10/22/man-who-could-cheat-death/">Man Who Could Cheat Death, The</a></li>
 				<li class="reco"><a href="/2020/10/04/mandy/">Mandy</a></li>
 				<li><a href="/2017/10/18/maniac/">Maniac</a> <span>(1980)</span></li>
+				<li><a href="/2023/10/01/manhattan-baby/">Manhattan Baby</a></li>
 				<li class="shitty"><a href="/2017/10/21/maniac-cop/">Maniac Cop</a></li>
 				<li class="shitty"><a href="/2010/10/12/maniac-cop-2/">Maniac Cop 2</a></li>
 				<li class="shitty"><a href="/2019/10/28/manster/">Manster, The</a></li>
