@@ -313,6 +313,7 @@ get_header(); ?>
 				<li class="has-image horror-rises-tomb" onclick="location.href='/2020/10/07/horror-rises-from-the-tomb/';"><a href="/2020/10/07/horror-rises-from-the-tomb/">Horror Rises from the Tomb</a></li>
 				<li class="has-image silencer-1992" onclick="location.href='/2022/11/06/silencer-1992/';"><a href="/2022/11/06/silencer-1992/">The Silencer (1992)</a></li>
 				<li class="has-image abraxas" onclick="location.href='/2023/03/05/abraxas/';"><a href="/2023/03/05/abraxas/">Abraxas, Guardian of the Universe</a></li>
+				<li class="has-image night-of-the-beast" onclick="location.href='/2023/10/01/night-of-the-beast/';"><a href="/2023/10/01/night-of-the-beast/">Night of the Beast</a></li>
 				<li class="has-image blackout" onclick="location.href='/2021/05/23/blackout/';"><a href="/2021/05/23/blackout/">The Blackout</a></li>
 				<li class="has-image chernobyl-diaries" onclick="location.href='/2012/10/30/chernobyl-diaries/';"><a href="/2012/10/30/chernobyl-diaries/">Chernobyl Diaries</a></li>
 				<li class="has-image transparent-man" onclick="location.href='/2020/03/15/amazing-transparent-man/';"><a href="/2020/03/15/amazing-transparent-man/">The Amazing Transparent Man</a></li>

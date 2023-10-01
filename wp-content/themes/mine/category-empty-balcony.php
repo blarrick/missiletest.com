@@ -709,6 +709,7 @@ get_header(); ?>
 				<li><a href="/2018/10/16/lost-boys/">Lost Boys, The</a></li>
 				<li class="shitty"><a href="/2019/10/02/lost-continent/">Lost Continent</a> <span>(1951)</span></li>
 				<li class="shitty"><a href="/2023/02/19/lost-empire/">Lost Empire, The</a></li>
+				<li class="shitty"><a href="/2023/10/01/night-of-the-beast/">Lukas' Child, aka Night of the Beast</a></li>
 				<li class="shitty"><a href="/2017/02/19/last-shark/">L'ultimo squalo, aka The Last Shark</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
@@ -765,6 +766,7 @@ get_header(); ?>
 				<li><a href="/2017/10/28/night-creatures/">Night Creatures</a></li>
 				<li><a href="/2021/10/19/night-eats-world/">Night Eats the World, The</a></li>
 				<li><a href="/2017/04/02/night-moves/">Night Moves</a></li>
+				<li class="shitty"><a href="/2023/10/01/night-of-the-beast/">Night of the Beast</a></li>
 				<li class="shitty"><a href="/2019/10/21/night-of-the-blood-beast/">Night of the Blood Beast</a></li>
 				<li class="shitty"><a href="/2021/10/22/night-of-the-demons/">Night of the Demons</a> <span>(1988)</span></li>
 				<li><a href="/2018/10/23/night-of-the-lepus/">Night of the Lepus</a></li>
