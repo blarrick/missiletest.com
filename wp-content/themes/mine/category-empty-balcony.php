@@ -354,6 +354,7 @@ get_header(); ?>
 				<li><a href="/2017/08/17/demolition-man/">Demolition Man</a></li>
 				<li class="shitty"><a href="/2021/12/26/demolitionist/">Demolitionist, The</a></li>
 				<li class="shitty"><a href="/2022/10/27/demon-queen/">Demon Queen</a></li>
+				<li><a href="/2023/10/02/demons/">Demons</a></li>
 				<li class="shitty"><a href="/2019/10/18/derelict/">Derelict</a></li>
 				<li class="shitty"><a href="/2023/08/06/detention-2003/">Detention</a> <span>(2003)</span></li>
 				<li class="shitty"><a href="/2018/11/18/detour/">Detour</a></li>
