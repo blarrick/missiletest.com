@@ -418,6 +418,7 @@ get_header(); ?>
 				<li><a href="/2017/08/05/victory/">Escape to Victory, aka Victory</a></li>
 				<li><a href="/2014/02/26/europa-report/">Europa Report</a></li>
 				<li class="shitty"><a href="/2009/10/19/event-horizon/">Event Horizon</a></li>
+				<li><a href="/2023/10/02/evil-dead-trap/">Evil Dead Trap</a></li>
 				<li><a href="/2017/10/12/evil-of-frankenstein/">Evil of Frankenstein, The</a></li>
 				<li><a href="/2009/07/27/holy-grail/">Excalibur</a></li>
 				<li class="shitty"><a href="/2021/06/20/executioner-part-ii/">Executioner, Part II, The</a></li>
@@ -961,6 +962,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/10/17/she-creature/">She-Creature, The</a></li>
 				<li><a href="/2020/10/07/shed/">Shed, The</a></li>
 				<li class="reco"><a href="/2016/10/16/the-shining/">Shining, The</a></li>
+				<li><a href="/2023/10/02/evil-dead-trap/">Shiry&#244; no wana, aka Evil Dead Trap</a></li>
 				<li class="shitty"><a href="/2014/06/09/shitty-batman/">Shitty Movie Ideas: John Waters' Batman</a></li>
 				<li class="shitty"><a href="/2012/01/23/shitty-idea/">Shitty Movie Ideas: Out of This World</a></li>
 				<li class="shitty"><a href="/2013/03/07/shitty-idea-2/">Shitty Movie Ideas: Tossing Pie</a></li>
