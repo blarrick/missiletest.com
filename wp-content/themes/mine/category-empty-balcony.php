@@ -349,6 +349,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/07/23/death-wish-4/">Death Wish 4: The Crackdown</a></li>
 				<li class="shitty"><a href="/2020/01/12/deathsport/">Deathsport</a></li>
 				<li class="shitty"><a href="/2013/10/12/deep-blue-sea/">Deep Blue Sea</a></li>
+				<li><a href="/2023/10/04/deep-red/">Deep Red</a></li>
 				<li class="shitty"><a href="/2009/08/11/deep-rising/">Deep Rising</a></li>
 				<li class="shitty"><a href="/2013/10/21/deepstar-six/">DeepStar Six</a></li>
 				<li><a href="/2017/08/17/demolition-man/">Demolition Man</a></li>
@@ -847,6 +848,7 @@ get_header(); ?>
 				<li><a href="/2016/10/13/predators/">Predators</a></li>
 				<li class="shitty"><a href="/2019/12/08/primal-2019/">Primal</a> <span>(2019)</span></li>
 				<li class="shitty"><a href="/2008/12/29/prince-of-darkness/">Prince of Darkness</a></li>
+				<li><a href="/2023/10/04/deep-red/">Profondo rosso, aka Deep Red</a></li>
 				<li class="shitty"><a href="/2019/05/12/bunker-project-12/">Project 12: The Bunker, aka Bunker: Project 12</a></li>
 				<li class="shitty"><a href="/2019/02/17/project-moonbase/">Project Moonbase</a></li>
 				<li><a href="/2014/10/24/prom-night/">Prom Night</a></li>
