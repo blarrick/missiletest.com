@@ -565,6 +565,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/10/28/hellraiser-hellworld/">Hellraiser VIII: Hellworld</a></li>
 				<li class="shitty"><a href="/2021/10/30/hellraiser-judgement/">Hellraiser: Judgement</a></li>
 				<li class="shitty"><a href="/2021/10/29/hellraiser-revelations/">Hellraiser: Revelations</a></li>
+				<li class="shitty"><a href="/2023/10/04/hellspawn/">Hellspawn</a></li>
 				<li><a href="/2008/10/23/herbivore/">Herbivore, The</a></li>
 				<li class="shitty"><a href="/2014/05/01/hercules-in-new-york/">Hercules in New York</a></li>
 				<li><a href="/2018/10/31/hereditary/">Hereditary</a></li>
