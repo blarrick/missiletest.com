@@ -132,6 +132,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/02/07/angel-town/">Angel Town</a></li>
 				<li><a href="/2015/10/03/annabelle/">Annabelle</a></li>
 				<li class="shitty"><a href="/2018/02/18/cosmos/">Anno zero - Guerra nello spazio, aka Cosmos: War of the Planets</a></li>
+				<li class="shitty"><a href="/2023/10/05/anthropophagus/">Anthropophagus</a></li>
 				<li><a href="/2013/10/28/apartment-143/">Apartment 143</a></li>
 				<li class="reco"><a href="/2009/04/22/apocalypse-now/">Apocalypse Now</a></li>
 				<li class="shitty"><a href="/2020/04/05/armed-response-2017/">Armed Response</a> <span>(2017)</span></li>
@@ -517,6 +518,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/02/19/last-shark/">Great White, aka The Last Shark</a></li>
 				<li><a href="/2021/10/21/green-inferno-2013/">Green Inferno, The</a> <span>(2013)</span></li>
 				<li class="reco"><a href="/2012/05/31/the-grey/">Grey, The</a></li>
+				<li class="shitty"><a href="/2023/10/05/anthropophagus/">Grim Reaper, The, aka Anthropophagus</a></li>
 				<li class="shitty"><a href="/2010/10/03/growth/">Growth</a></li>
 				<li><a href="/2015/01/20/guardians-of-the-galaxy/">Guardians of the Galaxy</a></li>
 				<li class="shitty"><a href="/2020/10/23/guru-the-mad-monk/">Guru, the Mad Monk</a></li>
@@ -948,6 +950,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2015/10/15/san-andreas/">San Andreas</a></li>
 				<li><a href="/2020/10/08/alive/">#Saraitda, aka #Alive</a></li>
 				<li class="shitty"><a href="/2017/10/31/satanic-rites-of-dracula/">Satanic Rites of Dracula, The</a></li>
+				<li class="shitty"><a href="/2023/10/05/anthropophagus/">Savage Island, The, aka Anthropophagus</a></li>
 				<li><a href="/2012/12/08/savages/">Savages</a></li>
 				<li><a href="/2015/10/12/saw/">Saw</a></li>
 				<li><a href="/2015/10/13/saw-ii/">Saw II</a></li>
@@ -1171,6 +1174,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2015/10/10/zombeavers/">Zombeavers</a></li>
 				<li class="shitty"><a href="/2011/10/07/zombi-2/">Zombi 2</a></li>
 				<li class="shitty"><a href="/2022/10/20/zombi-3/">Zombi 3</a></li>
+				<li class="shitty"><a href="/2023/10/05/anthropophagus/">Zombie’s Rage, The, aka Anthropophagus</a></li>
 				<li><a href="/2009/10/05/zombieland/">Zombieland</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
