@@ -263,6 +263,7 @@ get_header(); ?>
 				<li class="has-image monster-world" onclick="location.href='/2019/10/19/monster-that-challenged-the-world/';"><a href="/2019/10/19/monster-that-challenged-the-world/">The Monster That Challenged the World</a></li>
 				<li class="has-image galaxy-terror" onclick="location.href='/2014/10/17/galaxy-of-terror/';"><a href="/2014/10/17/galaxy-of-terror/">Galaxy of Terror</a></li>
 				<li class="has-image resident-apocalypse" onclick="location.href='/2014/10/06/apocalypse/';"><a href="/2014/10/06/apocalypse/">Resident Evil: Apocalypse</a></li>
+				<li class="has-image she-beast" onclick="location.href='/2023/10/05/she-beast/';"><a href="/2023/10/05/she-beast/">The She Beast</a></li>
 				<li class="has-image blood-mania" onclick="location.href='/2020/03/22/blood-mania/';"><a href="/2020/03/22/blood-mania/">Blood Mania</a></li>
 				<li class="has-image it-conquered" onclick="location.href='/2019/10/16/it-conquered-the-world/';"><a href="/2019/10/16/it-conquered-the-world/">It Conquered the World</a></li>
 				<li class="has-image exterminators-3000" onclick="location.href='/2023/02/26/exterminators-year-3000/';"><a href="/2023/02/26/exterminators-year-3000/">The Exterminators of the Year 3000</a></li>

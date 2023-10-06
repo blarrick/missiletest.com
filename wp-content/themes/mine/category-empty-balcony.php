@@ -967,6 +967,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/10/26/shakma/">Shakma</a></li>
 				<li class="shitty"><a href="/2020/03/01/shanghai-fortress/">Shanghai Fortress</a></li>
 				<li class="shitty"><a href="/2018/07/29/shape-of-things-to-come/">Shape of Things to Come, The</a></li>
+				<li class="shitty"><a href="/2023/10/05/she-beast/">She Beast, The</a></li>
 				<li class="shitty"><a href="/2019/10/17/she-creature/">She-Creature, The</a></li>
 				<li><a href="/2020/10/07/shed/">Shed, The</a></li>
 				<li class="reco"><a href="/2016/10/16/the-shining/">Shining, The</a></li>
