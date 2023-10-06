@@ -99,6 +99,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2023/03/05/abraxas/">Abraxas, Guardian of the Universe</a></li>
 				<li class="shitty"><a href="/2014/01/08/act-of-valor/">Act of Valor</a></li>
 				<li><a href="/2011/07/08/adjustment-bureau/">Adjustment Bureau, The</a></li>
+				<li class="shitty"><a href="/2023/10/06/baron-blood/">After Elizabeth Died, aka Baron Blood</a></li>
 				<li class="shitty"><a href="/2020/07/26/the-aftermath-1982/">Aftermath, The <span>(1982)</span></a></li>
 				<li class="shitty"><a href="/2023/05/28/agent-red/">Agent Red</a></li>
 				<li class="shitty"><a href="/2022/01/23/alcatraz/">Alcatraz <span>(2018)</span></a></li>
@@ -161,6 +162,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2012/09/10/backdraft/">Backdraft</a></li>				
 				<li class="shitty"><a href="/2017/05/28/bad-ass/">Bad Ass</a></li>
 				<li class="shitty"><a href="/2017/10/20/bad-ben/">Bad Ben</a></li>
+				<li class="shitty"><a href="/2023/10/06/baron-blood/">Baron Blood</a></li>
 				<li><a href="/2014/10/19/barricade/">Barricade</a></li>	
 				<li class="shitty"><a href="/2011/10/18/basket-case/">Basket Case</a></li>	
 				<li><a href="/2012/08/09/foam-rubber-wholesalers/">Batman</a> <span>(1966)</span></li>
@@ -504,6 +506,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/10/18/giant-gila-monster/">Giant Gila Monster, The</a></li>
 				<li class="shitty"><a href="/2018/10/24/the-giant-spider-invasion/">Giant Spider Invasion, The</a></li>
 				<li><a href="/2020/10/08/girl-on-the-third-floor/">Girl on the Third Floor</a></li>
+				<li class="shitty"><a href="/2023/10/06/baron-blood/">Gli orrori del castello di Norimberga, aka Baron Blood</a></li>
 				<li class="shitty"><a href="/2018/10/13/god-told-me-to/">God Told Me To</a></li>
 				<li><a href="/2008/03/12/tokyo-sos//">Godzilla Against Mechagodzilla</a></li>
 				<li class="shitty"><a href="/2011/07/11/gojira/">Godzilla, King of the Monsters!</a></li>
