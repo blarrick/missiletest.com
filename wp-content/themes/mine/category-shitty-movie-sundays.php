@@ -469,6 +469,7 @@ get_header(); ?>
 				<li class="has-image human-centipede" onclick="location.href='/2011/10/01/human-centipede/';"><a href="/2011/10/01/human-centipede/">The Human Centipede</a></li>
 				<li class="has-image hitlers-brain" onclick="location.href='/2020/02/23/hitlers-brain/';"><a href="/2020/02/23/hitlers-brain/">They Saved Hitler’s Brain</a></li>
 				<li class="has-image phantom-leagues" onclick="location.href='/2019/10/12/phantom-from-10000-leagues/';"><a href="/2019/10/12/phantom-from-10000-leagues/">The Phantom from 10,000 Leagues</a></li>
+				<li class="has-image video-demons" onclick="location.href='/2023/10/06/video-demons/';"><a href="/2023/10/06/video-demons/">Video Demons Do Psychotown</a></li>
 				<li class="has-image post-impact" onclick="location.href='/2021/11/28/post-impact/';"><a href="/2021/11/28/post-impact/">Post Impact</a></li>
 				<li class="has-image invasion-inner-earth" onclick="location.href='/2020/10/01/invasion-from-inner-earth/';"><a href="/2020/10/01/invasion-from-inner-earth/">Invasion from Inner Earth</a></li>
 				<li class="has-image mazes-monsters" onclick="location.href='/2017/03/26/mazes-and-monsters/';"><a href="/2017/03/26/mazes-and-monsters/">Mazes and Monsters</a></li>

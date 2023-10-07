@@ -211,6 +211,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/10/02/blood-rage/">Blood Rage</a></li>
 				<li class="shitty"><a href="/2020/10/13/blood-sabbath/">Blood Sabbath</a></li>
 				<li class="shitty"><a href="/2020/10/05/blood-vessel/">Blood Vessel</a></li>
+				<li class="shitty"><a href="/2023/10/06/video-demons/">Bloodbath in Psycho Town, aka Video Demons Do Psychotown</a></li>
 				<li class="shitty"><a href="/2021/10/20/bloody-pit-of-horror/">Bloody Pit of Horror</a></li>
 				<li><a href="/2014/10/30/blood-glacier/">Blutgletscher, aka Blood Glacier</a></li>
 				<li class="shitty"><a href="/2022/10/04/boa/">Boa</a></li>
@@ -1119,6 +1120,7 @@ get_header(); ?>
 				<li><a href="/2013/10/14/vhs/">V/H/S</a></li>
 				<li><a href="/2017/08/05/victory/">Victory</a></li>
 				<li><a href="/2022/10/22/video-dead/">Video Dead, The</a></li>
+				<li class="shitty"><a href="/2023/10/06/video-demons/">Video Demons Do Psychotown</a></li>
 				<li class="shitty"><a href="/2022/10/23/video-violence/">Video Violence</a></li>
 				<li class="shitty"><a href="/2010/10/27/village-damned-1995/">Village of the Damned</a> <span>(1995)</span></li>
 				<li><a href="/2018/10/06/villmark-2/">Villmark 2</a></li>
