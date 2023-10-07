@@ -715,6 +715,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2012/10/17/leviathan/">Leviathan</a></li>
 				<li><a href="/2014/10/23/lifeforce/">Lifeforce</a></li>
 				<li class="reco"><a href="/2013/02/28/becket/">Lion in Winter, The</a></li>
+				<li><a href="/2023/10/07/new-york-ripper/">Lo squartatore di New York, aka The New York Ripper</a></li>
 				<li><a href="/2017/08/13/lock-up/">Lock Up</a></li>
 				<li class="reco"><a href="/2009/03/30/logans-run/">Logan’s Run</a></li>
 				<li><a href="/2021/10/17/similars/">Los Parecidos, aka The Similars</a></li>
@@ -773,6 +774,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/10/04/boa/">New Alcatraz, aka Boa</a></li>
 				<li class="shitty"><a href="/2016/12/11/the-new-barbarians/">New Barbarians, The</a></li>
 				<li class="shitty"><a href="/2017/06/18/new-gladiators/">New Gladiators, The</a></li>
+				<li><a href="/2023/10/07/new-york-ripper/">New York Ripper, The</a></li>
 				<li class="shitty"><a href="/2019/11/24/next-2/">Next</a></li>
 				<li class="shitty"><a href="/2022/10/25/night-crawlers-1996/">Night Crawlers</a> <span>(1996)</span></li>
 				<li><a href="/2017/10/28/night-creatures/">Night Creatures</a></li>
