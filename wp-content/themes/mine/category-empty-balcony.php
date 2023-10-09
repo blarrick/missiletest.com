@@ -1047,6 +1047,7 @@ get_header(); ?>
 				<li><a href="/2018/10/05/tarantula/">Tarantula</a></li>
 				<li><a href="/2017/10/20/taste-the-blood-of-dracula/">Taste the Blood of Dracula</a></li>
 				<li class="shitty"><a href="/2021/02/28/beyond-the-trek/">Teleios, aka Beyond the Trek</a></li>
+				<li class="shitty"><a href="/2023/10/08/tentacles/">Tentacles</a></li>
 				<li class="reco"><a href="/2014/05/05/terminator/">Terminator, The</a></li>
 				<li><a href="/2014/05/14/terminator-2/">Terminator 2: Judgment Day</a></li>
 				<li><a href="/2014/05/24/terminator-3/">Terminator 3: Rise of the Machines</a></li>

@@ -181,6 +181,7 @@ get_header(); ?>
 				<li class="has-image deep-rising" onclick="location.href='/2009/08/11/deep-rising/';"><a href="/2009/08/11/deep-rising/">Deep Rising</a></li>
 				<li class="has-image ghost-rider" onclick="location.href='/2020/02/02/ghost-rider/';"><a href="/2020/02/02/ghost-rider/">Ghost Rider</a></li>
 				<li class="has-image escape-la" onclick="location.href='/2011/11/06/escape-from-la/';"><a href="/2011/11/06/escape-from-la/">Escape from L.A.</a></li>
+				<li class="has-image tentacles" onclick="location.href='/2023/10/08/tentacles/';"><a href="/2023/10/08/tentacles/">Tentacles</a></li>
 				<li class="has-image future-kick" onclick="location.href='/2023/01/29/future-kick/';"><a href="/2023/01/29/future-kick/">Future Kick</a></li>
 				<li class="has-image angel-town" onclick="location.href='/2021/02/07/angel-town/';"><a href="/2021/02/07/angel-town/">Angel Town</a></li>
 				<li class="has-image critters-2" onclick="location.href='/2021/10/21/critters-2/';"><a href="/2021/10/21/critters-2/">Critters 2</a></li>
