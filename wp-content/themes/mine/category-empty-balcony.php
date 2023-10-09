@@ -897,6 +897,7 @@ get_header(); ?>
 				<li><a href="/2017/10/08/raw/">Raw</a></li>
 				<li class="shitty"><a href="/2014/05/08/raw-deal/">Raw Deal</a></li>
 				<li class="shitty"><a href="/2021/10/09/rawhead-rex/">Rawhead Rex</a></li>
+				<li class="shitty"><a href="/2023/10/07/razorteeth/">Razorteeth</a></li>
 				<li><a href="/2010/10/06/re-animator/">Re-Animator</a></li>
 				<li><a href="/2011/10/03/rec/">[•REC]</a></li>
 				<li><a href="/2012/10/11/quarantine-2/">[•REC] 2</a></li>
