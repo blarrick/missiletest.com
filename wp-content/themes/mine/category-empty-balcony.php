@@ -266,6 +266,7 @@ get_header(); ?>
 				<li><a href="/2013/10/04/christine/">Christine</a></li>
 				<li class="shitty"><a href="/2019/04/07/chrome-and-hot-leather/">Chrome and Hot Leather</a></li>
 				<li class="shitty"><a href="/2019/10/29/chud/">C.H.U.D.</a></li>
+				<li><a href="/2023/10/09/church/">Church, The</a></li>
 				<li><a href="/2013/10/05/citadel/">Citadel</a></li>
 				<li class="shitty"><a href="/2018/10/02/city-of-the-living-dead/">City of the Living Dead</a></li>
 				<li class="shitty"><a href="/2018/08/05/city-on-fire/">City on Fire</a></li>
@@ -686,6 +687,7 @@ get_header(); ?>
 			</ul>
 			<h5 id="ll">L</h5>
 			<ul>
+				<li><a href="/2023/10/09/church/">La Chiesa, aka The Church</a></li>
 				<li class="shitty"><a href="/2018/06/25/la-crackdown/">LA Crackdown</a></li>
 				<li><a href="/2018/02/25/10th-victim/">La decima vittima, aka The 10th Victim</a></li>
 				<li><a href="/2021/10/08/funeral-home/">La Funeria, aka The Funeral Home</a></li>
