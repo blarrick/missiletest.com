@@ -443,6 +443,7 @@ get_header(); ?>
 			<h5 id="ff">F</h5>
 			<ul>
 				<li class="shitty"><a href="/2021/10/04/rizen-possession/">Facility, The, aka The Rizen: Possession</a></li>
+				<li class="shitty"><a href="/2023/10/08/mutilator/">Fall Break, aka The Mutilator</a></li>
 				<li class="shitty"><a href="/2021/10/03/fangs-of-the-living-dead/">Fangs of the Living Dead</a></li>
 				<li class="shitty"><a href="/2023/10/03/feeders/">Feeders</a></li>
 				<li><a href="/2010/10/13/fido/">Fido</a></li>
@@ -763,6 +764,7 @@ get_header(); ?>
 				<li><a href="/2017/10/01/the-mummy/">Mummy, The</a> <span>(1959)</span></li>
 				<li><a href="/2017/10/13/mummys-shroud/">Mummy's Shroud, The</a></li>
 				<li><a href="/2014/10/07/mutants/">Mutants</a></li>
+				<li class="shitty"><a href="/2023/10/08/mutilator/">Mutilator, The</a></li>
 				<li class="shitty"><a href="/2013/10/22/my-bloody-valentine/">My Bloody Valentine</a> <span>(1981)</span></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
