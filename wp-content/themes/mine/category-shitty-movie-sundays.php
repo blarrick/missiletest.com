@@ -381,6 +381,7 @@ get_header(); ?>
 				<li class="has-image las-vegas-lady" onclick="location.href='/2020/11/08/las-vegas-lady/';"><a href="/2020/11/08/las-vegas-lady/">Las Vegas Lady</a></li>
 				<li class="has-image leprechaun" onclick="location.href='/2021/10/18/leprechaun/';"><a href="/2021/10/18/leprechaun/">Leprechaun</a></li>
 				<li class="has-image la-crackdown" onclick="location.href='/2018/06/25/la-crackdown/';"><a href="/2018/06/25/la-crackdown/">LA Crackdown</a></li>
+				<li class="has-image absurd" onclick="location.href='/2023/10/10/absurd/';"><a href="/2023/10/10/absurd/">Absurd</a></li>
 				<li class="has-image expendables-3" onclick="location.href='/2017/08/30/the-expendables-3/';"><a href="/2017/08/30/the-expendables-3/">The Expendables 3</a></li>
 				<li class="has-image godzilla" onclick="location.href='/2011/07/11/gojira/';"><a href="/2011/07/11/gojira/">Godzilla, King of the Monsters!</a></li>
 				<li class="has-image night-monsters" onclick="location.href='/2013/10/18/navy-night-monsters/';"><a href="/2013/10/18/navy-night-monsters/">The Navy vs. the Night Monsters</a></li>

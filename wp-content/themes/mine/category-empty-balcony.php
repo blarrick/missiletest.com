@@ -97,6 +97,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2015/10/17/abominable-dr-phibes/">Abominable Dr. Phibes, The</a></li>
 				<li><a href="/2017/10/15/abominable-snowman/">Abominable Snowman, The</a></li>
 				<li class="shitty"><a href="/2023/03/05/abraxas/">Abraxas, Guardian of the Universe</a></li>
+				<li class="shitty"><a href="/2023/10/10/absurd/">Absurd</a></li>
 				<li class="shitty"><a href="/2014/01/08/act-of-valor/">Act of Valor</a></li>
 				<li><a href="/2011/07/08/adjustment-bureau/">Adjustment Bureau, The</a></li>
 				<li class="shitty"><a href="/2023/10/06/baron-blood/">After Elizabeth Died, aka Baron Blood</a></li>
@@ -948,6 +949,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2016/11/13/rollerball/">Rollerball</a> <span>(1975)</span></li>
 				<li class="shitty"><a href="/2016/11/13/rollerball/">Rollerball</a> <span>(2002)</span></li>
 				<li class="shitty"><a href="/2018/10/28/the-prowler/">Rosemary’s Killer, aka The Prowler</a></li>
+				<li class="shitty"><a href="/2023/10/10/absurd/">Rosso sangue, aka Absurd</a></li>
 				<li class="reco"><a href="/2015/01/02/rover/">Rover, The</a></li>
 				<li><a href="/2018/08/26/runaway/">Runaway</a></li>
 				<li><a href="/2013/01/07/runaway-train/">Runaway Train</a></li>
