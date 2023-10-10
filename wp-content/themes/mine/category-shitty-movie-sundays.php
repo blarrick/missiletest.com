@@ -237,6 +237,7 @@ get_header(); ?>
 				<li class="has-image invasion-usa" onclick="location.href='/2019/03/10/invasion-usa/';"><a href="/2019/03/10/invasion-usa/">Invasion U.S.A.</a></li>
 				<li class="has-image hell-wheels" onclick="location.href='/2020/05/17/hell-on-wheels/';"><a href="/2020/05/17/hell-on-wheels/">Hell on Wheels</a></li>
 				<li class="has-image alien-predator" onclick="location.href='/2016/10/12/alien-vs-predator/';"><a href="/2016/10/12/alien-vs-predator/">Alien vs. Predator</a></li>
+				<li class="has-image devils-rain" onclick="location.href='/2023/10/09/devils-rain/';"><a href="/2023/10/09/devils-rain/">The Devil’s Rain</a></li>
 				<li class="has-image cards-death" onclick="location.href='/2022/10/17/cards-death/';"><a href="/2022/10/17/cards-death/">Cards of Death</a></li>
 				<li class="has-image tuareg" onclick="location.href='/2020/11/29/tuareg/';"><a href="/2020/11/29/tuareg/">Tuareg: The Desert Warrior</a></li>
 				<li class="has-image giant-claw" onclick="location.href='/2018/10/09/giant-claw/';"><a href="/2018/10/09/giant-claw/">The Giant Claw</a></li>

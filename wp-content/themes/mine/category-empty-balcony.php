@@ -370,6 +370,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/10/21/devils-hand/">Devil’s Hand, The</a></li>
 				<li><a href="/2020/10/15/devils-nightmare/">Devil’s Nightmare, The</a></li>
 				<li><a href="/2018/10/07/devils-pass/">Devil’s Pass</a></li>
+				<li class="shitty"><a href="/2023/10/09/devils-rain/">Devil’s Rain, The</a></li>
 				<li><a href="/2010/10/29/diary-of-the-dead/">Diary of the Dead</a></li>
 				<li class="reco"><a href="/2012/09/06/dirty-harry/">Dirty Harry</a></li>
 				<li class="shitty"><a href="/2014/12/22/disaster-on-the-coastliner/">Disaster on the Coastliner</a></li>
