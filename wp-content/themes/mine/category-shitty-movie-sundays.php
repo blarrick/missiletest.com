@@ -95,6 +95,7 @@ get_header(); ?>
 				<li class="has-image executioner-2" onclick="location.href='/2021/06/20/executioner-part-ii/';"><a href="/2021/06/20/executioner-part-ii/">The Executioner, Part II</a></li>
 				<li class="has-image aftermath" onclick="location.href='/2020/07/26/the-aftermath-1982/';"><a href="/2020/07/26/the-aftermath-1982/">The Aftermath</a></li>
 				<li class="has-image blood-draculas-castle" onclick="location.href='/2020/10/17/blood-of-draculas-castle/';"><a href="/2020/10/17/blood-of-draculas-castle/">Blood of Dracula’s Castle</a></li>
+				<li class="has-image forbidden-world" onclick="location.href='/2023/10/10/forbidden-world/';"><a href="/2023/10/10/forbidden-world/">Forbidden World</a></li>
 				<li class="has-image leviathan" onclick="location.href='/2012/10/17/leviathan/';"><a href="/2012/10/17/leviathan/">Leviathan</a></li>
 				<li class="has-image dead-heat" onclick="location.href='/2012/10/02/dead-heat-1988/';"><a href="/2012/10/02/dead-heat-1988/">Dead Heat (1988)</a></li>
 				<li class="has-image werewolf-washington" onclick="location.href='/2020/10/11/werewolf-of-washington/';"><a href="/2020/10/11/werewolf-of-washington/">The Werewolf of Washington</a></li>
