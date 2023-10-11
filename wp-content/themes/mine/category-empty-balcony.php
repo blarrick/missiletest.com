@@ -163,6 +163,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2012/09/10/backdraft/">Backdraft</a></li>				
 				<li class="shitty"><a href="/2017/05/28/bad-ass/">Bad Ass</a></li>
 				<li class="shitty"><a href="/2017/10/20/bad-ben/">Bad Ben</a></li>
+				<li class="shitty"><a href="/2023/10/11/panic/">Bakterion, aka Panic</a></li>
 				<li class="shitty"><a href="/2023/10/06/baron-blood/">Baron Blood</a></li>
 				<li><a href="/2014/10/19/barricade/">Barricade</a></li>	
 				<li class="shitty"><a href="/2011/10/18/basket-case/">Basket Case</a></li>	
@@ -761,6 +762,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2011/04/25/mona-lisa/">Mona Lisa</a></li>
 				<li class="shitty"><a href="/2018/10/19/humanoids-from-the-deep/">Monster, aka Humanoids from the Deep</a></li>
 				<li class="shitty"><a href="/2019/10/26/monster-from-green-hell/">Monster from Green Hell</a></li>
+				<li class="shitty"><a href="/2023/10/11/panic/">Monster of Blood, aka Panic</a></li>
 				<li class="shitty"><a href="/2019/10/19/monster-that-challenged-the-world/">Monster That Challenged the World, The</a></li>
 				<li><a href="/2018/10/31/monsters/">Monsters</a></li>
 				<li class="reco"><a href="/2009/07/27/holy-grail/">Monty Python and the Holy Grail</a></li>
@@ -831,6 +833,7 @@ get_header(); ?>
 			</ul>
 			<h5 id="pp">P</h5>
 			<ul>
+				<li class="shitty"><a href="/2023/10/11/panic/">Panic</a></li>
 				<li class="shitty"><a href="/2017/08/02/paradise-alley/">Paradise Alley</a></li>
 				<li><a href="/2013/10/08/paranormal-activity-3/">Paranormal Activity 3</a></li>
 				<li class="shitty"><a href="/2019/10/10/paranormal-investigation/">Paranormal Investigation</a></li>
