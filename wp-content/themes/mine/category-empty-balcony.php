@@ -338,6 +338,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2010/10/14/dead-alive/">Dead Alive, aka Braindead</a></li>
 				<li class="shitty"><a href="/2019/10/12/dead-hate-the-living/">Dead Hate the Living!, The</a></li>
 				<li class="shitty"><a href="/2012/10/02/dead-heat-1988/">Dead Heat</a> <span>(1988)</span></li>
+				<li class="shitty"><a href="/2023/10/11/dead-next-door/">Dead Next Door, The</a></li>
 				<li><a href="/2018/10/11/dead-pit/">Dead Pit, The</a></li>
 				<li><a href="/2016/10/03/dead-silence/">Dead Silence</a></li>
 				<li class="shitty"><a href="/2019/10/16/dead-trigger/">Dead Trigger</a></li>
