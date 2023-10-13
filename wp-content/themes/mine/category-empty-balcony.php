@@ -753,6 +753,7 @@ get_header(); ?>
 				<li><a href="/2021/10/06/mara/">Mara</a></li>
 				<li><a href="/2020/10/02/marshes/">Marshes, The</a></li>
 				<li class="shitty"><a href="/2022/03/20/martial-law/">Martial Law</a> <span>(1990)</span></li>
+				<li class="shitty"><a href="/2023/10/12/massacre-in-dinosaur-valley/">Massacre in Dinosaur Valley</a></li>
 				<li class="reco"><a href="/2008/08/05/master-and-commander/">Master and Commander: The Far Side of the World</a></li>
 				<li class="shitty"><a href="/2018/10/14/matango/">Matango</a></li>
 				<li><a href="/2008/04/18/matrix/">Matrix, The</a></li>
@@ -810,6 +811,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/07/31/nine-deaths-of-the-ninja/">Nine Deaths of the Ninja</a></li>
 				<li class="shitty"><a href="/2016/11/27/no-escape/">No Escape</a></li>
 				<li class="shitty"><a href="/2020/08/02/no-escape-no-return/">No Escape No Return</a></li>
+				<li class="shitty"><a href="/2023/10/12/massacre-in-dinosaur-valley/">Nudo e selvaggio, aka Massacre in Dinosaur Valley</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
 			<h5 id="oo">O</h5>

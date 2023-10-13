@@ -352,6 +352,7 @@ get_header(); ?>
 				<li class="has-image bad-ass" onclick="location.href='/2017/05/28/bad-ass/';"><a href="/2017/05/28/bad-ass/">Bad Ass</a></li>
 				<li class="has-image zombeavers" onclick="location.href='/2015/10/10/zombeavers/';"><a href="/2015/10/10/zombeavers/">Zombeavers</a></li>
 				<li class="has-image trip-teacher" onclick="location.href='/2020/04/26/trip-with-the-teacher/';"><a href="/2020/04/26/trip-with-the-teacher/">Trip with the Teacher</a></li>
+				<li class="has-image massacre-in-dinosaur-valley" onclick="location.href='/2023/10/12/massacre-in-dinosaur-valley/';"><a href="/2023/10/12/massacre-in-dinosaur-valley/">Massacre in Dinosaur Valley</a></li>
 				<li class="has-image jack-frost" onclick="location.href='/2019/10/15/jack-frost-1997/';"><a href="/2019/10/15/jack-frost-1997/">Jack Frost (1997)</a></li>
 				<li class="has-image children-corn-4" onclick="location.href='/2021/10/12/children-corn-4/';"><a href="/2021/10/12/children-corn-4/">Children of the Corn IV: The Gathering</a></li>
 				<li class="has-image riddick" onclick="location.href='/2013/11/04/riddick/';"><a href="/2013/11/04/riddick/">Riddick</a></li>
