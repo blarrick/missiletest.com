@@ -244,6 +244,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/12/02/caged-heat/">Caged Heat</a></li>
 				<li><a href="/2015/10/15/canal/">Canal, The</a></li>
 				<li class="shitty"><a href="/2021/10/07/nightmare-inn/">Candle for the Devil, A, aka It Happened at Nightmare Inn</a></li>
+				<li><a href="/2023/10/13/cannibal-holocaust/">Cannibal Holocaust</a></li>
 				<li><a href="/2017/10/28/night-creatures/">Captain Clegg, aka Night Creatures</a></li>
 				<li class="shitty"><a href="/2022/10/17/cards-death/">Cards of Death</a></li>
 				<li class="reco"><a href="/2016/10/06/carnival-of-souls/">Carnival of Souls</a></li>
