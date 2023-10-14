@@ -483,6 +483,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2009/10/07/friday-13th-2/">Friday the 13th Part 2</a></li>
 				<li class="shitty"><a href="/2009/10/12/friday-13th-3/">Friday the 13th Part 3</a></li>
 				<li class="shitty"><a href="/2014/10/04/friday-13th-7/">Friday the 13th Part VII: The New Blood</a></li>
+				<li class="shitty"><a href="/2023/10/13/friday-the-13th-part-viii-jason-takes-manhattan/">Friday the 13th Part VIII: Jason Takes Manhattan</a></li>
 				<li class="shitty"><a href="/2009/10/15/friday-13th-4/">Friday the 13th: The Final Chapter</a></li>
 				<li class="reco"><a href="/2014/10/09/fright-night/">Fright Night</a></li>
 				<li><a href="/2013/10/25/frighteners/">Frighteners, The</a></li>
