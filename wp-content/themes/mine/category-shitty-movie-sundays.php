@@ -245,6 +245,7 @@ get_header(); ?>
 				<li class="has-image giant-claw" onclick="location.href='/2018/10/09/giant-claw/';"><a href="/2018/10/09/giant-claw/">The Giant Claw</a></li>
 				<li class="has-image horror-high" onclick="location.href='/2022/10/16/horror-high/';"><a href="/2022/10/16/horror-high/">Horror High</a></li>
 				<li class="has-image demolitionist" onclick="location.href='/2021/12/26/demolitionist/';"><a href="/2021/12/26/demolitionist/">The Demolitionist</a></li>
+				<li class="has-image mountaintop-motel-massacre" onclick="location.href='/2023/10/16/mountaintop-motel-massacre/';"><a href="/2023/10/16/mountaintop-motel-massacre/">Mountaintop Motel Massacre</a></li>
 				<li class="has-image lost-empire" onclick="location.href='/2023/02/19/lost-empire/';"><a href="/2023/02/19/lost-empire/">The Lost Empire</a></li>
 				<li class="has-image martial-law" onclick="location.href='/2022/03/20/martial-law/';"><a href="/2022/03/20/martial-law/">Martial Law (1990)</a></li>
 				<li class="has-image hellraiser-hellworld" onclick="location.href='/2021/10/28/hellraiser-hellworld/';"><a href="/2021/10/28/hellraiser-hellworld/">Hellraiser VIII: Hellworld</a></li>

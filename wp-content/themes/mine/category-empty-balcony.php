@@ -777,6 +777,7 @@ get_header(); ?>
 				<li><a href="/2018/10/31/monsters/">Monsters</a></li>
 				<li class="reco"><a href="/2009/07/27/holy-grail/">Monty Python and the Holy Grail</a></li>
 				<li class="shitty"><a href="/2021/10/28/motel-hell/">Motel Hell</a></li>
+				<li class="shitty"><a href="/2023/10/16/mountaintop-motel-massacre/">Mountaintop Motel Massacre</a></li>
 				<li><a href="/2018/03/25/mr-majestyk/">Mr. Majestyk</a></li>
 				<li><a href="/2017/10/01/the-mummy/">Mummy, The</a> <span>(1959)</span></li>
 				<li><a href="/2017/10/13/mummys-shroud/">Mummy's Shroud, The</a></li>
