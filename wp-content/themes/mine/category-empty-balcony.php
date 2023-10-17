@@ -741,6 +741,7 @@ get_header(); ?>
 			<h5 id="mm">M</h5>
 			<ul>
 				<li class="shitty"><a href="/2019/04/28/mach-2/">Mach 2</a></li>
+				<li><a href="/2023/10/15/madhouse/">Madhouse</a></li>
 				<li class="shitty"><a href="/2020/02/23/hitlers-brain/">Madmen of Mandoras, aka They Saved Hitler’s Brain</a></li>
 				<li><a href="/2023/10/14/cannibal-ferox/">Make Them Die Slowly, aka Cannibal Ferox</a></li>
 				<li class="shitty"><a href="/2021/10/03/fangs-of-the-living-dead/">Malenka, aka Fangs of the Living Dead</a></li>
@@ -1080,6 +1081,7 @@ get_header(); ?>
 				<li><a href="/2017/10/14/them-2006/">Them</a> <span>(2006)</span></li>
 				<li><a href="/2018/10/03/them/">Them!</a></li>
 				<li class="shitty"><a href="/2008/10/27/theodore-rex/">Theodore Rex</a></li>
+				<li><a href="/2023/10/15/madhouse/">There Was a Little Girl, aka Madhouse</a></li>
 				<li><a href="/2021/10/29/theres-someone-inside-your-house/">There’s Someone Inside Your House</a></li>
 				<li class="shitty"><a href="/2020/10/01/invasion-from-inner-earth/">They, aka Invasion from Inner Earth</a></li>
 				<li class="shitty"><a href="/2008/09/23/they-live/">They Live</a></li>
