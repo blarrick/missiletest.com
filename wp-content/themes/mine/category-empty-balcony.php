@@ -703,6 +703,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/10/24/fury-of-the-wolfman/">La furia del Hombre Lobo, aka Fury of the Wolfman</a></li>
 				<li><a href="/2021/10/19/night-eats-world/">La nuit a dévoré le monde, aka The Night Eats the World</a></li>
 				<li><a href="/2009/10/27/land-dead/">Land of the Dead</a></li>
+				<li><a href="/2023/10/15/lake-2022/">Lake, The</a> <span>(2022, Thailand)</span></li>
 				<li><a href="/2016/10/18/lake-placid/">Lake Placid</a></li>
 				<li class="shitty"><a href="/2020/11/08/las-vegas-lady/">Las Vegas Lady</a></li>
 				<li><a href="/2014/05/15/last-action-hero/">Last Action Hero</a></li>
