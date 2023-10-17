@@ -136,6 +136,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/02/18/cosmos/">Anno zero - Guerra nello spazio, aka Cosmos: War of the Planets</a></li>
 				<li class="shitty"><a href="/2023/10/05/anthropophagus/">Anthropophagus</a></li>
 				<li><a href="/2013/10/28/apartment-143/">Apartment 143</a></li>
+				<li><a href="/2023/10/17/cannibal-apocalypse/">Apocalypse domani, aka Cannibal Apocalypse</a></li>
 				<li class="reco"><a href="/2009/04/22/apocalypse-now/">Apocalypse Now</a></li>
 				<li class="shitty"><a href="/2020/04/05/armed-response-2017/">Armed Response</a> <span>(2017)</span></li>
 				<li class="shitty"><a href="/2021/10/11/army-of-the-dead/">Army of the Dead</a></li>
@@ -244,6 +245,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/12/02/caged-heat/">Caged Heat</a></li>
 				<li><a href="/2015/10/15/canal/">Canal, The</a></li>
 				<li class="shitty"><a href="/2021/10/07/nightmare-inn/">Candle for the Devil, A, aka It Happened at Nightmare Inn</a></li>
+				<li><a href="/2023/10/17/cannibal-apocalypse/">Cannibal Apocalypse</a></li>
 				<li><a href="/2023/10/14/cannibal-ferox/">Cannibal Ferox</a></li>
 				<li><a href="/2023/10/13/cannibal-holocaust/">Cannibal Holocaust</a></li>
 				<li><a href="/2017/10/28/night-creatures/">Captain Clegg, aka Night Creatures</a></li>
