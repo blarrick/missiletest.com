@@ -613,6 +613,7 @@ get_header(); ?>
 			<ul>
 				<li class="shitty"><a href="/2009/01/09/i-am-legend/">I Am Legend</a></li>
 				<li><a href="/2017/10/07/pretty-thing/">I Am the Pretty Thing That Lives in the House</a></li>
+				<li><a href="/2023/10/16/torso/">I corpi presentano tracce di violenza carnale, aka Torso</a></li>
 				<li class="shitty"><a href="/2017/06/18/new-gladiators/">I guerrieri dell'anno 2072, aka The New Gladiators</a></li>
 				<li class="shitty"><a href="/2017/07/09/raiders-of-atlantis/">I predatori di Atlantide, aka The Raiders of Atlantis</a></li>
 				<li><a href="/2013/10/29/sell-the-dead/">I Sell the Dead</a></li>
@@ -1103,6 +1104,7 @@ get_header(); ?>
 				<li><a href="/2018/04/09/the-titan/">Titan, The</a></li>
 				<li class="shitty"><a href="/2015/10/19/toolbox-murders/">Toolbox Murders, The</a></li>
 				<li><a href="/2020/06/03/top-gun/">Top Gun</a></li>
+				<li><a href="/2023/10/16/torso/">Torso</a></li>
 				<li class="reco"><a href="/2014/05/12/total-recall/">Total Recall</a> <span>(1990)</span></li>
 				<li><a href="/2013/03/08/total-recall-2012/">Total Recall</a> <span>(2012)</span></li>
 				<li><a href="/2015/10/05/town-that-dreaded-sundown-2014/">Town That Dreaded Sundown, The</a> <span>(2014)</span></li>
