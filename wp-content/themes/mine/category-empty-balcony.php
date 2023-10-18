@@ -670,6 +670,7 @@ get_header(); ?>
 				<li><a href="/2014/05/19/jingle/">Jingle All the Way</a></li>
 				<li class="shitty"><a href="/2021/06/13/the-job-2003/">Job, The</a> <span>(2003)</span></li>
 				<li><a href="/2017/08/19/judge-dredd/">Judge Dredd</a></li>
+				<li><a href="/2023/10/18/jungle-holocaust/">Jungle Holocaust</a></li>
 				<li><a href="/2014/05/17/junior/">Junior</a></li>
 				<li><a href="/2011/04/03/13-assassins/">Jusan-nin no shikaku, aka 13 Assassins</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
@@ -711,6 +712,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/11/08/las-vegas-lady/">Las Vegas Lady</a></li>
 				<li><a href="/2014/05/15/last-action-hero/">Last Action Hero</a></li>
 				<li><a href="/2022/06/05/last-boy-scout/">Last Boy Scout, The</a></li>
+				<li><a href="/2023/10/18/jungle-holocaust/">Last Cannibal World, aka Jungle Holocaust</a></li>
 				<li class="shitty"><a href="/2013/10/08/last-exorcism-ii/">Last Exorcism Part II, The</a></li>
 				<li><a href="/2009/01/09/i-am-legend/">Last Man on Earth, The</a></li>
 				<li class="shitty"><a href="/2020/09/27/empire-of-ash-iii/">Last of the Warriors, aka Empire of Ash III</a></li>
@@ -1137,6 +1139,7 @@ get_header(); ?>
 			<h5 id="uu">U</h5>
 			<ul>
 				<li><a href="/2018/12/16/alien-uprising/">U.F.O, aka Alien Uprising</a></li>
+				<li><a href="/2023/10/18/jungle-holocaust/">Ultimo mondo cannibale, aka Jungle Holocaust</a></li>
 				<li><a href="/2018/11/11/undisputed/">Undisputed</a></li>
 				<li><a href="/2014/10/20/bloody-mary/">Urban Legends: Bloody Mary</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
