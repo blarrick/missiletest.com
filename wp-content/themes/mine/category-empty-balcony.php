@@ -1020,6 +1020,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/10/28/slaughterhouse/">Slaughterhouse</a></li>
 				<li class="shitty"><a href="/2022/10/15/sledgehammer/">Sledgehammer</a></li>
 				<li class="shitty"><a href="/2014/10/29/sleepaway-camp/">Sleepaway Camp</a></li>
+				<li class="shitty"><a href="/2023/10/17/slime-city-massacre/">Slime City Massacre</a></li>
 				<li class="shitty"><a href="/2023/04/02/slipstream/">Slipstream</a></li>
 				<li><a href="/2010/10/05/slither/">Slither</a></li>
 				<li class="shitty"><a href="/2019/10/25/slugs/">Slugs</a></li>
