@@ -187,6 +187,7 @@ get_header(); ?>
 				<li><a href="/2019/10/28/belzebuth/">Belzebuth</a></li>
 				<li class="shitty"><a href="/2018/07/22/best-friends/">Best Friends</a></li>
 				<li><a href="/2022/10/18/the-beyond/">Beyond, The</a></li>
+				<li><a href="/2023/10/19/beyond-the-darkness/">Beyond the Darkness</a></li>
 				<li><a href="/2018/10/22/shock/">Beyond the Door II, aka Shock</a></li>
 				<li class="shitty"><a href="/2017/07/02/beyond-the-poseidon-adventure/">Beyond the Poseidon Adventure</a></li>
 				<li class="shitty"><a href="/2021/02/28/beyond-the-trek/">Beyond the Trek</a></li>
@@ -233,6 +234,7 @@ get_header(); ?>
 				<li><a href="/2017/10/06/the-brides-of-dracula/">Brides of Dracula, The</a></li>
 				<li class="shitty"><a href="/2017/01/29/the-bronx-executioner-or-frankensteins-movie/">Bronx Executioner, The</a></li>
 				<li class="shitty"><a href="/2016/10/17/bug-1975/">Bug</a> <span>(1975)</span></li>
+				<li><a href="/2023/10/19/beyond-the-darkness/">Buio Omega, aka Beyond the Darkness</a></li>
 				<li><a href="/2017/08/29/bullet-to-the-head/">Bullet to the Head</a></li>
 				<li class="shitty"><a href="/2019/05/12/bunker-project-12/">Bunker: Project 12</a></li>
 				<li class="shitty"><a href="/2017/10/06/burial-ground/">Burial Ground</a></li>
