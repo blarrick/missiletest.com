@@ -467,6 +467,7 @@ get_header(); ?>
 				<li class="has-image screaming-skull" onclick="location.href='/2019/10/22/screaming-skull/';"><a href="/2019/10/22/screaming-skull/">The Screaming Skull</a></li>
 				<li class="has-image nightmare-inn" onclick="location.href='/2021/10/07/nightmare-inn/';"><a href="/2021/10/07/nightmare-inn/">It Happened at Nightmare Inn</a></li>
 				<li class="has-image helga" onclick="location.href='/2022/01/30/helga/';"><a href="/2022/01/30/helga/">Helga, She-Wolf of Stilberg</a></li>
+				<li class="has-image rana" onclick="location.href='/2023/10/18/rana/';"><a href="/2023/10/18/rana/">Rana: The Legend of Shadow Lake</a></li>
 				<li class="has-image night-ripper" onclick="location.href='/2022/10/21/night-ripper/';"><a href="/2022/10/21/night-ripper/">Night Ripper!</a></li>
 				<li class="has-image last-exorcism-2" onclick="location.href='/2013/10/08/last-exorcism-ii/';"><a href="/2013/10/08/last-exorcism-ii/">The Last Exorcism part II</a></li>
 				<li class="has-image blood-lake-1987" onclick="location.href='/2022/10/11/blood-lake-1987/';"><a href="/2022/10/11/blood-lake-1987/">Blood Lake (1987)</a></li>

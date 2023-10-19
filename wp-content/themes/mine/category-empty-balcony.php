@@ -313,6 +313,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/10/21/critters-2/">Critters 2</a></li>
 				<li class="shitty"><a href="/2021/10/22/critters-3/">Critters 3</a></li>
 				<li class="shitty"><a href="/2021/10/23/critters-4/">Critters 4</a></li>
+				<li class="shitty"><a href="/2023/10/18/rana/">Croaked: Frog Monster from Hell, aka Rana: The Legend of Shadow Lake</a></li>
 				<li><a href="/2010/09/16/cross-of-iron/">Cross of Iron</a></li>
 				<li><a href="/2020/10/05/crucible-of-horror/">Crucible of Horror</a></li>
 				<li><a href="/2018/10/27/the-cured/">Cured, The</a></li>
@@ -919,6 +920,7 @@ get_header(); ?>
 				<li><a href="/2017/08/26/rambo/">Rambo</a></li>
 				<li class="shitty"><a href="/2017/08/08/rambo-2/">Rambo: First Blood Part II</a></li>
 				<li><a href="/2017/08/12/rambo-iii/">Rambo III</a></li>
+				<li class="shitty"><a href="/2023/10/18/rana/">Rana: The Legend of Shadow Lake</a></li>
 				<li class="shitty"><a href="/2019/10/17/rats-night-of-terror/">Rats: Night of Terror</a></li>
 				<li><a href="/2017/10/08/raw/">Raw</a></li>
 				<li class="shitty"><a href="/2014/05/08/raw-deal/">Raw Deal</a></li>
