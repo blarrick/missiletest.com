@@ -352,6 +352,7 @@ get_header(); ?>
 				<li class="has-image ticks" onclick="location.href='/2019/10/03/ticks/';"><a href="/2019/10/03/ticks/">Ticks</a></li>
 				<li class="has-image trancers-ii" onclick="location.href='/2011/03/26/trancers-ii/';"><a href="/2011/03/26/trancers-ii/">Trancers II</a></li>
 				<li class="has-image slugs" onclick="location.href='/2019/10/25/slugs/';"><a href="/2019/10/25/slugs/">Slugs</a></li>
+				<li class="has-image patriot-1986" onclick="location.href='/2022/08/14/patriot-1986/';"><a href="/2022/08/14/patriot-1986/">The Patriot (1986)</a></li>
 				<li class="has-image bad-ass" onclick="location.href='/2017/05/28/bad-ass/';"><a href="/2017/05/28/bad-ass/">Bad Ass</a></li>
 				<li class="has-image zombeavers" onclick="location.href='/2015/10/10/zombeavers/';"><a href="/2015/10/10/zombeavers/">Zombeavers</a></li>
 				<li class="has-image trip-teacher" onclick="location.href='/2020/04/26/trip-with-the-teacher/';"><a href="/2020/04/26/trip-with-the-teacher/">Trip with the Teacher</a></li>

@@ -857,6 +857,7 @@ get_header(); ?>
 				<li><a href="/2013/10/08/paranormal-activity-3/">Paranormal Activity 3</a></li>
 				<li class="shitty"><a href="/2019/10/10/paranormal-investigation/">Paranormal Investigation</a></li>
 				<li class="shitty"><a href="/2020/10/14/inmate-zero/">Patients of a Saint, aka Inmate Zero</a></li>
+				<li class="shitty"><a href="/2022/08/14/patriot-1986/">Patriot, The</a> <span>(1986)</span></li>
 				<li class="reco"><a href="/2008/03/27/patton/">Patton</a></li>
 				<li class="shitty"><a href="/2018/10/02/city-of-the-living-dead/">Paura nella città dei morti viventi, aka City of the Living Dead</a></li>
 				<li><a href="/2013/10/25/people-under-stairs/">People Under the Stairs, The</a></li>
