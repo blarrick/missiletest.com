@@ -323,6 +323,7 @@ get_header(); ?>
 				<li class="has-image scared-to-death-1980" onclick="location.href='/2023/10/21/scared-to-death-1980/';"><a href="/2023/10/21/scared-to-death-1980/">Scared to Death (1980)</a></li>
 				<li class="has-image indian-paint" onclick="location.href='/2021/07/11/indian-paint/';"><a href="/2021/07/11/indian-paint/">Indian Paint</a></li>
 				<li class="has-image horror-rises-tomb" onclick="location.href='/2020/10/07/horror-rises-from-the-tomb/';"><a href="/2020/10/07/horror-rises-from-the-tomb/">Horror Rises from the Tomb</a></li>
+				<li class="has-image eaten-alive-1980" onclick="location.href='/2023/10/22/eaten-alive-1980/';"><a href="/2023/10/22/eaten-alive-1980/">Eaten Alive! (1980)</a></li>
 				<li class="has-image silencer-1992" onclick="location.href='/2022/11/06/silencer-1992/';"><a href="/2022/11/06/silencer-1992/">The Silencer (1992)</a></li>
 				<li class="has-image abraxas" onclick="location.href='/2023/03/05/abraxas/';"><a href="/2023/03/05/abraxas/">Abraxas, Guardian of the Universe</a></li>
 				<li class="has-image night-of-the-beast" onclick="location.href='/2023/10/01/night-of-the-beast/';"><a href="/2023/10/01/night-of-the-beast/">Night of the Beast</a></li>

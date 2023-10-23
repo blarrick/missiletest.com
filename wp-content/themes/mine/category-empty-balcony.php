@@ -392,6 +392,7 @@ get_header(); ?>
 				<li><a href="/2013/10/09/afraid-of-dark/">Don’t Be Afraid of the Dark</a> <span>(2010)</span></li>
 				<li class="shitty"><a href="/2008/06/06/doom/">Doom</a></li>
 				<li class="shitty"><a href="/2021/08/22/doom-annihilation/">Doom: Annihilation</a></li>
+				<li class="shitty"><a href="/2023/10/22/eaten-alive-1980/">Doomed to Die, aka Eaten Alive!</a></li>
 				<li class="shitty"><a href="/2020/02/09/double-exposure/">Double Exposure</a></li>
 				<li class="shitty"><a href="/2022/01/09/down-n-dirty/">Down ’n Dirty</a></li>
 				<li><a href="/2017/10/03/dracula-1958/">Dracula</a> <span>(1958)</span></li>
@@ -414,6 +415,7 @@ get_header(); ?>
 				<li><a href="/2019/10/15/earth-vs-the-flying-saucers/">Earth vs. the Flying Saucers</a></li>
 				<li class="shitty"><a href="/2018/10/15/earth-vs-the-spider/">Earth vs. the Spider</a></li>
 				<li><a href="/2017/10/04/eaten-alive">Eaten Alive</a> <span>(1976)</span></li>
+				<li class="shitty"><a href="/2023/10/22/eaten-alive-1980/">Eaten Alive!</a> <span>(1980)</span></li>
 				<li><a href="/2023/10/21/bay-of-blood/">Ecologia del delitto, aka A Bay of Blood</a></li>
 				<li><a href="/2016/10/25/eight-legged-freaks/">Eight Legged Freaks</a></li>
 				<li><a href="/2019/10/26/eli/">Eli</a></li>
@@ -766,6 +768,7 @@ get_header(); ?>
 				<li><a href="/2017/10/22/man-who-could-cheat-death/">Man Who Could Cheat Death, The</a></li>
 				<li class="reco"><a href="/2020/10/04/mandy/">Mandy</a></li>
 				<li><a href="/2017/10/18/maniac/">Maniac</a> <span>(1980)</span></li>
+				<li class="shitty"><a href="/2023/10/22/eaten-alive-1980/">Mangiati vivi!, aka Eaten Alive!</a></li>
 				<li><a href="/2023/10/01/manhattan-baby/">Manhattan Baby</a></li>
 				<li class="shitty"><a href="/2017/10/21/maniac-cop/">Maniac Cop</a></li>
 				<li class="shitty"><a href="/2010/10/12/maniac-cop-2/">Maniac Cop 2</a></li>
