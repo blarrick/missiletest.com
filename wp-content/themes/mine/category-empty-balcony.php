@@ -756,6 +756,7 @@ get_header(); ?>
 			</ul>
 			<h5 id="mm">M</h5>
 			<ul>
+				<li><a href="/2023/10/23/wax-mask/">M.D.C. – Maschera di cera, The Wax Mask</a></li>
 				<li class="shitty"><a href="/2019/04/28/mach-2/">Mach 2</a></li>
 				<li><a href="/2023/10/15/madhouse/">Madhouse</a></li>
 				<li class="shitty"><a href="/2020/02/23/hitlers-brain/">Madmen of Mandoras, aka They Saved Hitler’s Brain</a></li>
@@ -1193,6 +1194,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2015/10/09/war-of-the-worlds-1953/">War of the Worlds, The</a></li>
 				<li class="shitty"><a href="/2020/05/03/battletruck/">Warlords of the Twenty-First Century, aka Battletruck</a></li>
 				<li class="shitty"><a href="/2017/06/18/new-gladiators/">Warriors of the Year 2072, aka The New Gladiators</a></li>
+				<li><a href="/2023/10/23/wax-mask/">Wax Mask, The</a></li>
 				<li><a href="/2020/10/03/waxwork/">Waxwork</a></li>
 				<li><a href="/2015/10/29/we-are-still-here/">We Are Still Here</a></li>
 				<li class="shitty"><a href="/2020/10/11/werewolf-of-washington/">Werewolf of Washington, The</a></li>
