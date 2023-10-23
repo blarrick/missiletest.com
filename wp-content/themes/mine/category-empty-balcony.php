@@ -1002,6 +1002,7 @@ get_header(); ?>
 				<li><a href="/2015/10/13/saw-ii/">Saw II</a></li>
 				<li><a href="/2015/10/14/saw-iii/">Saw III</a></li>
 				<li class="shitty"><a href="/2021/10/12/scared-to-death-1947/">Scared to Death</a> <span>(1947)</span></li>
+				<li class="shitty"><a href="/2023/10/21/scared-to-death-1980/">Scared to Death</a> <span>(1980)</span></li>
 				<li><a href="/2017/10/23/scars-of-dracula/">Scars of Dracula</a></li>
 				<li class="shitty"><a href="/2021/02/14/sci-fighter-aka-x-treme-fighter/">Sci-Fighter</a></li>
 				<li class="shitty"><a href="/2022/10/19/screaming/">Screaming, The</a></li>
