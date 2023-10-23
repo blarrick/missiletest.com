@@ -310,6 +310,7 @@ get_header(); ?>
 				<li><a href="/2019/10/20/creep-2004/">Creep</a> <span>(2004)</span></li>
 				<li class="shitty"><a href="/2022/10/24/creeping-terror/">Creeping Terror, The</a></li>
 				<li><a href="/2017/10/02/quatermass-xperiment/">Creeping Unknown, The, aka The Quatermass Xperiment</a></li>
+				<li class="shitty"><a href="/2023/10/19/creepozoids/">Creepozoids</a></li>
 				<li class="reco"><a href="/2016/10/22/creepshow/">Creepshow</a></li>
 				<li class="shitty"><a href="/2013/10/23/critters/">Critters</a></li>
 				<li class="shitty"><a href="/2021/10/21/critters-2/">Critters 2</a></li>
