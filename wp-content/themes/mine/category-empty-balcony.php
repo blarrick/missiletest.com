@@ -175,6 +175,7 @@ get_header(); ?>
 				<li><a href="/2017/09/24/battle-royale/">Battle Royale</a></li>
 				<li class="shitty"><a href="/2012/09/02/battleship/">Battleship</a></li>
 				<li class="shitty"><a href="/2020/05/03/battletruck/">Battletruck</a></li>
+				<li><a href="/2023/10/21/bay-of-blood/">Bay of Blood, A</a></li>
 				<li><a href="/2018/10/02/20000-fathoms/">Beast from 20,000 Fathoms, The</a></li>
 				<li class="shitty"><a href="/2018/10/07/beast-of-hollow-mountain/">Beast of Hollow Mountain, The</a></li>
 				<li class="shitty"><a href="/2023/09/03/yucca-flats/">Beast of Yucca Flats, The</a></li>
@@ -413,6 +414,7 @@ get_header(); ?>
 				<li><a href="/2019/10/15/earth-vs-the-flying-saucers/">Earth vs. the Flying Saucers</a></li>
 				<li class="shitty"><a href="/2018/10/15/earth-vs-the-spider/">Earth vs. the Spider</a></li>
 				<li><a href="/2017/10/04/eaten-alive">Eaten Alive</a> <span>(1976)</span></li>
+				<li><a href="/2023/10/21/bay-of-blood/">Ecologia del delitto, aka A Bay of Blood</a></li>
 				<li><a href="/2016/10/25/eight-legged-freaks/">Eight Legged Freaks</a></li>
 				<li><a href="/2019/10/26/eli/">Eli</a></li>
 				<li class="shitty"><a href="/2017/09/17/womens-prison-massacre/">Emanuelle Escapes From Hell, aka Women's Prison Massacre</a></li>
@@ -1143,6 +1145,7 @@ get_header(); ?>
 				<li><a href="/2013/10/11/tunnel/">Tunnel, The</a></li>
 				<li class="shitty"><a href="/2019/06/30/turkey-shoot/">Turkey Shoot</a></li>
 				<li><a href="/2014/05/11/twins/">Twins</a></li>
+				<li><a href="/2023/10/21/bay-of-blood/">Twitch of the Death Nerve, aka A Bay of Blood</a></li>
 				<li><a href="/2017/10/19/two-faces-of-dr-jekyll/">Two Faces of Dr. Jekyll, The</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
