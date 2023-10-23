@@ -599,6 +599,7 @@ get_header(); ?>
 				<li><a href="/2017/10/03/dracula-1958/">Horror of Dracula, aka Dracula</a></li>
 				<li><a href="/2017/10/25/horror-of-frankenstein/">Horror of Frankenstein, The</a></li>
 				<li class="shitty"><a href="/2020/10/07/horror-rises-from-the-tomb/">Horror Rises from the Tomb</a></li>
+				<li class="shitty"><a href="/2023/10/20/inseminoid/">Horrorplanet, aka Inseminoid</a></li>
 				<li><a href="/2018/10/30/the-host/">Host, The</a> <span>(2006)</span></li>
 				<li><a href="/2020/10/04/host-2020/">Host</a> <span>(2020)</span></li>
 				<li class="shitty"><a href="/2018/04/15/hot-rod-girl/">Hot Rod Girl</a></li>
@@ -639,6 +640,7 @@ get_header(); ?>
 				<li><a href="/2018/10/24/inferno/">Inferno</a> <span>(1980)</span></li>
 				<li class="shitty"><a href="/2020/10/14/inmate-zero/">Inmate Zero</a></li>
 				<li><a href="/2015/10/26/the-innocents/">Innocents, The</a></li>
+				<li class="shitty"><a href="/2023/10/20/inseminoid/">Inseminoid</a></li>
 				<li><a href="/2013/10/17/insidious/">Insidious</a></li>
 				<li><a href="/2014/10/08/insidious-2/">Insidious: Chapter 2</a></li>
 				<li><a href="/2020/10/12/insidious-chapter-3/">Insidious: Chapter 3</a></li>

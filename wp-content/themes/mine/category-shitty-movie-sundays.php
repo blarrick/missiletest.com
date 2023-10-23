@@ -117,6 +117,7 @@ get_header(); ?>
 				<li class="has-image halloween-2-1981" onclick="location.href='/2010/10/31/halloween-2/';"><a href="/2010/10/31/halloween-2/">Halloween II (1981)</a></li>
 				<li class="has-image beastmaster" onclick="location.href='/2017/12/10/beastmaster/';"><a href="/2017/12/10/beastmaster/">The Beastmaster</a></li>
 				<li class="has-image killers-edge" onclick="location.href='/2018/03/18/the-killers-edge-aka-blood-money/';"><a href="/2018/03/18/the-killers-edge-aka-blood-money/">The Killers Edge</a></li>
+				<li class="has-image inseminoid" onclick="location.href='/2023/10/20/inseminoid/';"><a href="/2023/10/20/inseminoid/">Inseminoid</a></li>
 				<li class="has-image policewomen" onclick="location.href='/2020/08/16/policewomen/';"><a href="/2020/08/16/policewomen/">Policewomen</a></li>
 				<li class="has-image nemesis-1992" onclick="location.href='/2023/01/08/nemesis-1992/';"><a href="/2023/01/08/nemesis-1992/">Nemesis (1992)</a></li>
 				<li class="has-image damnation-alley" onclick="location.href='/2019/03/17/damnation-alley/';"><a href="/2019/03/17/damnation-alley/">Damnation Alley</a></li>
