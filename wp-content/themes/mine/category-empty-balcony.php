@@ -807,6 +807,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/10/25/night-crawlers-1996/">Night Crawlers</a> <span>(1996)</span></li>
 				<li><a href="/2017/10/28/night-creatures/">Night Creatures</a></li>
 				<li><a href="/2021/10/19/night-eats-world/">Night Eats the World, The</a></li>
+				<li class="shitty"><a href="/2023/10/20/night-killer/">Night Killer</a></li>
 				<li><a href="/2017/04/02/night-moves/">Night Moves</a></li>
 				<li class="shitty"><a href="/2023/10/01/night-of-the-beast/">Night of the Beast</a></li>
 				<li class="shitty"><a href="/2019/10/21/night-of-the-blood-beast/">Night of the Blood Beast</a></li>
@@ -828,6 +829,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/07/31/nine-deaths-of-the-ninja/">Nine Deaths of the Ninja</a></li>
 				<li class="shitty"><a href="/2016/11/27/no-escape/">No Escape</a></li>
 				<li class="shitty"><a href="/2020/08/02/no-escape-no-return/">No Escape No Return</a></li>
+				<li class="shitty"><a href="/2023/10/20/night-killer/">Non aprite quella porta 3, aka Night Killer</a></li>
 				<li class="shitty"><a href="/2023/10/12/massacre-in-dinosaur-valley/">Nudo e selvaggio, aka Massacre in Dinosaur Valley</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
