@@ -371,6 +371,7 @@ get_header(); ?>
 				<li><a href="/2023/10/04/deep-red/">Deep Red</a></li>
 				<li class="shitty"><a href="/2009/08/11/deep-rising/">Deep Rising</a></li>
 				<li class="shitty"><a href="/2013/10/21/deepstar-six/">DeepStar Six</a></li>
+				<li><a href="/2023/10/24/stagefright-1987/">Deliria, aka StageFright</a></li>
 				<li><a href="/2017/08/17/demolition-man/">Demolition Man</a></li>
 				<li class="shitty"><a href="/2021/12/26/demolitionist/">Demolitionist, The</a></li>
 				<li class="shitty"><a href="/2022/10/27/demon-queen/">Demon Queen</a></li>
@@ -1066,6 +1067,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/10/19/split-second/">Split Second</a></li>
 				<li class="shitty"><a href="/2020/10/02/squirm/">Squirm</a></li>
 				<li class="shitty"><a href="/2021/11/07/death-flight/">SST: Death Flight</a></li>
+				<li><a href="/2023/10/24/stagefright-1987/">StageFright</a> <span>(1987)</span></li>
 				<li><a href="/2014/10/05/stake-land/">Stake Land</a></li>
 				<li class="shitty"><a href="/2020/03/29/stanley/">Stanley</a></li>
 				<li class="shitty"><a href="/2008/12/16/starship-troopers-3/">Starship Troopers 3: Marauder</a></li>
