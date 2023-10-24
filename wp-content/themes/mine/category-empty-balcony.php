@@ -131,6 +131,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/06/27/the-amusement-park/">Amusement Park, The</a></li>
 				<li class="shitty"><a href="/2014/10/01/anaconda/">Anaconda</a></li>
 				<li class="shitty"><a href="/2020/10/03/anacondas/">Anacondas: Hunt for the Blood Orchid</a></li>
+				<li><a href="/2023/10/23/i-saw-the-devil/">Ang-ma-reul bo-at-da, aka I Saw the Devil</a></li>
 				<li class="shitty"><a href="/2021/02/07/angel-town/">Angel Town</a></li>
 				<li><a href="/2015/10/03/annabelle/">Annabelle</a></li>
 				<li class="shitty"><a href="/2018/02/18/cosmos/">Anno zero - Guerra nello spazio, aka Cosmos: War of the Planets</a></li>
@@ -627,6 +628,7 @@ get_header(); ?>
 				<li><a href="/2023/10/16/torso/">I corpi presentano tracce di violenza carnale, aka Torso</a></li>
 				<li class="shitty"><a href="/2017/06/18/new-gladiators/">I guerrieri dell'anno 2072, aka The New Gladiators</a></li>
 				<li class="shitty"><a href="/2017/07/09/raiders-of-atlantis/">I predatori di Atlantide, aka The Raiders of Atlantis</a></li>
+				<li><a href="/2023/10/23/i-saw-the-devil/">I Saw the Devil</a></li>
 				<li><a href="/2013/10/29/sell-the-dead/">I Sell the Dead</a></li>
 				<li class="shitty"><a href="/2012/10/13/spit-grave/">I Spit on Your Grave</a></li>
 				<li class="shitty"><a href="/2022/02/06/ice-twisters/">Ice Twisters</a></li>
