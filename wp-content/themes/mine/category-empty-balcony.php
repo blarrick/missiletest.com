@@ -1018,6 +1018,7 @@ get_header(); ?>
 				<li><a href="/2014/03/03/empty-balcony-awards/">Second Annual Empty Balcony Awards for Movies I Saw From Last Year, The</a></li>
 				<li class="shitty"><a href="/2021/10/17/seed-of-chucky/">Seed of Chucky</a></li>
 				<li class="reco"><a href="/2017/02/13/seven-days-in-may/">Seven Days in May</a></li>
+				<li><a href="/2023/10/24/severance-2006/">Severance</a> <span>(2006)</span></li>
 				<li class="shitty"><a href="/2018/10/30/suckling/">Sewage Baby, aka The Suckling</a></li>
 				<li class="shitty"><a href="/2022/10/26/shakma/">Shakma</a></li>
 				<li class="shitty"><a href="/2020/03/01/shanghai-fortress/">Shanghai Fortress</a></li>
