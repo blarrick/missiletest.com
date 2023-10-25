@@ -746,6 +746,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2012/10/17/leviathan/">Leviathan</a></li>
 				<li><a href="/2014/10/23/lifeforce/">Lifeforce</a></li>
 				<li class="reco"><a href="/2013/02/28/becket/">Lion in Winter, The</a></li>
+				<li><a href="/2023/10/25/lisa-and-the-devil/">Lisa and the Devil</a></li>
 				<li><a href="/2023/10/07/new-york-ripper/">Lo squartatore di New York, aka The New York Ripper</a></li>
 				<li><a href="/2017/08/13/lock-up/">Lock Up</a></li>
 				<li class="reco"><a href="/2009/03/30/logans-run/">Logan’s Run</a></li>
