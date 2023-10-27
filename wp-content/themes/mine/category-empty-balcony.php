@@ -100,6 +100,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2023/10/10/absurd/">Absurd</a></li>
 				<li class="shitty"><a href="/2014/01/08/act-of-valor/">Act of Valor</a></li>
 				<li><a href="/2011/07/08/adjustment-bureau/">Adjustment Bureau, The</a></li>
+				<li><a href="/2023/10/27/aenigma/">Aenigma</a></li>
 				<li class="shitty"><a href="/2023/10/06/baron-blood/">After Elizabeth Died, aka Baron Blood</a></li>
 				<li class="shitty"><a href="/2020/07/26/the-aftermath-1982/">Aftermath, The <span>(1982)</span></a></li>
 				<li class="shitty"><a href="/2023/05/28/agent-red/">Agent Red</a></li>
