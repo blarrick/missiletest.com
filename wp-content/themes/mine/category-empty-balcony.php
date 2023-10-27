@@ -368,6 +368,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/05/19/death-wish-2/">Death Wish II</a></li>
 				<li class="shitty"><a href="/2017/07/23/death-wish-4/">Death Wish 4: The Crackdown</a></li>
 				<li class="shitty"><a href="/2020/01/12/deathsport/">Deathsport</a></li>
+				<li class="shitty"><a href="/2023/10/26/deep-blood/">Deep Blood</a></li>
 				<li class="shitty"><a href="/2013/10/12/deep-blue-sea/">Deep Blue Sea</a></li>
 				<li><a href="/2023/10/04/deep-red/">Deep Red</a></li>
 				<li class="shitty"><a href="/2009/08/11/deep-rising/">Deep Rising</a></li>
@@ -1004,6 +1005,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/04/12/sadist/">Sadist, The</a></li>
 				<li class="shitty"><a href="/2019/06/02/samurai-cop/">Samurai Cop</a></li>
 				<li class="shitty"><a href="/2015/10/15/san-andreas/">San Andreas</a></li>
+				<li class="shitty"><a href="/2023/10/26/deep-blood/">Sangue negli abissi, aka Deep Blood</a></li>
 				<li><a href="/2020/10/08/alive/">#Saraitda, aka #Alive</a></li>
 				<li class="shitty"><a href="/2017/10/31/satanic-rites-of-dracula/">Satanic Rites of Dracula, The</a></li>
 				<li class="shitty"><a href="/2023/10/05/anthropophagus/">Savage Island, The, aka Anthropophagus</a></li>

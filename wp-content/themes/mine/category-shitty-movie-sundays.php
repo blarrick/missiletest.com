@@ -499,6 +499,7 @@ get_header(); ?>
 				<li class="has-image sniper-corpse" onclick="location.href='/2021/10/25/sniper-corpse/';"><a href="/2021/10/25/sniper-corpse/">Sniper Corpse</a></li>
 				<li class="has-image deadman-apocalypse" onclick="location.href='/2023/08/27/deadman-apocalypse/';"><a href="/2023/08/27/deadman-apocalypse/">Deadman Apocalypse</a></li>
 				<li class="has-image triassic-hunt" onclick="location.href='/2023/07/23/triassic-hunt/';"><a href="/2023/07/23/triassic-hunt/">Triassic Hunt</a></li>
+				<li class="has-image deep-blood" onclick="location.href='/2023/10/26/deep-blood/';"><a href="/2023/10/26/deep-blood/">Deep Blood</a></li>
 				<li class="has-image vampires-stereotypes" onclick="location.href='/2022/10/07/vampires-stereotypes/';"><a href="/2022/10/07/vampires-stereotypes/">Vampires and Other Stereotypes</a></li>
 				<li class="has-image night-crawlers-1996" onclick="location.href='/2022/10/25/night-crawlers-1996/';"><a href="/2022/10/25/night-crawlers-1996/">Night Crawlers (1996)</a></li>
 				<li class="has-image hellspawn" onclick="location.href='/2023/10/04/hellspawn/';"><a href="/2023/10/04/hellspawn/">Hellspawn</a></li>
