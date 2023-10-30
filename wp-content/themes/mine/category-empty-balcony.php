@@ -224,6 +224,7 @@ get_header(); ?>
 				<li><a href="/2014/10/30/blood-glacier/">Blutgletscher, aka Blood Glacier</a></li>
 				<li class="shitty"><a href="/2022/10/04/boa/">Boa</a></li>
 				<li><a href="/2020/10/16/boar/">Boar</a></li>
+				<li><a href="/2023/10/28/body-count-1986/">Body Count</a> <span>(1986)</span></li>
 				<li class="shitty"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
 				<li><a href="/2013/11/26/boondock-saints/">Boondock Saints, The</a></li>
 				<li><a href="/2021/10/15/bornless-ones/">Bornless Ones</a></li>
@@ -250,6 +251,7 @@ get_header(); ?>
 			<h5 id="cc">C</h5>
 			<ul>
 				<li class="shitty"><a href="/2018/12/02/caged-heat/">Caged Heat</a></li>
+				<li><a href="/2023/10/28/body-count-1986/">Camping del terrore, aka Body Count</a></li>
 				<li><a href="/2015/10/15/canal/">Canal, The</a></li>
 				<li class="shitty"><a href="/2021/10/07/nightmare-inn/">Candle for the Devil, A, aka It Happened at Nightmare Inn</a></li>
 				<li><a href="/2023/10/17/cannibal-apocalypse/">Cannibal Apocalypse</a></li>
