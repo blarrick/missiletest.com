@@ -395,6 +395,7 @@ get_header(); ?>
 				<li><a href="/2010/10/29/diary-of-the-dead/">Diary of the Dead</a></li>
 				<li class="reco"><a href="/2012/09/06/dirty-harry/">Dirty Harry</a></li>
 				<li class="shitty"><a href="/2014/12/22/disaster-on-the-coastliner/">Disaster on the Coastliner</a></li>
+				<li class="shitty"><a href="/2023/10/30/metamorphosis/">DNA formula letale, aka Metamorphosis</a></li>
 				<li><a href="/2016/10/23/dog-soldiers/">Dog Soldiers</a></li>
 				<li class="shitty"><a href="/2014/03/16/doggie-b/">Doggie B</a></li>
 				<li><a href="/2013/10/09/afraid-of-dark/">Don’t Be Afraid of the Dark</a> <span>(2010)</span></li>
@@ -795,6 +796,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2009/10/24/maximum-overdrive/">Maximum Overdrive</a></li>
 				<li class="shitty"><a href="/2017/03/26/mazes-and-monsters/">Mazes and Monsters</a></li>
 				<li><a href="/2018/08/19/the-meg/">Meg, The</a></li>
+				<li class="shitty"><a href="/2023/10/30/metamorphosis/">Metamorphosis</a> <span>(1990)</span></li>
 				<li class="shitty"><a href="/2018/04/29/meteor/">Meteor</a></li>
 				<li class="shitty"><a href="/2023/10/22/mindkiller/">Mindkiller</a></li>
 				<li class="reco"><a href="/2011/04/25/mona-lisa/">Mona Lisa</a></li>
@@ -960,6 +962,7 @@ get_header(); ?>
 				<li><a href="/2014/05/10/red-heat/">Red Heat</a></li>
 				<li class="shitty"><a href="/2014/05/06/red-sonja/">Red Sonja</a></li>
 				<li class="shitty"><a href="/2022/10/31/redneck-zombies/">Redneck Zombies</a></li>
+				<li class="shitty"><a href="/2023/10/30/metamorphosis/">Regenerator, aka Metamorphosis</a></li>
 				<li class="shitty"><a href="/2011/08/05/reign-of-fire/">Reign of Fire</a></li>
 				<li><a href="/2015/10/28/the-relic/">Relic, The</a></li>
 				<li><a href="/2019/05/26/renegades/">Renegades</a></li>

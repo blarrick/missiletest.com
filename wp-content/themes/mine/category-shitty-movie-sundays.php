@@ -422,6 +422,7 @@ get_header(); ?>
 				<li class="has-image paradise-alley" onclick="location.href='/2017/08/02/paradise-alley/';"><a href="/2017/08/02/paradise-alley/">Paradise Alley</a></li>
 				<li class="has-image texas-blood" onclick="location.href='/2011/10/04/dusk-till-dawn-2/';"><a href="/2011/10/04/dusk-till-dawn-2/">From Dusk Till Dawn 2: Texas Blood Money</a></li>
 				<li class="has-image thirsty-dead" onclick="location.href='/2020/03/08/thirsty-dead/';"><a href="/2020/03/08/thirsty-dead/">The Thirsty Dead</a></li>
+				<li class="has-image metamorphosis-1990" onclick="location.href='/2023/10/30/metamorphosis/';"><a href="/2023/10/30/metamorphosis/">Metamorphosis (1990)</a></li>
 				<li class="has-image fortress" onclick="location.href='/2022/04/17/fortress-2021/';"><a href="/2022/04/17/fortress-2021/">Fortress (2021)</a></li>
 				<li class="has-image armed-response-2017" onclick="location.href='/2020/04/05/armed-response-2017/';"><a href="/2020/04/05/armed-response-2017/">Armed Response</a></li>
 				<li class="has-image movie-2307" onclick="location.href='/2020/11/15/2307-winters-dream/';"><a href="/2020/11/15/2307-winters-dream/">2307: Winter’s Dream</a></li>
