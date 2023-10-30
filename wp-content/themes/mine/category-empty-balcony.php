@@ -237,6 +237,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/10/03/bride-gorilla/">Bride of the Gorilla</a></li>
 				<li><a href="/2017/10/06/the-brides-of-dracula/">Brides of Dracula, The</a></li>
 				<li class="shitty"><a href="/2017/01/29/the-bronx-executioner-or-frankensteins-movie/">Bronx Executioner, The</a></li>
+				<li class="reco"><a href="/2023/10/27/bucket-of-blood/">Bucket of Blood, A</a></li>
 				<li class="shitty"><a href="/2016/10/17/bug-1975/">Bug</a> <span>(1975)</span></li>
 				<li><a href="/2023/10/19/beyond-the-darkness/">Buio Omega, aka Beyond the Darkness</a></li>
 				<li><a href="/2017/08/29/bullet-to-the-head/">Bullet to the Head</a></li>
