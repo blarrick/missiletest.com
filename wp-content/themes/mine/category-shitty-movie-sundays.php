@@ -275,6 +275,7 @@ get_header(); ?>
 				<li class="has-image blood-mania" onclick="location.href='/2020/03/22/blood-mania/';"><a href="/2020/03/22/blood-mania/">Blood Mania</a></li>
 				<li class="has-image it-conquered" onclick="location.href='/2019/10/16/it-conquered-the-world/';"><a href="/2019/10/16/it-conquered-the-world/">It Conquered the World</a></li>
 				<li class="has-image exterminators-3000" onclick="location.href='/2023/02/26/exterminators-year-3000/';"><a href="/2023/02/26/exterminators-year-3000/">The Exterminators of the Year 3000</a></li>
+				<li class="has-image witchery" onclick="location.href='/2023/10/29/witchery/';"><a href="/2023/10/29/witchery/">Witchery</a></li>
 				<li class="has-image cyborg-x" onclick="location.href='/2019/01/13/cyborg-x/';"><a href="/2019/01/13/cyborg-x/">Cyborg X</a></li>
 				<li class="has-image malenka" onclick="location.href='/2021/10/03/fangs-of-the-living-dead/';"><a href="/2021/10/03/fangs-of-the-living-dead/">Fangs of the Living Dead</a></li>
 				<li class="has-image hellraiser-4" onclick="location.href='/2021/10/24/hellraiser-bloodline/';"><a href="/2021/10/24/hellraiser-bloodline/">Hellraiser IV: Bloodline</a></li>

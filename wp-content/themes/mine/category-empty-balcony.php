@@ -719,6 +719,7 @@ get_header(); ?>
 			</ul>
 			<h5 id="ll">L</h5>
 			<ul>
+				<li class="shitty"><a href="/2023/10/29/witchery/">La Casa 4 – Witchcraft, aka Witchery</a></li>
 				<li><a href="/2023/10/09/church/">La Chiesa, aka The Church</a></li>
 				<li class="shitty"><a href="/2018/06/25/la-crackdown/">LA Crackdown</a></li>
 				<li><a href="/2018/02/25/10th-victim/">La decima vittima, aka The 10th Victim</a></li>
@@ -1222,6 +1223,7 @@ get_header(); ?>
 				<li><a href="/2021/10/23/willys-wonderland/">Willy’s Wonderland</a></li>
 				<li><a href="/2018/02/11/wind-river/">Wind River</a></li>
 				<li class="reco"><a href="/2016/10/20/witch/">Witch, The</a></li>
+				<li class="shitty"><a href="/2023/10/29/witchery/">Witchery</a></li>
 				<li class="shitty"><a href="/2017/09/17/womens-prison-massacre/">Women's Prison Massacre</a></li>
 				<li><a href="/2013/10/20/world-war-z/">World War Z</a></li>
 				<li class="shitty"><a href="/2022/07/03/wraith/">Wraith, The</a></li>
