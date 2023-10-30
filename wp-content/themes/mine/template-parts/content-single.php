@@ -56,6 +56,12 @@
 					$tags_list
 				);
 			}
+			
+			$people_list = get_the_term_list( $post->ID, 'people', '<div>People: </div>', ', ', '' );
+			if ($people_list) {
+				echo $people_list;
+			}
+
 		?>
 		
 	</div><!-- .entry-content -->
