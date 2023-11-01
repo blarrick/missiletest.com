@@ -877,6 +877,7 @@ get_header(); ?>
 			</ul>
 			<h5 id="pp">P</h5>
 			<ul>
+				<li class="shitty"><a href="/2023/10/31/paganini-horror/">Paganini Horror</a></li>
 				<li class="shitty"><a href="/2023/10/11/panic/">Panic</a></li>
 				<li class="shitty"><a href="/2017/08/02/paradise-alley/">Paradise Alley</a></li>
 				<li><a href="/2013/10/08/paranormal-activity-3/">Paranormal Activity 3</a></li>
