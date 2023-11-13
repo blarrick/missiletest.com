@@ -1067,6 +1067,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2009/08/30/soldier/">Soldier</a></li>
 				<li><a href="/2011/07/21/source-code/">Source Code</a></li>
 				<li class="reco"><a href="/2009/03/02/soylent-green/">Soylent Green</a></li>
+				<li class="shitty"><a href="/2023/11/12/space-fighter/">Space-Fighter, The</a></li>
 				<li class="shitty"><a href="/2022/02/13/assignment-outer-space/">Space Men, aka Assignment: Outer Space</a></li>
 				<li class="shitty"><a href="/2023/07/09/space-mutiny/">Space Mutiny</a></li>
 				<li class="shitty"><a href="/2009/09/08/spacehunter/">Spacehunter: Adventures in the Forbidden Zone</a></li>

@@ -471,6 +471,7 @@ get_header(); ?>
 				<li class="has-image asylum-1972" onclick="location.href='/2011/10/07/asylum-1972/';"><a href="/2011/10/07/asylum-1972/">Asylum (1972)</a></li>
 				<li class="has-image hot-rod-girl" onclick="location.href='/2018/04/15/hot-rod-girl/';"><a href="/2018/04/15/hot-rod-girl/">Hot Rod Girl</a></li>
 				<li class="has-image giant-spider" onclick="location.href='/2018/10/24/the-giant-spider-invasion/';"><a href="/2018/10/24/the-giant-spider-invasion/">The Giant Spider Invasion</a></li>
+				<li class="has-image space-fighter" onclick="location.href='/2023/11/12/space-fighter/';"><a href="/2023/11/12/space-fighter/">The Space-Fighter</a></li>
 				<li class="has-image panic" onclick="location.href='/2023/10/11/panic/';"><a href="/2023/10/11/panic/">Panic</a></li>
 				<li class="has-image attack-force" onclick="location.href='/2021/07/25/attack-force/';"><a href="/2021/07/25/attack-force/">Attack Force</a></li>
 				<li class="has-image job-2003" onclick="location.href='/2021/06/13/the-job-2003/';"><a href="/2021/06/13/the-job-2003/">The Job (2003)</a></li>
