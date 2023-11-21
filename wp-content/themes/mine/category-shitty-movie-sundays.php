@@ -155,6 +155,7 @@ get_header(); ?>
 				<li class="has-image killing-spree" onclick="location.href='/2022/10/01/killing-spree/';"><a href="/2022/10/01/killing-spree/">Killing Spree</a></li>
 				<li class="has-image impulse-1974" onclick="location.href='/2019/10/23/impulse-1974/';"><a href="/2019/10/23/impulse-1974/">Impulse (1974)</a></li>
 				<li class="has-image battle-lost-planet" onclick="location.href='/2022/11/27/battle-lost-planet/';"><a href="/2022/11/27/battle-lost-planet/">Battle for the Lost Planet</a></li>
+				<li class="has-image future-force" onclick="location.href='/2023/11/19/future-force/';"><a href="/2023/11/19/future-force/">Future Force</a></li>
 				<li class="has-image final-score" onclick="location.href='/2019/03/31/final-score/';"><a href="/2019/03/31/final-score/">Final Score</a></li>
 				<li class="has-image winged-serpent" onclick="location.href='/2018/10/28/q-the-winged-serpent/';"><a href="/2018/10/28/q-the-winged-serpent/">Q — The Winged Serpent</a></li>
 				<li class="has-image rawhead-rex" onclick="location.href='/2021/10/09/rawhead-rex/';"><a href="/2021/10/09/rawhead-rex/">Rawhead Rex</a></li>
