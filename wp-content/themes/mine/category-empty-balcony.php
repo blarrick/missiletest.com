@@ -149,6 +149,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2011/10/07/asylum-1972/">Asylum</a> <span>(1972)</span></li>
 				<li class="shitty"><a href="/2017/07/09/raiders-of-atlantis/">Atlantis Interceptors, The, aka The Raiders of Atlantis</a></li>
 				<li><a href="/2018/01/14/atomic-blonde/">Atomic Blonde</a></li>
+				<li class="shitty"><a href="/2023/12/03/atomic-eden/">Atomic Eden</a></li>
 				<li class="shitty"><a href="/2021/07/25/attack-force/">Attack Force</a></li>
 				<li class="shitty"><a href="/2014/10/15/crab-monsters/">Attack of the Crab Monsters</a></li>
 				<li class="shitty"><a href="/2018/10/20/attack-of-the-giant-leeches/">Attack of the Giant Leeches</a></li>
