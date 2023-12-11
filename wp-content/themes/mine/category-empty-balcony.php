@@ -149,6 +149,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2011/10/07/asylum-1972/">Asylum</a> <span>(1972)</span></li>
 				<li class="shitty"><a href="/2017/07/09/raiders-of-atlantis/">Atlantis Interceptors, The, aka The Raiders of Atlantis</a></li>
 				<li><a href="/2018/01/14/atomic-blonde/">Atomic Blonde</a></li>
+				<li class="shitty"><a href="/2023/12/03/atomic-eden/">Atomic Eden</a></li>
 				<li class="shitty"><a href="/2021/07/25/attack-force/">Attack Force</a></li>
 				<li class="shitty"><a href="/2014/10/15/crab-monsters/">Attack of the Crab Monsters</a></li>
 				<li class="shitty"><a href="/2018/10/20/attack-of-the-giant-leeches/">Attack of the Giant Leeches</a></li>
@@ -516,7 +517,9 @@ get_header(); ?>
 				<li><a href="/2021/10/08/funeral-home/">Funeral Home, The</a></li>
 				<li><a href="/2020/10/20/furies-2019/">Furies, The</a> <span>(2019)</span></li>
 				<li class="shitty"><a href="/2021/10/24/fury-of-the-wolfman/">Fury of the Wolfman</a></li>
+				<li class="shitty"><a href="/2023/11/19/future-force/">Future Force</a></li>
 				<li class="shitty"><a href="/2023/01/29/future-kick/">Future Kick</a></li>
+				<li class="shitty"><a href="/2023/12/10/future-zone/">Future Zone</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
 			<h5 id="gg">G</h5>
@@ -877,6 +880,7 @@ get_header(); ?>
 			</ul>
 			<h5 id="pp">P</h5>
 			<ul>
+				<li class="shitty"><a href="/2023/10/31/paganini-horror/">Paganini Horror</a></li>
 				<li class="shitty"><a href="/2023/10/11/panic/">Panic</a></li>
 				<li class="shitty"><a href="/2017/08/02/paradise-alley/">Paradise Alley</a></li>
 				<li><a href="/2013/10/08/paranormal-activity-3/">Paranormal Activity 3</a></li>
@@ -1066,6 +1070,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2009/08/30/soldier/">Soldier</a></li>
 				<li><a href="/2011/07/21/source-code/">Source Code</a></li>
 				<li class="reco"><a href="/2009/03/02/soylent-green/">Soylent Green</a></li>
+				<li class="shitty"><a href="/2023/11/12/space-fighter/">Space-Fighter, The</a></li>
 				<li class="shitty"><a href="/2022/02/13/assignment-outer-space/">Space Men, aka Assignment: Outer Space</a></li>
 				<li class="shitty"><a href="/2023/07/09/space-mutiny/">Space Mutiny</a></li>
 				<li class="shitty"><a href="/2009/09/08/spacehunter/">Spacehunter: Adventures in the Forbidden Zone</a></li>

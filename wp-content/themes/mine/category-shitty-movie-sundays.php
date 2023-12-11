@@ -155,6 +155,7 @@ get_header(); ?>
 				<li class="has-image killing-spree" onclick="location.href='/2022/10/01/killing-spree/';"><a href="/2022/10/01/killing-spree/">Killing Spree</a></li>
 				<li class="has-image impulse-1974" onclick="location.href='/2019/10/23/impulse-1974/';"><a href="/2019/10/23/impulse-1974/">Impulse (1974)</a></li>
 				<li class="has-image battle-lost-planet" onclick="location.href='/2022/11/27/battle-lost-planet/';"><a href="/2022/11/27/battle-lost-planet/">Battle for the Lost Planet</a></li>
+				<li class="has-image future-force" onclick="location.href='/2023/11/19/future-force/';"><a href="/2023/11/19/future-force/">Future Force</a></li>
 				<li class="has-image final-score" onclick="location.href='/2019/03/31/final-score/';"><a href="/2019/03/31/final-score/">Final Score</a></li>
 				<li class="has-image winged-serpent" onclick="location.href='/2018/10/28/q-the-winged-serpent/';"><a href="/2018/10/28/q-the-winged-serpent/">Q — The Winged Serpent</a></li>
 				<li class="has-image rawhead-rex" onclick="location.href='/2021/10/09/rawhead-rex/';"><a href="/2021/10/09/rawhead-rex/">Rawhead Rex</a></li>
@@ -175,6 +176,7 @@ get_header(); ?>
 				<li class="has-image chud" onclick="location.href='/2019/10/29/chud/';"><a href="/2019/10/29/chud/">C.H.U.D.</a></li>
 				<li class="has-image childs-play-3" onclick="location.href='/2021/10/15/childs-play-3/';"><a href="/2021/10/15/childs-play-3/">Child’s Play 3</a></li>
 				<li class="has-image nine-deaths" onclick="location.href='/2022/07/31/nine-deaths-of-the-ninja/';"><a href="/2022/07/31/nine-deaths-of-the-ninja/">Nine Deaths of the Ninja</a></li>
+				<li class="has-image future-zone" onclick="location.href='/2023/12/10/future-zone/';"><a href="/2023/12/10/future-zone/">Future Zone</a></li>
 				<li class="has-image squirm" onclick="location.href='/2020/10/02/squirm/';"><a href="/2020/10/02/squirm/">Squirm</a></li>
 				<li class="has-image mutilator" onclick="location.href='/2023/10/08/mutilator/';"><a href="/2023/10/08/mutilator/">The Mutilator</a></li>
 				<li class="has-image things" onclick="location.href='/2022/10/14/things/';"><a href="/2022/10/14/things/">Things</a></li>
@@ -264,6 +266,7 @@ get_header(); ?>
 				<li class="has-image when-time" onclick="location.href='/2017/05/07/when-time-ran-out/';"><a href="/2017/05/07/when-time-ran-out/">When Time Ran Out</a></li>
 				<li class="has-image hallucinations" onclick="location.href='//2022/10/05/hallucinations/';"><a href="/2022/10/05/hallucinations/">Hallucinations</a></li>
 				<li class="has-image return-fly" onclick="location.href='/2019/10/30/return-fly/';"><a href="/2019/10/30/return-fly/">Return of the Fly</a></li>
+				<li class="has-image atomic-eden" onclick="location.href='/2023/12/03/atomic-eden/';"><a href="/2023/12/03/atomic-eden/">Atomic Eden</a></li>
 				<li class="has-image day-world-ended" onclick="location.href='/2021/12/05/day-world-ended/';"><a href="/2021/12/05/day-world-ended/">Day the World Ended</a></li>
 				<li class="has-image pick-up" onclick="location.href='/2020/12/13/pick-up/';"><a href="/2020/12/13/pick-up/">Pick-up</a></li>
 				<li class="has-image elm-street-4" onclick="location.href='/2021/10/06/elm-street-4/';"><a href="/2021/10/06/elm-street-4/">A Nightmare on Elm Street 4: The Dream Master</a></li>
@@ -294,6 +297,7 @@ get_header(); ?>
 				<li class="has-image tingler" onclick="location.href='/2019/10/27/the-tingler/';"><a href="/2019/10/27/the-tingler/">The Tingler</a></li>
 				<li class="has-image cosmic-sin" onclick="location.href='/2022/02/20/cosmic-sin/';"><a href="/2022/02/20/cosmic-sin/">Cosmic Sin</a></li>
 				<li class="has-image critters-3" onclick="location.href='/2021/10/22/critters-3/';"><a href="/2021/10/22/critters-3/">Critters 3</a></li>
+				<li class="has-image paganini-horror" onclick="location.href='/2023/10/31/paganini-horror/';"><a href="/2023/10/31/paganini-horror/">Paganini Horror</a></li>
 				<li class="has-image inmate-zero" onclick="location.href='/2020/10/14/inmate-zero/';"><a href="/2020/10/14/inmate-zero/">Inmate Zero</a></li>
 				<li class="has-image growth" onclick="location.href='/2010/10/03/growth/';"><a href="/2010/10/03/growth/">Growth</a></li>
 				<li class="has-image resident-retribution" onclick="location.href='/2013/10/01/resident-evil-retribution/';"><a href="/2013/10/01/resident-evil-retribution/">Resident Evil: Retribution</a></li>
@@ -470,6 +474,7 @@ get_header(); ?>
 				<li class="has-image asylum-1972" onclick="location.href='/2011/10/07/asylum-1972/';"><a href="/2011/10/07/asylum-1972/">Asylum (1972)</a></li>
 				<li class="has-image hot-rod-girl" onclick="location.href='/2018/04/15/hot-rod-girl/';"><a href="/2018/04/15/hot-rod-girl/">Hot Rod Girl</a></li>
 				<li class="has-image giant-spider" onclick="location.href='/2018/10/24/the-giant-spider-invasion/';"><a href="/2018/10/24/the-giant-spider-invasion/">The Giant Spider Invasion</a></li>
+				<li class="has-image space-fighter" onclick="location.href='/2023/11/12/space-fighter/';"><a href="/2023/11/12/space-fighter/">The Space-Fighter</a></li>
 				<li class="has-image panic" onclick="location.href='/2023/10/11/panic/';"><a href="/2023/10/11/panic/">Panic</a></li>
 				<li class="has-image attack-force" onclick="location.href='/2021/07/25/attack-force/';"><a href="/2021/07/25/attack-force/">Attack Force</a></li>
 				<li class="has-image job-2003" onclick="location.href='/2021/06/13/the-job-2003/';"><a href="/2021/06/13/the-job-2003/">The Job (2003)</a></li>
