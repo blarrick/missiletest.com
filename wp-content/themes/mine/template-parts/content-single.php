@@ -50,16 +50,26 @@
 			}
 			
 			$tags_list = get_the_tag_list( '', _x( ', ', 'Used between list items, there is a space after the comma.', 'twentysixteen' ) );
-			if ( $tags_list ) {
-				printf( '<span class="tags-links"><span class="screen-reader-text">%1$s </span>%2$s</span>',
-					_x( 'Tags', 'Used before tag names.', 'twentysixteen' ),
-					$tags_list
-				);
+			
+			if(in_category('empty-balcony')) {
+				if ( $tags_list ) {
+					printf( '<span class="tags-links"><span class="tags-flicks">Genres and stuff:<br></span><span class="screen-reader-text">%1$s </span>%2$s</span>',
+						_x( 'Tags', 'Used before tag names.', 'twentysixteen' ),
+						$tags_list
+					);
+				}
+			} else {
+				if ( $tags_list ) {
+					printf( '<span class="tags-links"><span class="screen-reader-text">%1$s </span>%2$s</span>',
+						_x( 'Tags', 'Used before tag names.', 'twentysixteen' ),
+						$tags_list
+					);
+				}
 			}
 			
-			$people_list = get_the_term_list( $post->ID, 'people', '<div>People: </div>', ', ', '' );
+			$people_list = get_the_term_list( $post->ID, 'people', '<span class="tags-links"><span class="tags-flicks">Some of those responsible:<br></span>', ', ', '' );
 			if ($people_list) {
-				echo $people_list;
+				echo $people_list . '</span>';
 			}
 
 		?>

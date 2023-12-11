@@ -2,15 +2,15 @@
 
 /*
 * Plugin Name: People Taxonomy
-* Description: A short example showing how to add a taxonomy called Course.
-* Version: 1.1
+* Description: A short example showing how to add a taxonomy called People.
+* Version: 1.2
 * Author: Bryan Larrick
 */
 
 function wporg_register_taxonomy_people() {
 	 $labels = array(
-		 'name'              => _x( 'Some of Those Responsible', 'taxonomy general name' ),
-		 'singular_name'     => _x( 'People', 'taxonomy singular name' ),
+		 'name'              => _x( 'People', 'taxonomy general name' ),
+		 'singular_name'     => _x( 'Some of Those Responsible', 'taxonomy singular name' ),
 		 'search_items'      => __( 'Search People' ),
 		 'all_items'         => __( 'All People' ),
 		 'parent_item'       => __( 'Parent People' ),

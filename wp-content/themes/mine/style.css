@@ -1922,6 +1922,9 @@ blockquote:after,
                 font-family: "Roboto Condensed", sans-serif;
                 text-transform: lowercase;
                 font-weight: 700; }
+              .site .site-inner .site-content .site-main > article .entry-content span.tags-links .tags-flicks,
+              .site .site-inner .site-content .site-main > article .entry-summary span.tags-links .tags-flicks {
+                font-family: "Roboto Condensed", sans-serif; }
             .site .site-inner .site-content .site-main > article .entry-content .movie-poster,
             .site .site-inner .site-content .site-main > article .entry-summary .movie-poster {
               border: 1px solid #5c565a; }
