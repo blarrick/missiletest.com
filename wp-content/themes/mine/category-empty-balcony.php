@@ -518,7 +518,8 @@ get_header(); ?>
 				<li><a href="/2020/10/20/furies-2019/">Furies, The</a> <span>(2019)</span></li>
 				<li class="shitty"><a href="/2021/10/24/fury-of-the-wolfman/">Fury of the Wolfman</a></li>
 				<li class="shitty"><a href="/2023/11/19/future-force/">Future Force</a></li>
-				<li class="shitty"><a href="/2023/01/29/future-kick/">Future Kick</a></li>				
+				<li class="shitty"><a href="/2023/01/29/future-kick/">Future Kick</a></li>
+				<li class="shitty"><a href="/2023/12/10/future-zone/">Future Zone</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
 			<h5 id="gg">G</h5>
