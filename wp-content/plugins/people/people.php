@@ -3,7 +3,7 @@
 /*
 * Plugin Name: People Taxonomy
 * Description: A short example showing how to add a taxonomy called People.
-* Version: 1.2
+* Version: 1.3
 * Author: Bryan Larrick
 */
 
