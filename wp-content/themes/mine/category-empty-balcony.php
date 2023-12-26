@@ -378,6 +378,7 @@ get_header(); ?>
 				<li><a href="/2023/10/04/deep-red/">Deep Red</a></li>
 				<li class="shitty"><a href="/2009/08/11/deep-rising/">Deep Rising</a></li>
 				<li class="shitty"><a href="/2013/10/21/deepstar-six/">DeepStar Six</a></li>
+				<li class="shitty"><a href="/2023/12/24/defender-2004/">Defender, The</a> <span>(2004)</span></li>
 				<li><a href="/2023/10/24/stagefright-1987/">Deliria, aka StageFright</a></li>
 				<li><a href="/2017/08/17/demolition-man/">Demolition Man</a></li>
 				<li class="shitty"><a href="/2021/12/26/demolitionist/">Demolitionist, The</a></li>

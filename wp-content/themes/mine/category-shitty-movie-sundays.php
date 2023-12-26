@@ -350,6 +350,7 @@ get_header(); ?>
 				<li class="has-image no-escape" onclick="location.href='/2016/11/27/no-escape/';"><a href="/2016/11/27/no-escape/">No Escape</a></li>
 				<li class="has-image creature" onclick="location.href='/2015/10/21/creature/';"><a href="/2015/10/21/creature/">Creature</a></li>
 				<li class="has-image transporter" onclick="location.href='/2009/04/17/transporter/';"><a href="/2009/04/17/transporter/">The Transporter</a></li>
+				<li class="has-image defender-2004" onclick="location.href='/2023/12/24/defender-2004/';"><a href="/2023/12/24/defender-2004/">The Defender (2004)</a></li>
 				<li class="has-image malone" onclick="location.href='/2021/02/21/malone/';"><a href="/2021/02/21/malone/">Malone</a></li>
 				<li class="has-image alien-warfare" onclick="location.href='/2019/04/14/alien-warfare/';"><a href="/2019/04/14/alien-warfare/">Alien Warfare</a></li>
 				<li class="has-image brain-twisters" onclick="location.href='/2020/10/25/brain-twisters/';"><a href="/2020/10/25/brain-twisters/">Brain Twisters</a></li>
