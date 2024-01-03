@@ -560,6 +560,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2010/10/03/growth/">Growth</a></li>
 				<li><a href="/2015/01/20/guardians-of-the-galaxy/">Guardians of the Galaxy</a></li>
 				<li class="shitty"><a href="/2020/10/23/guru-the-mad-monk/">Guru, the Mad Monk</a></li>
+				<li class="shitty"><a href="/2023/12/31/guy-from-harlem/">Guy from Harlem, The</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
 			<h5 id="hh">H</h5>

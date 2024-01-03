@@ -450,6 +450,7 @@ get_header(); ?>
 				<li class="has-image video-violence" onclick="location.href='/2022/10/23/video-violence/';"><a href="/2022/10/23/video-violence/">Video Violence</a></li>
 				<li class="has-image alcatraz" onclick="location.href='/2022/01/23/alcatraz/';"><a href="/2022/01/23/alcatraz/">Alcatraz (2018)</a></li>
 				<li class="has-image halloween-5" onclick="location.href='/2013/10/31/halloween-5/';"><a href="/2013/10/31/halloween-5/">Halloween 5</a></li>
+				<li class="has-image guy-harlem" onclick="location.href='/2023/12/31/guy-from-harlem/';"><a href="/2023/12/31/guy-from-harlem/">The Guy from Harlem</a></li>
 				<li class="has-image children-dead" onclick="location.href='/2016/10/09/children-dead-things/';"><a href="/2016/10/09/children-dead-things/">Children Shouldn’t Play with Dead Things</a></li>
 				<li class="has-image killers-space" onclick="location.href='/2019/10/08/killers-from-space/';"><a href="/2019/10/08/killers-from-space/">Killers from Space</a></li>
 				<li class="has-image plan-9" onclick="location.href='/2019/10/29/plan-9-from-outer-space/';"><a href="/2019/10/29/plan-9-from-outer-space/">Plan 9 from Outer Space</a></li>
