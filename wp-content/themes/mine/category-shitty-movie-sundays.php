@@ -411,6 +411,7 @@ get_header(); ?>
 				<li class="has-image green-hell" onclick="location.href='/2019/10/26/monster-from-green-hell/';"><a href="/2019/10/26/monster-from-green-hell/">Monster from Green Hell</a></li>
 				<li class="has-image daylight" onclick="location.href='/2017/08/20/daylight/';"><a href="/2017/08/20/daylight/">Daylight</a></li>
 				<li class="has-image cyclops" onclick="location.href='/2018/10/11/cyclops/';"><a href="/2018/10/11/cyclops/">The Cyclops</a></li>
+				<li class="has-image money-plane" onclick="location.href='/2024/01/07/money-plane/';"><a href="/2024/01/07/money-plane/">Money Plane</a></li>
 				<li class="has-image chain-gang-women" onclick="location.href='/2020/08/30/chain-gang-women/';"><a href="/2020/08/30/chain-gang-women/">Chain Gang Women</a></li>
 				<li class="has-image phantom-space" onclick="location.href='/2019/10/05/phantom-from-space/';"><a href="/2019/10/05/phantom-from-space/">Phantom from Space</a></li>
 				<li class="has-image screaming" onclick="location.href='/2022/10/19/screaming/';"><a href="/2022/10/19/screaming/">The Screaming</a></li>
