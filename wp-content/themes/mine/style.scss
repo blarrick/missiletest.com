@@ -3411,25 +3411,22 @@ blockquote,
 						border: none;
 						outline: none !important;
 						font-size: 1.2rem;
+						margin-left: 0;
 						
 						li {
 							position: relative;
+							padding-left: 26px;
 							
 							&:before {
-								content: '\2022';
-								margin-right: 1rem;
-								margin-left: -1.3rem;
-								color: $mt-background;
-								
-								.halloween & {
-									color: $hall-black;
-								}
+								position: absolute;
 							}
 							
 							&.reco {
 								
 								&:before {
+									content: '\2022';
 									color: $mt-grey;
+									left: 4px;
 									
 									.halloween & {
 										color: $orange;
@@ -3439,27 +3436,19 @@ blockquote,
 							
 							&.shitty {
 								
-								&:before {
-									position: absolute;
+								&:before {									
 									content: "";
-									width: 20px;
-									height: 20px;
+									width: 16px;
+									height: 15px;
 									background-image: url(/images/biohazard.png);
 									background-repeat: no-repeat;
-									background-size: 16px 15px;
-									left: -5px;
+									background-size: contain;
+									top: calc(50% - 7.5px);
+									left: 0;
 									
 									.halloween & {
 										background-image: url(/images/biohazard_orange.png);
 									}
-									
-									@include breakpoint(tablet) {
-										top: 9px;
-									}
-								}
-								
-								a {
-									margin-left: 4px;
 								}
 							}
 							
@@ -3476,6 +3465,7 @@ blockquote,
 							li {
 								display: inline;
 								margin-right: 3px;
+								padding-left: 0;
 								
 								&:before {
 									display: none;
