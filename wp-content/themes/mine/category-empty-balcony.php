@@ -653,6 +653,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2014/10/21/incredible-melting-man/">Incredible Melting Man, The</a></li>
 				<li class="shitty"><a href="/2021/07/04/incredible-petrified-world/">Incredible Petrified World, The</a></li>
 				<li><a href="/2019/10/18/incredible-shrinking-man/">Incredible Shrinking Man, The</a></li>
+				<li class="shitty"><a href="/2024/01/14/incredibly-strange-creatures/">The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies</a></li>
 				<li class="shitty"><a href="/2016/11/06/id4-resurgence/">Independence Day: Resurgence</a></li>
 				<li class="shitty"><a href="/2021/07/11/indian-paint/">Indian Paint</a></li>
 				<li><a href="/2016/10/01/indigenous/">Indigenous</a></li>

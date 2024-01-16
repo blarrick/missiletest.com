@@ -141,6 +141,7 @@ get_header(); ?>
 				<li class="has-image death-flight" onclick="location.href='/2021/11/07/death-flight/';"><a href="/2021/11/07/death-flight/">SST: Death Flight</a></li>
 				<li class="has-image escape-bronx" onclick="location.href='/2016/11/20/escape-from-the-bronx/';"><a href="/2016/11/20/escape-from-the-bronx/">Escape from the Bronx</a></li>
 				<li class="has-image silent-rage" onclick="location.href='/2018/05/06/silent-rage/';"><a href="/2018/05/06/silent-rage/">Silent Rage</a></li>
+				<li class="has-image incredibly-strange" onclick="location.href='/2024/01/14/incredibly-strange-creatures/';"><a href="/2024/01/14/incredibly-strange-creatures/">The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies</a></li>
 				<li class="has-image empire-ash-iii" onclick="location.href='/2020/09/27/empire-of-ash-iii/';"><a href="/2020/09/27/empire-of-ash-iii/">Empire of Ash III</a></li>
 				<li class="has-image raw-deal" onclick="location.href='/2014/05/08/raw-deal/';"><a href="/2014/05/08/raw-deal/">Raw Deal</a></li>
 				<li class="has-image terror-beverly" onclick="location.href='/2022/01/16/terror-in-beverly-hills/';"><a href="/2022/01/16/terror-in-beverly-hills/">Terror in Beverly Hills</a></li>
