@@ -193,6 +193,7 @@ get_header(); ?>
 				<li class="has-image angel-town" onclick="location.href='/2021/02/07/angel-town/';"><a href="/2021/02/07/angel-town/">Angel Town</a></li>
 				<li class="has-image critters-2" onclick="location.href='/2021/10/21/critters-2/';"><a href="/2021/10/21/critters-2/">Critters 2</a></li>
 				<li class="has-image kidnapping-president" onclick="location.href='/2021/03/21/kidnapping-president/';"><a href="/2021/03/21/kidnapping-president/">The Kidnapping of the President</a></li>
+				<li class="has-image enemies-closer" onclick="location.href='/2024/01/21/enemies-closer-2013/';"><a href="/2024/01/21/enemies-closer-2013/">Enemies Closer (2013)</a></li>
 				<li class="has-image raise-titanic" onclick="location.href='/2011/01/24/raise-the-titanic/';"><a href="/2011/01/24/raise-the-titanic/">Raise the Titanic</a></li>
 				<li class="has-image san-andreas" onclick="location.href='/2015/10/15/san-andreas/';"><a href="/2015/10/15/san-andreas/">San Andreas</a></li>
 				<li class="has-image dance-dead" onclick="location.href='/2010/10/04/dance-dead/';"><a href="/2010/10/04/dance-dead/">Dance of the Dead</a></li>
