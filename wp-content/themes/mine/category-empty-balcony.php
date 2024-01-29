@@ -1218,6 +1218,7 @@ get_header(); ?>
 				<li><a href="/2018/12/09/walking-tall/">Walking Tall</a> <span>(1973)</span></li>
 				<li><a href="/2018/01/28/war-for-the-planet-of-the-apes/">War for the Planet of the Apes</a></li>
 				<li class="shitty"><a href="/2018/10/14/war-of-the-colossal-beast/">War of the Colossal Beast</a></li>
+				<li class="shitty"><a href="/2024/01/28/war-satellites/">War of the Satellites</a></li>
 				<li class="reco"><a href="/2015/10/09/war-of-the-worlds-1953/">War of the Worlds, The</a></li>
 				<li class="shitty"><a href="/2020/05/03/battletruck/">Warlords of the Twenty-First Century, aka Battletruck</a></li>
 				<li class="shitty"><a href="/2017/06/18/new-gladiators/">Warriors of the Year 2072, aka The New Gladiators</a></li>

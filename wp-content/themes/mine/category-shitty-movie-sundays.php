@@ -126,6 +126,7 @@ get_header(); ?>
 				<li class="has-image hell-living-dead" onclick="location.href='/2020/10/30/hell-of-the-living-dead/';"><a href="/2020/10/30/hell-of-the-living-dead/">Hell of the Living Dead</a></li>
 				<li class="has-image frogs" onclick="location.href='/2019/10/21/frogs/';"><a href="/2019/10/21/frogs/">Frogs</a></li>
 				<li class="has-image beginning-end" onclick="location.href='/2018/10/10/beginning-of-the-end/';"><a href="/2018/10/10/beginning-of-the-end/">Beginning of the End</a></li>
+				<li class="has-image war-satellites" onclick="location.href='/2024/01/28/war-satellites/';"><a href="/2024/01/28/war-satellites/">War of the Satellites</a></li>
 				<li class="has-image psychomania" onclick="location.href='/2017/05/21/psychomania/';"><a href="/2017/05/21/psychomania/">Psychomania</a></li>
 				<li class="has-image equalizer-2000" onclick="location.href='/2023/02/06/equalizer-2000/';"><a href="/2023/02/06/equalizer-2000/">Equalizer 2000</a></li>
 				<li class="has-image satanic-dracula" onclick="location.href='/2017/10/31/satanic-rites-of-dracula/';"><a href="/2017/10/31/satanic-rites-of-dracula/">The Satanic Rites of Dracula</a></li>
