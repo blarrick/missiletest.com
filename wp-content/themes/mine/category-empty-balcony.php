@@ -650,6 +650,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/01/29/the-bronx-executioner-or-frankensteins-movie/">Il giustiziere del Bronx, aka The Bronx Executioner</a></li>
 				<li class="shitty"><a href="/2023/02/26/exterminators-year-3000/">Il giustiziere della strada, aka The Exterminators of the Year 3000</a></li>
 				<li class="shitty"><a href="/2019/10/23/impulse-1974/">Impulse</a> <span>(1974)</span></li>
+				<li class="shitty"><a href="/2024/02/04/in-hell/">In Hell</a></li>
 				<li class="shitty"><a href="/2021/12/05/day-world-ended/">In the Year 2889</a></li>
 				<li class="shitty"><a href="/2014/10/21/incredible-melting-man/">Incredible Melting Man, The</a></li>
 				<li class="shitty"><a href="/2021/07/04/incredible-petrified-world/">Incredible Petrified World, The</a></li>
