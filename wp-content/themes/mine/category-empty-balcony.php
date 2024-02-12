@@ -710,6 +710,7 @@ get_header(); ?>
 				<li><a href="/2017/02/05/kill-command/">Kill Command</a></li>
 				<li><a href="/2014/01/03/kill-list/">Kill List</a></li>
 				<li class="shitty"><a href="/2017/10/05/chopping-mall/">Killbots, aka Chopping Mall</a></li>
+				<li class="shitty"><a href="/2024/02/11/killer-image/">Killer Image</a></li>
 				<li><a href="/2016/10/21/killer-klowns-from-outer-space/">Killer Klowns from Outer Space</a></li>
 				<li class="shitty"><a href="/2018/10/19/killer-shrews/">Killer Shrews, The</a></li>
 				<li class="shitty"><a href="/2018/03/18/the-killers-edge-aka-blood-money/">Killers Edge, The</a></li>
