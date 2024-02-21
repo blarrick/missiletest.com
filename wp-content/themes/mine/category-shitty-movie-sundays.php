@@ -92,6 +92,7 @@ get_header(); ?>
 				<li class="has-image contamination" onclick="location.href='/2017/10/09/contamination/';"><a href="/2017/10/09/contamination/">Contamination</a></li>
 				<li class="has-image zombi-2" onclick="location.href='/2011/10/07/zombi-2/';"><a href="/2011/10/07/zombi-2/">Zombi 2</a></li>
 				<li class="has-image orca" onclick="location.href='/2013/07/31/orca/';"><a href="/2013/07/31/orca/">Orca</a></li>
+				<li class="has-image wrecker-2022" onclick="location.href='/2024/02/18/wrecker-2022/';"><a href="/2024/02/18/wrecker-2022/">Wrecker (2022)</a></li>
 				<li class="has-image devils-express" onclick="location.href='/2019/12/01/devils-express/';"><a href="/2019/12/01/devils-express/">Devil’s Express</a></li>
 				<li class="has-image executioner-2" onclick="location.href='/2021/06/20/executioner-part-ii/';"><a href="/2021/06/20/executioner-part-ii/">The Executioner, Part II</a></li>
 				<li class="has-image aftermath" onclick="location.href='/2020/07/26/the-aftermath-1982/';"><a href="/2020/07/26/the-aftermath-1982/">The Aftermath</a></li>

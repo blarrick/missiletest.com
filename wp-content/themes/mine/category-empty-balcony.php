@@ -1243,6 +1243,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/09/17/womens-prison-massacre/">Women's Prison Massacre</a></li>
 				<li><a href="/2013/10/20/world-war-z/">World War Z</a></li>
 				<li class="shitty"><a href="/2022/07/03/wraith/">Wraith, The</a></li>
+				<li class="shitty"><a href="/2024/02/18/wrecker-2022/">Wrecker</a> <span>(2022)</span></li>
 				<li><a href="/2020/10/22/wretched/">Wretched, The</a></li>
 				<li><a href="/2016/10/04/wyrmwood/">Wyrmwood: Road of the Dead</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
