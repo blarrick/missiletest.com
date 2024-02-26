@@ -421,6 +421,7 @@ get_header(); ?>
 				<li class="has-image chain-gang-women" onclick="location.href='/2020/08/30/chain-gang-women/';"><a href="/2020/08/30/chain-gang-women/">Chain Gang Women</a></li>
 				<li class="has-image phantom-space" onclick="location.href='/2019/10/05/phantom-from-space/';"><a href="/2019/10/05/phantom-from-space/">Phantom from Space</a></li>
 				<li class="has-image screaming" onclick="location.href='/2022/10/19/screaming/';"><a href="/2022/10/19/screaming/">The Screaming</a></li>
+				<li class="has-image night-club" onclick="location.href='/2024/02/25/night-club/';"><a href="/2024/02/25/night-club/">Night Club (1989, USA)</a></li>
 				<li class="has-image stanley" onclick="location.href='/2020/03/29/stanley/';"><a href="/2020/03/29/stanley/">Stanley</a></li>
 				<li class="has-image she-creature" onclick="location.href='/2019/10/17/she-creature/';"><a href="/2019/10/17/she-creature/">The She-Creature</a></li>
 				<li class="has-image bad-ben" onclick="location.href='/2017/10/20/bad-ben/';"><a href="/2017/10/20/bad-ben/">Bad Ben</a></li>
