@@ -247,6 +247,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/10/06/burial-ground/">Burial Ground</a></li>
 				<li><a href="/2009/03/23/burn-after-reading/">Burn After Reading</a></li>
 				<li class="shitty"><a href="/2020/07/19/burnout/">Burnout</a></li>
+				<li class="shitty"><a href="/2024/03/03/bushwick/">Bushwick</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
 			<h5 id="cc">C</h5>
