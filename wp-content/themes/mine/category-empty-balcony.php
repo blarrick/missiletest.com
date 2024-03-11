@@ -222,6 +222,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/10/05/blood-vessel/">Blood Vessel</a></li>
 				<li class="shitty"><a href="/2023/10/06/video-demons/">Bloodbath in Psycho Town, aka Video Demons Do Psychotown</a></li>
 				<li class="shitty"><a href="/2021/10/20/bloody-pit-of-horror/">Bloody Pit of Horror</a></li>
+				<li class="shitty"><a href="/2024/03/10/blue-money/">Blue Money</a> <span>(1972)</span></li>
 				<li><a href="/2014/10/30/blood-glacier/">Blutgletscher, aka Blood Glacier</a></li>
 				<li class="shitty"><a href="/2022/10/04/boa/">Boa</a></li>
 				<li><a href="/2020/10/16/boar/">Boar</a></li>
