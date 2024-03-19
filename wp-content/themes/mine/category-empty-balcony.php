@@ -810,6 +810,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2023/10/30/metamorphosis/">Metamorphosis</a> <span>(1990)</span></li>
 				<li class="shitty"><a href="/2018/04/29/meteor/">Meteor</a></li>
 				<li class="shitty"><a href="/2023/10/22/mindkiller/">Mindkiller</a></li>
+				<li class="shitty"><a href="/2024/03/17/missionary-man/">Missionary Man</a></li>
 				<li class="reco"><a href="/2011/04/25/mona-lisa/">Mona Lisa</a></li>
 				<li class="shitty"><a href="/2024/01/07/money-plane/">Money Plane</a></li>
 				<li class="shitty"><a href="/2018/10/19/humanoids-from-the-deep/">Monster, aka Humanoids from the Deep</a></li>
