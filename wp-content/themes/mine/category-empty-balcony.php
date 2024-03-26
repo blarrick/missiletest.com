@@ -599,6 +599,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/10/30/hell-of-the-living-dead/">Hell of the Living Dead</a></li>
 				<li class="shitty"><a href="/2020/05/17/hell-on-wheels/">Hell on Wheels</a></li>
 				<li><a href="/2015/10/06/hellraiser-ii/">Hellbound: Hellraiser II</a></li>
+				<li class="shitty"><a href="/2024/03/24/hellcats-1968/">Hellcats, The</a> <span>(1968)</span></li>
 				<li class="shitty"><a href="/2014/10/25/prom-night-ii/">Hello Mary Lou: Prom Night II</a></li>	
 				<li class="reco"><a href="/2014/10/30/hellraiser/">Hellraiser</a></li>
 				<li><a href="/2015/10/07/hellraiser-iii/">Hellraiser III: Hell on Earth</a></li>
