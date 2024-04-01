@@ -792,9 +792,9 @@ get_header(); ?>
 				<li><a href="/2013/11/14/man-of-steel/">Man of Steel</a></li>
 				<li><a href="/2017/10/22/man-who-could-cheat-death/">Man Who Could Cheat Death, The</a></li>
 				<li class="reco"><a href="/2020/10/04/mandy/">Mandy</a></li>
-				<li><a href="/2017/10/18/maniac/">Maniac</a> <span>(1980)</span></li>
 				<li class="shitty"><a href="/2023/10/22/eaten-alive-1980/">Mangiati vivi!, aka Eaten Alive!</a></li>
 				<li><a href="/2023/10/01/manhattan-baby/">Manhattan Baby</a></li>
+				<li><a href="/2017/10/18/maniac/">Maniac</a> <span>(1980)</span></li>
 				<li class="shitty"><a href="/2017/10/21/maniac-cop/">Maniac Cop</a></li>
 				<li class="shitty"><a href="/2010/10/12/maniac-cop-2/">Maniac Cop 2</a></li>
 				<li class="shitty"><a href="/2019/10/28/manster/">Manster, The</a></li>
@@ -1003,6 +1003,7 @@ get_header(); ?>
 				<li><a href="/2018/10/05/the-ritual/">Ritual, The</a></li>
 				<li class="shitty"><a href="/2021/10/04/rizen-possession/">Rizen: Possession, The</a></li>
 				<li class="shitty"><a href="/2015/07/09/road-house/">Road House</a></li>
+				<li class="shitty"><a href="/2024/03/31/road-house-2024/">Road House</a> <span>(2024)</span></li>
 				<li class="shitty"><a href="/2021/03/14/road-wars/">Road Wars</a></li>
 				<li class="reco"><a href="/2009/02/06/robocop/">Robocop</a></li>
 				<li class="shitty"><a href="/2023/03/12/robowar/">Robowar</a></li>
