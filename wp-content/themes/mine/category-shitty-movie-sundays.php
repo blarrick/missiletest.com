@@ -74,6 +74,7 @@ get_header(); ?>
 				<li class="has-image hercules-nyc" onclick="location.href='/2014/05/01/hercules-in-new-york/';"><a href="/2014/05/01/hercules-in-new-york/">Hercules in New York</a></li>
 				<li class="has-image beyond-poseidon" onclick="location.href='/2017/07/02/beyond-the-poseidon-adventure/';"><a href="/2017/07/02/beyond-the-poseidon-adventure/">Beyond the Poseidon Adventure</a></li>
 				<li class="has-image strike-commando" onclick="location.href='/2018/01/21/strike-commando/';"><a href="/2018/01/21/strike-commando/">Strike Commando</a></li>
+				<li class="has-image teenage-caveman" onclick="location.href='/2024/04/07/teenage-cave-man-or-teenage-caveman-whatever/';"><a href="/2024/04/07/teenage-cave-man-or-teenage-caveman-whatever/">Teenage Cave Man</a></li>
 				<li class="has-image dead-next-door" onclick="location.href='/2023/10/11/dead-next-door/';"><a href="/2023/10/11/dead-next-door/">The Dead Next Door</a></li>
 				<li class="has-image backdraft" onclick="location.href='/2012/09/10/backdraft/';"><a href="/2012/09/10/backdraft/">Backdraft</a></li>
 				<li class="has-image elm-street-3" onclick="location.href='/2021/10/05/elm-street-3/';"><a href="/2021/10/05/elm-street-3/">A Nightmare on Elm Street 3: Dream Warriors</a></li>
