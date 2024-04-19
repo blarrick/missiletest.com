@@ -923,6 +923,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2014/06/10/pompeii/">Pompeii</a></li>
 				<li><a href="/2013/10/28/pontypool/">Pontypool</a></li>
 				<li class="shitty"><a href="/2021/11/28/post-impact/">Post Impact</a></li>
+				<li class="shitty"><a href="/2024/04/14/pound-of-flesh/">Pound of Flesh</a></li>
 				<li class="reco"><a href="/2011/12/20/predator/">Predator</a></li>
 				<li><a href="/2016/10/07/predator-2/">Predator 2</a></li>
 				<li><a href="/2016/10/13/predators/">Predators</a></li>

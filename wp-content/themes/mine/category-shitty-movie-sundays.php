@@ -397,6 +397,7 @@ get_header(); ?>
 				<li class="has-image friday-13th-7" onclick="location.href='/2014/10/04/friday-13th-7/';"><a href="/2014/10/04/friday-13th-7/">Friday the 13th Part VII: The New Blood</a></li>
 				<li class="has-image sleepaway-camp" onclick="location.href='/2014/10/29/sleepaway-camp/';"><a href="/2014/10/29/sleepaway-camp/">Sleepaway Camp</a></li>
 				<li class="has-image night-killer" onclick="location.href='/2023/10/20/night-killer/';"><a href="/2023/10/20/night-killer/">Night Killer</a></li>
+				<li class="has-image pound-flesh" onclick="location.href='/2024/04/14/pound-of-flesh/';"><a href="/2024/04/14/pound-of-flesh/">Pound of Flesh</a></li>
 				<li class="has-image psycho-pike" onclick="location.href='/2022/10/13/psycho-pike/';"><a href="/2022/10/13/psycho-pike/">Psycho Pike</a></li>
 				<li class="has-image ozone" onclick="location.href='/2022/10/29/ozone/';"><a href="/2022/10/29/ozone/">Ozone</a></li>
 				<li class="has-image deadly-manor" onclick="location.href='/2023/10/12/deadly-manor/';"><a href="/2023/10/12/deadly-manor/">Deadly Manor</a></li>
