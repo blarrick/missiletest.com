@@ -367,6 +367,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2023/08/27/deadman-apocalypse/">Deadman Apocalypse</a></li>
 				<li><a href="/2020/10/06/deadtectives/">Deadtectives</a></li>
 				<li class="shitty"><a href="/2019/10/14/black-ops/">Deadwater, aka Black Ops</a></li>
+				<li class="shitty"><a href="/2024/04/21/death-chase/">Death Chase</a></li>
 				<li class="shitty"><a href="/2021/11/07/death-flight/">Death Flight, aka SST: Death Flight</a></li>
 				<li class="shitty"><a href="/2018/04/01/death-machines/">Death Machines</a></li>
 				<li class="shitty"><a href="/2021/05/30/death-race-2000/">Death Race 2000</a></li>
@@ -1007,8 +1008,8 @@ get_header(); ?>
 				<li class="shitty"><a href="/2024/03/31/road-house-2024/">Road House</a> <span>(2024)</span></li>
 				<li class="shitty"><a href="/2021/03/14/road-wars/">Road Wars</a></li>
 				<li class="reco"><a href="/2009/02/06/robocop/">Robocop</a></li>
-				<li class="shitty"><a href="/2023/03/12/robowar/">Robowar</a></li>
 				<li class="shitty"><a href="/2019/10/07/robot-monster/">Robot Monster</a></li>
+				<li class="shitty"><a href="/2023/03/12/robowar/">Robowar</a></li>				
 				<li class="reco"><a href="/2017/08/01/rocky/">Rocky</a></li>
 				<li><a href="/2017/08/03/rocky-ii/">Rocky II</a></li>
 				<li><a href="/2017/08/06/rocky-iii/">Rocky III</a></li>

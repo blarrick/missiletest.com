@@ -149,6 +149,7 @@ get_header(); ?>
 				<li class="has-image raw-deal" onclick="location.href='/2014/05/08/raw-deal/';"><a href="/2014/05/08/raw-deal/">Raw Deal</a></li>
 				<li class="has-image terror-beverly" onclick="location.href='/2022/01/16/terror-in-beverly-hills/';"><a href="/2022/01/16/terror-in-beverly-hills/">Terror in Beverly Hills</a></li>
 				<li class="has-image motel-hell" onclick="location.href='/2021/10/28/motel-hell/';"><a href="/2021/10/28/motel-hell/">Motel Hell</a></li>
+				<li class="has-image death-chase" onclick="location.href='/2024/04/21/death-chase/';"><a href="/2024/04/21/death-chase/">Death Chase</a></li>
 				<li class="has-image blood-sabbath" onclick="location.href='/2020/10/13/blood-sabbath/';"><a href="/2020/10/13/blood-sabbath/">Blood Sabbath</a></li>
 				<li class="has-image turkey-shoot" onclick="location.href='/2019/06/30/turkey-shoot/';"><a href="/2019/06/30/turkey-shoot/">Turkey Shoot</a></li>
 				<li class="has-image seed-chucky" onclick="location.href='/2021/10/17/seed-of-chucky/';"><a href="/2021/10/17/seed-of-chucky/">Seed of Chucky</a></li>
