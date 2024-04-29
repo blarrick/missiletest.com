@@ -221,6 +221,7 @@ get_header(); ?>
 				<li class="has-image burial-ground" onclick="location.href='/2017/10/06/burial-ground/';"><a href="/2017/10/06/burial-ground/">Burial Ground</a></li>
 				<li class="has-image octagon" onclick="location.href='/2019/05/05/octagon/';"><a href="/2019/05/05/octagon/">The Octagon</a></li>
 				<li class="has-image fury-wolfman" onclick="location.href='/2021/10/24/fury-of-the-wolfman/';"><a href="/2021/10/24/fury-of-the-wolfman/">Fury of the Wolfman</a></li>
+				<li class="has-image castle-falls" onclick="location.href='/2024/04/28/castle-falls/';"><a href="/2024/04/28/castle-falls/">Castle Falls</a></li>
 				<li class="has-image humanity-bureau" onclick="location.href='/2018/08/13/humanity-bureau/';"><a href="/2018/08/13/humanity-bureau/">The Humanity Bureau</a></li>
 				<li class="has-image critters-4" onclick="location.href='/2021/10/23/critters-4/';"><a href="/2021/10/23/critters-4/">Critters 4</a></li>
 				<li class="has-image hellcats" onclick="location.href='/2024/03/24/hellcats-1968/';"><a href="/2024/03/24/hellcats-1968/">The Hellcats (1968)</a></li>

@@ -265,6 +265,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2016/10/06/carnival-of-souls/">Carnival of Souls</a></li>
 				<li><a href="/2013/10/03/carrie/">Carrie</a></li>
 				<li><a href="/2023/05/21/french-sex-murders/">Casa d’appuntamento, aka The French Sex Murders</a></li>
+				<li class="shitty"><a href="/2024/04/28/castle-falls/">Castle Falls</a></li>
 				<li class="reco"><a href="/2018/10/04/castle-freak/">Castle Freak</a></li>
 				<li><a href="/2022/10/12/cellar-2022/">Cellar, The</a> <span>(2022)</span></li>
 				<li class="shitty"><a href="/2020/08/30/chain-gang-women/">Chain Gang Women</a></li>

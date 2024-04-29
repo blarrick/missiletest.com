@@ -4966,6 +4966,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.castle-falls {
+                  background: url(/wp-content/uploads/2024/04/castle-falls-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
               .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li a {
                 border: none;
                 border-width: 0;
