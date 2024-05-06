@@ -212,6 +212,7 @@ get_header(); ?>
 				<li class="has-image gila-monster" onclick="location.href='/2018/10/18/giant-gila-monster/';"><a href="/2018/10/18/giant-gila-monster/">The Giant Gila Monster</a></li>
 				<li class="has-image amusement-park" onclick="location.href='/2021/06/27/the-amusement-park/';"><a href="/2021/06/27/the-amusement-park/">The Amusement Park</a></li>
 				<li class="has-image next-film" onclick="location.href='/2019/11/24/next-2/';"><a href="/2019/11/24/next-2/">Next</a></li>
+				<li class="has-image rapid-fire-1989" onclick="location.href='/2024/05/05/rapid-fire-1989/';"><a href="/2024/05/05/rapid-fire-1989/">Rapid Fire (1989)</a></li>
 				<li class="has-image soldier" onclick="location.href='/2009/08/30/soldier/';"><a href="/2009/08/30/soldier/">Soldier</a></li>
 				<li class="has-image horror-express" onclick="location.href='/2009/01/19/horror-express/';"><a href="/2009/01/19/horror-express/">Horror Express</a></li>
 				<li class="has-image alligator-people" onclick="location.href='/2023/10/25/alligator-people/';"><a href="/2023/10/25/alligator-people/">The Alligator People</a></li>

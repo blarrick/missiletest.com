@@ -968,6 +968,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/08/08/rambo-2/">Rambo: First Blood Part II</a></li>
 				<li><a href="/2017/08/12/rambo-iii/">Rambo III</a></li>
 				<li class="shitty"><a href="/2023/10/18/rana/">Rana: The Legend of Shadow Lake</a></li>
+				<li class="shitty"><a href="/2024/05/05/rapid-fire-1989/">Rapid Fire</a> <span>(1989)</span></li>
 				<li class="shitty"><a href="/2019/10/17/rats-night-of-terror/">Rats: Night of Terror</a></li>
 				<li><a href="/2017/10/08/raw/">Raw</a></li>
 				<li class="shitty"><a href="/2014/05/08/raw-deal/">Raw Deal</a></li>
