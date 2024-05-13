@@ -524,6 +524,7 @@ get_header(); ?>
 				<li class="has-image mazes-monsters" onclick="location.href='/2017/03/26/mazes-and-monsters/';"><a href="/2017/03/26/mazes-and-monsters/">Mazes and Monsters</a></li>
 				<li class="has-image amityville-curse" onclick="location.href='/2021/10/04/amityville-curse/';"><a href="/2021/10/04/amityville-curse/">The Amityville Curse</a></li>
 				<li class="has-image sniper-corpse" onclick="location.href='/2021/10/25/sniper-corpse/';"><a href="/2021/10/25/sniper-corpse/">Sniper Corpse</a></li>
+				<li class="has-image sink-hole" onclick="location.href='/2024/05/12/sink-hole/';"><a href="/2024/05/12/sink-hole/">Sink Hole</a></li>
 				<li class="has-image deadman-apocalypse" onclick="location.href='/2023/08/27/deadman-apocalypse/';"><a href="/2023/08/27/deadman-apocalypse/">Deadman Apocalypse</a></li>
 				<li class="has-image triassic-hunt" onclick="location.href='/2023/07/23/triassic-hunt/';"><a href="/2023/07/23/triassic-hunt/">Triassic Hunt</a></li>
 				<li class="has-image deep-blood" onclick="location.href='/2023/10/26/deep-blood/';"><a href="/2023/10/26/deep-blood/">Deep Blood</a></li>
