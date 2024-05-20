@@ -364,6 +364,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2023/10/12/deadly-manor/">Deadly Manor</a></li>
 				<li class="shitty"><a href="/2018/10/08/deadly-mantis/">Deadly Mantis, The</a></li>
 				<li class="shitty"><a href="/2020/07/05/deadly-prey/">Deadly Prey</a></li>
+				<li class="shitty"><a href="/2024/05/19/deadly-reactor/">Deadly Reactor</a></li>
 				<li class="shitty"><a href="/2022/10/06/deadly-spawn/">Deadly Spawn, The</a></li>
 				<li class="shitty"><a href="/2023/08/27/deadman-apocalypse/">Deadman Apocalypse</a></li>
 				<li><a href="/2020/10/06/deadtectives/">Deadtectives</a></li>
