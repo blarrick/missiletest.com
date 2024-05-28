@@ -838,6 +838,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/04/04/naked-angels/">Naked Angels</a></li>
 				<li class="shitty"><a href="/2013/10/18/navy-night-monsters/">Navy vs. The Night Monsters, The</a></li>
 				<li class="shitty"><a href="/2023/01/08/nemesis-1992/">Nemesis</a> <span>(1992)</span></li>
+				<li class="shitty"><a href="/2024/05/26/neon-city/">Neon City</span></li>
 				<li class="shitty"><a href="/2022/10/04/boa/">New Alcatraz, aka Boa</a></li>
 				<li class="shitty"><a href="/2016/12/11/the-new-barbarians/">New Barbarians, The</a></li>
 				<li class="shitty"><a href="/2017/06/18/new-gladiators/">New Gladiators, The</a></li>

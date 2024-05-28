@@ -350,6 +350,7 @@ get_header(); ?>
 				<li class="has-image chernobyl-diaries" onclick="location.href='/2012/10/30/chernobyl-diaries/';"><a href="/2012/10/30/chernobyl-diaries/">Chernobyl Diaries</a></li>
 				<li class="has-image transparent-man" onclick="location.href='/2020/03/15/amazing-transparent-man/';"><a href="/2020/03/15/amazing-transparent-man/">The Amazing Transparent Man</a></li>
 				<li class="has-image flying-saucer" onclick="location.href='/2022/03/06/flying-saucer/';"><a href="/2022/03/06/flying-saucer/">The Flying Saucer</a></li>
+				<li class="has-image neon-city" onclick="location.href='/2024/05/26/neon-city/';"><a href="/2024/05/26/neon-city/">Neon City</a></li>
 				<li class="has-image detention-2003" onclick="location.href='/2023/08/06/detention-2003/';"><a href="/2023/08/06/detention-2003/">Detention (2003)</a></li>
 				<li class="has-image jason-takes-manhattan" onclick="location.href='/2023/10/13/friday-the-13th-part-viii-jason-takes-manhattan/';"><a href="/2023/10/13/friday-the-13th-part-viii-jason-takes-manhattan/">Friday the 13th Part VIII: Jason Takes Manhattan</a></li>
 				<li class="has-image devil-below" onclick="location.href='/2021/10/13/devil-below/';"><a href="/2021/10/13/devil-below/">The Devil Below</a></li>
