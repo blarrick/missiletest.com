@@ -296,6 +296,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/07/12/cocktail/">Cocktail</a></li>
 				<li><a href="/2017/10/16/cold-prey/">Cold Prey</a></li>
 				<li><a href="/2014/05/23/collateral-damage/">Collateral Damage</a></li>
+				<li class="shitty"><a href="/2024/06/16/colonials/">Colonials</a></li>
 				<li class="shitty"><a href="/2013/10/16/colony/">Colony, The</a></li>
 				<li><a href="/2021/10/27/color-out-of-space/">Color Out of Space</a></li>
 				<li class="shitty"><a href="/2014/05/07/commando/">Commando</a></li>

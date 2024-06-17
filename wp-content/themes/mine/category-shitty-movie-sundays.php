@@ -462,6 +462,7 @@ get_header(); ?>
 				<li class="has-image road-wars" onclick="location.href='/2021/03/14/road-wars/';"><a href="/2021/03/14/road-wars/">Road Wars</a></li>
 				<li class="has-image alone-dark" onclick="location.href='/2012/10/16/alone-dark/';"><a href="/2012/10/16/alone-dark/">Alone in the Dark (1982)</a></li>
 				<li class="has-image battleship" onclick="location.href='/2012/09/02/battleship/';"><a href="/2012/09/02/battleship/">Battleship</a></li>
+				<li class="has-image colonials" onclick="location.href='/2024/06/16/colonials/';"><a href="/2024/06/16/colonials/">Colonials</a></li>
 				<li class="has-image scared-death" onclick="location.href='/2021/10/12/scared-to-death-1947/';"><a href="/2021/10/12/scared-to-death-1947/">Scared to Death (1947)</a></li>
 				<li class="has-image leprechaun-3" onclick="location.href='/2021/10/19/leprechaun-3/';"><a href="/2021/10/19/leprechaun-3/">Leprechaun 3</a></li>
 				<li class="has-image haunting-fraternity" onclick="location.href='/2019/10/08/haunting-on-fraternity-row/';"><a href="/2019/10/08/haunting-on-fraternity-row/">Haunting on Fraternity Row</a></li>
