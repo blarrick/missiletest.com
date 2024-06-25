@@ -254,6 +254,7 @@ get_header(); ?>
 			<h5 id="cc">C</h5>
 			<ul>
 				<li class="shitty"><a href="/2018/12/02/caged-heat/">Caged Heat</a></li>
+				<li class="shitty"><a href="/2024/06/23/caged-heat-3000/">Caged Heat 3000</a></li>
 				<li><a href="/2023/10/28/body-count-1986/">Camping del terrore, aka Body Count</a></li>
 				<li><a href="/2015/10/15/canal/">Canal, The</a></li>
 				<li class="shitty"><a href="/2021/10/07/nightmare-inn/">Candle for the Devil, A, aka It Happened at Nightmare Inn</a></li>

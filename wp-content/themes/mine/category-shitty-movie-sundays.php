@@ -277,6 +277,7 @@ get_header(); ?>
 				<li class="has-image when-time" onclick="location.href='/2017/05/07/when-time-ran-out/';"><a href="/2017/05/07/when-time-ran-out/">When Time Ran Out</a></li>
 				<li class="has-image hallucinations" onclick="location.href='//2022/10/05/hallucinations/';"><a href="/2022/10/05/hallucinations/">Hallucinations</a></li>
 				<li class="has-image return-fly" onclick="location.href='/2019/10/30/return-fly/';"><a href="/2019/10/30/return-fly/">Return of the Fly</a></li>
+				<li class="has-image caged-heat-3000" onclick="location.href='/2024/06/23/caged-heat-3000/';"><a href="/2024/06/23/caged-heat-3000/">Caged Heat 3000</a></li>
 				<li class="has-image atomic-eden" onclick="location.href='/2023/12/03/atomic-eden/';"><a href="/2023/12/03/atomic-eden/">Atomic Eden</a></li>
 				<li class="has-image day-world-ended" onclick="location.href='/2021/12/05/day-world-ended/';"><a href="/2021/12/05/day-world-ended/">Day the World Ended</a></li>
 				<li class="has-image pick-up" onclick="location.href='/2020/12/13/pick-up/';"><a href="/2020/12/13/pick-up/">Pick-up</a></li>
