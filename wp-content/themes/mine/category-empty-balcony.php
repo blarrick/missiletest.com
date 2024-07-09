@@ -1041,6 +1041,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2023/10/26/deep-blood/">Sangue negli abissi, aka Deep Blood</a></li>
 				<li><a href="/2020/10/08/alive/">#Saraitda, aka #Alive</a></li>
 				<li class="shitty"><a href="/2017/10/31/satanic-rites-of-dracula/">Satanic Rites of Dracula, The</a></li>
+				<li class="shitty"><a href="/2024/07/07/savage-dawn/">Savage Dawn</a></li>
 				<li class="shitty"><a href="/2023/10/05/anthropophagus/">Savage Island, The, aka Anthropophagus</a></li>
 				<li><a href="/2012/12/08/savages/">Savages</a></li>
 				<li><a href="/2015/10/12/saw/">Saw</a></li>
