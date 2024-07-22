@@ -534,6 +534,7 @@ get_header(); ?>
 			<h5 id="gg">G</h5>
 			<ul>
 				<li class="shitty"><a href="/2014/10/17/galaxy-of-terror/">Galaxy of Terror</a></li>
+				<li class="shitty"><a href="/2024/07/21/tenement/">Game of Survival, aka Tenement</a></li>
 				<li class="shitty"><a href="/2019/12/01/devils-express/">Gang Wars, aka Devil’s Express</a></li>
 				<li class="shitty"><a href="/2020/05/24/alien-rising/">Gemini Rising, aka Alien Rising</a></li>
 				<li class="reco"><a href="/2008/12/10/jarhead/">Generation Kill</a></li>
@@ -1080,6 +1081,7 @@ get_header(); ?>
 				<li><a href="/2018/03/04/2018-empty-balcony-awards/">Sixth Annual Empty Balcony Awards for Movies I Saw from Last Year, The</a></li>
 				<li class="shitty"><a href="/2013/10/16/skeptic/">Skeptic, The</a></li>
 				<li><a href="/2013/02/16/skyfall/">Skyfall</a></li>
+				<li class="shitty"><a href="/2024/07/21/tenement/">Slaughter in the South Bronx, aka Tenement</a></li>
 				<li class="shitty"><a href="/2022/10/28/slaughterhouse/">Slaughterhouse</a></li>
 				<li class="shitty"><a href="/2022/10/15/sledgehammer/">Sledgehammer</a></li>
 				<li class="shitty"><a href="/2014/10/29/sleepaway-camp/">Sleepaway Camp</a></li>
@@ -1139,6 +1141,7 @@ get_header(); ?>
 				<li><a href="/2017/10/20/taste-the-blood-of-dracula/">Taste the Blood of Dracula</a></li>
 				<li class="shitty"><a href="/2024/04/07/teenage-cave-man-or-teenage-caveman-whatever/">Teenage Cave Man</a></li>
 				<li class="shitty"><a href="/2021/02/28/beyond-the-trek/">Teleios, aka Beyond the Trek</a></li>
+				<li class="shitty"><a href="/2024/07/21/tenement/">Tenement</a> <span>(1985)</span></li>
 				<li class="shitty"><a href="/2023/10/08/tentacles/">Tentacles</a></li>
 				<li class="reco"><a href="/2014/05/05/terminator/">Terminator, The</a></li>
 				<li><a href="/2014/05/14/terminator-2/">Terminator 2: Judgment Day</a></li>
