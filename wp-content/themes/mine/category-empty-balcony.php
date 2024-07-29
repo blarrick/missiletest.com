@@ -87,6 +87,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2009/10/18/28-days-later/">28 Days Later</a></li>
 				<li><a href="/2009/10/18/28-days-later/">28 Weeks Later</a></li>
 				<li><a href="/2008/06/17/30-days/">30 Days of Night</a></li>
+				<li class="shitty"><a href="/2024/07/28/4got10/">4GOT10</a></li>
 				<li><a href="/2020/10/26/terror-creatures-from-the-grave/">5 tombe per un medium, aka Terror-Creatures from the Grave</a></li>
 				<li><a href="/2014/05/22/6th-day/">6th Day, The</a></li>
 				<li><a href="/2022/10/18/the-beyond/">7 Doors of Death, aka The Beyond</a></li>
@@ -557,6 +558,7 @@ get_header(); ?>
 				<li><a href="/2008/03/12/tokyo-sos/">Godzilla: Tokyo S.O.S.</a></li>
 				<li class="reco"><a href="/2011/07/11/gojira/">Gojira</a></li>
 				<li><a href="/2019/10/02/gonjiam/">Gonjiam: Haunted Asylum</a></li>
+				<li class="shitty"><a href="/2024/07/28/4got10/">Good, the Bad, and the Dead, The, aka 4GOT10</a></li>
 				<li><a href="/2018/10/22/gorgo/">Gorgo</a></li>
 				<li><a href="/2017/10/08/raw/">Grave, aka Raw</a></li>
 				<li class="reco"><a href="/2012/10/30/grave-encounters/">Grave Encounters</a></li>

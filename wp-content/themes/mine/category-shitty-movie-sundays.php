@@ -207,7 +207,8 @@ get_header(); ?>
 				<li class="has-image truck-stop" onclick="location.href='/2019/04/21/truck-stop-women/';"><a href="/2019/04/21/truck-stop-women/">Truck Stop Women</a></li>
 				<li class="has-image children-corn-3" onclick="location.href='/2021/10/11/children-corn-3/';"><a href="/2021/10/11/children-corn-3/">Children of the Corn III: Urban Harvest</a></li>
 				<li class="has-image maniac-cop-2" onclick="location.href='/2010/10/12/maniac-cop-2/';"><a href="/2010/10/12/maniac-cop-2/">Maniac Cop 2</a></li>
-				<li class="has-image bone-dry" onclick="location.href='/2018/12/23/bone-dry/';"><a href="/2013/10/06/graveyard-shift/"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
+				<li class="has-image fourgot10" onclick="location.href='/2024/07/28/4got10/';"><a href="/2024/07/28/4got10/">4GOT10</a></li>
+				<li class="has-image bone-dry" onclick="location.href='/2018/12/23/bone-dry/';"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
 				<li class="has-image giant-leeches" onclick="location.href='/2018/10/20/attack-of-the-giant-leeches/';"><a href="/2018/10/20/attack-of-the-giant-leeches/">Attack of the Giant Leeches</a></li>
 				<li class="has-image death-machines" onclick="location.href='/2018/04/01/death-machines/';"><a href="/2018/04/01/death-machines/">Death Machines</a></li>
 				<li class="has-image gila-monster" onclick="location.href='/2018/10/18/giant-gila-monster/';"><a href="/2018/10/18/giant-gila-monster/">The Giant Gila Monster</a></li>
