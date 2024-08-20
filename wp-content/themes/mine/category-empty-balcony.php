@@ -465,6 +465,7 @@ get_header(); ?>
 				<li><a href="/2023/10/02/evil-dead-trap/">Evil Dead Trap</a></li>
 				<li><a href="/2017/10/12/evil-of-frankenstein/">Evil of Frankenstein, The</a></li>
 				<li><a href="/2009/07/27/holy-grail/">Excalibur</a></li>
+				<li class="shitty"><a href="/2024/08/18/massacre-mafia-style/">Executioner, The, aka Massacre Mafia Style</a></li>
 				<li class="shitty"><a href="/2021/06/20/executioner-part-ii/">Executioner, Part II, The</a></li>
 				<li class="shitty"><a href="/2015/10/22/exeter/">Exeter</a></li>
 				<li><a href="/2017/08/27/expendables/">Expendables, The</a></li>
@@ -773,6 +774,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/10/05/hallucinations/">Lethal Nightmare</a></li>
 				<li class="shitty"><a href="/2012/10/17/leviathan/">Leviathan</a></li>
 				<li><a href="/2014/10/23/lifeforce/">Lifeforce</a></li>
+				<li class="shitty"><a href="/2024/08/18/massacre-mafia-style/">Like Father, Like Son, aka Massacre Mafia Style</a></li>
 				<li class="reco"><a href="/2013/02/28/becket/">Lion in Winter, The</a></li>
 				<li><a href="/2023/10/25/lisa-and-the-devil/">Lisa and the Devil</a></li>
 				<li><a href="/2023/10/07/new-york-ripper/">Lo squartatore di New York, aka The New York Ripper</a></li>
@@ -810,6 +812,7 @@ get_header(); ?>
 				<li><a href="/2020/10/02/marshes/">Marshes, The</a></li>
 				<li class="shitty"><a href="/2022/03/20/martial-law/">Martial Law</a> <span>(1990)</span></li>
 				<li class="shitty"><a href="/2023/10/12/massacre-in-dinosaur-valley/">Massacre in Dinosaur Valley</a></li>
+				<li class="shitty"><a href="/2024/08/18/massacre-mafia-style/">Massacre Mafia Style</a></li>
 				<li class="reco"><a href="/2008/08/05/master-and-commander/">Master and Commander: The Far Side of the World</a></li>
 				<li class="shitty"><a href="/2018/10/14/matango/">Matango</a></li>
 				<li><a href="/2008/04/18/matrix/">Matrix, The</a></li>

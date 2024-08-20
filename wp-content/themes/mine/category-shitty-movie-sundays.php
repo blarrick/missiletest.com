@@ -136,6 +136,7 @@ get_header(); ?>
 				<li class="has-image humanoids-deep" onclick="location.href='/2018/10/19/humanoids-from-the-deep/';"><a href="/2018/10/19/humanoids-from-the-deep/">Humanoids from the Deep</a></li>
 				<li class="has-image friday-13th-3" onclick="location.href='/2009/10/12/friday-13th-3/';"><a href="/2009/10/12/friday-13th-3/">Friday the 13th Part 3</a></li>
 				<li class="has-image cyber-tracker" onclick="location.href='/2018/04/24/cyber-tracker/';"><a href="/2018/04/24/cyber-tracker/">Cyber Tracker</a></li>
+				<li class="has-image massacre-mafia-style" onclick="location.href='/2024/08/18/massacre-mafia-style/';"><a href="/2024/08/18/massacre-mafia-style/">Massacre Mafia Style</a></li>
 				<li class="has-image speed-kills" onclick="location.href='/2021/03/28/speed-kills/';"><a href="/2021/03/28/speed-kills/">Speed Kills</a></li>
 				<li class="has-image pieces" onclick="location.href='/2019/10/07/pieces/';"><a href="/2019/10/07/pieces/">Pieces</a></li>
 				<li class="has-image my-bloody-valentine" onclick="location.href='/2013/10/22/my-bloody-valentine/';"><a href="/2013/10/22/my-bloody-valentine/">My Bloody Valentine (1981)</a></li>
