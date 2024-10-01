@@ -333,6 +333,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2023/10/18/rana/">Croaked: Frog Monster from Hell, aka Rana: The Legend of Shadow Lake</a></li>
 				<li><a href="/2010/09/16/cross-of-iron/">Cross of Iron</a></li>
 				<li><a href="/2020/10/05/crucible-of-horror/">Crucible of Horror</a></li>
+				<li><a href="/2024/10/01/when-evil-lurks/">Cuando acecha la maldad, aka When Evil Lurks</a></li>
 				<li><a href="/2018/10/27/the-cured/">Cured, The</a></li>
 				<li><a href="/2017/10/04/curse-of-frankenstein/">Curse of Frankenstein, The</a></li>
 				<li><a href="/2017/10/08/curse-of-the-mummys-tomb/">Curse of the Mummy’s Tomb, The</a></li>
@@ -1256,6 +1257,7 @@ get_header(); ?>
 				<li><a href="/2021/10/09/new-nightmare/">Wes Craven’s New Nightmare</a></li>
 				<li><a href="/2017/10/01/what-we-become/">What We Become</a></li>
 				<li class="shitty"><a href="/2022/12/11/wheels-of-fire/">Wheels of Fire</a></li>
+				<li><a href="/2024/10/01/when-evil-lurks/">When Evil Lurks</a></li>
 				<li class="shitty"><a href="/2017/05/07/when-time-ran-out/">When Time Ran Out</a></li>
 				<li><a href="/2012/08/15/where-eagles-dare/">Where Eagles Dare</a></li>
 				<li class="shitty"><a href="/2014/01/15/white-house-down/">White House Down</a></li>
