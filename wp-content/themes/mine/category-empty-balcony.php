@@ -750,6 +750,7 @@ get_header(); ?>
 				<li><a href="/2021/10/08/funeral-home/">La Funeria, aka The Funeral Home</a></li>
 				<li class="shitty"><a href="/2021/10/24/fury-of-the-wolfman/">La furia del Hombre Lobo, aka Fury of the Wolfman</a></li>
 				<li><a href="/2021/10/19/night-eats-world/">La nuit a dévoré le monde, aka The Night Eats the World</a></li>
+				<li><a href="/2024/10/03/lockdown-tower/">La tour, aka Lockdown Tower</a></li>
 				<li><a href="/2009/10/27/land-dead/">Land of the Dead</a></li>
 				<li><a href="/2023/10/15/lake-2022/">Lake, The</a> <span>(2022, Thailand)</span></li>
 				<li><a href="/2016/10/18/lake-placid/">Lake Placid</a></li>
@@ -781,6 +782,7 @@ get_header(); ?>
 				<li><a href="/2023/10/25/lisa-and-the-devil/">Lisa and the Devil</a></li>
 				<li><a href="/2023/10/07/new-york-ripper/">Lo squartatore di New York, aka The New York Ripper</a></li>
 				<li><a href="/2017/08/13/lock-up/">Lock Up</a></li>
+				<li><a href="/2024/10/03/lockdown-tower/">Lockdown Tower</a></li>
 				<li class="reco"><a href="/2009/03/30/logans-run/">Logan’s Run</a></li>
 				<li><a href="/2021/10/17/similars/">Los Parecidos, aka The Similars</a></li>
 				<li><a href="/2018/10/16/lost-boys/">Lost Boys, The</a></li>
