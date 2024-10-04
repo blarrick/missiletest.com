@@ -1069,6 +1069,7 @@ get_header(); ?>
 				<li><a href="/2023/10/24/severance-2006/">Severance</a> <span>(2006)</span></li>
 				<li class="shitty"><a href="/2018/10/30/suckling/">Sewage Baby, aka The Suckling</a></li>
 				<li class="shitty"><a href="/2022/10/26/shakma/">Shakma</a></li>
+				<li class="shitty"><a href="/2024/10/04/shadowzone/">Shadowzone</a></li>
 				<li class="shitty"><a href="/2020/03/01/shanghai-fortress/">Shanghai Fortress</a></li>
 				<li class="shitty"><a href="/2018/07/29/shape-of-things-to-come/">Shape of Things to Come, The</a></li>
 				<li class="shitty"><a href="/2023/10/05/she-beast/">She Beast, The</a></li>
