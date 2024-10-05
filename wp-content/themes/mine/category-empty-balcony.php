@@ -553,6 +553,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/10/09/giant-claw/">Giant Claw, The</a></li>
 				<li class="shitty"><a href="/2018/10/18/giant-gila-monster/">Giant Gila Monster, The</a></li>
 				<li class="shitty"><a href="/2018/10/24/the-giant-spider-invasion/">Giant Spider Invasion, The</a></li>
+				<li class="shitty"><a href="/2024/10/05/gingerdead-man/">Gingerdead Man, The</a></li>
 				<li><a href="/2020/10/08/girl-on-the-third-floor/">Girl on the Third Floor</a></li>
 				<li class="shitty"><a href="/2023/10/06/baron-blood/">Gli orrori del castello di Norimberga, aka Baron Blood</a></li>
 				<li class="shitty"><a href="/2018/10/13/god-told-me-to/">God Told Me To</a></li>
