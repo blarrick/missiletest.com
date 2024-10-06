@@ -540,6 +540,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2014/10/17/galaxy-of-terror/">Galaxy of Terror</a></li>
 				<li class="shitty"><a href="/2024/07/21/tenement/">Game of Survival, aka Tenement</a></li>
 				<li class="shitty"><a href="/2019/12/01/devils-express/">Gang Wars, aka Devil’s Express</a></li>
+				<li class="shitty"><a href="/2024/10/06/gargoyles/">Gargoyles</a></li>
 				<li class="shitty"><a href="/2020/05/24/alien-rising/">Gemini Rising, aka Alien Rising</a></li>
 				<li class="reco"><a href="/2008/12/10/jarhead/">Generation Kill</a></li>
 				<li class="shitty"><a href="/2018/02/04/geostorm/">Geostorm</a></li>
