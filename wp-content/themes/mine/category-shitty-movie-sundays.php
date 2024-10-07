@@ -523,6 +523,7 @@ get_header(); ?>
 				<li class="has-image mom-shoot" onclick="location.href='/2017/08/16/stop-or-my-mom-will-shoot/';"><a href="/2017/08/16/stop-or-my-mom-will-shoot/">Stop! Or My Mom Will Shoot</a></li>				
 				<li class="has-image year-2889" onclick="location.href='/2021/12/05/day-world-ended/';"><a href="/2021/12/05/day-world-ended/">In the Year 2889</a></li>
 				<li class="has-image driven" onclick="location.href='/2017/08/23/driven/';"><a href="/2017/08/23/driven/">Driven</a></li>
+				<li class="has-image bigfoot-vs-zombies" onclick="location.href='/2024/10/07/bigfoot-vs-zombies/';"><a href="/2024/10/07/bigfoot-vs-zombies/">Bigfoot Vs. Zombies</a></li>
 				<li class="has-image petrified-world" onclick="location.href='/2021/07/04/incredible-petrified-world/';"><a href="/2021/07/04/incredible-petrified-world/">The Incredible Petrified World</a></li>
 				<li class="has-image freddys-dead" onclick="location.href='/2021/10/08/freddys-dead/';"><a href="/2021/10/08/freddys-dead/">Freddy’s Dead: The Final Nightmare</a></li>
 				<li class="has-image yucca-flats" onclick="location.href='/2023/09/03/yucca-flats/';"><a href="/2023/09/03/yucca-flats/">The Beast of Yucca Flats</a></li>

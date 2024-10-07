@@ -199,6 +199,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/07/02/beyond-the-poseidon-adventure/">Beyond the Poseidon Adventure</a></li>
 				<li class="shitty"><a href="/2021/02/28/beyond-the-trek/">Beyond the Trek</a></li>
 				<li class="reco"><a href="/2008/09/21/big-trouble/">Big Trouble in Little China</a></li>
+				<li class="shitty"><a href="/2024/10/07/bigfoot-vs-zombies/">Bigfoot Vs. Zombies</a></li>
 				<li class="shitty"><a href="/2017/10/23/birdemic/">Birdemic: Shock and Terror</a></li>
 				<li><a href="/2018/10/08/black-christmas/">Black Christmas</a></li>
 				<li><a href="/2011/02/22/black-hawk-down/">Black Hawk Down</a></li>
