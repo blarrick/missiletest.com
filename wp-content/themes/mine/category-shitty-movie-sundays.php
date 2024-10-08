@@ -339,6 +339,7 @@ get_header(); ?>
 				<li class="has-image anthropophagus" onclick="location.href='/2023/10/05/anthropophagus/';"><a href="/2023/10/05/anthropophagus/">Anthropophagus</a></li>
 				<li class="has-image retrograde" onclick="location.href='/2022/11/13/retrograde/';"><a href="/2022/11/13/retrograde/">Retrograde</a></li>
 				<li class="has-image assignment" onclick="location.href='/2022/02/13/assignment-outer-space/';"><a href="/2022/02/13/assignment-outer-space/">Assignment: Outer Space</a></li>
+				<li class="has-image cannibal-campout" onclick="location.href='/2024/10/08/cannibal-campout/';"><a href="/2024/10/08/cannibal-campout/">Cannibal Campout</a></li>
 				<li class="has-image boggy-creek" onclick="location.href='/2019/10/11/boggy-creek/';"><a href="/2019/10/11/boggy-creek/">The Legend of Boggy Creek</a></li>
 				<li class="has-image redneck-zombies" onclick="location.href='/2022/10/31/redneck-zombies/';"><a href="/2022/10/31/redneck-zombies/">Redneck Zombies</a></li>
 				<li class="has-image cocktail" onclick="location.href='/2020/07/12/cocktail/';"><a href="/2020/07/12/cocktail/">Cocktail</a></li>

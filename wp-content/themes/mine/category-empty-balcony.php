@@ -262,6 +262,7 @@ get_header(); ?>
 				<li><a href="/2015/10/15/canal/">Canal, The</a></li>
 				<li class="shitty"><a href="/2021/10/07/nightmare-inn/">Candle for the Devil, A, aka It Happened at Nightmare Inn</a></li>
 				<li><a href="/2023/10/17/cannibal-apocalypse/">Cannibal Apocalypse</a></li>
+				<li class="shitty"><a href="/2024/10/08/cannibal-campout/">Cannibal Campout</a></li>
 				<li><a href="/2023/10/14/cannibal-ferox/">Cannibal Ferox</a></li>
 				<li><a href="/2023/10/13/cannibal-holocaust/">Cannibal Holocaust</a></li>
 				<li><a href="/2017/10/28/night-creatures/">Captain Clegg, aka Night Creatures</a></li>
