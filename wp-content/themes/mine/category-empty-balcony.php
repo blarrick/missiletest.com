@@ -1295,6 +1295,7 @@ get_header(); ?>
 			<h5 id="yy">Y</h5>
 			<ul>
 				<li><a href="/2014/02/17/yellow-sea/">Yellow Sea, The</a></li>
+				<li><a href="/2024/10/11/yellowbrickroad/">YellowBrickRoad</a></li>
 				<li><a href="/2014/10/02/youre-next/">You’re Next</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
