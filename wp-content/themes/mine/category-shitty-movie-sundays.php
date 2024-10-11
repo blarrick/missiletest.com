@@ -473,6 +473,7 @@ get_header(); ?>
 				<li class="has-image colonials" onclick="location.href='/2024/06/16/colonials/';"><a href="/2024/06/16/colonials/">Colonials</a></li>
 				<li class="has-image scared-death" onclick="location.href='/2021/10/12/scared-to-death-1947/';"><a href="/2021/10/12/scared-to-death-1947/">Scared to Death (1947)</a></li>
 				<li class="has-image leprechaun-3" onclick="location.href='/2021/10/19/leprechaun-3/';"><a href="/2021/10/19/leprechaun-3/">Leprechaun 3</a></li>
+				<li class="has-image death-row-diner" onclick="location.href='/2024/10/10/death-row-diner/';"><a href="/2024/10/10/death-row-diner/">Death Row Diner</a></li>
 				<li class="has-image haunting-fraternity" onclick="location.href='/2019/10/08/haunting-on-fraternity-row/';"><a href="/2019/10/08/haunting-on-fraternity-row/">Haunting on Fraternity Row</a></li>
 				<li class="has-image hellraiser-deader" onclick="location.href='/2021/10/27/hellraiser-deader/';"><a href="/2021/10/27/hellraiser-deader/">Hellraiser VII: Deader</a></li>
 				<li class="has-image summer-city" onclick="location.href='/2018/01/07/summer-city/';"><a href="/2018/01/07/summer-city/">Summer City</a></li>

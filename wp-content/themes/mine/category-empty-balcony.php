@@ -380,6 +380,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/11/07/death-flight/">Death Flight, aka SST: Death Flight</a></li>
 				<li class="shitty"><a href="/2018/04/01/death-machines/">Death Machines</a></li>
 				<li class="shitty"><a href="/2021/05/30/death-race-2000/">Death Race 2000</a></li>
+				<li class="shitty"><a href="/2024/10/10/death-row-diner/">Death Row Diner</a></li>
 				<li><a href="/2020/10/28/death-warmed-up/">Death Warmed Up</a></li>
 				<li class="shitty"><a href="/2017/05/21/psychomania/">Death Wheelers, The, aka Psychomania</a></li>
 				<li class="shitty"><a href="/2019/05/19/death-wish-2/">Death Wish II</a></li>
