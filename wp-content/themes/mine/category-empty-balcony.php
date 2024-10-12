@@ -166,7 +166,8 @@ get_header(); ?>
 			<h5 id="bb">B</h5>
 			<ul>
 				<li class="reco"><a href="/2015/10/02/babadook/">Babadook, The</a></li>
-				<li class="shitty"><a href="/2012/09/10/backdraft/">Backdraft</a></li>				
+				<li class="shitty"><a href="/2012/09/10/backdraft/">Backdraft</a></li>
+				<li class="shitty"><a href="/2024/10/12/backwoods-1988/">Backwoods</a> <span>(1988)</span></li>
 				<li class="shitty"><a href="/2017/05/28/bad-ass/">Bad Ass</a></li>
 				<li class="shitty"><a href="/2017/10/20/bad-ben/">Bad Ben</a></li>
 				<li class="shitty"><a href="/2023/10/11/panic/">Bakterion, aka Panic</a></li>
@@ -544,6 +545,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2024/07/21/tenement/">Game of Survival, aka Tenement</a></li>
 				<li class="shitty"><a href="/2019/12/01/devils-express/">Gang Wars, aka Devil’s Express</a></li>
 				<li class="shitty"><a href="/2024/10/06/gargoyles/">Gargoyles</a></li>
+				<li class="shitty"><a href="/2024/10/12/backwoods-1988/">Geek!, aka Backwoods</a></li>
 				<li class="shitty"><a href="/2020/05/24/alien-rising/">Gemini Rising, aka Alien Rising</a></li>
 				<li class="reco"><a href="/2008/12/10/jarhead/">Generation Kill</a></li>
 				<li class="shitty"><a href="/2018/02/04/geostorm/">Geostorm</a></li>

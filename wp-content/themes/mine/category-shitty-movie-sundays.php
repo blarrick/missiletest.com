@@ -535,6 +535,7 @@ get_header(); ?>
 				<li class="has-image video-demons" onclick="location.href='/2023/10/06/video-demons/';"><a href="/2023/10/06/video-demons/">Video Demons Do Psychotown</a></li>
 				<li class="has-image post-impact" onclick="location.href='/2021/11/28/post-impact/';"><a href="/2021/11/28/post-impact/">Post Impact</a></li>
 				<li class="has-image invasion-inner-earth" onclick="location.href='/2020/10/01/invasion-from-inner-earth/';"><a href="/2020/10/01/invasion-from-inner-earth/">Invasion from Inner Earth</a></li>
+				<li class="has-image backwoods-1988" onclick="location.href='/2024/10/12/backwoods-1988/';"><a href="/2024/10/12/backwoods-1988/">Backwoods (1988)</a></li>
 				<li class="has-image mazes-monsters" onclick="location.href='/2017/03/26/mazes-and-monsters/';"><a href="/2017/03/26/mazes-and-monsters/">Mazes and Monsters</a></li>
 				<li class="has-image amityville-curse" onclick="location.href='/2021/10/04/amityville-curse/';"><a href="/2021/10/04/amityville-curse/">The Amityville Curse</a></li>
 				<li class="has-image sniper-corpse" onclick="location.href='/2021/10/25/sniper-corpse/';"><a href="/2021/10/25/sniper-corpse/">Sniper Corpse</a></li>
