@@ -431,6 +431,7 @@ get_header(); ?>
 				<li class="has-image expendables-3" onclick="location.href='/2017/08/30/the-expendables-3/';"><a href="/2017/08/30/the-expendables-3/">The Expendables 3</a></li>
 				<li class="has-image godzilla" onclick="location.href='/2011/07/11/gojira/';"><a href="/2011/07/11/gojira/">Godzilla, King of the Monsters!</a></li>
 				<li class="has-image night-monsters" onclick="location.href='/2013/10/18/navy-night-monsters/';"><a href="/2013/10/18/navy-night-monsters/">The Navy vs. the Night Monsters</a></li>
+				<li class="has-image alien-hunter" onclick="location.href='/2024/10/13/alien-hunter/';"><a href="/2024/10/13/alien-hunter/">Alien Hunter</a></li>
 				<li class="has-image beyond-trek" onclick="location.href='/2021/02/28/beyond-the-trek/';"><a href="/2021/02/28/beyond-the-trek/">Beyond the Trek</a></li>
 				<li class="has-image green-hell" onclick="location.href='/2019/10/26/monster-from-green-hell/';"><a href="/2019/10/26/monster-from-green-hell/">Monster from Green Hell</a></li>
 				<li class="has-image daylight" onclick="location.href='/2017/08/20/daylight/';"><a href="/2017/08/20/daylight/">Daylight</a></li>
