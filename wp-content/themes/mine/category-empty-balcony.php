@@ -299,6 +299,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/08/05/city-on-fire/">City on Fire</a></li>
 				<li class="shitty"><a href="/2016/10/27/class-of-1999/">Class of 1999</a></li>
 				<li class="shitty"><a href="/2010/05/17/nuke-em-high/">Class of Nuke ‘Em High</a></li>
+				<li class="shitty"><a href="/2024/10/16/click-the-calendar-girl-killer/">Click: The Calendar Girl Killer</a></li>
 				<li class="shitty"><a href="/2017/08/10/cobra/">Cobra</a></li>
 				<li><a href="/2013/10/16/cockneys/">Cockneys vs Zombies</a></li>
 				<li class="shitty"><a href="/2020/07/12/cocktail/">Cocktail</a></li>

@@ -374,6 +374,7 @@ get_header(); ?>
 				<li class="has-image transporter" onclick="location.href='/2009/04/17/transporter/';"><a href="/2009/04/17/transporter/">The Transporter</a></li>
 				<li class="has-image defender-2004" onclick="location.href='/2023/12/24/defender-2004/';"><a href="/2023/12/24/defender-2004/">The Defender (2004)</a></li>
 				<li class="has-image malone" onclick="location.href='/2021/02/21/malone/';"><a href="/2021/02/21/malone/">Malone</a></li>
+				<li class="has-image click-calendar" onclick="location.href='/2024/10/16/click-the-calendar-girl-killer/';"><a href="/2024/10/16/click-the-calendar-girl-killer/">Click: The Calendar Girl Killer</a></li>
 				<li class="has-image alien-warfare" onclick="location.href='/2019/04/14/alien-warfare/';"><a href="/2019/04/14/alien-warfare/">Alien Warfare</a></li>
 				<li class="has-image brain-twisters" onclick="location.href='/2020/10/25/brain-twisters/';"><a href="/2020/10/25/brain-twisters/">Brain Twisters</a></li>
 				<li class="has-image starship-3" onclick="location.href='/2008/12/16/starship-troopers-3/';"><a href="/2008/12/16/starship-troopers-3/">Starship Troopers 3: Marauder</a></li>
