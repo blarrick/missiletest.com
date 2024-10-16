@@ -1112,6 +1112,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/10/25/sniper-corpse/">Sniper Corpse</a></li>
 				<li class="shitty"><a href="/2019/10/10/snow-creature/">Snow Creature, The</a></li>
 				<li class="shitty"><a href="/2009/08/30/soldier/">Soldier</a></li>
+				<li><a href="/2024/10/14/sorority-house-massacre/">Sorority House Massacre</a></li>
 				<li><a href="/2011/07/21/source-code/">Source Code</a></li>
 				<li class="reco"><a href="/2009/03/02/soylent-green/">Soylent Green</a></li>
 				<li class="shitty"><a href="/2023/11/12/space-fighter/">Space-Fighter, The</a></li>
