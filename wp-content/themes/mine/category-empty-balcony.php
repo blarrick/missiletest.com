@@ -275,6 +275,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2024/04/28/castle-falls/">Castle Falls</a></li>
 				<li class="reco"><a href="/2018/10/04/castle-freak/">Castle Freak</a></li>
 				<li><a href="/2022/10/12/cellar-2022/">Cellar, The</a> <span>(2022)</span></li>
+				<li><a href="/2024/10/15/cemetery-man/">Cemetery Man</a></li>
 				<li class="shitty"><a href="/2020/08/30/chain-gang-women/">Chain Gang Women</a></li>
 				<li><a href="/2013/10/30/changeling/">Changeling, The</a></li>
 				<li class="shitty"><a href="/2012/10/30/chernobyl-diaries/">Chernobyl Diaries</a></li>
@@ -395,6 +396,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2013/10/21/deepstar-six/">DeepStar Six</a></li>
 				<li class="shitty"><a href="/2023/12/24/defender-2004/">Defender, The</a> <span>(2004)</span></li>
 				<li><a href="/2023/10/24/stagefright-1987/">Deliria, aka StageFright</a></li>
+				<li><a href="/2024/10/15/cemetery-man/">Dellamorte dellamore, aka Cemetery Man</a></li>
 				<li><a href="/2017/08/17/demolition-man/">Demolition Man</a></li>
 				<li class="shitty"><a href="/2021/12/26/demolitionist/">Demolitionist, The</a></li>
 				<li class="shitty"><a href="/2022/10/27/demon-queen/">Demon Queen</a></li>
