@@ -232,6 +232,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/10/04/boa/">Boa</a></li>
 				<li><a href="/2020/10/16/boar/">Boar</a></li>
 				<li><a href="/2023/10/28/body-count-1986/">Body Count</a> <span>(1986)</span></li>
+				<li class="shitty"><a href="/2024/10/18/body-melt/">Body Melt</a></li>
 				<li class="shitty"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
 				<li><a href="/2013/11/26/boondock-saints/">Boondock Saints, The</a></li>
 				<li><a href="/2021/10/15/bornless-ones/">Bornless Ones</a></li>
