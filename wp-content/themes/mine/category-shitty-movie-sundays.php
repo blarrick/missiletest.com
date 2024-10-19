@@ -267,6 +267,7 @@ get_header(); ?>
 				<li class="has-image demolitionist" onclick="location.href='/2021/12/26/demolitionist/';"><a href="/2021/12/26/demolitionist/">The Demolitionist</a></li>
 				<li class="has-image mountaintop-motel-massacre" onclick="location.href='/2023/10/16/mountaintop-motel-massacre/';"><a href="/2023/10/16/mountaintop-motel-massacre/">Mountaintop Motel Massacre</a></li>
 				<li class="has-image lost-empire" onclick="location.href='/2023/02/19/lost-empire/';"><a href="/2023/02/19/lost-empire/">The Lost Empire</a></li>
+				<li class="has-image triffids-1963" onclick="location.href='/2024/10/19/triffids-1963/';"><a href="/2024/10/19/triffids-1963/">The Day of the Triffids (1963)</a></li>
 				<li class="has-image martial-law" onclick="location.href='/2022/03/20/martial-law/';"><a href="/2022/03/20/martial-law/">Martial Law (1990)</a></li>
 				<li class="has-image hellraiser-hellworld" onclick="location.href='/2021/10/28/hellraiser-hellworld/';"><a href="/2021/10/28/hellraiser-hellworld/">Hellraiser VIII: Hellworld</a></li>
 				<li class="has-image skeptic" onclick="location.href='/2013/10/16/skeptic/';"><a href="/2013/10/16/skeptic/">The Skeptic</a></li>

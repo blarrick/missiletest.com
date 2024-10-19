@@ -365,6 +365,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2010/10/07/dawn-dead/">Dawn of the Dead</a> <span>(1978)</span></li>
 				<li><a href="/2009/10/21/dawn-dead-2004/">Dawn of the Dead</a> <span>(2004)</span></li>
 				<li><a href="/2010/10/28/day-of-the-dead/">Day of the Dead</a></li>
+				<li class="shitty"><a href="/2024/10/19/triffids-1963/">Day of the Triffids, The</a> <span>(1963)</span></li>
 				<li class="shitty"><a href="/2021/12/05/day-world-ended/">Day the World Ended</a></li>
 				<li class="shitty"><a href="/2017/08/20/daylight/">Daylight</a></li>
 				<li class="reco"><a href="/2010/10/14/dead-alive/">Dead Alive, aka Braindead</a></li>
