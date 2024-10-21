@@ -496,6 +496,7 @@ get_header(); ?>
 				<li class="has-image end-world-1977" onclick="location.href='/2021/07/18/end-of-the-world-1977/';"><a href="/2021/07/18/end-of-the-world-1977/">End of the World (1977)</a></li>
 				<li class="has-image gingerdead" onclick="location.href='/2024/10/05/gingerdead-man/';"><a href="/2024/10/05/gingerdead-man/">The Gingerdead Man</a></li>
 				<li class="has-image boa" onclick="location.href='/2022/10/04/boa/';"><a href="/2022/10/04/boa/">Boa</a></li>
+				<li class="has-image zombie-cop" onclick="location.href='/2024/10/20/zombie-cop/';"><a href="/2024/10/20/zombie-cop/">Zombie Cop</a></li>
 				<li class="has-image rollerball-2002" onclick="location.href='/2016/11/13/rollerball/';"><a href="/2016/11/13/rollerball/">Rollerball (2002)</a></li>
 				<li class="has-image attack-unknown" onclick="location.href='/2021/12/19/attack-unknown/';"><a href="/2021/12/19/attack-unknown/">Attack of the Unknown</a></li>
 				<li class="has-image project-moonbase" onclick="location.href='/2019/02/17/project-moonbase/';"><a href="/2019/02/17/project-moonbase/">Project Moonbase</a></li>

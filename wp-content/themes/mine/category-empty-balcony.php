@@ -1313,8 +1313,9 @@ get_header(); ?>
 			<ul>
 				<li><a href="/2008/02/25/zodiac/">Zodiac</a></li>
 				<li class="shitty"><a href="/2015/10/10/zombeavers/">Zombeavers</a></li>
-				<li class="shitty"><a href="/2011/10/07/zombi-2/">Zombi 2</a></li>
+				<li class="shitty"><a href="/2011/10/07/zombi-2/">Zombi 2</a></li>				
 				<li class="shitty"><a href="/2022/10/20/zombi-3/">Zombi 3</a></li>
+				<li class="shitty"><a href="/2024/10/20/zombie-cop/">Zombie Cop</a></li>
 				<li class="shitty"><a href="/2023/10/14/zombie-island-massacre/">Zombie Island Massacre</a></li>
 				<li class="shitty"><a href="/2023/10/05/anthropophagus/">Zombie’s Rage, The, aka Anthropophagus</a></li>
 				<li><a href="/2009/10/05/zombieland/">Zombieland</a></li>
