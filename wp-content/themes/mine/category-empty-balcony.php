@@ -410,6 +410,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2023/08/06/detention-2003/">Detention</a> <span>(2003)</span></li>
 				<li class="shitty"><a href="/2018/11/18/detour/">Detour</a></li>
 				<li class="shitty"><a href="/2021/10/13/devil-below/">Devil Below, The</a></li>
+				<li class="shitty"><a href="/2024/10/21/devil-story/">Devil Story</a></li>
 				<li class="shitty"><a href="/2019/12/01/devils-express/">Devil’s Express</a></li>
 				<li class="shitty"><a href="/2020/10/21/devils-hand/">Devil’s Hand, The</a></li>
 				<li><a href="/2020/10/15/devils-nightmare/">Devil’s Nightmare, The</a></li>
@@ -675,6 +676,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2012/10/13/spit-grave/">I Spit on Your Grave</a></li>
 				<li class="shitty"><a href="/2022/02/06/ice-twisters/">Ice Twisters</a></li>
 				<li class="shitty"><a href="/2021/10/20/bloody-pit-of-horror/">Il boia scarlatto, aka Bloody Pit of Horror</a></li>
+				<li class="shitty"><a href="/2024/10/21/devil-story/">Il était une fois…le diable, aka Devil Story</a></li>
 				<li class="shitty"><a href="/2017/01/29/the-bronx-executioner-or-frankensteins-movie/">Il giustiziere del Bronx, aka The Bronx Executioner</a></li>
 				<li class="shitty"><a href="/2023/02/26/exterminators-year-3000/">Il giustiziere della strada, aka The Exterminators of the Year 3000</a></li>
 				<li class="shitty"><a href="/2019/10/23/impulse-1974/">Impulse</a> <span>(1974)</span></li>
