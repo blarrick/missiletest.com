@@ -1100,6 +1100,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2013/03/07/shitty-idea-2/">Shitty Movie Ideas: Tossing Pie</a></li>
 				<li><a href="/2015/10/25/october-horrorshow-shivers/">Shivers</a></li>
 				<li><a href="/2018/10/22/shock/">Shock</a></li>
+				<li><a href="/2024/10/23/shocker/">Shocker</a></li>
 				<li><a href="/2017/09/10/shot-caller/">Shot Caller</a></li>
 				<li><a href="/2013/10/29/shutter/">Shutter</a> <span>(2004)</span></li>
 				<li class="shitty"><a href="/2022/11/06/silencer-1992/">Silencer, The</a> <span>(1992)</span></li>
