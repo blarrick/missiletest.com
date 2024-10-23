@@ -540,6 +540,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2016/11/20/escape-from-the-bronx/">Fuga dal Bronx, aka Escape from the Bronx</a></li>
 				<li class="reco"><a href="/2008/02/04/full-metal-jacket/">Full Metal Jacket</a></li>
 				<li><a href="/2021/10/08/funeral-home/">Funeral Home, The</a></li>
+				<li><a href="/2024/10/22/funhouse/">Funhouse, The</a></li>
 				<li><a href="/2020/10/20/furies-2019/">Furies, The</a> <span>(2019)</span></li>
 				<li class="shitty"><a href="/2021/10/24/fury-of-the-wolfman/">Fury of the Wolfman</a></li>
 				<li class="shitty"><a href="/2023/11/19/future-force/">Future Force</a></li>
