@@ -968,6 +968,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/02/17/project-moonbase/">Project Moonbase</a></li>
 				<li><a href="/2014/10/24/prom-night/">Prom Night</a></li>
 				<li><a href="/2014/10/03/prophecy/">Prophecy, The</a></li>
+				<li class="shitty"><a href="/2024/10/24/proteus-1995/">Proteus</a> <span>(1995)</span></li>
 				<li class="shitty"><a href="/2018/10/28/the-prowler/">Prowler, The</a></li>
 				<li class="reco"><a href="/2012/10/21/psycho-ii/">Psycho II</a></li>
 				<li><a href="/2012/10/29/psycho-iii/">Psycho III</a></li>

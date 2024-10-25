@@ -336,6 +336,7 @@ get_header(); ?>
 				<li class="has-image slime-city-massacre" onclick="location.href='/2023/10/17/slime-city-massacre/';"><a href="/2023/10/17/slime-city-massacre/">Slime City Massacre</a></li>
 				<li class="has-image crab-monsters" onclick="location.href='/2014/10/15/crab-monsters/';"><a href="/2014/10/15/crab-monsters/">Attack of the Crab Monsters</a></li>
 				<li class="has-image raiders-atlantis" onclick="location.href='/2017/07/09/raiders-of-atlantis/';"><a href="/2017/07/09/raiders-of-atlantis/">The Raiders of Atlantis</a></li>
+				<li class="has-image proteus-1995" onclick="location.href='/2024/10/24/proteus-1995/';"><a href="/2024/10/24/proteus-1995/">Proteus (1995)</a></li>
 				<li class="has-image mindkiller" onclick="location.href='/2023/10/22/mindkiller/';"><a href="/2023/10/22/mindkiller/">Mindkiller</a></li>
 				<li class="has-image prince-darkness" onclick="location.href='/2008/12/29/prince-of-darkness/';"><a href="/2008/12/29/prince-of-darkness/">Prince of Darkness</a></li>
 				<li class="has-image shadowzone" onclick="location.href='/2024/10/04/shadowzone/';"><a href="/2024/10/04/shadowzone/">Shadowzone</a></li>
