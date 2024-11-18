@@ -313,6 +313,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2014/05/07/commando/">Commando</a></li>
 				<li class="reco"><a href="/2014/05/03/conan-the-barbarian/">Conan the Barbarian</a></li>
 				<li><a href="/2014/05/04/conan-the-destroyer/">Conan the Destroyer</a></li>
+				<li class="shitty"><a href="/2024/11/17/savage-hunt/">Condor’s Run, aka Savage Hunt</a></li>
 				<li class="reco"><a href="/2013/10/22/conjuring/">Conjuring, The</a></li>
 				<li><a href="/2016/10/26/the-conjuring-2/">Conjuring 2, The</a></li>
 				<li><a href="/2016/10/14/constantine/">Constantine</a></li>
@@ -1073,6 +1074,7 @@ get_header(); ?>
 				<li><a href="/2020/10/08/alive/">#Saraitda, aka #Alive</a></li>
 				<li class="shitty"><a href="/2017/10/31/satanic-rites-of-dracula/">Satanic Rites of Dracula, The</a></li>
 				<li class="shitty"><a href="/2024/07/07/savage-dawn/">Savage Dawn</a></li>
+				<li class="shitty"><a href="/2024/11/17/savage-hunt/">Savage Hunt</a></li>
 				<li class="shitty"><a href="/2023/10/05/anthropophagus/">Savage Island, The, aka Anthropophagus</a></li>
 				<li><a href="/2012/12/08/savages/">Savages</a></li>
 				<li><a href="/2015/10/12/saw/">Saw</a></li>
