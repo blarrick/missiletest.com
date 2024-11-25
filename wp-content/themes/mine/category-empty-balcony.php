@@ -324,6 +324,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/10/25/sniper-corpse/">Corpse Sniper, aka Sniper Corpse</a></li>
 				<li class="shitty"><a href="/2022/02/20/cosmic-sin/">Cosmic Sin</a></li>
 				<li class="shitty"><a href="/2018/02/18/cosmos/">Cosmos: War of the Planets</a></li>
+				<li class="shitty"><a href="/2024/11/24/country-blue/">Country Blue</a></li>
 				<li><a href="/2019/10/24/crawl/">Crawl</a></li>
 				<li class="shitty"><a href="/2022/10/24/creeping-terror/">Crawling Monster, The, aka The Creeping Terror</a></li>
 				<li><a href="/2012/10/01/crazies-1973/">Crazies, The</a> <span>(1973)</span></li>
@@ -918,6 +919,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2013/03/24/olympus-has-fallen/">Olympus Has Fallen</a></li>
 				<li><a href="/2009/01/09/i-am-legend/">Omega Man, The</a></li>
 				<li class="shitty"><a href="/2022/03/13/on-the-edge/">On the Edge</a> <span>(2002)</span></li>
+				<li class="shitty"><a href="/2024/11/24/country-blue/">On the Run, aka Country Blue</a></li>
 				<li><a href="/2014/12/09/one-i-love/">One I Love, The</a></li>
 				<li class="shitty"><a href="/2013/07/31/orca/">Orca</a></li>
 				<li><a href="/2012/10/06/orphanage/">Orphanage, The</a></li>

@@ -249,6 +249,7 @@ get_header(); ?>
 				<li class="has-image manster" onclick="location.href='/2019/10/28/manster/';"><a href="/2019/10/28/manster/">The Manster</a></li>
 				<li class="has-image mary-lou" onclick="location.href='/2014/10/25/prom-night-ii/';"><a href="/2014/10/25/prom-night-ii/">Hello Mary Lou: Prom Night II</a></li>
 				<li class="has-image prowler" onclick="location.href='/2018/10/28/the-prowler/';"><a href="/2018/10/28/the-prowler/">The Prowler</a></li>
+				<li class="has-image country-blue" onclick="location.href='/2024/11/24/country-blue/';"><a href="/2024/11/24/country-blue/">Country Blue</a></li>
 				<li class="has-image truth-dare" onclick="location.href='/2022/10/10/truth-or-dare/';"><a href="/2022/10/10/truth-or-dare/">Truth or Dare?</a></li>
 				<li class="has-image point-terror" onclick="location.href='/2020/05/10/point-of-terror/';"><a href="/2020/05/10/point-of-terror/">Point of Terror</a></li>
 				<li class="has-image womens-massacre" onclick="location.href='/2017/09/17/womens-prison-massacre/';"><a href="/2017/09/17/womens-prison-massacre/">Women’s Prison Massacre</a></li>
