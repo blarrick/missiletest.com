@@ -313,6 +313,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2014/05/07/commando/">Commando</a></li>
 				<li class="reco"><a href="/2014/05/03/conan-the-barbarian/">Conan the Barbarian</a></li>
 				<li><a href="/2014/05/04/conan-the-destroyer/">Conan the Destroyer</a></li>
+				<li class="shitty"><a href="/2024/12/22/concrete-jungle/">Concrete Jungle, The</a> <span>(1982)</span></li>
 				<li class="shitty"><a href="/2024/11/17/savage-hunt/">Condor’s Run, aka Savage Hunt</a></li>
 				<li class="reco"><a href="/2013/10/22/conjuring/">Conjuring, The</a></li>
 				<li><a href="/2016/10/26/the-conjuring-2/">Conjuring 2, The</a></li>
