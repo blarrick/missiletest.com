@@ -126,6 +126,7 @@ get_header(); ?>
 				<li class="has-image policewomen" onclick="location.href='/2020/08/16/policewomen/';"><a href="/2020/08/16/policewomen/">Policewomen</a></li>
 				<li class="has-image nemesis-1992" onclick="location.href='/2023/01/08/nemesis-1992/';"><a href="/2023/01/08/nemesis-1992/">Nemesis (1992)</a></li>
 				<li class="has-image damnation-alley" onclick="location.href='/2019/03/17/damnation-alley/';"><a href="/2019/03/17/damnation-alley/">Damnation Alley</a></li>
+				<li class="has-image body-count-1995" onclick="location.href='/2025/01/19/body-count-1995/';"><a href="/2025/01/19/body-count-1995/">Body Count (1995)</a></li>
 				<li class="has-image primal-2019" onclick="location.href='/2019/12/08/primal-2019/';"><a href="/2019/12/08/primal-2019/">Primal (2019)</a></li>
 				<li class="has-image children-corn-2" onclick="location.href='/2021/10/10/children-corn-2/';"><a href="/2021/10/10/children-corn-2/">Children of the Corn II: The Final Sacrifice</a></li>
 				<li class="has-image hell-living-dead" onclick="location.href='/2020/10/30/hell-of-the-living-dead/';"><a href="/2020/10/30/hell-of-the-living-dead/">Hell of the Living Dead</a></li>

@@ -233,6 +233,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/10/04/boa/">Boa</a></li>
 				<li><a href="/2020/10/16/boar/">Boar</a></li>
 				<li><a href="/2023/10/28/body-count-1986/">Body Count</a> <span>(1986)</span></li>
+				<li class="shitty"><a href="/2025/01/19/body-count-1995/">Body Count</a> <span>(1995)</span></li>
 				<li class="shitty"><a href="/2024/10/18/body-melt/">Body Melt</a></li>
 				<li class="shitty"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
 				<li><a href="/2013/11/26/boondock-saints/">Boondock Saints, The</a></li>
@@ -305,6 +306,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/08/10/cobra/">Cobra</a></li>
 				<li><a href="/2013/10/16/cockneys/">Cockneys vs Zombies</a></li>
 				<li class="shitty"><a href="/2020/07/12/cocktail/">Cocktail</a></li>
+				<li class="shitty"><a href="/2025/01/19/body-count-1995/">Codename: Silencer, aka Body Count</a></li>
 				<li><a href="/2017/10/16/cold-prey/">Cold Prey</a></li>
 				<li><a href="/2014/05/23/collateral-damage/">Collateral Damage</a></li>
 				<li class="shitty"><a href="/2024/06/16/colonials/">Colonials</a></li>
