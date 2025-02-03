@@ -153,6 +153,7 @@ get_header(); ?>
 				<li class="has-image empire-ash-iii" onclick="location.href='/2020/09/27/empire-of-ash-iii/';"><a href="/2020/09/27/empire-of-ash-iii/">Empire of Ash III</a></li>
 				<li class="has-image raw-deal" onclick="location.href='/2014/05/08/raw-deal/';"><a href="/2014/05/08/raw-deal/">Raw Deal</a></li>
 				<li class="has-image terror-beverly" onclick="location.href='/2022/01/16/terror-in-beverly-hills/';"><a href="/2022/01/16/terror-in-beverly-hills/">Terror in Beverly Hills</a></li>
+				<li class="has-image last-finest" onclick="location.href='/2025/02/02/last-of-the-finest/';"><a href="/2025/02/02/last-of-the-finest/">The Last of the Finest</a></li>
 				<li class="has-image motel-hell" onclick="location.href='/2021/10/28/motel-hell/';"><a href="/2021/10/28/motel-hell/">Motel Hell</a></li>
 				<li class="has-image death-chase" onclick="location.href='/2024/04/21/death-chase/';"><a href="/2024/04/21/death-chase/">Death Chase</a></li>
 				<li class="has-image blood-sabbath" onclick="location.href='/2020/10/13/blood-sabbath/';"><a href="/2020/10/13/blood-sabbath/">Blood Sabbath</a></li>

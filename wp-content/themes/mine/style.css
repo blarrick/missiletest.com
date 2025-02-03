@@ -5126,6 +5126,11 @@ blockquote:after,
                   background-repeat: no-repeat;
                   background-size: cover;
                   background-position: center top; }
+                .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.last-finest {
+                  background: url(/wp-content/uploads/2025/02/last-finest-thumb.jpg);
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center top; }
               .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li a {
                 border: none;
                 border-width: 0;

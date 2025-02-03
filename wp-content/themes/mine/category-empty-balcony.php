@@ -787,6 +787,7 @@ get_header(); ?>
 				<li><a href="/2023/10/18/jungle-holocaust/">Last Cannibal World, aka Jungle Holocaust</a></li>
 				<li class="shitty"><a href="/2013/10/08/last-exorcism-ii/">Last Exorcism Part II, The</a></li>
 				<li><a href="/2009/01/09/i-am-legend/">Last Man on Earth, The</a></li>
+				<li class="shitty"><a href="/2025/02/02/last-of-the-finest/">Last of the Finest, The</a></li>
 				<li class="shitty"><a href="/2020/09/27/empire-of-ash-iii/">Last of the Warriors, aka Empire of Ash III</a></li>
 				<li class="shitty"><a href="/2022/12/18/last-sentinel-2007/">Last Sentinel, The</a> <span>(2007)</span></li>
 				<li class="shitty"><a href="/2017/02/19/last-shark/">Last Shark, The</a></li>
