@@ -234,6 +234,7 @@ get_header(); ?>
 				<li class="has-image humanity-bureau" onclick="location.href='/2018/08/13/humanity-bureau/';"><a href="/2018/08/13/humanity-bureau/">The Humanity Bureau</a></li>
 				<li class="has-image critters-4" onclick="location.href='/2021/10/23/critters-4/';"><a href="/2021/10/23/critters-4/">Critters 4</a></li>
 				<li class="has-image hellcats" onclick="location.href='/2024/03/24/hellcats-1968/';"><a href="/2024/03/24/hellcats-1968/">The Hellcats (1968)</a></li>
+				<li class="has-image lockout-2012" onclick="location.href='/2025/02/09/lockout-2012/';"><a href="/2025/02/09/lockout-2012/">Lockout (2012)</a></li>
 				<li class="has-image ice-twisters" onclick="location.href='/2022/02/06/ice-twisters/';"><a href="/2022/02/06/ice-twisters/">Ice Twisters</a></li>
 				<li class="has-image mach-2" onclick="location.href='/2019/04/28/mach-2/';"><a href="/2019/04/28/mach-2/">Mach 2</a></li>
 				<li class="has-image chilling" onclick="location.href='/2017/01/15/the-chilling/';"><a href="/2017/01/15/the-chilling/">The Chilling</a></li>

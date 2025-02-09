@@ -811,6 +811,7 @@ get_header(); ?>
 				<li><a href="/2023/10/07/new-york-ripper/">Lo squartatore di New York, aka The New York Ripper</a></li>
 				<li><a href="/2017/08/13/lock-up/">Lock Up</a></li>
 				<li><a href="/2024/10/03/lockdown-tower/">Lockdown Tower</a></li>
+				<li class="shitty"><a href="/2025/02/09/lockout-2012/">Lockout</a> <span>(2012)</span></li>
 				<li class="reco"><a href="/2009/03/30/logans-run/">Logan’s Run</a></li>
 				<li><a href="/2021/10/17/similars/">Los Parecidos, aka The Similars</a></li>
 				<li><a href="/2018/10/16/lost-boys/">Lost Boys, The</a></li>
