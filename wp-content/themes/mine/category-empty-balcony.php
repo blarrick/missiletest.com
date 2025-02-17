@@ -139,6 +139,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/10/03/anacondas/">Anacondas: Hunt for the Blood Orchid</a></li>
 				<li><a href="/2023/10/23/i-saw-the-devil/">Ang-ma-reul bo-at-da, aka I Saw the Devil</a></li>
 				<li class="shitty"><a href="/2021/02/07/angel-town/">Angel Town</a></li>
+				<li class="shitty"><a href="/2025/02/16/angels-of-the-city/">Angels of the City</a></li>
 				<li><a href="/2015/10/03/annabelle/">Annabelle</a></li>
 				<li class="shitty"><a href="/2018/02/18/cosmos/">Anno zero - Guerra nello spazio, aka Cosmos: War of the Planets</a></li>
 				<li class="shitty"><a href="/2023/10/05/anthropophagus/">Anthropophagus</a></li>

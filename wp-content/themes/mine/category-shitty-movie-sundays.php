@@ -339,6 +339,7 @@ get_header(); ?>
 				<li class="has-image ghosts-georgia" onclick="location.href='/2013/10/10/ghosts-of-georgia/';"><a href="/2013/10/10/ghosts-of-georgia/">The Haunting in Connecticut 2: Ghosts of Georgia</a></li>
 				<li class="has-image rats-terror" onclick="location.href='/2019/10/17/rats-night-of-terror/';"><a href="/2019/10/17/rats-night-of-terror/">Rats: Night of Terror</a></li>
 				<li class="has-image slime-city-massacre" onclick="location.href='/2023/10/17/slime-city-massacre/';"><a href="/2023/10/17/slime-city-massacre/">Slime City Massacre</a></li>
+				<li class="has-image angels-city" onclick="location.href='/2025/02/16/angels-of-the-city/';"><a href="/2025/02/16/angels-of-the-city/">Angels of the City</a></li>
 				<li class="has-image crab-monsters" onclick="location.href='/2014/10/15/crab-monsters/';"><a href="/2014/10/15/crab-monsters/">Attack of the Crab Monsters</a></li>
 				<li class="has-image raiders-atlantis" onclick="location.href='/2017/07/09/raiders-of-atlantis/';"><a href="/2017/07/09/raiders-of-atlantis/">The Raiders of Atlantis</a></li>
 				<li class="has-image proteus-1995" onclick="location.href='/2024/10/24/proteus-1995/';"><a href="/2024/10/24/proteus-1995/">Proteus (1995)</a></li>
