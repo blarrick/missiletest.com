@@ -318,7 +318,8 @@ get_header(); ?>
 				<li class="has-image amityville-ii" onclick="location.href='/2021/10/01/amityville-ii/';"><a href="/2021/10/01/amityville-ii/">Amityville II: The Possession</a></li>
 				<li class="has-image colossal-beast" onclick="location.href='/2018/10/14/war-of-the-colossal-beast/';"><a href="/2018/10/14/war-of-the-colossal-beast/">War of the Colossal Beast</a></li>
 				<li class="has-image resident-extinction" onclick="location.href='/2008/06/09/resident-evil-extinction/';"><a href="/2008/06/09/resident-evil-extinction/">Resident Evil: Extinction</a></li>
-				<li class="has-image detour" onclick="location.href='/2018/11/18/detour/';"><a href="/2018/11/18/detour/">Detour</a></li>			 	
+				<li class="has-image kind-strangers" onclick="location.href='/2025/03/09/all-the-kind-strangers/';"><a href="/2025/03/09/all-the-kind-strangers/">All the Kind Strangers</a></li>
+				<li class="has-image detour" onclick="location.href='/2018/11/18/detour/';"><a href="/2018/11/18/detour/">Detour</a></li>
 				<li class="has-image tingler" onclick="location.href='/2019/10/27/the-tingler/';"><a href="/2019/10/27/the-tingler/">The Tingler</a></li>
 				<li class="has-image cosmic-sin" onclick="location.href='/2022/02/20/cosmic-sin/';"><a href="/2022/02/20/cosmic-sin/">Cosmic Sin</a></li>
 				<li class="has-image critters-3" onclick="location.href='/2021/10/22/critters-3/';"><a href="/2021/10/22/critters-3/">Critters 3</a></li>

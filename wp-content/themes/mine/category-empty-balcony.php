@@ -120,6 +120,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/04/14/alien-warfare/">Alien Warfare</a></li>
 				<li class="reco"><a href="/2008/05/21/aliens/">Aliens</a></li>
 				<li><a href="/2020/10/08/alive/">#Alive</a></li>
+				<li class="shitty"><a href="/2025/03/09/all-the-kind-strangers/">All the Kind Strangers</a></li>
 				<li><a href="/2020/05/20/all-the-right-moves/">All the Right Moves</a></li>
 				<li><a href="/2022/10/30/alligator/">Alligator</a></li>
 				<li class="shitty"><a href="/2023/10/25/alligator-people/">Alligator People, The</a></li>
