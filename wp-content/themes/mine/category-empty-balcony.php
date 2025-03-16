@@ -1166,6 +1166,7 @@ get_header(); ?>
 				<li><a href="/2014/01/22/stick/">Stick</a></li>
 				<li class="shitty"><a href="/2017/08/16/stop-or-my-mom-will-shoot/">Stop! Or My Mom Will Shoot</a></li>
 				<li class="shitty"><a href="/2018/01/21/strike-commando/">Strike Commando</a></li>
+				<li class="shitty"><a href="/2025/03/16/strike-commando-2/">Strike Commando 2</a></li>
 				<li class="shitty"><a href="/2013/10/24/stuff/">Stuff, The</a></li>
 				<li class="shitty"><a href="/2015/08/26/substitute/">Substitute, The</a></li>
 				<li class="shitty"><a href="/2019/12/01/devils-express/">Subway to Hell, aka Devil’s Express</a></li>
@@ -1231,6 +1232,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2011/03/07/trancers/">Trancers</a></li>
 				<li class="shitty"><a href="/2011/03/26/trancers-ii/">Trancers II</a></li>
 				<li class="shitty"><a href="/2009/04/17/transporter/">Transporter, The</a></li>
+				<li class="shitty"><a href="/2025/03/16/strike-commando-2/">Trappola diabolica, aka Strike Commando 2</a></li>
 				<li class="reco"><a href="/2013/10/29/tremors/">Tremors</a></li>
 				<li class="shitty"><a href="/2023/07/23/triassic-hunt/">Triassic Hunt</a></li>
 				<li><a href="/2015/10/27/trick-r-treat/">Trick ‘r Treat</a></li>
