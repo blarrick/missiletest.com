@@ -680,6 +680,7 @@ get_header(); ?>
 				<li><a href="/2017/10/07/pretty-thing/">I Am the Pretty Thing That Lives in the House</a></li>
 				<li><a href="/2023/10/16/torso/">I corpi presentano tracce di violenza carnale, aka Torso</a></li>
 				<li class="shitty"><a href="/2017/06/18/new-gladiators/">I guerrieri dell'anno 2072, aka The New Gladiators</a></li>
+				<li class="shitty"><a href="/2016/12/11/the-new-barbarians/">I nuovi barbari, aka The New Barbarians</a></li>
 				<li class="shitty"><a href="/2017/07/09/raiders-of-atlantis/">I predatori di Atlantide, aka The Raiders of Atlantis</a></li>
 				<li><a href="/2023/10/23/i-saw-the-devil/">I Saw the Devil</a></li>
 				<li><a href="/2013/10/29/sell-the-dead/">I Sell the Dead</a></li>
@@ -1290,6 +1291,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/10/14/war-of-the-colossal-beast/">War of the Colossal Beast</a></li>
 				<li class="shitty"><a href="/2024/01/28/war-satellites/">War of the Satellites</a></li>
 				<li class="reco"><a href="/2015/10/09/war-of-the-worlds-1953/">War of the Worlds, The</a></li>
+				<li class="shitty"><a href="/2016/12/11/the-new-barbarians/">Warriors of the Wasteland, aka The New Barbarians</a></li>
 				<li class="shitty"><a href="/2020/05/03/battletruck/">Warlords of the Twenty-First Century, aka Battletruck</a></li>
 				<li class="shitty"><a href="/2017/06/18/new-gladiators/">Warriors of the Year 2072, aka The New Gladiators</a></li>
 				<li><a href="/2023/10/23/wax-mask/">Wax Mask, The</a></li>
