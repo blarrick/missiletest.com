@@ -80,6 +80,7 @@ get_header(); ?>
 				<li class="has-image backdraft" onclick="location.href='/2012/09/10/backdraft/';"><a href="/2012/09/10/backdraft/">Backdraft</a></li>
 				<li class="has-image elm-street-3" onclick="location.href='/2021/10/05/elm-street-3/';"><a href="/2021/10/05/elm-street-3/">A Nightmare on Elm Street 3: Dream Warriors</a></li>
 				<li class="has-image robowar" onclick="location.href='/2023/03/12/robowar/';"><a href="/2023/03/12/robowar/">Robowar</a></li>
+				<li class="has-image mutant-hunt" onclick="location.href='/2025/04/13/mutant-hunt/';"><a href="/2025/04/13/mutant-hunt/">Mutant Hunt</a></li>
 				<li class="has-image white-house-down" onclick="location.href='/2014/01/15/white-house-down/';"><a href="/2014/01/15/white-house-down/">White House Down</a></li>
 				<li class="has-image friday-13th-4" onclick="location.href='/2009/10/15/friday-13th-4/';"><a href="/2009/10/15/friday-13th-4/">Friday the 13th: The Final Chapter</a></li>
 				<li class="has-image substitute" onclick="location.href='/2015/08/26/substitute/';"><a href="/2015/08/26/substitute/">The Substitute</a></li>
@@ -471,6 +472,7 @@ get_header(); ?>
 				<li class="has-image thirsty-dead" onclick="location.href='/2020/03/08/thirsty-dead/';"><a href="/2020/03/08/thirsty-dead/">The Thirsty Dead</a></li>
 				<li class="has-image metamorphosis-1990" onclick="location.href='/2023/10/30/metamorphosis/';"><a href="/2023/10/30/metamorphosis/">Metamorphosis (1990)</a></li>
 				<li class="has-image deadly-reactor" onclick="location.href='/2024/05/19/deadly-reactor/';"><a href="/2024/05/19/deadly-reactor/">Deadly Reactor</a></li>
+				<li class="has-image diamond-dogs" onclick="location.href='/2025/03/30/diamond-dogs/';"><a href="/2025/03/30/diamond-dogs/">Diamond Dogs (2007)</a></li>
 				<li class="has-image fortress" onclick="location.href='/2022/04/17/fortress-2021/';"><a href="/2022/04/17/fortress-2021/">Fortress (2021)</a></li>
 				<li class="has-image armed-response-2017" onclick="location.href='/2020/04/05/armed-response-2017/';"><a href="/2020/04/05/armed-response-2017/">Armed Response</a></li>
 				<li class="has-image larceny-2017" onclick="location.href='/2025/01/12/larceny-2017/';"><a href="/2025/01/12/larceny-2017/">Larceny (2017)</a></li>

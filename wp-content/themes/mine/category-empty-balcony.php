@@ -425,6 +425,7 @@ get_header(); ?>
 				<li><a href="/2020/10/15/devils-nightmare/">Devil’s Nightmare, The</a></li>
 				<li><a href="/2018/10/07/devils-pass/">Devil’s Pass</a></li>
 				<li class="shitty"><a href="/2023/10/09/devils-rain/">Devil’s Rain, The</a></li>
+				<li class="shitty"><a href="/2025/03/30/diamond-dogs/">Diamond Dogs</a> <span>(2007)</span></li>
 				<li><a href="/2010/10/29/diary-of-the-dead/">Diary of the Dead</a></li>
 				<li class="reco"><a href="/2012/09/06/dirty-harry/">Dirty Harry</a></li>
 				<li class="shitty"><a href="/2014/12/22/disaster-on-the-coastliner/">Disaster on the Coastliner</a></li>
@@ -872,6 +873,7 @@ get_header(); ?>
 				<li><a href="/2018/03/25/mr-majestyk/">Mr. Majestyk</a></li>
 				<li><a href="/2017/10/01/the-mummy/">Mummy, The</a> <span>(1959)</span></li>
 				<li><a href="/2017/10/13/mummys-shroud/">Mummy's Shroud, The</a></li>
+				<li class="shitty"><a href="/2025/04/13/mutant-hunt/">Mutant Hunt</a></li>
 				<li><a href="/2014/10/07/mutants/">Mutants</a></li>
 				<li class="shitty"><a href="/2023/10/08/mutilator/">Mutilator, The</a></li>
 				<li class="shitty"><a href="/2013/10/22/my-bloody-valentine/">My Bloody Valentine</a> <span>(1981)</span></li>
