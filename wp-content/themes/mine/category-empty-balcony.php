@@ -127,6 +127,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2012/10/16/alone-dark/">Alone in the Dark</a> <span>(1982)</span></li>
 				<li class="shitty"><a href="/2018/10/13/amazing-colossal-man/">Amazing Colossal Man, The</a></li>
 				<li class="shitty"><a href="/2020/03/15/amazing-transparent-man/">Amazing Transparent Man, The</a></li>
+				<li class="shitty"><a href="/2025/04/20/brave-platoon/">American Force: The Brave Platoon, aka Brave Platoon, The</a></li>
 				<li><a href="/2014/03/24/american-hustle/">American Hustle</a></li>
 				<li><a href="/2019/05/26/renegades/">American Renegades, aka Renegades</a></li>
 				<li class="shitty"><a href="/2021/10/01/amityville-ii/">Amityville II: The Possession</a></li>
@@ -246,6 +247,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/10/25/brain-twisters/">Brain Twisters</a></li>
 				<li class="reco"><a href="/2010/10/14/dead-alive/">Braindead, aka Dead Alive</a></li>
 				<li><a href="/2014/10/16/dracula/">Bram Stoker’s Dracula</a></li>
+				<li class="shitty"><a href="/2025/04/20/brave-platoon/">Brave Platoon, The</a></li>
 				<li><a href="/2019/01/27/braven/">Braven</a></li>
 				<li><a href="/2021/10/16/bride-of-chucky/">Bride of Chucky</a></li>
 				<li class="shitty"><a href="/2019/10/03/bride-gorilla/">Bride of the Gorilla</a></li>

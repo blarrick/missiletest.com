@@ -467,6 +467,7 @@ get_header(); ?>
 				<li class="has-image killing-season" onclick="location.href='/2014/01/06/killing-season/';"><a href="/2014/01/06/killing-season/">Killing Season</a></li>
 				<li class="has-image red-dawn-2012" onclick="location.href='/2013/03/06/red-dawn-2012/';"><a href="/2013/03/06/red-dawn-2012/">Red Dawn (2012)</a></li>
 				<li class="has-image missionary-man" onclick="location.href='/2024/03/17/missionary-man/';"><a href="/2024/03/17/missionary-man/">Missionary Man</a></li>
+				<li class="has-image brave-platoon" onclick="location.href='/2025/04/20/brave-platoon/';"><a href="/2025/04/20/brave-platoon/">The Brave Platoon</a></li>
 				<li class="has-image paradise-alley" onclick="location.href='/2017/08/02/paradise-alley/';"><a href="/2017/08/02/paradise-alley/">Paradise Alley</a></li>
 				<li class="has-image texas-blood" onclick="location.href='/2011/10/04/dusk-till-dawn-2/';"><a href="/2011/10/04/dusk-till-dawn-2/">From Dusk Till Dawn 2: Texas Blood Money</a></li>
 				<li class="has-image thirsty-dead" onclick="location.href='/2020/03/08/thirsty-dead/';"><a href="/2020/03/08/thirsty-dead/">The Thirsty Dead</a></li>
