@@ -431,6 +431,7 @@ get_header(); ?>
 				<li class="has-image french-quarter" onclick="location.href='/2023/08/13/french-quarter/';"><a href="/2023/08/13/french-quarter/">French Quarter</a></li>
 				<li class="has-image double-exposure" onclick="location.href='/2020/02/09/double-exposure/';"><a href="/2020/02/09/double-exposure/">Double Exposure</a></li>
 				<li class="has-image naked-angels" onclick="location.href='/2021/04/04/naked-angels/';"><a href="/2021/04/04/naked-angels/">Naked Angels</a></li>
+				<li class="has-image bad-black-beautiful" onclick="location.href='/2025/05/11/bad-black-and-beautiful/';"><a href="/2025/05/11/bad-black-and-beautiful/">Bad, Black and Beautiful</a></li>
 				<li class="has-image down-dirty" onclick="location.href='/2022/01/09/down-n-dirty/';"><a href="/2022/01/09/down-n-dirty/">Down ’n Dirty</a></li>
 				<li class="has-image hellraiser-inferno" onclick="location.href='/2021/10/25/hellraiser-inferno/';"><a href="/2021/10/25/hellraiser-inferno/">Hellraiser V: Inferno</a></li>
 				<li class="has-image d-tox" onclick="location.href='/2017/08/24/eye-see-you/';"><a href="/2017/08/24/eye-see-you/">Eye See You</a></li>

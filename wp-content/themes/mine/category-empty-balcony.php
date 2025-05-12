@@ -176,6 +176,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2024/10/12/backwoods-1988/">Backwoods</a> <span>(1988)</span></li>
 				<li class="shitty"><a href="/2017/05/28/bad-ass/">Bad Ass</a></li>
 				<li class="shitty"><a href="/2017/10/20/bad-ben/">Bad Ben</a></li>
+				<li class="shitty"><a href="/2025/05/11/bad-black-and-beautiful/">Bad, Black and Beautiful</a></li>
 				<li class="shitty"><a href="/2023/10/11/panic/">Bakterion, aka Panic</a></li>
 				<li class="shitty"><a href="/2023/10/06/baron-blood/">Baron Blood</a></li>
 				<li><a href="/2014/10/19/barricade/">Barricade</a></li>	
