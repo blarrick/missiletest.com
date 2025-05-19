@@ -1349,6 +1349,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2023/10/14/zombie-island-massacre/">Zombie Island Massacre</a></li>
 				<li class="shitty"><a href="/2023/10/05/anthropophagus/">Zombie’s Rage, The, aka Anthropophagus</a></li>
 				<li><a href="/2009/10/05/zombieland/">Zombieland</a></li>
+				<li class="shitty"><a href="/2025/05/18/zone-drifter/">Zone Drifter</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
 		</div>

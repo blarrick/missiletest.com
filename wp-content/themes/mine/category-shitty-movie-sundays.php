@@ -560,6 +560,7 @@ get_header(); ?>
 				<li class="has-image backwoods-1988" onclick="location.href='/2024/10/12/backwoods-1988/';"><a href="/2024/10/12/backwoods-1988/">Backwoods (1988)</a></li>
 				<li class="has-image mazes-monsters" onclick="location.href='/2017/03/26/mazes-and-monsters/';"><a href="/2017/03/26/mazes-and-monsters/">Mazes and Monsters</a></li>
 				<li class="has-image alien-sniperess" onclick="location.href='/2025/01/26/alien-sniperess/';"><a href="/2025/01/26/alien-sniperess/">Alien Sniperess</a></li>
+				<li class="has-image zone-drifter" onclick="location.href='/2025/05/18/zone-drifter/';"><a href="/2025/05/18/zone-drifter/">Zone Drifter</a></li>
 				<li class="has-image amityville-curse" onclick="location.href='/2021/10/04/amityville-curse/';"><a href="/2021/10/04/amityville-curse/">The Amityville Curse</a></li>
 				<li class="has-image sniper-corpse" onclick="location.href='/2021/10/25/sniper-corpse/';"><a href="/2021/10/25/sniper-corpse/">Sniper Corpse</a></li>
 				<li class="has-image sink-hole" onclick="location.href='/2024/05/12/sink-hole/';"><a href="/2024/05/12/sink-hole/">Sink Hole</a></li>
