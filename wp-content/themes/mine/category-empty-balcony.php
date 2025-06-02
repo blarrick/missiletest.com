@@ -1123,6 +1123,7 @@ get_header(); ?>
 				<li><a href="/2015/10/25/october-horrorshow-shivers/">Shivers</a></li>
 				<li><a href="/2018/10/22/shock/">Shock</a></li>
 				<li><a href="/2024/10/23/shocker/">Shocker</a></li>
+				<li class="shitty"><a href="/2025/06/01/terminator-ii/">Shocking Dark, aka Terminator II</a></li>
 				<li><a href="/2017/09/10/shot-caller/">Shot Caller</a></li>
 				<li><a href="/2013/10/29/shutter/">Shutter</a> <span>(2004)</span></li>
 				<li class="shitty"><a href="/2022/11/06/silencer-1992/">Silencer, The</a> <span>(1992)</span></li>
@@ -1198,6 +1199,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2023/10/08/tentacles/">Tentacles</a></li>
 				<li class="reco"><a href="/2014/05/05/terminator/">Terminator, The</a></li>
 				<li><a href="/2014/05/14/terminator-2/">Terminator 2: Judgment Day</a></li>
+				<li class="shitty"><a href="/2025/06/01/terminator-ii/">Terminator II, aka Shocking Dark</a></li>
 				<li><a href="/2014/05/24/terminator-3/">Terminator 3: Rise of the Machines</a></li>
 				<li><a href="/2016/05/12/terminator-genisys/">Terminator Genisys</a></li>
 				<li class="shitty"><a href="/2020/10/19/terrified/">Terrified</a></li>

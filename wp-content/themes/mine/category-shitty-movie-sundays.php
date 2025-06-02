@@ -225,6 +225,7 @@ get_header(); ?>
 				<li class="has-image rapid-fire-1989" onclick="location.href='/2024/05/05/rapid-fire-1989/';"><a href="/2024/05/05/rapid-fire-1989/">Rapid Fire (1989)</a></li>
 				<li class="has-image soldier" onclick="location.href='/2009/08/30/soldier/';"><a href="/2009/08/30/soldier/">Soldier</a></li>
 				<li class="has-image horror-express" onclick="location.href='/2009/01/19/horror-express/';"><a href="/2009/01/19/horror-express/">Horror Express</a></li>
+				<li class="has-image terminator-ii" onclick="location.href='/2025/06/01/terminator-ii/';"><a href="/2025/06/01/terminator-ii/">Terminator II</a></li>
 				<li class="has-image alligator-people" onclick="location.href='/2023/10/25/alligator-people/';"><a href="/2023/10/25/alligator-people/">The Alligator People</a></li>
 				<li class="has-image red-sonja" onclick="location.href='/2014/05/06/red-sonja/';"><a href="/2014/05/06/red-sonja/">Red Sonja</a></li>
 				<li class="has-image id4-resurgence" onclick="location.href='/2016/11/06/id4-resurgence/';"><a href="/2016/11/06/id4-resurgence/">Independence Day: Resurgence</a></li>
