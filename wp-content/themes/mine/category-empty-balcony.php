@@ -419,6 +419,7 @@ get_header(); ?>
 				<li><a href="/2023/10/02/demons/">Demons</a></li>
 				<li><a href="/2023/10/03/demons-2/">Demons 2</a></li>
 				<li class="shitty"><a href="/2019/10/18/derelict/">Derelict</a></li>
+				<li class="shitty"><a href="/2025/06/08/pharaohs-war/">Desert Strike, aka Pharaoh’s War</a></li>
 				<li class="shitty"><a href="/2023/08/06/detention-2003/">Detention</a> <span>(2003)</span></li>
 				<li class="shitty"><a href="/2018/11/18/detour/">Detour</a></li>
 				<li class="shitty"><a href="/2021/10/13/devil-below/">Devil Below, The</a></li>
@@ -622,6 +623,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2016/10/31/halloween-resurrection/">Halloween: Resurrection</a></li>
 				<li class="shitty"><a href="/2014/10/31/halloween-6/">Halloween: The Curse of Michael Myers</a></li>
 				<li class="shitty"><a href="/2022/10/05/hallucinations/">Hallucinations</a></li>
+				<li class="shitty"><a href="/2025/06/08/pharaohs-war/">Hamlet Pheroun, aka Pharaoh’s War</a></li>
 				<li class="shitty"><a href="/2020/04/19/hands-of-steel/">Hands of Steel</a></li>
 				<li><a href="/2013/10/15/hannibal-rising/">Hannibal Rising</a></li>
 				<li><a href="/2015/10/20/harbinger-down/">Harbinger Down</a></li>
@@ -963,6 +965,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/10/05/phantom-from-space/">Phantom from Space</a></li>
 				<li><a href="/2017/10/26/phantom-of-the-opera/">Phantom of the Opera, The</a> <span>(1962)</span></li>
 				<li><a href="/2014/10/18/phantoms/">Phantoms</a></li>
+				<li class="shitty"><a href="/2025/06/08/pharaohs-war/">Pharaoh’s War</a></li>
 				<li class="shitty"><a href="/2020/12/13/pick-up/">Pick-up</a></li>
 				<li class="shitty"><a href="/2019/10/07/pieces/">Pieces</a></li>
 				<li class="shitty"><a href="/2019/10/09/piranha/">Piranha</a> <span>(1978)</span></li>

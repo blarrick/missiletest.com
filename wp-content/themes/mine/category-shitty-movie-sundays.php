@@ -370,6 +370,7 @@ get_header(); ?>
 				<li class="has-image night-of-the-beast" onclick="location.href='/2023/10/01/night-of-the-beast/';"><a href="/2023/10/01/night-of-the-beast/">Night of the Beast</a></li>
 				<li class="has-image top-line" onclick="location.href='/2025/04/27/top-line/';"><a href="/2025/04/27/top-line/">Top Line</a></li>
 				<li class="has-image blackout" onclick="location.href='/2021/05/23/blackout/';"><a href="/2021/05/23/blackout/">The Blackout</a></li>
+				<li class="has-image pharaohs-war" onclick="location.href='/2025/06/08/pharaohs-war/';"><a href="/2025/06/08/pharaohs-war/">Pharaoh’s War</a></li>
 				<li class="has-image chernobyl-diaries" onclick="location.href='/2012/10/30/chernobyl-diaries/';"><a href="/2012/10/30/chernobyl-diaries/">Chernobyl Diaries</a></li>
 				<li class="has-image transparent-man" onclick="location.href='/2020/03/15/amazing-transparent-man/';"><a href="/2020/03/15/amazing-transparent-man/">The Amazing Transparent Man</a></li>
 				<li class="has-image flying-saucer" onclick="location.href='/2022/03/06/flying-saucer/';"><a href="/2022/03/06/flying-saucer/">The Flying Saucer</a></li>
