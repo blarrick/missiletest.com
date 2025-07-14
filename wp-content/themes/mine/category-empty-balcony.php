@@ -310,6 +310,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2010/05/17/nuke-em-high/">Class of Nuke ‘Em High</a></li>
 				<li class="shitty"><a href="/2024/10/16/click-the-calendar-girl-killer/">Click: The Calendar Girl Killer</a></li>
 				<li class="shitty"><a href="/2017/08/10/cobra/">Cobra</a></li>
+				<li class="shitty"><a href="/2025/07/13/cocaine-wars/">Cocaine Wars</a></li>
 				<li><a href="/2013/10/16/cockneys/">Cockneys vs Zombies</a></li>
 				<li class="shitty"><a href="/2020/07/12/cocktail/">Cocktail</a></li>
 				<li class="shitty"><a href="/2025/01/19/body-count-1995/">Codename: Silencer, aka Body Count</a></li>
