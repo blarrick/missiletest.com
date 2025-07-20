@@ -123,6 +123,7 @@ get_header(); ?>
 				<li class="has-image wheels-fire" onclick="location.href='/2022/12/11/wheels-of-fire/';"><a href="/2022/12/11/wheels-of-fire/">Wheels of Fire</a></li>
 				<li class="has-image halloween-2-1981" onclick="location.href='/2010/10/31/halloween-2/';"><a href="/2010/10/31/halloween-2/">Halloween II (1981)</a></li>
 				<li class="has-image beastmaster" onclick="location.href='/2017/12/10/beastmaster/';"><a href="/2017/12/10/beastmaster/">The Beastmaster</a></li>
+				<li class="has-image alienator" onclick="location.href='/2025/07/20/alienator/';"><a href="/2025/07/20/alienator/">Alienator</a></li>
 				<li class="has-image killers-edge" onclick="location.href='/2018/03/18/the-killers-edge-aka-blood-money/';"><a href="/2018/03/18/the-killers-edge-aka-blood-money/">The Killers Edge</a></li>
 				<li class="has-image inseminoid" onclick="location.href='/2023/10/20/inseminoid/';"><a href="/2023/10/20/inseminoid/">Inseminoid</a></li>
 				<li class="has-image policewomen" onclick="location.href='/2020/08/16/policewomen/';"><a href="/2020/08/16/policewomen/">Policewomen</a></li>

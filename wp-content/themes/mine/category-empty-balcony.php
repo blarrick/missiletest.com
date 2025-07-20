@@ -118,6 +118,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2016/10/12/alien-vs-predator/">Alien vs. Predator</a></li>
 				<li><a href="/2016/10/15/alien-vs-predator-requiem/">Alien vs. Predator: Requiem</a></li>
 				<li class="shitty"><a href="/2019/04/14/alien-warfare/">Alien Warfare</a></li>
+				<li class="shitty"><a href="/2025/07/20/alienator/">Alienator</a></li>
 				<li class="reco"><a href="/2008/05/21/aliens/">Aliens</a></li>
 				<li><a href="/2020/10/08/alive/">#Alive</a></li>
 				<li class="shitty"><a href="/2025/03/09/all-the-kind-strangers/">All the Kind Strangers</a></li>
