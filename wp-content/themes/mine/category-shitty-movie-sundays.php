@@ -379,6 +379,7 @@ get_header(); ?>
 				<li class="has-image neon-city" onclick="location.href='/2024/05/26/neon-city/';"><a href="/2024/05/26/neon-city/">Neon City</a></li>
 				<li class="has-image detention-2003" onclick="location.href='/2023/08/06/detention-2003/';"><a href="/2023/08/06/detention-2003/">Detention (2003)</a></li>
 				<li class="has-image jason-takes-manhattan" onclick="location.href='/2023/10/13/friday-the-13th-part-viii-jason-takes-manhattan/';"><a href="/2023/10/13/friday-the-13th-part-viii-jason-takes-manhattan/">Friday the 13th Part VIII: Jason Takes Manhattan</a></li>
+				<li class="has-image psychotronic-man" onclick="location.href='/2025/07/27/psychotronic-man/';"><a href="/2025/07/27/psychotronic-man/">The Psychotronic Man</a></li>
 				<li class="has-image devil-below" onclick="location.href='/2021/10/13/devil-below/';"><a href="/2021/10/13/devil-below/">The Devil Below</a></li>
 				<li class="has-image children-corn-5" onclick="location.href='/2021/10/13/children-corn-5/';"><a href="/2021/10/13/children-corn-5/">Children of the Corn V: Fields of Terror</a></li>
 				<li class="has-image pyramid" onclick="location.href='/2019/10/30/the-pyramid/';"><a href="/2019/10/30/the-pyramid/">The Pyramid</a></li>

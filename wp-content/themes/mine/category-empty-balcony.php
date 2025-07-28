@@ -999,6 +999,7 @@ get_header(); ?>
 				<li><a href="/2012/10/29/psycho-iii/">Psycho III</a></li>
 				<li class="shitty"><a href="/2022/10/13/psycho-pike/">Psycho Pike</a></li>
 				<li class="shitty"><a href="/2017/05/21/psychomania/">Psychomania</a></li>
+				<li class="shitty"><a href="/2025/07/27/psychotronic-man/">Psychotronic Man, The</a></li>
 				<li class="reco"><a href="/2014/05/25/pumping-iron/">Pumping Iron</a></li>
 				<li><a href="/2011/10/19/pumpkinhead/">Pumpkinhead</a></li>
 				<li class="shitty"><a href="/2019/10/30/the-pyramid/">Pyramid, The</a></li>
