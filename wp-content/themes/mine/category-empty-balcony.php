@@ -968,6 +968,7 @@ get_header(); ?>
 				<li><a href="/2017/10/26/phantom-of-the-opera/">Phantom of the Opera, The</a> <span>(1962)</span></li>
 				<li><a href="/2014/10/18/phantoms/">Phantoms</a></li>
 				<li class="shitty"><a href="/2025/06/08/pharaohs-war/">Pharaoh’s War</a></li>
+				<li class="shitty"><a href="/2025/08/17/phoenix-warrior/">Phoenix the Warrior</a></li>
 				<li class="shitty"><a href="/2020/12/13/pick-up/">Pick-up</a></li>
 				<li class="shitty"><a href="/2019/10/07/pieces/">Pieces</a></li>
 				<li class="shitty"><a href="/2019/10/09/piranha/">Piranha</a> <span>(1978)</span></li>
@@ -1120,6 +1121,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/07/29/shape-of-things-to-come/">Shape of Things to Come, The</a></li>
 				<li class="shitty"><a href="/2023/10/05/she-beast/">She Beast, The</a></li>
 				<li class="shitty"><a href="/2019/10/17/she-creature/">She-Creature, The</a></li>
+				<li class="shitty"><a href="/2025/08/17/phoenix-warrior/">She-Wolves of the Wasteland, aka Phoenix the Warrior</a></li>
 				<li><a href="/2020/10/07/shed/">Shed, The</a></li>
 				<li class="reco"><a href="/2016/10/16/the-shining/">Shining, The</a></li>
 				<li><a href="/2023/10/02/evil-dead-trap/">Shiry&#244; no wana, aka Evil Dead Trap</a></li>

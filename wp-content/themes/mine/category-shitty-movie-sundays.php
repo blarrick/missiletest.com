@@ -244,6 +244,7 @@ get_header(); ?>
 				<li class="has-image mach-2" onclick="location.href='/2019/04/28/mach-2/';"><a href="/2019/04/28/mach-2/">Mach 2</a></li>
 				<li class="has-image chilling" onclick="location.href='/2017/01/15/the-chilling/';"><a href="/2017/01/15/the-chilling/">The Chilling</a></li>
 				<li class="has-image no-escape-no-return" onclick="location.href='/2020/08/02/no-escape-no-return/';"><a href="/2020/08/02/no-escape-no-return/">No Escape No Return</a></li>
+				<li class="has-image phoenix-warrior" onclick="location.href='/2025/08/17/phoenix-warrior/';"><a href="/2025/08/17/phoenix-warrior/">Phoenix the Warrior</a></li>
 				<li class="has-image specialist-1975" onclick="location.href='/2021/08/01/specialist-1975/';"><a href="/2021/08/01/specialist-1975/">The Specialist (1975)</a></li>
 				<li class="has-image amityville-3d" onclick="location.href='/2021/10/02/amityville-3d/';"><a href="/2021/10/02/amityville-3d/">Amityville 3-D</a></li>
 				<li class="has-image dracula-3000" onclick="location.href='/2014/10/03/dracula-3000/';"><a href="/2014/10/03/dracula-3000/">Dracula 3000</a></li>
