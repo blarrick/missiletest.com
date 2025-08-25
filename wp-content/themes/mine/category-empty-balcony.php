@@ -363,6 +363,7 @@ get_header(); ?>
 				<li><a href="/2017/10/24/curse-of-the-werewolf/">Curse of the Werewolf, The</a></li>
 				<li class="shitty"><a href="/2018/04/24/cyber-tracker/">Cyber Tracker</a></li>
 				<li class="shitty"><a href="/2018/05/13/cyber-tracker-2/">Cyber Tracker 2</a></li>
+				<li class="shitty"><a href="/2025/08/24/cyberjack/">Cyberjack</a></li>
 				<li class="shitty"><a href="/2019/07/28/droid-gunner/">Cyberzone, aka Droid Gunner</a></li>
 				<li class="shitty"><a href="/2019/01/13/cyborg-x/">Cyborg X</a></li>
 				<li class="shitty"><a href="/2018/10/11/cyclops/">Cyclops, The</a></li>
@@ -1294,6 +1295,7 @@ get_header(); ?>
 				<li><a href="/2018/10/06/villmark-2/">Villmark 2</a></li>
 				<li class="shitty"><a href="/2022/10/09/violent-shit/">Violent Shit</a></li>
 				<li class="reco"><a href="/2012/08/08/virgin-spring/">Virgin Spring, The</a></li>
+				<li class="shitty"><a href="/2025/08/24/cyberjack/">Virtual Assassin, aka Cyberjack</a></li>
 				<li class="shitty"><a href="/2021/03/07/virtuosity/">Virtuosity</a></li>
 				<li><a href="/2021/10/30/virus/">Virus</a> <span>(1999)</span></li>
 				<li class="reco"><a href="/2017/10/15/the-void/">Void, The</a></li>
