@@ -771,6 +771,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2014/01/06/killing-season/">Killing Season</a></li>
 				<li class="shitty"><a href="/2022/10/01/killing-spree/">Killing Spree</a></li>
 				<li><a href="/2014/05/13/kindergarten-cop/">Kindergarten Cop</a></li>
+				<li><a href="/2025/10/02/kindred/">Kindred, The</a></li>
 				<li class="shitty"><a href="/2018/10/06/king-dinosaur/">King Dinosaur</a></li>
 				<li><a href="/2013/11/21/king-of-new-york/">King of New York</a></li>
 				<li class="reco"><a href="/2018/10/01/king-kong/">King Kong</a> <span>(1933)</span></li>
