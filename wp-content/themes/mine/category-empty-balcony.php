@@ -1220,6 +1220,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/01/16/terror-in-beverly-hills/">Terror in Beverly Hills</a></li>
 				<li><a href="/2014/10/22/terror-train/">Terror Train</a></li>
 				<li><a href="/2020/10/26/terror-creatures-from-the-grave/">Terror-Creatures from the Grave</a></li>
+				<li><a href="/2025/10/04/texas-chainsaw-2/">Texas Chainsaw Massacre 2, The</a></li>
 				<li><a href="/2017/10/14/them-2006/">Them</a> <span>(2006)</span></li>
 				<li><a href="/2018/10/03/them/">Them!</a></li>
 				<li class="shitty"><a href="/2008/10/27/theodore-rex/">Theodore Rex</a></li>
