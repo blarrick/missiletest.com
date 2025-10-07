@@ -558,6 +558,7 @@ get_header(); ?>
 				<li class="has-image bigfoot-vs-zombies" onclick="location.href='/2024/10/07/bigfoot-vs-zombies/';"><a href="/2024/10/07/bigfoot-vs-zombies/">Bigfoot Vs. Zombies</a></li>
 				<li class="has-image petrified-world" onclick="location.href='/2021/07/04/incredible-petrified-world/';"><a href="/2021/07/04/incredible-petrified-world/">The Incredible Petrified World</a></li>
 				<li class="has-image freddys-dead" onclick="location.href='/2021/10/08/freddys-dead/';"><a href="/2021/10/08/freddys-dead/">Freddy’s Dead: The Final Nightmare</a></li>
+				<li class="has-image cannibal-confederates" onclick="location.href='/2025/10/07/cannibal-confederates/';"><a href="/2025/10/07/cannibal-confederates/">Curse of the Cannibal Confederates</a></li>
 				<li class="has-image yucca-flats" onclick="location.href='/2023/09/03/yucca-flats/';"><a href="/2023/09/03/yucca-flats/">The Beast of Yucca Flats</a></li>
 				<li class="has-image human-centipede" onclick="location.href='/2011/10/01/human-centipede/';"><a href="/2011/10/01/human-centipede/">The Human Centipede</a></li>
 				<li class="has-image hitlers-brain" onclick="location.href='/2020/02/23/hitlers-brain/';"><a href="/2020/02/23/hitlers-brain/">They Saved Hitler’s Brain</a></li>

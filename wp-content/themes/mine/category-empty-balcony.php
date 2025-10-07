@@ -361,6 +361,7 @@ get_header(); ?>
 				<li><a href="/2024/10/01/when-evil-lurks/">Cuando acecha la maldad, aka When Evil Lurks</a></li>
 				<li><a href="/2018/10/27/the-cured/">Cured, The</a></li>
 				<li><a href="/2017/10/04/curse-of-frankenstein/">Curse of Frankenstein, The</a></li>
+				<li class="shitty"><a href="/2025/10/07/cannibal-confederates/">Curse of the Cannibal Confederates</a></li>
 				<li><a href="/2017/10/08/curse-of-the-mummys-tomb/">Curse of the Mummy’s Tomb, The</a></li>
 				<li><a href="/2017/10/24/curse-of-the-werewolf/">Curse of the Werewolf, The</a></li>
 				<li class="shitty"><a href="/2018/04/24/cyber-tracker/">Cyber Tracker</a></li>
