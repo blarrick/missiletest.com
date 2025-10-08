@@ -524,6 +524,7 @@ get_header(); ?>
 				<li class="has-image zombie-cop" onclick="location.href='/2024/10/20/zombie-cop/';"><a href="/2024/10/20/zombie-cop/">Zombie Cop</a></li>
 				<li class="has-image rollerball-2002" onclick="location.href='/2016/11/13/rollerball/';"><a href="/2016/11/13/rollerball/">Rollerball (2002)</a></li>
 				<li class="has-image attack-unknown" onclick="location.href='/2021/12/19/attack-unknown/';"><a href="/2021/12/19/attack-unknown/">Attack of the Unknown</a></li>
+				<li class="has-image homicycle" onclick="location.href='/2025/10/08/homicycle/';"><a href="/2025/10/08/homicycle/">Homicycle</a></li>
 				<li class="has-image project-moonbase" onclick="location.href='/2019/02/17/project-moonbase/';"><a href="/2019/02/17/project-moonbase/">Project Moonbase</a></li>
 				<li class="has-image snow-creature" onclick="location.href='/2019/10/10/snow-creature/';"><a href="/2019/10/10/snow-creature/">The Snow Creature</a></li>
 				<li class="has-image halloween-curse" onclick="location.href='/2014/10/31/halloween-6/';"><a href="/2014/10/31/halloween-6/">Halloween: The Curse of Michael Myers</a></li>

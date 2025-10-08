@@ -665,6 +665,7 @@ get_header(); ?>
 				<li><a href="/2018/10/31/hereditary/">Hereditary</a></li>
 				<li><a href="/2016/05/15/high-rise/">High-Rise</a></li>
 				<li><a href="/2016/10/29/the-hills-have-eyes/">Hills Have Eyes, The</a></li>
+				<li class="shitty"><a href="/2025/10/08/homicycle/">Homicycle</a></li>
 				<li class="shitty"><a href="/2009/01/19/horror-express/">Horror Express</a></li>
 				<li class="shitty"><a href="/2022/10/16/horror-high/">Horror High</a></li>
 				<li><a href="/2017/10/03/dracula-1958/">Horror of Dracula, aka Dracula</a></li>
