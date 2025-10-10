@@ -677,6 +677,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/04/15/hot-rod-girl/">Hot Rod Girl</a></li>
 				<li><a href="/2017/10/10/the-hound-of-the-baskervilles-1959/">Hound of the Baskervilles, The</a> <span>(1959)</span></li>
 				<li><a href="/2014/10/10/street/">House at the End of the Street</a></li>
+				<li><a href="/2025/10/10/house-by-the-cemetery/">House by the Cemetery, The</a></li>
 				<li><a href="/2018/10/09/house-of-seven-corpses/">House of Seven Corpses, The</a></li>
 				<li class="shitty"><a href="/2010/10/02/house-dead/">House of the Dead</a></li>
 				<li><a href="/2012/10/29/house-of-the-devil/">House of the Devil, The</a></li>
@@ -1021,6 +1022,7 @@ get_header(); ?>
 				<li><a href="/2017/10/09/quatermass-2/">Quatermass 2</a></li>
 				<li><a href="/2017/10/14/quatermass-3/">Quatermass and the Pit</a></li>
 				<li><a href="/2017/10/02/quatermass-xperiment/">Quatermass Xperiment, The</a></li>
+				<li><a href="/2025/10/10/house-by-the-cemetery/">Quella villa accanto al cimitero, aka The House by the Cemetery</a></li>
 				<li><a href="/2018/10/23/a-quiet-place/">Quiet Place, A</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
