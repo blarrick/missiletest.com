@@ -1295,6 +1295,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/10/07/vampires-stereotypes/">Vampires and Other Stereotypes</a></li>
 				<li class="shitty"><a href="/2020/04/19/hands-of-steel/">Vendetta dal futuro, aka Hands of Steel</a></li>
 				<li class="shitty"><a href="/2020/02/16/venomous/">Venomous</a></li>
+				<li><a href="/2025/10/11/venus/">Venus</a></li>
 				<li><a href="/2013/10/14/vhs/">V/H/S</a></li>
 				<li><a href="/2017/08/05/victory/">Victory</a></li>
 				<li><a href="/2022/10/22/video-dead/">Video Dead, The</a></li>
