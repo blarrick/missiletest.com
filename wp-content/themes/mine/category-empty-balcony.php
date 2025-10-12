@@ -1290,6 +1290,7 @@ get_header(); ?>
 			<h5 id="vv">V</h5>
 			<ul>
 				<li><a href="/2020/07/29/valkyrie/">Valkyrie</a></li>
+				<li><a href="/2025/10/12/vampire-bat/">Vampire Bat, The</a></li>
 				<li><a href="/2019/10/27/vampire-circus/">Vampire Circus</a></li>
 				<li class="shitty"><a href="/2009/10/25/vampires/">Vampires</a></li>
 				<li class="shitty"><a href="/2022/10/07/vampires-stereotypes/">Vampires and Other Stereotypes</a></li>
