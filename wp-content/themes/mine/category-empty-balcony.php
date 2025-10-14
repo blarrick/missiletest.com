@@ -1046,6 +1046,7 @@ get_header(); ?>
 				<li><a href="/2010/10/06/re-animator/">Re-Animator</a></li>
 				<li><a href="/2011/10/03/rec/">[•REC]</a></li>
 				<li><a href="/2012/10/11/quarantine-2/">[•REC] 2</a></li>
+				<li class="shitty"><a href="/2025/10/14/rippy/">Red, The, aka Rippy</a></li>
 				<li class="reco"><a href="/2010/05/27/red-dawn/">Red Dawn</a> <span>(1984)</span></li>
 				<li class="shitty"><a href="/2013/03/06/red-dawn-2012/">Red Dawn</a> <span>(2012)</span></li>
 				<li><a href="/2014/05/10/red-heat/">Red Heat</a></li>
@@ -1072,6 +1073,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2013/10/07/rig/">Rig, The</a></li>
 				<li><a href="/2014/10/01/ring/">Ring, The</a></li>
 				<li><a href="/2014/10/01/ring/">Ringu</a></li>
+				<li class="shitty"><a href="/2025/10/14/rippy/">Rippy</a></li>
 				<li><a href="/2020/05/13/risky-business/">Risky Business</a></li>
 				<li><a href="/2018/10/05/the-ritual/">Ritual, The</a></li>
 				<li class="shitty"><a href="/2021/10/04/rizen-possession/">Rizen: Possession, The</a></li>

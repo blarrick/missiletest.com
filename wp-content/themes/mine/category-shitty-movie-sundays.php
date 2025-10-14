@@ -329,6 +329,7 @@ get_header(); ?>
 				<li class="has-image tingler" onclick="location.href='/2019/10/27/the-tingler/';"><a href="/2019/10/27/the-tingler/">The Tingler</a></li>
 				<li class="has-image cosmic-sin" onclick="location.href='/2022/02/20/cosmic-sin/';"><a href="/2022/02/20/cosmic-sin/">Cosmic Sin</a></li>
 				<li class="has-image critters-3" onclick="location.href='/2021/10/22/critters-3/';"><a href="/2021/10/22/critters-3/">Critters 3</a></li>
+				<li class="has-image rippy" onclick="location.href='/2025/10/14/rippy/';"><a href="/2025/10/14/rippy/">Rippy</a></li>
 				<li class="has-image paganini-horror" onclick="location.href='/2023/10/31/paganini-horror/';"><a href="/2023/10/31/paganini-horror/">Paganini Horror</a></li>
 				<li class="has-image inmate-zero" onclick="location.href='/2020/10/14/inmate-zero/';"><a href="/2020/10/14/inmate-zero/">Inmate Zero</a></li>
 				<li class="has-image growth" onclick="location.href='/2010/10/03/growth/';"><a href="/2010/10/03/growth/">Growth</a></li>
