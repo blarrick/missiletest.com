@@ -232,6 +232,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/10/17/blood-of-draculas-castle/">Blood of Dracula’s Castle</a></li>
 				<li class="shitty"><a href="/2022/10/02/blood-rage/">Blood Rage</a></li>
 				<li class="shitty"><a href="/2020/10/13/blood-sabbath/">Blood Sabbath</a></li>
+				<li class="shitty"><a href="/2025/10/16/blood-tracks/">Blood Tracks</a></li>
 				<li class="shitty"><a href="/2020/10/05/blood-vessel/">Blood Vessel</a></li>
 				<li class="shitty"><a href="/2023/10/06/video-demons/">Bloodbath in Psycho Town, aka Video Demons Do Psychotown</a></li>
 				<li class="shitty"><a href="/2021/10/20/bloody-pit-of-horror/">Bloody Pit of Horror</a></li>
