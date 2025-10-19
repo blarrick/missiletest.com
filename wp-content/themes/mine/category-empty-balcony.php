@@ -1149,6 +1149,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/11/06/silencer-1992/">Silencer, The</a> <span>(1992)</span></li>
 				<li class="shitty"><a href="/2018/05/06/silent-rage/">Silent Rage</a></li>
 				<li><a href="/2021/10/17/similars/">Similars, The</a></li>
+				<li><a href="/2025/10/19/sinister/">Sinister</a></li>
 				<li class="shitty"><a href="/2024/05/12/sink-hole/">Sink Hole</a></li>
 				<li><a href="/2018/03/04/2018-empty-balcony-awards/">Sixth Annual Empty Balcony Awards for Movies I Saw from Last Year, The</a></li>
 				<li class="shitty"><a href="/2013/10/16/skeptic/">Skeptic, The</a></li>
