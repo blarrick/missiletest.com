@@ -91,6 +91,7 @@ get_header(); ?>
 				<li><a href="/2020/10/26/terror-creatures-from-the-grave/">5 tombe per un medium, aka Terror-Creatures from the Grave</a></li>
 				<li><a href="/2014/05/22/6th-day/">6th Day, The</a></li>
 				<li><a href="/2022/10/18/the-beyond/">7 Doors of Death, aka The Beyond</a></li>
+				<li><a href="/2025/10/24/976-evil/">976-EVIL</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
 			<h5 id="aa">A</h5>
