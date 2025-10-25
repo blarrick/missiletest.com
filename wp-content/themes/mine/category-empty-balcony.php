@@ -479,6 +479,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/09/17/womens-prison-massacre/">Emanuelle Escapes From Hell, aka Women's Prison Massacre</a></li>
 				<li class="shitty"><a href="/2020/09/27/empire-of-ash-iii/">Empire of Ash III</a></li>
 				<li class="shitty"><a href="/2018/10/27/empire-of-the-ants/">Empire of the Ants</a></li>
+				<li class="shitty"><a href="/2025/10/25/empire-dark/">Empire of the Dark</a></li>
 				<li><a href="/2013/02/25/empty-balcony-awards-2013/">Empty Balcony Awards, The</a></li>
 				<li class="shitty"><a href="/2014/05/21/end-of-days/">End of Days</a></li>
 				<li class="shitty"><a href="/2021/07/18/end-of-the-world-1977/">End of the World</a> <span>(1977)</span></li>
