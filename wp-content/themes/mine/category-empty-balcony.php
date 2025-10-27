@@ -1254,6 +1254,7 @@ get_header(); ?>
 				<li><a href="/2009/06/30/three-kings/">Three Kings</a></li>
 				<li class="shitty"><a href="/2019/10/03/ticks/">Ticks</a></li>
 				<li class="shitty"><a href="/2017/09/03/timecop/">Timecop</a></li>
+				<li class="shitty"><a href="/2025/10/27/timesweep/">Timesweep</a></li>
 				<li class="shitty"><a href="/2019/10/27/the-tingler/">Tingler, The</a></li>
 				<li><a href="/2018/04/09/the-titan/">Titan, The</a></li>
 				<li class="shitty"><a href="/2015/10/19/toolbox-murders/">Toolbox Murders, The</a></li>

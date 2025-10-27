@@ -368,6 +368,7 @@ get_header(); ?>
 				<li class="has-image hellraiser-judgement" onclick="location.href='/2021/10/30/hellraiser-judgement/';"><a href="/2021/10/30/hellraiser-judgement/">Hellraiser: Judgement</a></li>
 				<li class="has-image shakma" onclick="location.href='/2022/10/26/shakma/';"><a href="/2022/10/26/shakma/">Shakma</a></li>
 				<li class="has-image cyberjack" onclick="location.href='/2025/08/24/cyberjack/';"><a href="/2025/08/24/cyberjack/">Cyberjack</a></li>
+				<li class="has-image timesweep" onclick="location.href='/2025/10/27/timesweep/';"><a href="/2025/10/27/timesweep/">Timesweep</a></li>
 				<li class="has-image gargoyles" onclick="location.href='/2024/10/06/gargoyles/';"><a href="/2024/10/06/gargoyles/">Gargoyles</a></li>
 				<li class="has-image scared-to-death-1980" onclick="location.href='/2023/10/21/scared-to-death-1980/';"><a href="/2023/10/21/scared-to-death-1980/">Scared to Death (1980)</a></li>
 				<li class="has-image indian-paint" onclick="location.href='/2021/07/11/indian-paint/';"><a href="/2021/07/11/indian-paint/">Indian Paint</a></li>
