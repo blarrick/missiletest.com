@@ -612,6 +612,7 @@ get_header(); ?>
 				<li><a href="/2021/10/21/green-inferno-2013/">Green Inferno, The</a> <span>(2013)</span></li>
 				<li class="reco"><a href="/2012/05/31/the-grey/">Grey, The</a></li>
 				<li class="shitty"><a href="/2023/10/05/anthropophagus/">Grim Reaper, The, aka Anthropophagus</a></li>
+				<li class="shitty"><a href="/2025/10/30/grizzly/">Grizzly</a></li>
 				<li class="shitty"><a href="/2010/10/03/growth/">Growth</a></li>
 				<li><a href="/2015/01/20/guardians-of-the-galaxy/">Guardians of the Galaxy</a></li>
 				<li class="shitty"><a href="/2020/10/23/guru-the-mad-monk/">Guru, the Mad Monk</a></li>
