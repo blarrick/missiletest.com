@@ -1296,6 +1296,7 @@ get_header(); ?>
 				<li><a href="/2023/10/18/jungle-holocaust/">Ultimo mondo cannibale, aka Jungle Holocaust</a></li>
 				<li><a href="/2018/11/11/undisputed/">Undisputed</a></li>
 				<li><a href="/2014/10/20/bloody-mary/">Urban Legends: Bloody Mary</a></li>
+				<li class="shitty"><a href="/2025/11/02/urban-warriors/">Urban Warriors</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
 			<h5 id="vv">V</h5>

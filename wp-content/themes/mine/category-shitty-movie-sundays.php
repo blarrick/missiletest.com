@@ -474,6 +474,7 @@ get_header(); ?>
 				<li class="has-image she-creature" onclick="location.href='/2019/10/17/she-creature/';"><a href="/2019/10/17/she-creature/">The She-Creature</a></li>
 				<li class="has-image bad-ben" onclick="location.href='/2017/10/20/bad-ben/';"><a href="/2017/10/20/bad-ben/">Bad Ben</a></li>
 				<li class="has-image concrete-jungle" onclick="location.href='/2024/12/22/concrete-jungle/';"><a href="/2024/12/22/concrete-jungle/">The Concrete Jungle (1982)</a></li>
+				<li class="has-image urban-warriors" onclick="location.href='/2025/11/02/urban-warriors/';"><a href="/2025/11/02/urban-warriors/">Urban Warriors</a></li>
 				<li class="has-image burnout" onclick="location.href='/2020/07/19/burnout/';"><a href="/2020/07/19/burnout/">Burnout</a></li>
 				<li class="has-image lethal-nightmare" onclick="location.href='/2022/10/05/hallucinations/';"><a href="/2022/10/05/hallucinations/">Lethal Nightmare</a></li>
 				<li class="has-image act-valor" onclick="location.href='/2014/01/08/act-of-valor/';"><a href="/2014/01/08/act-of-valor/">Act of Valor</a></li>
