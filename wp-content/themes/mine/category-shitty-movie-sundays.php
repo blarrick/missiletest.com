@@ -300,6 +300,7 @@ get_header(); ?>
 				<li class="has-image return-fly" onclick="location.href='/2019/10/30/return-fly/';"><a href="/2019/10/30/return-fly/">Return of the Fly</a></li>
 				<li class="has-image caged-heat-3000" onclick="location.href='/2024/06/23/caged-heat-3000/';"><a href="/2024/06/23/caged-heat-3000/">Caged Heat 3000</a></li>
 				<li class="has-image atomic-eden" onclick="location.href='/2023/12/03/atomic-eden/';"><a href="/2023/12/03/atomic-eden/">Atomic Eden</a></li>
+				<li class="has-image eve-destruction" onclick="location.href='/2025/11/09/eve-destruction/';"><a href="/2025/11/09/eve-destruction/">Eve of Destruction (1991)</a></li>
 				<li class="has-image day-world-ended" onclick="location.href='/2021/12/05/day-world-ended/';"><a href="/2021/12/05/day-world-ended/">Day the World Ended</a></li>
 				<li class="has-image pick-up" onclick="location.href='/2020/12/13/pick-up/';"><a href="/2020/12/13/pick-up/">Pick-up</a></li>
 				<li class="has-image elm-street-4" onclick="location.href='/2021/10/06/elm-street-4/';"><a href="/2021/10/06/elm-street-4/">A Nightmare on Elm Street 4: The Dream Master</a></li>

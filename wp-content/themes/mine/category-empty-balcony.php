@@ -501,6 +501,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/08/23/escape-plan-the-extractors/">Escape Plan: The Extractors</a></li>
 				<li><a href="/2017/08/05/victory/">Escape to Victory, aka Victory</a></li>
 				<li><a href="/2014/02/26/europa-report/">Europa Report</a></li>
+				<li class="shitty"><a href="/2025/11/09/eve-destruction/">Eve of Destruction</a> <span>(1991)</span></li>
 				<li class="shitty"><a href="/2009/10/19/event-horizon/">Event Horizon</a></li>
 				<li><a href="/2023/10/02/evil-dead-trap/">Evil Dead Trap</a></li>
 				<li><a href="/2017/10/12/evil-of-frankenstein/">Evil of Frankenstein, The</a></li>
