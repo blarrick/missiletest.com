@@ -781,6 +781,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/10/19/killer-shrews/">Killer Shrews, The</a></li>
 				<li class="shitty"><a href="/2018/03/18/the-killers-edge-aka-blood-money/">Killers Edge, The</a></li>
 				<li class="shitty"><a href="/2019/10/08/killers-from-space/">Killers from Space</a></li>
+				<li class="shitty"><a href="/2025/11/16/killing-american-style/">Killing American Style</a></li>
 				<li class="shitty"><a href="/2014/01/06/killing-season/">Killing Season</a></li>
 				<li class="shitty"><a href="/2022/10/01/killing-spree/">Killing Spree</a></li>
 				<li><a href="/2014/05/13/kindergarten-cop/">Kindergarten Cop</a></li>
