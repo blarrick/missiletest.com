@@ -95,7 +95,3 @@ if ( !defined('ABSPATH') )
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
 
-/** Try and address image upload http error by increasing memory limit */
-define('WP_MEMORY_LIMIT', '128M');
-define('WP_MAX_MEMORY_LIMIT’, 512M');
-
