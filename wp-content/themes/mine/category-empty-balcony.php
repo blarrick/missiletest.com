@@ -735,6 +735,7 @@ get_header(); ?>
 				<li><a href="/2016/10/02/intruders/">Intruders</a></li>
 				<li class="shitty"><a href="/2019/10/04/invaders-mars/">Invaders from Mars</a> <span>(1953)</span></li>
 				<li class="shitty"><a href="/2020/10/01/invasion-from-inner-earth/">Invasion from Inner Earth</a></li>
+				<li class="shitty"><a href="/2025/12/07/bee-girls/">Invasion of the Bee Girls</a></li>
 				<li class="reco"><a href="/2019/10/13/body-snatchers-1956/">Invasion of the Body Snatchers</a> <span>(1956)</span></li>
 				<li class="shitty"><a href="/2019/03/10/invasion-usa/">Invasion U.S.A.</a></li>
 				<li><a href="/2008/05/16/iron-man/">Iron Man</a></li>
