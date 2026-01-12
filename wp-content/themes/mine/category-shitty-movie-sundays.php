@@ -109,6 +109,7 @@ get_header(); ?>
 				<li class="has-image werewolf-washington" onclick="location.href='/2020/10/11/werewolf-of-washington/';"><a href="/2020/10/11/werewolf-of-washington/">The Werewolf of Washington</a></li>
 				<li class="has-image ghosts-mars" onclick="location.href='/2017/10/03/ghosts-of-mars/';"><a href="/2017/10/03/ghosts-of-mars/">Ghosts of Mars</a></li>
 				<li class="has-image perfect-weapon" onclick="location.href='/2018/11/04/perfect-weapon/';"><a href="/2018/11/04/perfect-weapon/">The Perfect Weapon</a></li>
+				<li class="has-image alien-private-eye" onclick="location.href='/2026/01/11/alien-private-eye/';"><a href="/2026/01/11/alien-private-eye/">Alien Private Eye</a></li>
 				<li class="has-image jason-x" onclick="location.href='/2017/10/13/jason-x/';"><a href="/2017/10/13/jason-x/">Jason X</a></li>
 				<li class="has-image caged-heat" onclick="location.href='/2018/12/02/caged-heat/';"><a href="/2018/12/02/caged-heat/">Caged Heat</a></li>
 				<li class="has-image zombi-3" onclick="location.href='/2022/10/20/zombi-3/';"><a href="/2022/10/20/zombi-3/">Zombi 3</a></li>
