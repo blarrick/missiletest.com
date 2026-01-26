@@ -381,6 +381,7 @@ get_header(); ?>
 				<li class="has-image eaten-alive-1980" onclick="location.href='/2023/10/22/eaten-alive-1980/';"><a href="/2023/10/22/eaten-alive-1980/">Eaten Alive! (1980)</a></li>
 				<li class="has-image silencer-1992" onclick="location.href='/2022/11/06/silencer-1992/';"><a href="/2022/11/06/silencer-1992/">The Silencer (1992)</a></li>
 				<li class="has-image abraxas" onclick="location.href='/2023/03/05/abraxas/';"><a href="/2023/03/05/abraxas/">Abraxas, Guardian of the Universe</a></li>
+				<li class="has-image overkill" onclick="location.href='/2026/01/25/overkill/';"><a href="/2026/01/25/overkill/">Overkill (1987)</a></li>
 				<li class="has-image night-of-the-beast" onclick="location.href='/2023/10/01/night-of-the-beast/';"><a href="/2023/10/01/night-of-the-beast/">Night of the Beast</a></li>
 				<li class="has-image top-line" onclick="location.href='/2025/04/27/top-line/';"><a href="/2025/04/27/top-line/">Top Line</a></li>
 				<li class="has-image blackout" onclick="location.href='/2021/05/23/blackout/';"><a href="/2021/05/23/blackout/">The Blackout</a></li>
