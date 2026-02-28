@@ -599,6 +599,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2024/10/05/gingerdead-man/">Gingerdead Man, The</a></li>
 				<li><a href="/2020/10/08/girl-on-the-third-floor/">Girl on the Third Floor</a></li>
 				<li class="shitty"><a href="/2023/10/06/baron-blood/">Gli orrori del castello di Norimberga, aka Baron Blood</a></li>
+				<li class="shitty"><a href="/2026/02/22/glove/">Glove, The</a></li>
 				<li class="shitty"><a href="/2018/10/13/god-told-me-to/">God Told Me To</a></li>
 				<li><a href="/2008/03/12/tokyo-sos//">Godzilla Against Mechagodzilla</a></li>
 				<li class="shitty"><a href="/2011/07/11/gojira/">Godzilla, King of the Monsters!</a></li>

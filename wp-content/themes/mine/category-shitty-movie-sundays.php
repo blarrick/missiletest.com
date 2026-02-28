@@ -436,6 +436,7 @@ get_header(); ?>
 				<li class="has-image steel-lace" onclick="location.href='/2018/10/17/steel-and-lace/';"><a href="/2018/10/17/steel-and-lace/">Steel and Lace</a></li>
 				<li class="has-image blood-feast" onclick="location.href='/2018/10/26/blood-feast/';"><a href="/2018/10/26/blood-feast/">Blood Feast</a></li>
 				<li class="has-image zombie-island-massacre" onclick="location.href='/2023/10/14/zombie-island-massacre/';"><a href="/2023/10/14/zombie-island-massacre/">Zombie Island Massacre</a></li>
+				<li class="has-image glove" onclick="location.href='/2026/02/22/glove/';"><a href="/2026/02/22/glove/">The Glove</a></li>
 				<li class="has-image deadwater" onclick="location.href='/2019/10/14/black-ops/';"><a href="/2019/10/14/black-ops/">Black Ops</a></li>
 				<li class="has-image blood-beast" onclick="location.href='/2019/10/21/night-of-the-blood-beast/';"><a href="/2019/10/21/night-of-the-blood-beast/">Night of the Blood Beast</a></li>
 				<li class="has-image halloween-2007" onclick="location.href='/2010/06/29/halloween-2007/';"><a href="/2010/06/29/halloween-2007/">Halloween (2007)</a></li>
