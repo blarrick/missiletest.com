@@ -293,6 +293,7 @@ get_header(); ?>
 				<li><a href="/2022/10/12/cellar-2022/">Cellar, The</a> <span>(2022)</span></li>
 				<li><a href="/2024/10/15/cemetery-man/">Cemetery Man</a></li>
 				<li class="shitty"><a href="/2020/08/30/chain-gang-women/">Chain Gang Women</a></li>
+				<li class="shitty"><a href="/2026/03/01/champagne-and-bullets/">Champagne and Bullets</a></li>
 				<li><a href="/2013/10/30/changeling/">Changeling, The</a></li>
 				<li class="shitty"><a href="/2012/10/30/chernobyl-diaries/">Chernobyl Diaries</a></li>
 				<li class="shitty"><a href="/2021/10/10/children-corn-1984/">Children of the Corn</a> <span>(1984)</span></li>
@@ -587,6 +588,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2008/12/10/jarhead/">Generation Kill</a></li>
 				<li class="shitty"><a href="/2018/02/04/geostorm/">Geostorm</a></li>
 				<li><a href="/2017/08/22/get-carter-2000/">Get Carter</a> <span>(2000)</span></li>
+				<li class="shitty"><a href="/2026/03/01/champagne-and-bullets/">GetEven, aka Champagne and Bullets</a></li>
 				<li class="shitty"><a href="/2020/02/02/ghost-rider/">Ghost Rider</a></li>
 				<li><a href="/2018/10/29/ghost-stories/">Ghost Stories</a></li>
 				<li><a href="/2018/10/15/ghostkeeper/">Ghostkeeper</a></li>
@@ -1092,6 +1094,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/10/04/rizen-possession/">Rizen: Possession, The</a></li>
 				<li class="shitty"><a href="/2015/07/09/road-house/">Road House</a></li>
 				<li class="shitty"><a href="/2024/03/31/road-house-2024/">Road House</a> <span>(2024)</span></li>
+				<li class="shitty"><a href="/2026/03/01/champagne-and-bullets/">Road to Revenge, aka Champagne and Bullets</a></li>
 				<li class="shitty"><a href="/2021/03/14/road-wars/">Road Wars</a></li>
 				<li class="reco"><a href="/2009/02/06/robocop/">Robocop</a></li>
 				<li class="shitty"><a href="/2019/10/07/robot-monster/">Robot Monster</a></li>
