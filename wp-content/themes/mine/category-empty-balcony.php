@@ -246,6 +246,7 @@ get_header(); ?>
 				<li><a href="/2023/10/28/body-count-1986/">Body Count</a> <span>(1986)</span></li>
 				<li class="shitty"><a href="/2025/01/19/body-count-1995/">Body Count</a> <span>(1995)</span></li>
 				<li class="shitty"><a href="/2024/10/18/body-melt/">Body Melt</a></li>
+				<li class="shitty"><a href="/2026/03/22/bodyguard/">Bodyguard, The, aka Bodyguard Kiba</a> <span>(1973)</span></li>
 				<li class="shitty"><a href="/2018/12/23/bone-dry/">Bone Dry</a></li>
 				<li><a href="/2013/11/26/boondock-saints/">Boondock Saints, The</a></li>
 				<li><a href="/2021/10/15/bornless-ones/">Bornless Ones</a></li>
