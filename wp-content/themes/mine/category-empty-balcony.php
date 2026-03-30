@@ -647,6 +647,7 @@ get_header(); ?>
 				<li><a href="/2013/10/15/hannibal-rising/">Hannibal Rising</a></li>
 				<li><a href="/2015/10/20/harbinger-down/">Harbinger Down</a></li>
 				<li class="shitty"><a href="/2020/09/13/hard-night-falling/">Hard Night Falling</a></li>
+				<li class="shitty"><a href="/2026/03/29/hard-ticket-to-hawaii/">Hard Ticket to Hawaii</a></li>
 				<li><a href="/2014/10/27/hatchet-ii/">Hatchet II</a></li>
 				<li><a href="/2015/10/16/hatchet-iii/">Hatchet III</a></li>
 				<li><a href="/2014/10/23/haunter/">Haunter</a></li>

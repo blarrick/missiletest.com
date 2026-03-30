@@ -69,6 +69,7 @@ get_header(); ?>
 				<li class="has-image critters" onclick="location.href='/2013/10/23/critters/';"><a href="/2013/10/23/critters/">Critters</a></li>
 				<li class="has-image ten-midnight" onclick="location.href='/2019/01/20/10-to-midnight/';"><a href="/2019/01/20/10-to-midnight/">10 to Midnight</a></li>
 				<li class="has-image keep" onclick="location.href='/2014/10/04/keep/';"><a href="/2014/10/04/keep/">The Keep</a></li>
+				<li class="has-image hard-ticket" onclick="location.href='/2026/03/29/hard-ticket-to-hawaii/';"><a href="/2026/03/29/hard-ticket-to-hawaii/">Hard Ticket to Hawaii</a></li>
 				<li class="has-image tenement" onclick="location.href='/2024/07/21/tenement/';"><a href="/2024/07/21/tenement/">Tenement (1985)</a></li>
 				<li class="has-image tammy-trex" onclick="location.href='/2021/10/16/tammy-t-rex/';"><a href="/2021/10/16/tammy-t-rex/">Tammy and the T-Rex</a></li>
 				<li class="has-image cop-1988" onclick="location.href='/2022/04/24/cop-1988/';"><a href="/2022/04/24/cop-1988/">Cop (1988)</a></li>
