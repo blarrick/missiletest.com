@@ -313,6 +313,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/10/29/chud/">C.H.U.D.</a></li>
 				<li><a href="/2023/10/09/church/">Church, The</a></li>
 				<li><a href="/2013/10/05/citadel/">Citadel</a></li>
+				<li class="shitty"><a href="/2026/04/05/city-cops/">City Cops</a></li>
 				<li class="shitty"><a href="/2018/10/02/city-of-the-living-dead/">City of the Living Dead</a></li>
 				<li class="shitty"><a href="/2018/08/05/city-on-fire/">City on Fire</a></li>
 				<li class="shitty"><a href="/2016/10/27/class-of-1999/">Class of 1999</a></li>
@@ -552,6 +553,7 @@ get_header(); ?>
 				<li><a href="/2017/10/21/frankenstein-must-be-destroyed/">Frankenstein Must Be Destroyed</a></li>
 				<li class="shitty"><a href="/2009/10/29/freddy-vs-jason/">Freddy vs. Jason</a></li>
 				<li class="shitty"><a href="/2021/10/08/freddys-dead/">Freddy’s Dead: The Final Nightmare</a></li>
+				<li class="shitty"><a href="/2026/04/05/city-cops/">Free Fighter, aka City Cops</a></li>
 				<li class="shitty"><a href="/2017/11/05/freejack/">Freejack</a></li>
 				<li class="shitty"><a href="/2023/08/13/french-quarter/">French Quarter</a></li>
 				<li><a href="/2023/05/21/french-sex-murders/">French Sex Murders, The</a></li>
@@ -889,6 +891,7 @@ get_header(); ?>
 				<li><a href="/2018/08/19/the-meg/">Meg, The</a></li>
 				<li class="shitty"><a href="/2023/10/30/metamorphosis/">Metamorphosis</a> <span>(1990)</span></li>
 				<li class="shitty"><a href="/2018/04/29/meteor/">Meteor</a></li>
+				<li class="shitty"><a href="/2026/04/05/city-cops/">Miao tan shuang long, aka City Cops</a></li>
 				<li class="shitty"><a href="/2023/10/22/mindkiller/">Mindkiller</a></li>
 				<li class="shitty"><a href="/2024/03/17/missionary-man/">Missionary Man</a></li>
 				<li class="reco"><a href="/2011/04/25/mona-lisa/">Mona Lisa</a></li>

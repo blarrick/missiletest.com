@@ -327,6 +327,7 @@ get_header(); ?>
 				<li class="has-image return-dead-2" onclick="location.href='/2016/10/08/return-dead-ii/';"><a href="/2016/10/08/return-dead-ii/">Return of the Living Dead Part II</a></li>
 				<li class="has-image cosmos-war" onclick="location.href='/2018/02/18/cosmos/';"><a href="/2018/02/18/cosmos/">Cosmos: War of the Planets</a></li>
 				<li class="has-image leprechaun-4" onclick="location.href='/2021/10/20/leprechaun-4/';"><a href="/2021/10/20/leprechaun-4/">Leprechaun 4: In Space</a></li>
+				<li class="has-image city-cops" onclick="location.href='/2026/04/05/city-cops/';"><a href="/2026/04/05/city-cops/">City Cops</a></li>
 				<li class="has-image escape-plan-extractors" onclick="location.href='/2020/08/23/escape-plan-the-extractors/';"><a href="/2020/08/23/escape-plan-the-extractors/">Escape Plan: The Extractors</a></li>
 				<li class="has-image creepozoids" onclick="location.href='/2023/10/19/creepozoids/';"><a href="/2023/10/19/creepozoids/">Creepozoids</a></li>
 				<li class="has-image being" onclick="location.href='/2018/10/21/the-being/';"><a href="/2018/10/21/the-being/">The Being</a></li>
