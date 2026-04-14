@@ -113,6 +113,7 @@ get_header(); ?>
 				<li><a href="/2017/10/17/alien-covenant/">Alien: Covenant</a></li>
 				<li class="shitty"><a href="/2024/10/13/alien-hunter/">Alien Hunter</a></li>
 				<li><a href="/2016/12/04/alien-nation/">Alien Nation</a></li>
+				<li class="shitty"><a href="/2026/04/12/alien-outlaw/">Alien Outlaw</a></li>
 				<li class="shitty"><a href="/2026/01/11/alien-private-eye/">Alien Private Eye</a></li>
 				<li class="shitty"><a href="/2020/05/24/alien-rising/">Alien Rising</a></li>
 				<li class="shitty"><a href="/2025/01/26/alien-sniperess/">Alien Sniperess</a></li>
