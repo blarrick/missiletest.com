@@ -242,6 +242,7 @@ get_header(); ?>
 				<li class="has-image food-gods" onclick="location.href='/2018/10/25/food-of-the-gods/';"><a href="/2018/10/25/food-of-the-gods/">The Food of the Gods</a></li>
 				<li class="has-image burial-ground" onclick="location.href='/2017/10/06/burial-ground/';"><a href="/2017/10/06/burial-ground/">Burial Ground</a></li>
 				<li class="has-image octagon" onclick="location.href='/2019/05/05/octagon/';"><a href="/2019/05/05/octagon/">The Octagon</a></li>
+				<li class="has-image most-wanted-1997" onclick="location.href='/2026/05/10/most-wanted-1997/';"><a href="/2026/05/10/most-wanted-1997/">Most Wanted (1997)</a></li>
 				<li class="has-image fury-wolfman" onclick="location.href='/2021/10/24/fury-of-the-wolfman/';"><a href="/2021/10/24/fury-of-the-wolfman/">Fury of the Wolfman</a></li>
 				<li class="has-image castle-falls" onclick="location.href='/2024/04/28/castle-falls/';"><a href="/2024/04/28/castle-falls/">Castle Falls</a></li>
 				<li class="has-image humanity-bureau" onclick="location.href='/2018/08/13/humanity-bureau/';"><a href="/2018/08/13/humanity-bureau/">The Humanity Bureau</a></li>
