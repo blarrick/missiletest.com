@@ -1223,6 +1223,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/10/30/suckling/">Suckling, The</a></li>
 				<li class="shitty"><a href="/2018/01/07/summer-city/">Summer City</a></li>
 				<li class="reco"><a href="/2009/09/12/sunshine/">Sunshine</a></li>
+				<li class="shitty"><a href="/2026/05/31/super-cops/">Super Cops, The</a></li>
 				<li><a href="/2010/10/12/survival-of-the-dead/">Survival of the Dead</a></li>
 				<li><a href="/2009/02/16/sushi-conveyor/">Sushi Conveyor</a></li>
 				<li class="reco"><a href="/2017/10/19/suspiria/">Suspiria</a></li>

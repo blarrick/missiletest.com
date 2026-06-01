@@ -91,6 +91,7 @@ get_header(); ?>
 				<li class="has-image friday-13th-2" onclick="location.href='/2009/10/07/friday-13th-2/';"><a href="/2009/10/07/friday-13th-2/">Friday the 13th Part 2</a></li>
 				<li class="has-image steel-dawn" onclick="location.href='/2017/04/09/steel-dawn/';"><a href="/2017/04/09/steel-dawn/">Steel Dawn</a></li>
 				<li class="has-image basket-case" onclick="location.href='/2011/10/18/basket-case/';"><a href="/2011/10/18/basket-case/">Basket Case</a></li>
+				<li class="has-image super-cops" onclick="location.href='/2026/05/31/super-cops/';"><a href="/2026/05/31/super-cops/">The Super Cops</a></li>
 				<li class="has-image brain-1988" onclick="location.href='/2021/10/31/the-brain-1988/';"><a href="/2021/10/31/the-brain-1988/">The Brain (1988)</a></li>
 				<li class="has-image deadly-spawn" onclick="location.href='/2022/10/06/deadly-spawn/';"><a href="/2022/10/06/deadly-spawn/">The Deadly Spawn</a></li>
 				<li class="has-image empire-dark" onclick="location.href='/2025/10/25/empire-dark/';"><a href="/2025/10/25/empire-dark/">Empire of the Dark</a></li>
