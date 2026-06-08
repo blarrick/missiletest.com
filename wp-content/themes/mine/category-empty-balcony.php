@@ -308,6 +308,7 @@ get_header(); ?>
 				<li><a href="/2021/10/14/childs-play-2/">Child’s Play 2</a></li>
 				<li class="shitty"><a href="/2021/10/15/childs-play-3/">Child’s Play 3</a></li>
 				<li class="shitty"><a href="/2017/01/15/the-chilling/">Chilling, The</a></li>
+				<li class="shitty"><a href="/2026/06/07/choppers/">Choppers, The</a></li>
 				<li class="shitty"><a href="/2017/10/05/chopping-mall/">Chopping Mall</a></li>
 				<li><a href="/2013/10/04/christine/">Christine</a></li>
 				<li class="shitty"><a href="/2019/04/07/chrome-and-hot-leather/">Chrome and Hot Leather</a></li>

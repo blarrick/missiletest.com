@@ -215,6 +215,7 @@ get_header(); ?>
 				<li class="has-image future-kick" onclick="location.href='/2023/01/29/future-kick/';"><a href="/2023/01/29/future-kick/">Future Kick</a></li>
 				<li class="has-image angel-town" onclick="location.href='/2021/02/07/angel-town/';"><a href="/2021/02/07/angel-town/">Angel Town</a></li>
 				<li class="has-image critters-2" onclick="location.href='/2021/10/21/critters-2/';"><a href="/2021/10/21/critters-2/">Critters 2</a></li>
+				<li class="has-image choppers" onclick="location.href='/2026/06/07/choppers/';"><a href="/2026/06/07/choppers/">The Choppers</a></li>
 				<li class="has-image kidnapping-president" onclick="location.href='/2021/03/21/kidnapping-president/';"><a href="/2021/03/21/kidnapping-president/">The Kidnapping of the President</a></li>
 				<li class="has-image enemies-closer" onclick="location.href='/2024/01/21/enemies-closer-2013/';"><a href="/2024/01/21/enemies-closer-2013/">Enemies Closer (2013)</a></li>
 				<li class="has-image raise-titanic" onclick="location.href='/2011/01/24/raise-the-titanic/';"><a href="/2011/01/24/raise-the-titanic/">Raise the Titanic</a></li>
