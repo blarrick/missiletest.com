@@ -198,6 +198,7 @@ get_header(); ?>
 				<li class="has-image cocaine-wars" onclick="location.href='/2025/07/13/cocaine-wars/';"><a href="/2025/07/13/cocaine-wars/">Cocaine Wars</a></li>
 				<li class="has-image childs-play-3" onclick="location.href='/2021/10/15/childs-play-3/';"><a href="/2021/10/15/childs-play-3/">Child’s Play 3</a></li>
 				<li class="has-image nine-deaths" onclick="location.href='/2022/07/31/nine-deaths-of-the-ninja/';"><a href="/2022/07/31/nine-deaths-of-the-ninja/">Nine Deaths of the Ninja</a></li>
+				<li class="has-image deadly-force" onclick="location.href='/2026/06/14/deadly-force/';"><a href="/2026/06/14/deadly-force/">Deadly Force</a></li>
 				<li class="has-image grizzly" onclick="location.href='/2025/10/30/grizzly/';"><a href="/2025/10/30/grizzly/">Grizzly</a></li>
 				<li class="has-image future-zone" onclick="location.href='/2023/12/10/future-zone/';"><a href="/2023/12/10/future-zone/">Future Zone</a></li>
 				<li class="has-image killer-crocodile" onclick="location.href='/2025/10/21/killer-crocodile/';"><a href="/2025/10/21/killer-crocodile/">Killer Crocodile</a></li>
