@@ -1220,6 +1220,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/01/21/strike-commando/">Strike Commando</a></li>
 				<li class="shitty"><a href="/2025/03/16/strike-commando-2/">Strike Commando 2</a></li>
 				<li class="shitty"><a href="/2013/10/24/stuff/">Stuff, The</a></li>
+				<li class="shitty"><a href="/2026/06/21/submarine/">Submarine</a></li>
 				<li class="shitty"><a href="/2015/08/26/substitute/">Substitute, The</a></li>
 				<li class="shitty"><a href="/2019/12/01/devils-express/">Subway to Hell, aka Devil’s Express</a></li>
 				<li class="shitty"><a href="/2018/10/30/suckling/">Suckling, The</a></li>
