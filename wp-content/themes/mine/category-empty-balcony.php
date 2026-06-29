@@ -314,6 +314,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/04/07/chrome-and-hot-leather/">Chrome and Hot Leather</a></li>
 				<li class="shitty"><a href="/2019/10/29/chud/">C.H.U.D.</a></li>
 				<li><a href="/2023/10/09/church/">Church, The</a></li>
+				<li class="shitty"><a href="/2026/06/28/last-man-standing-1987/">Circle Man, aka Last Man Standing</a> <span>(1987)</span></li>
 				<li><a href="/2013/10/05/citadel/">Citadel</a></li>
 				<li class="shitty"><a href="/2026/04/05/city-cops/">City Cops</a></li>
 				<li class="shitty"><a href="/2018/10/02/city-of-the-living-dead/">City of the Living Dead</a></li>
@@ -827,6 +828,7 @@ get_header(); ?>
 				<li><a href="/2023/10/18/jungle-holocaust/">Last Cannibal World, aka Jungle Holocaust</a></li>
 				<li class="shitty"><a href="/2013/10/08/last-exorcism-ii/">Last Exorcism Part II, The</a></li>
 				<li><a href="/2009/01/09/i-am-legend/">Last Man on Earth, The</a></li>
+				<li class="shitty"><a href="/2026/06/28/last-man-standing-1987/">Last Man Standing</a> <span>(1987)</span></li>
 				<li class="shitty"><a href="/2025/02/02/last-of-the-finest/">Last of the Finest, The</a></li>
 				<li class="shitty"><a href="/2020/09/27/empire-of-ash-iii/">Last of the Warriors, aka Empire of Ash III</a></li>
 				<li class="shitty"><a href="/2022/12/18/last-sentinel-2007/">Last Sentinel, The</a> <span>(2007)</span></li>
