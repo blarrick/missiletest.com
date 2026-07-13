@@ -1179,6 +1179,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2024/05/12/sink-hole/">Sink Hole</a></li>
 				<li><a href="/2018/03/04/2018-empty-balcony-awards/">Sixth Annual Empty Balcony Awards for Movies I Saw from Last Year, The</a></li>
 				<li class="shitty"><a href="/2013/10/16/skeptic/">Skeptic, The</a></li>
+				<li class="shitty"><a href="/2026/07/12/skin-trade/">Skin Trade</a></li>
 				<li><a href="/2013/02/16/skyfall/">Skyfall</a></li>
 				<li class="shitty"><a href="/2024/07/21/tenement/">Slaughter in the South Bronx, aka Tenement</a></li>
 				<li class="shitty"><a href="/2022/10/28/slaughterhouse/">Slaughterhouse</a></li>
