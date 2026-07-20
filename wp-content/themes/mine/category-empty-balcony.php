@@ -1002,6 +1002,7 @@ get_header(); ?>
 				<li><a href="/2017/10/26/phantom-of-the-opera/">Phantom of the Opera, The</a> <span>(1962)</span></li>
 				<li><a href="/2014/10/18/phantoms/">Phantoms</a></li>
 				<li class="shitty"><a href="/2025/06/08/pharaohs-war/">Pharaoh’s War</a></li>
+				<li class="shitty"><a href="/2026/07/19/phobe/">Phobe: The Xenophobic Experiments</a></li>
 				<li class="shitty"><a href="/2025/08/17/phoenix-warrior/">Phoenix the Warrior</a></li>
 				<li class="shitty"><a href="/2020/12/13/pick-up/">Pick-up</a></li>
 				<li class="shitty"><a href="/2019/10/07/pieces/">Pieces</a></li>
