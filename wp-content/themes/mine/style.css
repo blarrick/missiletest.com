@@ -6613,6 +6613,12 @@ blockquote:after,
   background-size: cover;
   background-position: center center;
 }
+.site .site-inner .site-content .site-main .shitty-index ol.shitty-list li.has-image.dark-descent {
+  background: url(/wp-content/uploads/2026/07/dark-descent-thumb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+}
 .site .site-inner .site-content .site-main .shitty-index ol.shitty-list li a {
   border: none;
   border-width: 0;

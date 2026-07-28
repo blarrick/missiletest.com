@@ -387,6 +387,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2017/08/24/eye-see-you/">D-Tox, aka Eye See You</a></li>
 				<li class="shitty"><a href="/2019/03/17/damnation-alley/">Damnation Alley</a></li>
 				<li class="shitty"><a href="/2010/10/04/dance-dead/">Dance of the Dead</a></li>
+				<li class="shitty"><a href="/2026/07/26/dark-descent/">Dark Descent</a></li>
 				<li><a href="/2012/08/09/foam-rubber-wholesalers/">Dark Knight Rises, The</a></li>
 				<li><a href="/2013/10/18/dark-skies/">Dark Skies</a></li>
 				<li><a href="/2018/10/25/a-dark-song/">Dark Song, A</a></li>
