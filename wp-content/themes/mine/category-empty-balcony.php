@@ -485,6 +485,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2023/10/22/eaten-alive-1980/">Eaten Alive!</a> <span>(1980)</span></li>
 				<li><a href="/2023/10/21/bay-of-blood/">Ecologia del delitto, aka A Bay of Blood</a></li>
 				<li><a href="/2016/10/25/eight-legged-freaks/">Eight Legged Freaks</a></li>
+				<li><a href="/2026/09/06/electric-dragon-80000v/">Electric Dragon 80,000V</a></li>
 				<li><a href="/2019/10/26/eli/">Eli</a></li>
 				<li class="shitty"><a href="/2017/09/17/womens-prison-massacre/">Emanuelle Escapes From Hell, aka Women's Prison Massacre</a></li>
 				<li class="shitty"><a href="/2020/09/27/empire-of-ash-iii/">Empire of Ash III</a></li>
