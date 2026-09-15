@@ -436,6 +436,7 @@ get_header(); ?>
 				<li class="has-image bad-ass" onclick="location.href='/2017/05/28/bad-ass/';"><a href="/2017/05/28/bad-ass/">Bad Ass</a></li>
 				<li class="has-image zombeavers" onclick="location.href='/2015/10/10/zombeavers/';"><a href="/2015/10/10/zombeavers/">Zombeavers</a></li>
 				<li class="has-image last-man-standing-1987" onclick="location.href='/2026/06/28/last-man-standing-1987/';"><a href="/2026/06/28/last-man-standing-1987/">Last Man Standing (1987)</a></li>
+				<li class="has-image omega-syndrome" onclick="location.href='/2026/09/13/omega-syndrome/';"><a href="/2026/09/13/omega-syndrome/">Omega Syndrome</a></li>
 				<li class="has-image trip-teacher" onclick="location.href='/2020/04/26/trip-with-the-teacher/';"><a href="/2020/04/26/trip-with-the-teacher/">Trip with the Teacher</a></li>
 				<li class="has-image massacre-in-dinosaur-valley" onclick="location.href='/2023/10/12/massacre-in-dinosaur-valley/';"><a href="/2023/10/12/massacre-in-dinosaur-valley/">Massacre in Dinosaur Valley</a></li>
 				<li class="has-image jack-frost" onclick="location.href='/2019/10/15/jack-frost-1997/';"><a href="/2019/10/15/jack-frost-1997/">Jack Frost (1997)</a></li>

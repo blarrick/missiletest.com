@@ -972,6 +972,7 @@ get_header(); ?>
 				<li><a href="/2018/11/25/officer-downe/">Officer Downe</a></li>
 				<li class="shitty"><a href="/2013/03/24/olympus-has-fallen/">Olympus Has Fallen</a></li>
 				<li><a href="/2009/01/09/i-am-legend/">Omega Man, The</a></li>
+				<li class="shitty"><a href="/2026/09/13/omega-syndrome/">Omega Syndrome</a></li>
 				<li class="shitty"><a href="/2022/03/13/on-the-edge/">On the Edge</a> <span>(2002)</span></li>
 				<li class="shitty"><a href="/2024/11/24/country-blue/">On the Run, aka Country Blue</a></li>
 				<li><a href="/2014/12/09/one-i-love/">One I Love, The</a></li>
