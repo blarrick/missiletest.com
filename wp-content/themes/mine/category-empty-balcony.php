@@ -898,6 +898,7 @@ get_header(); ?>
 				<li><a href="/2018/08/19/the-meg/">Meg, The</a></li>
 				<li class="shitty"><a href="/2023/10/30/metamorphosis/">Metamorphosis</a> <span>(1990)</span></li>
 				<li class="shitty"><a href="/2018/04/29/meteor/">Meteor</a></li>
+				<li class="shitty"><a href="/2026/09/20/miami-connection/">Miami Connection</a></li>
 				<li class="shitty"><a href="/2026/04/05/city-cops/">Miao tan shuang long, aka City Cops</a></li>
 				<li class="shitty"><a href="/2023/10/22/mindkiller/">Mindkiller</a></li>
 				<li class="shitty"><a href="/2024/03/17/missionary-man/">Missionary Man</a></li>
