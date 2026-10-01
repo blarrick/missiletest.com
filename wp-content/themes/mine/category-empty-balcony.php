@@ -345,6 +345,7 @@ get_header(); ?>
 				<li><a href="/2017/08/21/cop-land/">Cop Land</a></li>
 				<li><a href="/2020/10/05/crucible-of-horror/">Corpse, The, aka Crucible of Horror</a></li>
 				<li class="shitty"><a href="/2021/10/25/sniper-corpse/">Corpse Sniper, aka Sniper Corpse</a></li>
+				<li><a href="/2026/10/01/corpse-vanishes/">Corpse Vanishes, The</a></li>
 				<li class="shitty"><a href="/2022/02/20/cosmic-sin/">Cosmic Sin</a></li>
 				<li class="shitty"><a href="/2018/02/18/cosmos/">Cosmos: War of the Planets</a></li>
 				<li class="shitty"><a href="/2024/11/24/country-blue/">Country Blue</a></li>
