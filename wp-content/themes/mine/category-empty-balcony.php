@@ -1375,6 +1375,7 @@ get_header(); ?>
 				<li><a href="/2024/10/01/when-evil-lurks/">When Evil Lurks</a></li>
 				<li class="shitty"><a href="/2017/05/07/when-time-ran-out/">When Time Ran Out</a></li>
 				<li><a href="/2012/08/15/where-eagles-dare/">Where Eagles Dare</a></li>
+				<li><a href="/2026/10/02/whistle/">Whistle</a></li>
 				<li class="shitty"><a href="/2014/01/15/white-house-down/">White House Down</a></li>
 				<li><a href="/2013/12/03/wild-geese/">Wild Geese, The</a></li>
 				<li><a href="/2014/10/29/willow-creek/">Willow Creek</a></li>
