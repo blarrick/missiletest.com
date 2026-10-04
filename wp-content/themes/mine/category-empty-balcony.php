@@ -1180,6 +1180,7 @@ get_header(); ?>
 				<li><a href="/2017/09/10/shot-caller/">Shot Caller</a></li>
 				<li><a href="/2013/10/29/shutter/">Shutter</a> <span>(2004)</span></li>
 				<li class="shitty"><a href="/2022/11/06/silencer-1992/">Silencer, The</a> <span>(1992)</span></li>
+				<li class="shitty"><a href="/2026/10/03/silent-night-deadly-night/">Silent Night, Deadly Night</a></li>
 				<li class="shitty"><a href="/2018/05/06/silent-rage/">Silent Rage</a></li>
 				<li><a href="/2021/10/17/similars/">Similars, The</a></li>
 				<li><a href="/2025/10/19/sinister/">Sinister</a></li>

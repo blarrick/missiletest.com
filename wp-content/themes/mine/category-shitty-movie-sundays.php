@@ -47,6 +47,7 @@ get_header(); ?>
 				<li class="has-image space-mutiny" onclick="location.href='/2023/07/09/space-mutiny/';"><a href="/2023/07/09/space-mutiny/">Space Mutiny</a></li>
 				<li class="has-image cyber-tracker-2" onclick="location.href='/2018/05/13/cyber-tracker-2/';"><a href="/2018/05/13/cyber-tracker-2/">Cyber Tracker 2</a></li>
 				<li class="has-image maximum-overdrive" onclick="location.href='/2009/10/24/maximum-overdrive/';"><a href="/2009/10/24/maximum-overdrive/">Maximum Overdrive</a></li>
+				<li class="has-image silent-night-deadly-night" onclick="location.href='/2026/10/03/silent-night-deadly-night/';"><a href="/2026/10/03/silent-night-deadly-night/">Silent Night, Deadly Night</a></li>
 				<li class="has-image wraith" onclick="location.href='/2022/07/03/wraith/';"><a href="/2022/07/03/wraith/">The Wraith</a></li>
 				<li class="has-image brain-damage" onclick="location.href='/2020/10/31/brain-damage/';"><a href="/2020/10/31/brain-damage/">Brain Damage</a></li>
 				<li class="has-image death-race-2000" onclick="location.href='/2021/05/30/death-race-2000/';"><a href="/2021/05/30/death-race-2000/">Death Race 2000</a></li>
