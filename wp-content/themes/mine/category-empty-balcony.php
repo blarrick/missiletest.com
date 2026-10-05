@@ -537,6 +537,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2021/10/04/rizen-possession/">Facility, The, aka The Rizen: Possession</a></li>
 				<li class="shitty"><a href="/2023/10/08/mutilator/">Fall Break, aka The Mutilator</a></li>
 				<li class="shitty"><a href="/2021/10/03/fangs-of-the-living-dead/">Fangs of the Living Dead</a></li>
+				<li class="shitty"><a href="/2026/10/05/fatal-images/">Fatal Images</a></li>
 				<li class="shitty"><a href="/2023/10/03/feeders/">Feeders</a></li>
 				<li><a href="/2010/10/13/fido/">Fido</a></li>
 				<li class="shitty"><a href="/2019/10/24/fiend-without-a-face/">Fiend Without a Face</a></li>
