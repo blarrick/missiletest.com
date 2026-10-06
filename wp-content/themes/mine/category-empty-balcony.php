@@ -1263,6 +1263,7 @@ get_header(); ?>
 				<li><a href="/2014/05/24/terminator-3/">Terminator 3: Rise of the Machines</a></li>
 				<li><a href="/2016/05/12/terminator-genisys/">Terminator Genisys</a></li>
 				<li class="shitty"><a href="/2020/10/19/terrified/">Terrified</a></li>
+				<li><a href="/2026/10/06/terrifier/">Terrifier</a></li>
 				<li class="shitty"><a href="/2023/07/02/territory-8/">Territory 8</a></li>
 				<li><a href="/2020/10/24/terror-1978/">Terror</a> <span>(1978)</span></li>
 				<li class="shitty"><a href="/2022/01/16/terror-in-beverly-hills/">Terror in Beverly Hills</a></li>
