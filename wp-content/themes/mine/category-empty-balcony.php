@@ -1005,6 +1005,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2017/02/26/fistful-of-dollars/">Per un pugno di dollari, aka Fistful of Dollars, A</a></li>
 				<li class="shitty"><a href="/2018/11/04/perfect-weapon/">Perfect Weapon, The</a></li>
 				<li><a href="/2017/10/02/phantasm/">Phantasm</a></li>
+				<li class="shitty"><a href="/2026/10/07/phantom-brother/">Phantom Brother</a></li>
 				<li class="shitty"><a href="/2019/10/12/phantom-from-10000-leagues/">Phantom from 10,000 Leagues, The</a></li>
 				<li class="shitty"><a href="/2019/10/05/phantom-from-space/">Phantom from Space</a></li>
 				<li><a href="/2017/10/26/phantom-of-the-opera/">Phantom of the Opera, The</a> <span>(1962)</span></li>
