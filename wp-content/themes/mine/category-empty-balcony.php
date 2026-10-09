@@ -460,6 +460,7 @@ get_header(); ?>
 				<li><a href="/2016/10/23/dog-soldiers/">Dog Soldiers</a></li>
 				<li class="shitty"><a href="/2014/03/16/doggie-b/">Doggie B</a></li>
 				<li><a href="/2013/10/09/afraid-of-dark/">Don’t Be Afraid of the Dark</a> <span>(2010)</span></li>
+				<li class="shitty"><a href="/2026/10/09/basement/">Don’t Look in the Basement</a></li>
 				<li class="shitty"><a href="/2008/06/06/doom/">Doom</a></li>
 				<li class="shitty"><a href="/2021/08/22/doom-annihilation/">Doom: Annihilation</a></li>
 				<li class="shitty"><a href="/2023/10/22/eaten-alive-1980/">Doomed to Die, aka Eaten Alive!</a></li>
@@ -556,6 +557,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/10/25/food-of-the-gods/">Food of the Gods, The</a></li>
 				<li class="reco"><a href="/2011/02/19/forbidden-planet/">Forbidden Planet</a></li>
 				<li class="shitty"><a href="/2023/10/10/forbidden-world/">Forbidden World</a></li>
+				<li class="shitty"><a href="/2026/10/09/basement/">Forgotten, The, aka Don’t Look in the Basement</a></li>
 				<li class="shitty"><a href="/2022/04/17/fortress-2021/">Fortress</a> <span>(2021)</span></li>
 				<li><a href="/2016/03/16/4th-empty-balcony-awards/">Fourth Annual Empty Balcony Awards for Movies I Saw From Last Year, The</a></li>
 				<li><a href="/2017/10/29/frankenstein-monster-from-hell/">Frankenstein and the Monster from Hell</a></li>

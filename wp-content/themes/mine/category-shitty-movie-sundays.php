@@ -464,6 +464,7 @@ get_header(); ?>
 				<li class="has-image psycho-pike" onclick="location.href='/2022/10/13/psycho-pike/';"><a href="/2022/10/13/psycho-pike/">Psycho Pike</a></li>
 				<li class="has-image ozone" onclick="location.href='/2022/10/29/ozone/';"><a href="/2022/10/29/ozone/">Ozone</a></li>
 				<li class="has-image deadly-manor" onclick="location.href='/2023/10/12/deadly-manor/';"><a href="/2023/10/12/deadly-manor/">Deadly Manor</a></li>
+				<li class="has-image basement" onclick="location.href='/2026/10/09/basement/';"><a href="/2026/10/09/basement/">Don’t Look in the Basement</a></li>
 				<li class="has-image french-quarter" onclick="location.href='/2023/08/13/french-quarter/';"><a href="/2023/08/13/french-quarter/">French Quarter</a></li>
 				<li class="has-image double-exposure" onclick="location.href='/2020/02/09/double-exposure/';"><a href="/2020/02/09/double-exposure/">Double Exposure</a></li>
 				<li class="has-image naked-angels" onclick="location.href='/2021/04/04/naked-angels/';"><a href="/2021/04/04/naked-angels/">Naked Angels</a></li>
