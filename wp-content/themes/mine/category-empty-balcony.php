@@ -440,6 +440,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2022/10/27/demon-queen/">Demon Queen</a></li>
 				<li><a href="/2023/10/02/demons/">Demons</a></li>
 				<li><a href="/2023/10/03/demons-2/">Demons 2</a></li>
+				<li class="shitty"><a href="/2026/10/08/demons-rook/">Demon’s Rook, The</a></li>
 				<li class="shitty"><a href="/2019/10/18/derelict/">Derelict</a></li>
 				<li class="shitty"><a href="/2025/06/08/pharaohs-war/">Desert Strike, aka Pharaoh’s War</a></li>
 				<li class="shitty"><a href="/2023/08/06/detention-2003/">Detention</a> <span>(2003)</span></li>

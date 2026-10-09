@@ -74,6 +74,7 @@ get_header(); ?>
 				<li class="has-image tenement" onclick="location.href='/2024/07/21/tenement/';"><a href="/2024/07/21/tenement/">Tenement (1985)</a></li>
 				<li class="has-image tammy-trex" onclick="location.href='/2021/10/16/tammy-t-rex/';"><a href="/2021/10/16/tammy-t-rex/">Tammy and the T-Rex</a></li>
 				<li class="has-image cop-1988" onclick="location.href='/2022/04/24/cop-1988/';"><a href="/2022/04/24/cop-1988/">Cop (1988)</a></li>
+				<li class="has-image demons-rook" onclick="location.href='/2026/10/08/demons-rook/';"><a href="/2026/10/08/demons-rook/">The Demon’s Rook</a></li>
 				<li class="has-image hercules-nyc" onclick="location.href='/2014/05/01/hercules-in-new-york/';"><a href="/2014/05/01/hercules-in-new-york/">Hercules in New York</a></li>
 				<li class="has-image beyond-poseidon" onclick="location.href='/2017/07/02/beyond-the-poseidon-adventure/';"><a href="/2017/07/02/beyond-the-poseidon-adventure/">Beyond the Poseidon Adventure</a></li>
 				<li class="has-image strike-commando" onclick="location.href='/2018/01/21/strike-commando/';"><a href="/2018/01/21/strike-commando/">Strike Commando</a></li>
