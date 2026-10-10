@@ -1050,6 +1050,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2025/07/27/psychotronic-man/">Psychotronic Man, The</a></li>
 				<li class="reco"><a href="/2014/05/25/pumping-iron/">Pumping Iron</a></li>
 				<li><a href="/2011/10/19/pumpkinhead/">Pumpkinhead</a></li>
+				<li><a href="/2026/10/10/purge/">Purge, The</a></li>
 				<li class="shitty"><a href="/2019/10/30/the-pyramid/">Pyramid, The</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
