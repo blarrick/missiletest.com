@@ -629,6 +629,7 @@ get_header(); ?>
 				<li class="has-image submarine" onclick="location.href='/2026/06/21/submarine/';"><a href="/2026/06/21/submarine/">Submarine</a></li>
 				<li class="has-image rave-grave" onclick="location.href='/2013/10/14/rave-grave/';"><a href="/2013/10/14/rave-grave/">Return of the Living Dead: Rave to the Grave</a></li>
 				<li class="has-image feeders" onclick="location.href='/2023/10/03/feeders/';"><a href="/2023/10/03/feeders/">Feeders</a></li>
+				<li class="has-image female-mercenaries" onclick="location.href='/2026/10/11/female-mercenaries/';"><a href="/2026/10/11/female-mercenaries/">Female Mercenaries on Zombie Island</a></li>
 				<li class="has-image doggie-b" onclick="location.href='/2014/03/16/doggie-b/';"><a href="/2014/03/16/doggie-b/">Doggie B</a></li>
 				<li class="has-image birdemic" onclick="location.href='/2017/10/23/birdemic/';"><a href="/2017/10/23/birdemic/">Birdemic: Shock and Terror</a></li>
 			</ol>
