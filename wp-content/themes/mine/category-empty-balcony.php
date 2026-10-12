@@ -973,6 +973,7 @@ get_header(); ?>
 			</ul>
 			<h5 id="oo">O</h5>
 			<ul>
+				<li><a href="/2026/10/12/obsession/">Obsession</a></li>
 				<li class="shitty"><a href="/2019/05/05/octagon/">Octagon, The</a></li>
 				<li><a href="/2014/10/14/oculus/">Oculus</a></li>
 				<li><a href="/2014/10/26/odd-thomas/">Odd Thomas</a></li>
