@@ -457,6 +457,7 @@ get_header(); ?>
 				<li class="reco"><a href="/2012/09/06/dirty-harry/">Dirty Harry</a></li>
 				<li class="shitty"><a href="/2014/12/22/disaster-on-the-coastliner/">Disaster on the Coastliner</a></li>
 				<li class="shitty"><a href="/2023/10/30/metamorphosis/">DNA formula letale, aka Metamorphosis</a></li>
+				<li class="shitty"><a href="/2026/10/14/do-not-enter/">Do Not Enter</a></li>
 				<li><a href="/2016/10/23/dog-soldiers/">Dog Soldiers</a></li>
 				<li class="shitty"><a href="/2014/03/16/doggie-b/">Doggie B</a></li>
 				<li><a href="/2013/10/09/afraid-of-dark/">Don’t Be Afraid of the Dark</a> <span>(2010)</span></li>
@@ -907,6 +908,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/04/29/meteor/">Meteor</a></li>
 				<li class="shitty"><a href="/2026/09/20/miami-connection/">Miami Connection</a></li>
 				<li class="shitty"><a href="/2026/04/05/city-cops/">Miao tan shuang long, aka City Cops</a></li>
+				<li><a href="/2026/10/13/midsommar/">Midsommar</a></li>
 				<li class="shitty"><a href="/2023/10/22/mindkiller/">Mindkiller</a></li>
 				<li class="shitty"><a href="/2024/03/17/missionary-man/">Missionary Man</a></li>
 				<li class="reco"><a href="/2011/04/25/mona-lisa/">Mona Lisa</a></li>

@@ -345,6 +345,7 @@ get_header(); ?>
 				<li class="has-image amityville-ii" onclick="location.href='/2021/10/01/amityville-ii/';"><a href="/2021/10/01/amityville-ii/">Amityville II: The Possession</a></li>
 				<li class="has-image colossal-beast" onclick="location.href='/2018/10/14/war-of-the-colossal-beast/';"><a href="/2018/10/14/war-of-the-colossal-beast/">War of the Colossal Beast</a></li>
 				<li class="has-image resident-extinction" onclick="location.href='/2008/06/09/resident-evil-extinction/';"><a href="/2008/06/09/resident-evil-extinction/">Resident Evil: Extinction</a></li>
+				<li class="has-image do-not-enter" onclick="location.href='/2026/10/14/do-not-enter/';"><a href="/2026/10/14/do-not-enter/">Do Not Enter</a></li>
 				<li class="has-image kind-strangers" onclick="location.href='/2025/03/09/all-the-kind-strangers/';"><a href="/2025/03/09/all-the-kind-strangers/">All the Kind Strangers</a></li>
 				<li class="has-image detour" onclick="location.href='/2018/11/18/detour/';"><a href="/2018/11/18/detour/">Detour</a></li>
 				<li class="has-image tingler" onclick="location.href='/2019/10/27/the-tingler/';"><a href="/2019/10/27/the-tingler/">The Tingler</a></li>
