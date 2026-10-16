@@ -518,6 +518,7 @@ get_header(); ?>
 				<li><a href="/2014/02/26/europa-report/">Europa Report</a></li>
 				<li class="shitty"><a href="/2025/11/09/eve-destruction/">Eve of Destruction</a> <span>(1991)</span></li>
 				<li class="shitty"><a href="/2009/10/19/event-horizon/">Event Horizon</a></li>
+				<li><a href="/2026/10/16/evil-dead-2013/">Evil Dead</a> <span>(2013)</span></li>
 				<li><a href="/2023/10/02/evil-dead-trap/">Evil Dead Trap</a></li>
 				<li><a href="/2017/10/12/evil-of-frankenstein/">Evil of Frankenstein, The</a></li>
 				<li><a href="/2009/07/27/holy-grail/">Excalibur</a></li>
@@ -705,6 +706,7 @@ get_header(); ?>
 				<li><a href="/2020/10/04/host-2020/">Host</a> <span>(2020)</span></li>
 				<li class="shitty"><a href="/2018/04/15/hot-rod-girl/">Hot Rod Girl</a></li>
 				<li><a href="/2017/10/10/the-hound-of-the-baskervilles-1959/">Hound of the Baskervilles, The</a> <span>(1959)</span></li>
+				<li class="reco"><a href="/2026/10/15/house-1977/">House</a> <span>(1977)</span></li>
 				<li><a href="/2014/10/10/street/">House at the End of the Street</a></li>
 				<li><a href="/2025/10/10/house-by-the-cemetery/">House by the Cemetery, The</a></li>
 				<li><a href="/2018/10/09/house-of-seven-corpses/">House of Seven Corpses, The</a></li>
