@@ -1228,6 +1228,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2011/03/26/trancers-ii/">Spice World</a></li>
 				<li class="shitty"><a href="/2018/10/15/earth-vs-the-spider/">Spider, The, aka Earth vs. the Spider</a></li>
 				<li class="shitty"><a href="/2022/10/03/splatter-farm/">Splatter Farm</a></li>
+				<li class="shitty"><a href="/2026/10/17/splatter-university/">Splatter University</a></li>
 				<li><a href="/2013/10/26/splinter/">Splinter</a></li>
 				<li class="shitty"><a href="/2019/10/19/split-second/">Split Second</a></li>
 				<li class="shitty"><a href="/2020/10/02/squirm/">Squirm</a></li>
