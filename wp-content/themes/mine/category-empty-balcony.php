@@ -142,6 +142,7 @@ get_header(); ?>
 				<li><a href="/2021/10/01/amityville-horror-1979/">Amityville Horror, The</a> <span>(1979)</span></li>
 				<li><a href="/2016/10/10/amityville-horror-2005/">Amityville Horror, The</a> <span>(2005)</span></li>
 				<li class="shitty"><a href="/2021/06/27/the-amusement-park/">Amusement Park, The</a></li>
+				<li><a href="/2026/10/20/ghost/">An Taibhse, aka The Ghost</a></li>
 				<li class="shitty"><a href="/2014/10/01/anaconda/">Anaconda</a></li>
 				<li class="shitty"><a href="/2020/10/03/anacondas/">Anacondas: Hunt for the Blood Orchid</a></li>
 				<li><a href="/2023/10/23/i-saw-the-devil/">Ang-ma-reul bo-at-da, aka I Saw the Devil</a></li>
@@ -607,6 +608,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2018/02/04/geostorm/">Geostorm</a></li>
 				<li><a href="/2017/08/22/get-carter-2000/">Get Carter</a> <span>(2000)</span></li>
 				<li class="shitty"><a href="/2026/03/01/champagne-and-bullets/">GetEven, aka Champagne and Bullets</a></li>
+				<li><a href="/2026/10/20/ghost/">Ghost, The, aka An Taibhse</a></li>
 				<li class="shitty"><a href="/2020/02/02/ghost-rider/">Ghost Rider</a></li>
 				<li><a href="/2018/10/29/ghost-stories/">Ghost Stories</a></li>
 				<li><a href="/2018/10/15/ghostkeeper/">Ghostkeeper</a></li>
@@ -1330,6 +1332,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2020/11/29/tuareg/">Tuareg: The Desert Warrior</a></li>
 				<li><a href="/2016/10/28/tucker-dale/">Tucker & Dale vs. Evil</a></li>
 				<li><a href="/2013/10/11/tunnel/">Tunnel, The</a></li>
+				<li><a href="/2026/10/21/turistas/">Turistas</a></li>
 				<li class="shitty"><a href="/2019/06/30/turkey-shoot/">Turkey Shoot</a></li>
 				<li><a href="/2014/05/11/twins/">Twins</a></li>
 				<li><a href="/2023/10/21/bay-of-blood/">Twitch of the Death Nerve, aka A Bay of Blood</a></li>
