@@ -1421,6 +1421,7 @@ get_header(); ?>
 			<ul>
 				<li><a href="/2014/02/17/yellow-sea/">Yellow Sea, The</a></li>
 				<li><a href="/2024/10/11/yellowbrickroad/">YellowBrickRoad</a></li>
+				<li><a href="/2026/10/25/yeti/">Yeti, The</a></li>
 				<li><a href="/2014/10/02/youre-next/">You’re Next</a></li>
 				<li class="topper"><a href="#index-top">top</a></li>
 			</ul>
