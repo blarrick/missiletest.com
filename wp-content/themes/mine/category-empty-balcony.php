@@ -1262,6 +1262,7 @@ get_header(); ?>
 			<h5 id="tt">T</h5>
 			<ul>
 				<li><a href="/2015/10/04/taking-of-deborah-logan/">Taking of Deborah Logan, The</a></li>
+				<li><a href="/2026/10/30/talk-to-me/">Talk to Me</a></li>
 				<li class="shitty"><a href="/2021/10/16/tammy-t-rex/">Tammy and the T-Rex</a></li>
 				<li class="shitty"><a href="/2017/08/14/tango-cash/">Tango & Cash</a></li>
 				<li><a href="/2020/05/06/taps/">Taps</a></li>
