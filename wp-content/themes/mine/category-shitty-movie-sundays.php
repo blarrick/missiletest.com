@@ -229,6 +229,7 @@ get_header(); ?>
 				<li class="has-image dance-dead" onclick="location.href='/2010/10/04/dance-dead/';"><a href="/2010/10/04/dance-dead/">Dance of the Dead</a></li>
 				<li class="has-image dead-hate-living" onclick="location.href='/2019/10/12/dead-hate-the-living/';"><a href="/2019/10/12/dead-hate-the-living/">The Dead Hate the Living!</a></li>
 				<li class="has-image melting-man" onclick="location.href='/2014/10/21/incredible-melting-man/';"><a href="/2014/10/21/incredible-melting-man/">The Incredible Melting Man</a></li>
+				<li class="has-image mad-bomber" onclick="location.href='/2026/11/15/mad-bomber/';"><a href="/2026/11/15/mad-bomber/">The Mad Bomber</a></li>
 				<li class="has-image truck-stop" onclick="location.href='/2019/04/21/truck-stop-women/';"><a href="/2019/04/21/truck-stop-women/">Truck Stop Women</a></li>
 				<li class="has-image children-corn-3" onclick="location.href='/2021/10/11/children-corn-3/';"><a href="/2021/10/11/children-corn-3/">Children of the Corn III: Urban Harvest</a></li>
 				<li class="has-image maniac-cop-2" onclick="location.href='/2010/10/12/maniac-cop-2/';"><a href="/2010/10/12/maniac-cop-2/">Maniac Cop 2</a></li>

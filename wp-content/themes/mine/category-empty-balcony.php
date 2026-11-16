@@ -444,6 +444,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2026/10/08/demons-rook/">Demon’s Rook, The</a></li>
 				<li class="shitty"><a href="/2019/10/18/derelict/">Derelict</a></li>
 				<li class="shitty"><a href="/2025/06/08/pharaohs-war/">Desert Strike, aka Pharaoh’s War</a></li>
+				<li class="shitty"><a href="/2026/11/15/mad-bomber/">Detective Geronimo, aka The Mad Bomber</a></li>
 				<li class="shitty"><a href="/2023/08/06/detention-2003/">Detention</a> <span>(2003)</span></li>
 				<li class="shitty"><a href="/2018/11/18/detour/">Detour</a></li>
 				<li class="shitty"><a href="/2021/10/13/devil-below/">Devil Below, The</a></li>
@@ -881,6 +882,7 @@ get_header(); ?>
 			<ul>
 				<li><a href="/2023/10/23/wax-mask/">M.D.C. – Maschera di cera, The Wax Mask</a></li>
 				<li class="shitty"><a href="/2019/04/28/mach-2/">Mach 2</a></li>
+				<li class="shitty"><a href="/2026/11/15/mad-bomber/">Mad Bomber, The</a></li>
 				<li><a href="/2023/10/15/madhouse/">Madhouse</a></li>
 				<li class="shitty"><a href="/2020/02/23/hitlers-brain/">Madmen of Mandoras, aka They Saved Hitler’s Brain</a></li>
 				<li><a href="/2023/10/14/cannibal-ferox/">Make Them Die Slowly, aka Cannibal Ferox</a></li>
@@ -1032,6 +1034,7 @@ get_header(); ?>
 				<li class="shitty"><a href="/2019/10/29/plan-9-from-outer-space/">Plan 9 from Outer Space</a></li>
 				<li><a href="/2017/06/25/point-break/">Point Break</a></li>
 				<li class="shitty"><a href="/2020/05/10/point-of-terror/">Point of Terror</a></li>
+				<li class="shitty"><a href="/2026/11/15/mad-bomber/">Police Connection, The, aka The Mad Bomber</a></li>
 				<li class="shitty"><a href="/2020/08/16/policewomen/">Policewomen</a></li>
 				<li class="reco"><a href="/2013/10/02/poltergeist/">Poltergeist</a> <span>(1982)</span></li>
 				<li><a href="/2015/10/25/poltergeist-2015/">Poltergeist</a> <span>(2015)</span></li>
